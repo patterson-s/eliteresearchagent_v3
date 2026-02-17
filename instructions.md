@@ -23,5 +23,44 @@ I have been addressing this with two tools:
 - LLM tools that work with unstructured text, try to reduce redundancy and partial overlap, work with standardized output structures 
 - An organizational ontology tool that helps to classify organizations for consistency. 
 
-# Task
-I need to take a step back and make sure that all of the tools are working individually. I need to have more human evaluation and observation of the processes. I want to experiment with some different sequences. 
+## Progress Log
+
+### Step 1: Data Loader Migration (✓ Completed)
+- **Date**: 2026-02-17
+- **Action**: Migrated `load_data.py` from v2 to v3
+- **Location**: `services/data_loader/load_data.py`
+- **Status**: Successfully tested database connection and data loading
+- **Functionality**: Can load career-event chunks from PostgreSQL database, filter by person, save to JSON files
+- **Dependencies**: All required packages already in requirements.txt (psycopg2-binary, python-dotenv)
+- **Next Steps**: Verify data quality and test integration with other tools
+
+### Step 2: LLM Configuration Setup (✓ Completed)
+- **Date**: 2026-02-17
+- **Action**: Created config folder structure with LLM configuration
+- **Location**: `config/` and `config/prompts/`
+- **Status**: ✅ Successfully tested Cohere API connection with interactive verification
+- **Files Created**:
+  - `config/config.json` - LLM configuration with Cohere model settings
+  - `config/prompts/test_cohere_connection.txt` - Test prompt template
+  - `utils/example_cohere_api.py` - Interactive example script for transparent API testing
+- **Dependencies**: Cohere package already in requirements.txt
+- **API Notes**: Updated to use Cohere ClientV2 with chat() endpoint (generate() was deprecated)
+- **Test Results**: 
+  - ✅ Successfully connected to command-a-03-2025 model
+  - ✅ Received valid JSON response matching expected format
+  - ✅ Interactive script allows custom prompt input and full transparency
+- **Features**:
+  - Option to use predefined prompts or enter custom text
+  - Shows exact API parameters before sending
+  - Displays raw response with token usage
+  - Requires explicit confirmation before API calls
+  - Complete visibility into API interactions
+- **Usage**: Run `python utils/example_cohere_api.py` to test with custom prompts
+- **Next Steps**: Integrate LLM prompts with data loader for career-event extraction 
+
+# NEXT TASK: 
+This service will need to make LLM prompts. I want to make sure that I have all of the tools necessary to run LLM prompts with Cohere Models in this. I prefer to keep a "config" folder that has an LLM config file and sub-folder for prompts. To see an example, consult this folder: "C:\Users\spatt\Desktop\eliteresearchagent_v2\services\AppliedOntology_01\config". 
+
+We need one of these for this new repo: 
+- Add this structure to the eliteresearchagent_v3 folder
+- Create a test prompt to make sure that the Cohere Command-A model works. 

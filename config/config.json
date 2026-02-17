@@ -1,0 +1,20 @@
+{
+  "service_name": "eliteresearchagent_v3",
+  "version": "1.0.0",
+  "model": "command-a-03-2025",
+  "temperature": 0.1,
+  "max_tokens": 4000,
+  "api_key_env_var": "COHERE_API_KEY",
+  "llm": {
+    "model": "command-a-03-2025",
+    "api_key_env_var": "COHERE_API_KEY",
+    "temperature": 0.1,
+    "max_tokens": 4000
+  },
+  "processing": {
+    "context_window_words": 30
+  },
+  "prompts": {
+    "test_cohere_connection": "config/prompts/test_cohere_connection.txt"
+  }
+}
