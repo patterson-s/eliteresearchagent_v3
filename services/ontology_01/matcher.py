@@ -35,7 +35,7 @@ from llm_match import llm_disambiguate, llm_classify_org, is_available as llm_av
 
 MATCHING_CONFIG = {
     "fuzzy_threshold_accept": 88,   # score >= this: auto-accept match
-    "fuzzy_threshold_review": 70,   # score in [70, 88): flag for human review
+    "fuzzy_threshold_review": 80,   # score in [80, 88): flag for human review (was 70)
     "embedding_threshold": 0.82,    # cosine similarity threshold for embedding
     "use_embedding": True,          # set False to disable Cohere embedding
     "use_llm_match": True,          # set False to disable LLM disambiguation
@@ -228,6 +228,13 @@ class OrgMatcher:
             )
 
         # ── Step 3: Fuzzy matching ────────────────────────────────────────────
+        # Skip fuzzy entirely for types with no ontology coverage.
+        # Matching ngo/private/other against all 518 entries produces noise —
+        # these orgs simply aren't in the ontology and should go straight to stub.
+        UNCOVERED_TYPES = {"ngo", "private", "other"}
+        if org_type in UNCOVERED_TYPES:
+            return _build_result(raw_name, org_type, matched=False)
+
         fuzzy_candidate: Optional[FuzzyMatchResult] = None
 
         if search_meta_type:
@@ -236,10 +243,7 @@ class OrgMatcher:
                 threshold=review_thresh,
             )
         else:
-            fuzzy_result = fuzzy_match_all(
-                raw_name, self.db,
-                threshold=review_thresh,
-            )
+            fuzzy_result = None
 
         if fuzzy_result:
             score = fuzzy_result["score"]
