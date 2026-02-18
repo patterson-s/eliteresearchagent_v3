@@ -15,7 +15,8 @@ Proposals dict schema returned by enrich_stub():
   "sector": str,
   "location_country": str,    # ISO3 or null
   "location_city": str,
-  "suggested_tag": str,       # best-fit from existing tags, or proposed new one
+  "parent_org": str,          # canonical name of parent/host institution, or null
+  "suggested_tag": str,       # best-fit from existing tags, or proposed new one; ";" separates multiple
   "confidence": float,        # 0-1
   "sources": [str, ...],      # e.g. ["Wikipedia", "MIT.edu"]
   "reasoning": str,           # one-sentence explanation
@@ -254,7 +255,8 @@ Return a JSON object with exactly these fields:
   "sector": "<one of: intergovernmental, government, academia, ngo, private, other, research, media, finance>",
   "location_country": "<ISO 3-letter country code or null>",
   "location_city": "<city name or null>",
-  "suggested_tag": "<hierarchical tag like 'ngo:research:poverty_economics' — fit into existing tag style if possible, else propose new>",
+  "parent_org": "<canonical name of the parent/host institution, or null — e.g. 'Massachusetts Institute of Technology' for J-PAL, 'United Nations' for UNDP>",
+  "suggested_tag": "<hierarchical tag — fit into existing tag style if possible, else propose new. Use ';' to separate multiple tags e.g. 'university:research ; ngo:research:poverty_economics'>",
   "confidence": <float 0.0-1.0>,
   "sources": ["<domain1>", "<domain2>"],
   "reasoning": "<one sentence explaining the classification>"
@@ -267,6 +269,8 @@ Rules:
 - meta_type "ngo" = foundation, think tank, research institute, civil society
 - meta_type "private" = for-profit company, bank, media
 - meta_type "other" = award body, political party, unclear
+- parent_org: only fill if the org is formally housed within / a unit of a larger known institution. Use the full official name of that institution.
+- suggested_tag: you may propose up to 2 tags separated by ';' if the org spans multiple categories
 - If search results are sparse or ambiguous, set confidence below 0.6
 - Return ONLY valid JSON — no markdown fences, no explanation outside the JSON
 """
@@ -332,6 +336,7 @@ def _fallback_proposal(stub: Dict, reason: str = "") -> Dict:
         "sector": stub.get("sector", "other"),
         "location_country": stub.get("location_country"),
         "location_city": stub.get("location_city"),
+        "parent_org": stub.get("parent_org"),
         "suggested_tag": "",
         "confidence": 0.0,
         "sources": [],

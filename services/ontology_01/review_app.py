@@ -132,12 +132,39 @@ def update_sidecar_link(
 def build_hierarchical_tags(tag: str) -> List[str]:
     """
     Build the hierarchical_tags array from a canonical_tag string.
+    Supports multiple tags separated by ";".
     "UN:Foo:Bar" -> ["UN", "UN:Foo", "UN:Foo:Bar"]
+    "UN:Foo ; ngo:research" -> ["UN", "UN:Foo", "ngo", "ngo:research"]
     """
     if not tag:
         return []
-    parts = tag.split(":")
-    return [":".join(parts[:i]) for i in range(1, len(parts) + 1)]
+    all_htags: List[str] = []
+    for single_tag in tag.split(";"):
+        single_tag = single_tag.strip()
+        if not single_tag:
+            continue
+        parts = single_tag.split(":")
+        all_htags.extend(
+            ":".join(parts[:i]) for i in range(1, len(parts) + 1)
+        )
+    # Deduplicate while preserving order
+    seen: set = set()
+    result: List[str] = []
+    for ht in all_htags:
+        if ht not in seen:
+            seen.add(ht)
+            result.append(ht)
+    return result
+
+
+def _parse_tags(tag_str: str) -> List[str]:
+    """Parse a ';'-separated tag string into a list of clean individual tags."""
+    return [t.strip() for t in tag_str.split(";") if t.strip()]
+
+
+def _canonical_tag_from_tags(tags: List[str]) -> str:
+    """Return the first tag as the primary canonical_tag (for DB storage)."""
+    return tags[0] if tags else ""
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -507,14 +534,44 @@ def page_stub_review(db: OntologyDB) -> None:
                     height=100,
                 )
 
+                # ── Parent org ────────────────────────────────────────────────
+                st.caption("**Parent Organization** — for orgs that are affiliated "
+                           "with or housed within a larger institution (e.g. J-PAL → MIT).")
+                parent_search = st.text_input(
+                    "Search for parent org",
+                    key=f"parent_search_{stub_idx}",
+                    placeholder="Type to search confirmed orgs...",
+                    value=_field_val(proposals, stub, "parent_org", ""),
+                )
+                new_parent_org = parent_search  # default to typed value
+
+                if parent_search and len(parent_search) >= 2:
+                    ps_lower = parent_search.lower()
+                    parent_matches = [
+                        n for n in confirmed_names
+                        if ps_lower in n.lower()
+                    ][:10]
+                    if parent_matches:
+                        selected_parent = st.selectbox(
+                            f"{len(parent_matches)} match(es)",
+                            options=["(keep as typed)"] + parent_matches,
+                            key=f"parent_select_{stub_idx}",
+                        )
+                        if selected_parent != "(keep as typed)":
+                            new_parent_org = selected_parent
+                            st.caption(f"Parent: **{new_parent_org}**")
+                    else:
+                        st.caption("No confirmed orgs match — will save as typed.")
+
             with col2:
-                st.subheader("Hierarchical Tag")
+                st.subheader("Hierarchical Tags")
+                st.caption("Separate multiple tags with **;** — e.g. `university:research ; ngo:research:poverty`")
 
                 # Pre-fill tag prefix from AI suggestion
                 suggested_tag = proposals.get("suggested_tag", "") if proposals else ""
 
                 tag_prefix = st.text_input(
-                    "Tag prefix (type to search)",
+                    "Tag prefix (type to search existing)",
                     value=suggested_tag[:30] if suggested_tag else "",
                     key=f"stub_tagprefix_{stub_idx}",
                     placeholder="e.g. UN:Funds  or  ngo:research",
@@ -532,22 +589,27 @@ def page_stub_review(db: OntologyDB) -> None:
                             key=f"stub_tagselect_{stub_idx}",
                         )
                         if selected != "(type custom below)":
-                            final_tag = selected
-                            st.success(f"Selected: `{final_tag}`")
+                            # Append to final_tag with ";" if already has content
+                            if final_tag and selected not in final_tag:
+                                final_tag = f"{final_tag} ; {selected}"
+                            else:
+                                final_tag = selected
+                            st.success(f"Added: `{selected}`")
                     else:
                         st.caption("No matching tags — use custom below.")
 
                 custom_tag = st.text_input(
-                    "Custom tag",
+                    "Tags (';'-separated for multiple)",
                     value=suggested_tag if suggested_tag and not tag_prefix else "",
                     key=f"stub_customtag_{stub_idx}",
-                    placeholder="e.g. ngo:research:poverty_economics",
+                    placeholder="e.g. ngo:research:poverty_economics ; university:research",
                 )
                 if custom_tag.strip():
                     final_tag = custom_tag.strip()
 
                 if final_tag:
-                    st.caption("**Tag preview:**")
+                    parsed = _parse_tags(final_tag)
+                    st.caption(f"**{len(parsed)} tag(s) — hierarchical preview:**")
                     for ht in build_hierarchical_tags(final_tag):
                         st.code(ht)
 
@@ -572,24 +634,38 @@ def page_stub_review(db: OntologyDB) -> None:
                             v.strip() for v in variations_text.split("\n")
                             if v.strip()
                         ],
+                        "parent_org": new_parent_org.strip() or None,
                         "status": "completed",
                         "source": "auto_stub_approved",
                     }
 
                     if final_tag:
+                        parsed_tags = _parse_tags(final_tag)
+                        primary_tag = _canonical_tag_from_tags(parsed_tags)
                         htags = build_hierarchical_tags(final_tag)
                         if new_meta_type in ("io", "university"):
                             updates["un_ontology"] = {
-                                "canonical_tag": final_tag,
+                                "canonical_tag": primary_tag,
+                                "all_tags": parsed_tags,
                                 "hierarchical_tags": htags,
                                 "tag_count": len(htags),
                                 "status": "completed",
                             }
                         elif new_meta_type == "gov":
                             updates["gov_ontology"] = {
-                                "canonical_tag": final_tag,
-                                "hierarchical_tags": [final_tag],
+                                "canonical_tag": primary_tag,
+                                "all_tags": parsed_tags,
+                                "hierarchical_tags": htags,
                                 "country": new_country.strip() or None,
+                            }
+                        else:
+                            # ngo/private/other — store under un_ontology for now
+                            updates["un_ontology"] = {
+                                "canonical_tag": primary_tag,
+                                "all_tags": parsed_tags,
+                                "hierarchical_tags": htags,
+                                "tag_count": len(htags),
+                                "status": "completed",
                             }
 
                     success = db.update_entry(cname, updates)
