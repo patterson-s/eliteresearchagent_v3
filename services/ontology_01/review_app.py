@@ -295,15 +295,19 @@ def _confidence_badge(confidence: float) -> str:
         return "🔴"
 
 
-def _get_proposals(i: int, stub: Dict) -> Optional[Dict]:
+def _stub_key(stub: Dict) -> str:
+    """Stable, unique session-state key for a stub — uses canonical_name."""
+    return stub.get("canonical_name", "unknown").replace(" ", "_")
+
+
+def _get_proposals(stub: Dict) -> Optional[Dict]:
     """Retrieve proposals from session state for this stub."""
-    key = f"proposals_{i}"
-    return st.session_state.get(key)
+    return st.session_state.get(f"proposals_{_stub_key(stub)}")
 
 
-def _save_proposals(i: int, proposals: Dict) -> None:
+def _save_proposals(stub: Dict, proposals: Dict) -> None:
     """Store enrichment proposals in session state."""
-    st.session_state[f"proposals_{i}"] = proposals
+    st.session_state[f"proposals_{_stub_key(stub)}"] = proposals
 
 
 def _field_val(proposals: Optional[Dict], stub: Dict, field: str, default: str = "") -> str:
@@ -368,7 +372,7 @@ def page_stub_review(db: OntologyDB) -> None:
                          if ft in s.get("canonical_name", "").lower()]
     if filter_enriched:
         display_stubs = [s for s in display_stubs
-                         if f"proposals_{stubs.index(s)}" in st.session_state]
+                         if f"proposals_{_stub_key(s)}" in st.session_state]
 
     st.caption(f"Showing {len(display_stubs)} of {len(stubs)} pending stubs")
     st.divider()
@@ -379,11 +383,10 @@ def page_stub_review(db: OntologyDB) -> None:
 
     meta_type_options = ["io", "gov", "university", "ngo", "private", "other"]
 
-    for i, stub in enumerate(display_stubs):
-        # Use index in all_stubs for stable session_state keys
-        stub_idx = stubs.index(stub) if stub in stubs else i
+    for stub in display_stubs:
+        skey = _stub_key(stub)  # stable unique key based on canonical_name
         cname = stub.get("canonical_name", "")
-        proposals = _get_proposals(stub_idx, stub)
+        proposals = _get_proposals(stub)
         conf = proposals.get("confidence", 0.0) if proposals else 0.0
         enriched_label = f"  {_confidence_badge(conf)} enriched" if proposals else ""
 
@@ -397,7 +400,7 @@ def page_stub_review(db: OntologyDB) -> None:
             )
             link_search = st.text_input(
                 "Search confirmed orgs",
-                key=f"link_search_{stub_idx}",
+                key=f"link_search_{skey}",
                 placeholder="Type to search...",
             )
 
@@ -413,12 +416,12 @@ def page_stub_review(db: OntologyDB) -> None:
                 link_target = st.selectbox(
                     f"{len(matching_confirmed)} match(es)",
                     options=["(select to link)"] + matching_confirmed,
-                    key=f"link_target_{stub_idx}",
+                    key=f"link_target_{skey}",
                 )
                 if link_target != "(select to link)":
                     if st.button(
                         f"Merge into → {link_target}",
-                        key=f"link_btn_{stub_idx}",
+                        key=f"link_btn_{skey}",
                         type="primary",
                     ):
                         ok = merge_stub_into_entry(cname, link_target, db)
@@ -440,12 +443,12 @@ def page_stub_review(db: OntologyDB) -> None:
 
             enrich_col1, enrich_col2 = st.columns([2, 3])
             with enrich_col1:
-                if st.button("Auto-Enrich", key=f"enrich_btn_{stub_idx}"):
+                if st.button("Auto-Enrich", key=f"enrich_btn_{skey}"):
                     with st.spinner(f"Searching for '{cname}'..."):
                         try:
                             existing_tags = db.get_all_tags()
                             result = enrich_stub(stub, existing_tags, use_cache=True)
-                            _save_proposals(stub_idx, result)
+                            _save_proposals(stub, result)
                             st.rerun()
                         except Exception as e:
                             st.error(f"Enrichment failed: {e}")
@@ -453,14 +456,14 @@ def page_stub_review(db: OntologyDB) -> None:
                 if proposals:
                     if st.button(
                         "Re-fetch (bypass cache)",
-                        key=f"refetch_btn_{stub_idx}",
+                        key=f"refetch_btn_{skey}",
                         help="Force a fresh search, ignoring cached results",
                     ):
                         with st.spinner("Re-fetching..."):
                             try:
                                 existing_tags = db.get_all_tags()
                                 result = enrich_stub(stub, existing_tags, use_cache=False)
-                                _save_proposals(stub_idx, result)
+                                _save_proposals(stub, result)
                                 st.rerun()
                             except Exception as e:
                                 st.error(f"Re-fetch failed: {e}")
@@ -488,20 +491,20 @@ def page_stub_review(db: OntologyDB) -> None:
                 new_name = st.text_input(
                     "Canonical Name",
                     value=_field_val(proposals, stub, "canonical_name", cname),
-                    key=f"stub_name_{stub_idx}",
+                    key=f"stub_name_{skey}",
                 )
 
                 cur_meta = _field_val(proposals, stub, "meta_type", "other")
                 meta_idx = meta_type_options.index(cur_meta) if cur_meta in meta_type_options else 5
                 new_meta_type = st.selectbox(
                     "Meta Type", options=meta_type_options,
-                    index=meta_idx, key=f"stub_meta_{stub_idx}",
+                    index=meta_idx, key=f"stub_meta_{skey}",
                 )
 
                 new_sector = st.text_input(
                     "Sector",
                     value=_field_val(proposals, stub, "sector", ""),
-                    key=f"stub_sector_{stub_idx}",
+                    key=f"stub_sector_{skey}",
                 )
 
                 col1a, col1b = st.columns(2)
@@ -509,14 +512,14 @@ def page_stub_review(db: OntologyDB) -> None:
                     new_country = st.text_input(
                         "Country (ISO3)",
                         value=_field_val(proposals, stub, "location_country", ""),
-                        key=f"stub_country_{stub_idx}",
+                        key=f"stub_country_{skey}",
                         placeholder="e.g. USA, GBR",
                     )
                 with col1b:
                     new_city = st.text_input(
                         "City",
                         value=_field_val(proposals, stub, "location_city", ""),
-                        key=f"stub_city_{stub_idx}",
+                        key=f"stub_city_{skey}",
                     )
 
                 # Merge proposed + existing variations
@@ -530,7 +533,7 @@ def page_stub_review(db: OntologyDB) -> None:
                 variations_text = st.text_area(
                     "Variations / Aliases (one per line)",
                     value="\n".join(merged_vars),
-                    key=f"stub_vars_{stub_idx}",
+                    key=f"stub_vars_{skey}",
                     height=100,
                 )
 
@@ -539,7 +542,7 @@ def page_stub_review(db: OntologyDB) -> None:
                            "with or housed within a larger institution (e.g. J-PAL → MIT).")
                 parent_search = st.text_input(
                     "Search for parent org",
-                    key=f"parent_search_{stub_idx}",
+                    key=f"parent_search_{skey}",
                     placeholder="Type to search confirmed orgs...",
                     value=_field_val(proposals, stub, "parent_org", ""),
                 )
@@ -555,7 +558,7 @@ def page_stub_review(db: OntologyDB) -> None:
                         selected_parent = st.selectbox(
                             f"{len(parent_matches)} match(es)",
                             options=["(keep as typed)"] + parent_matches,
-                            key=f"parent_select_{stub_idx}",
+                            key=f"parent_select_{skey}",
                         )
                         if selected_parent != "(keep as typed)":
                             new_parent_org = selected_parent
@@ -573,7 +576,7 @@ def page_stub_review(db: OntologyDB) -> None:
                 tag_prefix = st.text_input(
                     "Tag prefix (type to search existing)",
                     value=suggested_tag[:30] if suggested_tag else "",
-                    key=f"stub_tagprefix_{stub_idx}",
+                    key=f"stub_tagprefix_{skey}",
                     placeholder="e.g. UN:Funds  or  ngo:research",
                 )
 
@@ -586,7 +589,7 @@ def page_stub_review(db: OntologyDB) -> None:
                         selected = st.selectbox(
                             f"Matching tags ({len(suggestions)} found)",
                             options=options,
-                            key=f"stub_tagselect_{stub_idx}",
+                            key=f"stub_tagselect_{skey}",
                         )
                         if selected != "(type custom below)":
                             # Append to final_tag with ";" if already has content
@@ -601,7 +604,7 @@ def page_stub_review(db: OntologyDB) -> None:
                 custom_tag = st.text_input(
                     "Tags (';'-separated for multiple)",
                     value=suggested_tag if suggested_tag and not tag_prefix else "",
-                    key=f"stub_customtag_{stub_idx}",
+                    key=f"stub_customtag_{skey}",
                     placeholder="e.g. ngo:research:poverty_economics ; university:research",
                 )
                 if custom_tag.strip():
@@ -621,7 +624,7 @@ def page_stub_review(db: OntologyDB) -> None:
             with col_save:
                 if st.button(
                     "Approve & Save to Ontology",
-                    key=f"stub_save_{stub_idx}",
+                    key=f"stub_save_{skey}",
                     type="primary",
                 ):
                     updates: Dict = {
@@ -679,7 +682,7 @@ def page_stub_review(db: OntologyDB) -> None:
             with col_dismiss:
                 if st.button(
                     "Dismiss",
-                    key=f"stub_dismiss_{stub_idx}",
+                    key=f"stub_dismiss_{skey}",
                     help="Mark as dismissed — won't appear in review queue. Data is preserved.",
                 ):
                     db.update_entry(cname, {
