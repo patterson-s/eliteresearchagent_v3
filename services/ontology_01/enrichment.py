@@ -3,7 +3,7 @@ enrichment.py — Web search + LLM field extraction for stub enrichment.
 
 Flow:
   1. search_org()            — Serper API query, returns structured results
-  2. extract_fields_with_llm() — Claude reads results, proposes field values
+  2. extract_fields_with_llm() — Cohere Command-A reads results, proposes field values
   3. enrich_stub()           — orchestrates both, returns proposals dict
   4. Cache                   — JSON file keyed by canonical_name, avoids re-querying
 
@@ -41,10 +41,10 @@ load_dotenv(_PROJECT_ROOT / ".env")
 
 # ── Constants ─────────────────────────────────────────────────────────────────
 SERPER_API_URL = "https://google.serper.dev/search"
-LLM_MODEL = "claude-sonnet-4-5-20250929"
+LLM_MODEL = "command-a-03-2025"   # Cohere Command-A
 MAX_SNIPPET_CHARS = 400     # truncate each snippet to keep context concise
 MAX_SNIPPETS = 4            # top N organic results to pass to LLM
-MAX_EXISTING_TAGS = 80      # how many existing tags to show LLM for suggestion
+MAX_EXISTING_TAGS = 30      # how many existing tags to show LLM for suggestion (keep prompt small)
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -279,17 +279,17 @@ def extract_fields_with_llm(
     api_key: Optional[str] = None,
 ) -> Dict:
     """
-    Call Claude to extract structured fields from search results.
+    Call Cohere Command-A to extract structured fields from search results.
     Returns proposals dict, or a low-confidence fallback on failure.
     """
-    api_key = api_key or os.getenv("ANTHROPIC_API_KEY")
+    api_key = api_key or os.getenv("COHERE_API_KEY")
     if not api_key:
-        raise ValueError("ANTHROPIC_API_KEY not found. Check your .env file.")
+        raise ValueError("COHERE_API_KEY not found. Check your .env file.")
 
     try:
-        import anthropic
+        import cohere
     except ImportError:
-        raise ImportError("anthropic package required. pip install anthropic")
+        raise ImportError("cohere package required. pip install cohere")
 
     context = _build_context(search_results)
     if not context:
@@ -297,15 +297,15 @@ def extract_fields_with_llm(
 
     prompt = _build_extraction_prompt(stub, context, existing_tags)
 
-    client = anthropic.Anthropic(api_key=api_key)
-    response = client.messages.create(
+    co = cohere.ClientV2(api_key=api_key)
+    response = co.chat(
         model=LLM_MODEL,
-        max_tokens=800,
-        temperature=0.0,
         messages=[{"role": "user", "content": prompt}],
+        max_tokens=600,
+        temperature=0.0,
     )
 
-    raw_text = response.content[0].text.strip()
+    raw_text = response.message.content[0].text.strip()
 
     # Strip markdown fences if present
     raw_text = re.sub(r"^```(?:json)?\s*", "", raw_text, flags=re.IGNORECASE)
@@ -318,7 +318,7 @@ def extract_fields_with_llm(
 
     # Attach raw search results for transparency
     proposals["raw_search_results"] = search_results
-    proposals["enrichment_method"] = "serper+llm"
+    proposals["enrichment_method"] = "serper+cohere"
 
     return proposals
 
