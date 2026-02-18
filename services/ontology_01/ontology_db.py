@@ -135,10 +135,21 @@ class OntologyDB:
         return sorted(matches)
 
     def get_stubs(self) -> List[Dict]:
-        """Return entries that are auto-created stubs pending human review."""
+        """
+        Return all auto-created stub entries regardless of sub-status.
+        Includes pending, dismissed, and merged — callers filter as needed.
+        Use get_pending_stubs() for the active review queue.
+        """
         return [
             e for e in self._entries
-            if e.get("source") == "auto_stub" or e.get("status") == "pending_review"
+            if e.get("source") in ("auto_stub",) or e.get("status") == "pending_review"
+        ]
+
+    def get_pending_stubs(self) -> List[Dict]:
+        """Return stubs that are still pending review (not dismissed, merged, or approved)."""
+        return [
+            e for e in self.get_stubs()
+            if e.get("status") not in ("dismissed", "merged", "completed")
         ]
 
     def count(self) -> int:

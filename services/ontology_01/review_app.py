@@ -25,6 +25,7 @@ TIMELINE_DATA_DIR = _PROJECT_ROOT / "services" / "WikiPrompt" / "llm_timeline_da
 sys.path.insert(0, str(_SERVICE_DIR))
 
 from ontology_db import OntologyDB
+from enrichment import enrich_stub, merge_stub_into_entry, get_confirmed_orgs
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Page config (must be first Streamlit call)
@@ -257,79 +258,270 @@ def page_pending_reviews(db: OntologyDB, sidecars: List[Dict]) -> None:
 # Page 2: Stub Review
 # ─────────────────────────────────────────────────────────────────────────────
 
+def _confidence_badge(confidence: float) -> str:
+    """Return a colored emoji badge based on confidence score."""
+    if confidence >= 0.80:
+        return "🟢"
+    elif confidence >= 0.55:
+        return "🟡"
+    else:
+        return "🔴"
+
+
+def _get_proposals(i: int, stub: Dict) -> Optional[Dict]:
+    """Retrieve proposals from session state for this stub."""
+    key = f"proposals_{i}"
+    return st.session_state.get(key)
+
+
+def _save_proposals(i: int, proposals: Dict) -> None:
+    """Store enrichment proposals in session state."""
+    st.session_state[f"proposals_{i}"] = proposals
+
+
+def _field_val(proposals: Optional[Dict], stub: Dict, field: str, default: str = "") -> str:
+    """Return proposal value if available, else stub value, else default."""
+    if proposals and field in proposals and proposals[field] is not None:
+        return str(proposals[field])
+    val = stub.get(field)
+    return str(val) if val is not None else default
+
+
 def page_stub_review(db: OntologyDB) -> None:
     st.header("Stub Review")
     st.caption(
-        "Auto-created stub entries for organizations not found in the ontology. "
-        "Fill in details and approve to add them permanently."
+        "Auto-created stubs for organizations not in the ontology. "
+        "Use **Auto-Enrich** to pre-fill fields via web search + AI, "
+        "**Link to Existing** to merge duplicates, or fill manually and approve."
     )
 
-    stubs = db.get_stubs()
+    # Filter controls
+    all_stubs = db.get_stubs()
+    # Exclude merged and dismissed from the active queue
+    stubs = [
+        s for s in all_stubs
+        if s.get("status") not in ("merged", "dismissed", "completed")
+    ]
+
+    dismissed_count = sum(1 for s in all_stubs if s.get("status") == "dismissed")
+    merged_count = sum(1 for s in all_stubs if s.get("status") == "merged")
+    approved_count = sum(1 for s in all_stubs if s.get("status") == "completed"
+                         and s.get("source") == "auto_stub_approved")
+
+    col_m1, col_m2, col_m3, col_m4 = st.columns(4)
+    col_m1.metric("Pending", len(stubs))
+    col_m2.metric("Approved", approved_count)
+    col_m3.metric("Merged", merged_count)
+    col_m4.metric("Dismissed", dismissed_count)
 
     if not stubs:
         st.success("No stubs pending review!")
         return
 
-    st.metric("Stubs Pending", len(stubs))
+    # Filter bar
+    with st.expander("Filter stubs", expanded=False):
+        filter_col1, filter_col2, filter_col3 = st.columns(3)
+        with filter_col1:
+            filter_meta = st.multiselect(
+                "Meta type",
+                options=sorted(set(s.get("meta_type", "other") for s in stubs)),
+            )
+        with filter_col2:
+            filter_text = st.text_input("Search name", placeholder="type to filter...")
+        with filter_col3:
+            filter_enriched = st.checkbox("Show enriched only")
+
+    # Apply filters
+    display_stubs = stubs
+    if filter_meta:
+        display_stubs = [s for s in display_stubs if s.get("meta_type") in filter_meta]
+    if filter_text:
+        ft = filter_text.lower()
+        display_stubs = [s for s in display_stubs
+                         if ft in s.get("canonical_name", "").lower()]
+    if filter_enriched:
+        display_stubs = [s for s in display_stubs
+                         if f"proposals_{stubs.index(s)}" in st.session_state]
+
+    st.caption(f"Showing {len(display_stubs)} of {len(stubs)} pending stubs")
     st.divider()
+
+    # Build confirmed-org list once for the link autocomplete
+    confirmed_orgs = get_confirmed_orgs(db)
+    confirmed_names = [e.get("canonical_name", "") for e in confirmed_orgs]
 
     meta_type_options = ["io", "gov", "university", "ngo", "private", "other"]
 
-    for i, stub in enumerate(stubs):
+    for i, stub in enumerate(display_stubs):
+        # Use index in all_stubs for stable session_state keys
+        stub_idx = stubs.index(stub) if stub in stubs else i
         cname = stub.get("canonical_name", "")
-        with st.expander(f"{cname}", expanded=False):
+        proposals = _get_proposals(stub_idx, stub)
+        conf = proposals.get("confidence", 0.0) if proposals else 0.0
+        enriched_label = f"  {_confidence_badge(conf)} enriched" if proposals else ""
+
+        with st.expander(f"{cname}{enriched_label}", expanded=False):
+
+            # ── Section A: Link to existing org ──────────────────────────────
+            st.subheader("Link to Existing Organization")
+            st.caption(
+                "If this org is already in the ontology under a different name, "
+                "select it below. The stub name will be added as an alias."
+            )
+            link_search = st.text_input(
+                "Search confirmed orgs",
+                key=f"link_search_{stub_idx}",
+                placeholder="Type to search...",
+            )
+
+            matching_confirmed = []
+            if link_search and len(link_search) >= 2:
+                ls_lower = link_search.lower()
+                matching_confirmed = [
+                    n for n in confirmed_names
+                    if ls_lower in n.lower()
+                ][:15]
+
+            if matching_confirmed:
+                link_target = st.selectbox(
+                    f"{len(matching_confirmed)} match(es)",
+                    options=["(select to link)"] + matching_confirmed,
+                    key=f"link_target_{stub_idx}",
+                )
+                if link_target != "(select to link)":
+                    if st.button(
+                        f"Merge into → {link_target}",
+                        key=f"link_btn_{stub_idx}",
+                        type="primary",
+                    ):
+                        ok = merge_stub_into_entry(cname, link_target, db)
+                        if ok:
+                            reload_db()
+                            st.success(
+                                f"Merged! '{cname}' added as alias of '{link_target}'."
+                            )
+                            st.rerun()
+                        else:
+                            st.error("Merge failed — entry not found.")
+            elif link_search and len(link_search) >= 2:
+                st.caption("No confirmed orgs match that search.")
+
+            st.divider()
+
+            # ── Section B: Auto-Enrich ────────────────────────────────────────
+            st.subheader("Auto-Enrich via Web Search + AI")
+
+            enrich_col1, enrich_col2 = st.columns([2, 3])
+            with enrich_col1:
+                if st.button("Auto-Enrich", key=f"enrich_btn_{stub_idx}"):
+                    with st.spinner(f"Searching for '{cname}'..."):
+                        try:
+                            existing_tags = db.get_all_tags()
+                            result = enrich_stub(stub, existing_tags, use_cache=True)
+                            _save_proposals(stub_idx, result)
+                            st.rerun()
+                        except Exception as e:
+                            st.error(f"Enrichment failed: {e}")
+
+                if proposals:
+                    if st.button(
+                        "Re-fetch (bypass cache)",
+                        key=f"refetch_btn_{stub_idx}",
+                        help="Force a fresh search, ignoring cached results",
+                    ):
+                        with st.spinner("Re-fetching..."):
+                            try:
+                                existing_tags = db.get_all_tags()
+                                result = enrich_stub(stub, existing_tags, use_cache=False)
+                                _save_proposals(stub_idx, result)
+                                st.rerun()
+                            except Exception as e:
+                                st.error(f"Re-fetch failed: {e}")
+
+            with enrich_col2:
+                if proposals:
+                    method = proposals.get("enrichment_method", "")
+                    sources = proposals.get("sources", [])
+                    reasoning = proposals.get("reasoning", "")
+                    st.caption(
+                        f"{_confidence_badge(conf)} **Confidence: {conf:.0%}** "
+                        f"| Method: `{method}` "
+                        f"| Sources: {', '.join(sources) if sources else 'none'}"
+                    )
+                    if reasoning:
+                        st.caption(f"_\"{reasoning}\"_")
+
+            st.divider()
+
+            # ── Section C: Form fields ────────────────────────────────────────
+            st.subheader("Fields")
             col1, col2 = st.columns([3, 2])
 
             with col1:
                 new_name = st.text_input(
-                    "Canonical Name", value=cname, key=f"stub_name_{i}"
+                    "Canonical Name",
+                    value=_field_val(proposals, stub, "canonical_name", cname),
+                    key=f"stub_name_{stub_idx}",
                 )
 
-                cur_meta = stub.get("meta_type", "other")
+                cur_meta = _field_val(proposals, stub, "meta_type", "other")
                 meta_idx = meta_type_options.index(cur_meta) if cur_meta in meta_type_options else 5
                 new_meta_type = st.selectbox(
                     "Meta Type", options=meta_type_options,
-                    index=meta_idx, key=f"stub_meta_{i}"
+                    index=meta_idx, key=f"stub_meta_{stub_idx}",
                 )
 
                 new_sector = st.text_input(
-                    "Sector", value=stub.get("sector", ""), key=f"stub_sector_{i}"
+                    "Sector",
+                    value=_field_val(proposals, stub, "sector", ""),
+                    key=f"stub_sector_{stub_idx}",
                 )
 
                 col1a, col1b = st.columns(2)
                 with col1a:
                     new_country = st.text_input(
-                        "Country (ISO3)", value=stub.get("location_country") or "",
-                        key=f"stub_country_{i}", placeholder="e.g. USA, GBR"
+                        "Country (ISO3)",
+                        value=_field_val(proposals, stub, "location_country", ""),
+                        key=f"stub_country_{stub_idx}",
+                        placeholder="e.g. USA, GBR",
                     )
                 with col1b:
                     new_city = st.text_input(
-                        "City", value=stub.get("location_city") or "",
-                        key=f"stub_city_{i}"
+                        "City",
+                        value=_field_val(proposals, stub, "location_city", ""),
+                        key=f"stub_city_{stub_idx}",
                     )
+
+                # Merge proposed + existing variations
+                existing_vars = stub.get("variations_found", [])
+                proposed_vars = proposals.get("variations_found", []) if proposals else []
+                merged_vars = existing_vars[:]
+                for v in proposed_vars:
+                    if v and v not in merged_vars and v != cname:
+                        merged_vars.append(v)
 
                 variations_text = st.text_area(
                     "Variations / Aliases (one per line)",
-                    value="\n".join(stub.get("variations_found", [])),
-                    key=f"stub_vars_{i}",
+                    value="\n".join(merged_vars),
+                    key=f"stub_vars_{stub_idx}",
                     height=100,
                 )
 
             with col2:
                 st.subheader("Hierarchical Tag")
-                st.caption(
-                    "Type a prefix to search existing tags. "
-                    "Select from dropdown or enter a custom tag."
-                )
+
+                # Pre-fill tag prefix from AI suggestion
+                suggested_tag = proposals.get("suggested_tag", "") if proposals else ""
 
                 tag_prefix = st.text_input(
                     "Tag prefix (type to search)",
-                    value="",
-                    key=f"stub_tagprefix_{i}",
-                    placeholder="e.g. UN:Funds  or  national_government",
+                    value=suggested_tag[:30] if suggested_tag else "",
+                    key=f"stub_tagprefix_{stub_idx}",
+                    placeholder="e.g. UN:Funds  or  ngo:research",
                 )
 
-                final_tag = ""
+                final_tag = suggested_tag  # default to AI suggestion
+
                 if tag_prefix and len(tag_prefix.strip()) >= 2:
                     suggestions = db.get_tag_completions(tag_prefix.strip())
                     if suggestions:
@@ -337,36 +529,37 @@ def page_stub_review(db: OntologyDB) -> None:
                         selected = st.selectbox(
                             f"Matching tags ({len(suggestions)} found)",
                             options=options,
-                            key=f"stub_tagselect_{i}",
+                            key=f"stub_tagselect_{stub_idx}",
                         )
                         if selected != "(type custom below)":
                             final_tag = selected
                             st.success(f"Selected: `{final_tag}`")
                     else:
-                        st.caption("No matching tags found.")
+                        st.caption("No matching tags — use custom below.")
 
                 custom_tag = st.text_input(
-                    "Custom tag (if not selecting above)",
-                    value="",
-                    key=f"stub_customtag_{i}",
-                    placeholder="e.g. ngo:research:poverty_action_lab",
+                    "Custom tag",
+                    value=suggested_tag if suggested_tag and not tag_prefix else "",
+                    key=f"stub_customtag_{stub_idx}",
+                    placeholder="e.g. ngo:research:poverty_economics",
                 )
                 if custom_tag.strip():
                     final_tag = custom_tag.strip()
-                    st.info(f"Custom tag: `{final_tag}`")
 
                 if final_tag:
-                    st.caption("**Preview hierarchical_tags:**")
+                    st.caption("**Tag preview:**")
                     for ht in build_hierarchical_tags(final_tag):
                         st.code(ht)
 
             st.divider()
-            col_save, col_delete = st.columns(2)
+
+            # ── Section D: Action buttons ─────────────────────────────────────
+            col_save, col_dismiss = st.columns(2)
 
             with col_save:
                 if st.button(
                     "Approve & Save to Ontology",
-                    key=f"stub_save_{i}",
+                    key=f"stub_save_{stub_idx}",
                     type="primary",
                 ):
                     updates: Dict = {
@@ -383,7 +576,6 @@ def page_stub_review(db: OntologyDB) -> None:
                         "source": "auto_stub_approved",
                     }
 
-                    # Build appropriate tag structure
                     if final_tag:
                         htags = build_hierarchical_tags(final_tag)
                         if new_meta_type in ("io", "university"):
@@ -406,19 +598,21 @@ def page_stub_review(db: OntologyDB) -> None:
                         st.success(f"Saved: {new_name}")
                         st.rerun()
                     else:
-                        st.error("Entry not found in ontology — it may have been deleted.")
+                        st.error("Update failed — entry not found.")
 
-            with col_delete:
+            with col_dismiss:
                 if st.button(
-                    "Delete Stub",
-                    key=f"stub_delete_{i}",
-                    help="Remove this stub without adding it to the ontology",
+                    "Dismiss",
+                    key=f"stub_dismiss_{stub_idx}",
+                    help="Mark as dismissed — won't appear in review queue. Data is preserved.",
                 ):
-                    st.warning(
-                        f"Delete '{cname}'? This cannot be undone from here. "
-                        "Edit the ontology JSON file directly to remove it.",
-                        icon="⚠️",
-                    )
+                    db.update_entry(cname, {
+                        "status": "dismissed",
+                        "source": "auto_stub_dismissed",
+                    })
+                    reload_db()
+                    st.info(f"Dismissed: {cname}")
+                    st.rerun()
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -593,18 +787,18 @@ def render_sidebar_stats(db: OntologyDB, sidecars: List[Dict]) -> str:
     st.sidebar.divider()
     st.sidebar.subheader("Quick Stats")
 
-    stubs = db.get_stubs()
     all_entries = db.get_all()
+    pending_stubs = db.get_pending_stubs()
 
-    pending_count = sum(
+    match_review_count = sum(
         1 for s in sidecars
         for l in s.get("org_links", [])
         if l.get("needs_review")
     )
 
     st.sidebar.metric("Ontology Entries", len(all_entries))
-    st.sidebar.metric("Stubs Pending", len(stubs))
-    st.sidebar.metric("Match Reviews", pending_count)
+    st.sidebar.metric("Stubs Pending", len(pending_stubs))
+    st.sidebar.metric("Match Reviews", match_review_count)
     st.sidebar.metric("Sidecar Files", len(sidecars))
 
     return page
