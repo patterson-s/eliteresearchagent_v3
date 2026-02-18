@@ -1,0 +1,329 @@
+{
+  "person_name": "Keizō Takemi",
+  "career_events": [
+    {
+      "organizations": [
+        "Tokai University"
+      ],
+      "roles": [
+        "professor of international politics"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Takemi used to be a professor of Tokai University whose main subject is international politics."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('used to be a professor'), indicating the position has ended, but no specific years are mentioned for when it started or finished. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "House of Councillors"
+      ],
+      "roles": [
+        "Member of the House of Councillors"
+      ],
+      "time_markers": [
+        "first elected 23 July 1995",
+        "served until July 2007"
+      ],
+      "constituency": "National PR",
+      "event_type": "elected_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was first elected to a member of the House of Councillors on 23 July 1995. He served until July 2007"
+      ],
+      "time_start": 1995,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the person was 'first elected 23 July 1995' (start year: 1995) and 'served until July 2007' (end year: 2007). Both dates are explicitly stated with high confidence."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Health, Labour and Welfare",
+        "Abe Cabinet"
+      ],
+      "roles": [
+        "Vice Minister of Health, Labour and Welfare",
+        "Senior Vice Minister of Health, Labour and Welfare"
+      ],
+      "time_markers": [
+        "September 2006 to August 2007"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was Vice Minister of Ministry of Health, Labour and Welfare of the Abe Cabinet from September 2006 until August 2007"
+      ],
+      "time_start": 2006,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states 'September 2006 to August 2007', indicating the position started in 2006 and ended in 2007. This is corroborated by the supporting quote which confirms the same timeframe for the Vice Minister position in the Abe Cabinet."
+      }
+    },
+    {
+      "organizations": [
+        "House of Councillors"
+      ],
+      "roles": [
+        "Member of the House of Councillors"
+      ],
+      "time_markers": [
+        "returned 2012",
+        "reelected 2013",
+        "reelected 2019",
+        "served until 28 July 2025"
+      ],
+      "constituency": "National PR (2012-2013), Tokyo at-large (2013-2025)",
+      "event_type": "elected_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, he returned to the House of Councillors, and he won reelection in 2013 and 2019.",
+        "In office 14 December 2012 – 28 July 2025"
+      ],
+      "time_start": 2012,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote 'In office 14 December 2012 – 28 July 2025' provides explicit start and end dates. The person returned to the House of Councillors in 2012 and served until July 28, 2025, making this a completed term with clear start year (2012) and end year (2025)."
+      }
+    },
+    {
+      "organizations": [
+        "School of Politics for Women"
+      ],
+      "roles": [
+        "tutor"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a tutor of the School of Politics for Women (女性のための政治スクール)."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are mentioned in the supporting quote or career event data. The quote only states 'He was a tutor' without indicating when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "appointed_by": "United Nations Secretary-General Kofi Annan",
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan appointed Takemi to a High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The event is an appointment to a High-level Panel in 2006. Panel appointments are typically time-limited engagements that conclude within the same year or shortly after. Since only 2006 is mentioned and no end date is specified, and given that high-level panels generally complete their work within a defined timeframe (often the same year), it's most accurate to set both start and finish to 2006. This represents the known period of service."
+      }
+    },
+    {
+      "organizations": [
+        "International Conference on Population and Development",
+        "High-Level Task Force for the International Conference on Population and Development"
+      ],
+      "roles": [
+        "task force member"
+      ],
+      "time_markers": [
+        "2012 to 2014"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2012 to 2014, Takemi served on the High-Level Task Force for the International Conference on Population and Development, co-chaired by Joaquim Chissano and Tarja Halonen."
+      ],
+      "time_start": 2012,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2012 to 2014' and the supporting quote confirms 'From 2012 to 2014, Takemi served on the High-Level Task Force'. This clearly indicates the position started in 2012 and ended in 2014."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-Level Commission on Health Employment and Economic Growth"
+      ],
+      "roles": [
+        "commissioner"
+      ],
+      "time_markers": [
+        "appointed March 2016"
+      ],
+      "appointed_by": "United Nations Secretary-General Ban Ki-moon",
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 2016, Takemi was appointed by United Nations Secretary-General Ban Ki-moon to the High-Level Commission on Health Employment and Economic Growth"
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in March 2016 as clearly stated in the time_markers and supporting quotes. However, there is no information about when this commission role ended, so time_finish is set to null as we cannot determine the end date from the available information."
+      }
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "WHO Goodwill Ambassador for Universal Health Coverage"
+      ],
+      "time_markers": [
+        "appointed June 2019"
+      ],
+      "appointed_by": "WHO Director General Tedros Adhanom Ghebreyesus",
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2019, World Health Organization (WHO) Director General Tedros Adhanom Ghebreyesus appointed Takemi as WHO Goodwill Ambassador for Universal Health Coverage."
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in June 2019 as clearly stated in the time_markers and supporting quote. There is no mention of an end date or termination of this Goodwill Ambassador role, indicating it is either ongoing or the end date is unknown. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Chatham House",
+        "Commission for Universal Health"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "since 2022"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2022, he has been a member of the Commission for Universal Health convened by Chatham House and co-chaired by Helen Clark and Jakaya Kikwete."
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 2022' clearly indicates the position started in 2022 and is ongoing. The word 'since' denotes a continuing state from 2022 to the present, so time_finish should be null."
+      }
+    },
+    {
+      "organizations": [
+        "Liberal Democratic Party",
+        "House of Councillors"
+      ],
+      "roles": [
+        "Chairman of the Policy Research Council for the Liberal Democratic Party in the House of Councillors"
+      ],
+      "time_markers": [
+        "2017 to 2018"
+      ],
+      "event_type": "party_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman of the Policy Research Council for the Liberal Democratic Party in the House of Councillors 2017—2018"
+      ],
+      "time_start": 2017,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2017 to 2018' and the supporting quote confirms 'Chairman of the Policy Research Council for the Liberal Democratic Party in the House of Councillors 2017—2018'. This clearly indicates the position started in 2017 and ended in 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Health, Labour and Welfare",
+        "Kishida Cabinet"
+      ],
+      "roles": [
+        "Minister of Health, Labour and Welfare"
+      ],
+      "time_markers": [
+        "13 September 2023 to 1 October 2024"
+      ],
+      "event_type": "cabinet_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of Health, Labour, and Welfare In office 13 September 2023 – 1 October 2024 Prime Minister Fumio Kishida"
+      ],
+      "time_start": 2023,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '13 September 2023 to 1 October 2024', indicating the position started in 2023 and ended in 2024. This is confirmed by the supporting quote showing the same date range with 'In office 13 September 2023 – 1 October 2024'."
+      }
+    },
+    {
+      "organizations": [
+        "Liberal Democratic Party",
+        "House of Councillors"
+      ],
+      "roles": [
+        "Chairman of the Liberal Democratic Party in the House of Councillors"
+      ],
+      "time_markers": [
+        "elected November 2024",
+        "served 2024 to 2025"
+      ],
+      "event_type": "party_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Takemi was elected chairman of the Liberal Democratic Party caucus in the House of Councillors in November 2024, after Masakazu Sekiguchi resigned to become President of the House of Councillors."
+      ],
+      "time_start": 2024,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The time_markers explicitly state 'served 2024 to 2025', indicating the position started in 2024 and ended in 2025. This is corroborated by the supporting quote mentioning election in November 2024. The use of past tense 'served' indicates the position has concluded."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [],
+      "time_markers": [
+        "defeated 2025",
+        "announced retirement 28 July 2025"
+      ],
+      "event_type": "career_end",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was defeated in the 2025 Japanese House of Councillors election and announced his retirement from politics."
+      ],
+      "time_start": null,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "This is a career_end event marking the termination of a political career. The defeat and retirement both occurred in 2025. Since this represents the end of a career rather than a specific position with a start date, time_start is null. The time_finish is 2025, when the person was defeated in the election and announced retirement."
+      }
+    },
+    {
+      "organizations": [
+        "Keio University"
+      ],
+      "roles": [
+        "student",
+        "alumnus"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Alma mater Keio University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates 'Alma mater Keio University' which confirms the person attended/graduated from Keio University, but provides no specific years for when they started or finished their studies. Without temporal information, both values must be set to null."
+      }
+    }
+  ]
+}

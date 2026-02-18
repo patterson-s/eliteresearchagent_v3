@@ -1,0 +1,1094 @@
+{
+  "person_name": "Ricardo Lagos",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Chile"
+      ],
+      "roles": [
+        "law degree graduate"
+      ],
+      "time_markers": [
+        "1960"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After obtaining his law degree from the University of Chile in 1960"
+      ],
+      "time_start": 1960,
+      "time_finish": 1960,
+      "metadata": {
+        "timeline_reasoning": "The event describes obtaining a law degree in 1960. A degree graduation is a point-in-time event that occurs in a single year. Both time_start and time_finish are set to 1960 as per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "Duke University"
+      ],
+      "roles": [
+        "Ph.D. in Economics graduate"
+      ],
+      "time_markers": [
+        "1966"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lagos pursued a Ph.D. in Economics from Duke University, which he completed in 1966"
+      ],
+      "time_start": null,
+      "time_finish": 1966,
+      "metadata": {
+        "timeline_reasoning": "The event describes completing a Ph.D. in 1966. This is the graduation/completion year (time_finish). The start year of the Ph.D. program is not mentioned in the provided information, so time_start is set to null rather than guessing a typical Ph.D. duration."
+      }
+    },
+    {
+      "organizations": [
+        "University of North Carolina at Chapel Hill"
+      ],
+      "roles": [
+        "visiting professor in political science department"
+      ],
+      "time_markers": [
+        "until 1965"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During that time he became a visiting professor at the University of North Carolina at Chapel Hill political science department until 1965"
+      ],
+      "time_start": null,
+      "time_finish": 1965,
+      "metadata": {
+        "timeline_reasoning": "The text clearly indicates the position ended in 1965 ('until 1965'), but does not provide information about when it started. The phrase 'During that time' suggests it began during a previously mentioned period, but without that context, the start year cannot be determined. Being conservative as instructed, time_start is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Chile",
+        "Institute of Economy"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "after return to Chile, post-1966"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On his return to Chile, he was employed at the Institute of Economy of the University of Chile directed by Carlos Massad"
+      ],
+      "time_start": 1966,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates this position began 'after return to Chile, post-1966', which means it started in 1966 or later. Using 1966 as the earliest possible start year based on available information. No end date is mentioned in the career event, so time_finish is set to null as we cannot determine when this employment ended."
+      }
+    },
+    {
+      "organizations": [
+        "University of Chile",
+        "School of Political and Administrative Sciences"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "1967-1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1967, he was named Director of the School of Political and Administrative Sciences, a position he held until 1973"
+      ],
+      "time_start": 1967,
+      "time_finish": 1973,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1967-1973' and supporting quote clearly indicate the position started in 1967 and ended in 1973. The quote explicitly states 'In 1967, he was named Director... a position he held until 1973', providing unambiguous start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "University of Chile"
+      ],
+      "roles": [
+        "Secretary General"
+      ],
+      "time_markers": [
+        "1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a position he held until 1973 when he became Secretary General of the University of Chile"
+      ],
+      "time_start": 1973,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote indicates the person 'became Secretary General of the University of Chile' in 1973, marking the start year. No end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "University of Chile",
+        "School of Law"
+      ],
+      "roles": [
+        "professor of economics"
+      ],
+      "time_markers": [
+        "post-1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lagos subsequently began work as a professor of economics in the School of Law at the University of Chile"
+      ],
+      "time_start": 1974,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'post-1973' indicates the position started after 1973, which would be 1974 at the earliest. The supporting quote uses 'began work' without indicating when it ended, and there's no information suggesting the position has concluded, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Chile",
+        "Institute of Economy"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "1971-1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "between 1971 and 1972 he was Director of the Institute of Economy"
+      ],
+      "time_start": 1971,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1971-1972' and supporting quote 'between 1971 and 1972 he was Director of the Institute of Economy' clearly indicate the position started in 1971 and ended in 1972."
+      }
+    },
+    {
+      "organizations": [
+        "Latin American Council of Social Sciences"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "1970s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was later named Director of the Latin American Council of Social Sciences"
+      ],
+      "time_start": 1970,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1970s' indicates the decade when this position was held. Since no more specific years are provided and the quote uses past tense ('was later named'), this appears to be a completed position during that decade. Using 1970-1979 represents the full decade range, though the actual tenure may have been shorter within this period."
+      }
+    },
+    {
+      "organizations": [
+        "Radical Party of Chile"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "1961",
+        "abandoned in 1970s"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "abandoned the Radical Party of Chile, which he had joined in 1961"
+      ],
+      "time_start": 1961,
+      "time_finish": 1970,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the person 'joined in 1961' (time_start). The time_marker indicates they 'abandoned in 1970s', which means the membership ended sometime in the 1970s. Using 1970 as time_finish represents the earliest year of that decade and is the most conservative estimate for when the 1970s period began."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Chilean delegate"
+      ],
+      "time_markers": [
+        "1970s"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he worked with Hernán Santa Cruz as the Chilean delegates to the United Nations"
+      ],
+      "time_start": 1970,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1970s' indicates the decade when this diplomatic position occurred. Without more specific information about exact start or end years within that decade, I'm using 1970-1979 to represent the full decade range. This is a conservative interpretation that captures the entire period referenced."
+      }
+    },
+    {
+      "organizations": [
+        "Chile",
+        "Soviet Union"
+      ],
+      "roles": [
+        "appointed Chilean ambassador to the Soviet Union (unratified)"
+      ],
+      "time_markers": [
+        "1972"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1972, President Salvador Allende appointed Lagos as the Chilean ambassador to the Soviet Union in Moscow, but the appointment was never ratified by Congress"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment was made in 1972 but was never ratified by Congress, meaning the position never actually started. Since Lagos never officially assumed the role of ambassador, there is no valid start or end date for this position. The event represents a failed appointment rather than an actual career position held."
+      }
+    },
+    {
+      "organizations": [
+        "UNESCO",
+        "United Nations Development Programme"
+      ],
+      "roles": [
+        "Regional Director of training program",
+        "in charge of Project UNESCO"
+      ],
+      "time_markers": [
+        "1970s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As a Regional Director of the training program of post graduate studies in social sciences, he was later put in charge of Project UNESCO, of the United Nations Development Programme (UNDP) in Buenos Aires"
+      ],
+      "time_start": 1970,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates '1970s' which spans from 1970-1979. Since no more specific years are provided in the supporting quote or other fields, I'm using the full decade range. The text suggests this was a past position (use of past tense 'was'), so it's not ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "delegate with rank of ambassador at 26th UN General Assembly"
+      ],
+      "time_markers": [
+        "1970s"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he also served Chile as a United Nations delegate with the rank of ambassador at the 26th United Nations General Assembly"
+      ],
+      "time_start": 1971,
+      "time_finish": 1971,
+      "metadata": {
+        "timeline_reasoning": "The 26th United Nations General Assembly took place in 1971 (UN General Assembly sessions are numbered sequentially and annual). The time_marker '1970s' confirms this timeframe. Since this refers to a specific General Assembly session rather than an ongoing appointment, both start and finish are set to 1971."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Conference on Trade and Development"
+      ],
+      "roles": [
+        "delegate to 3rd Conference"
+      ],
+      "time_markers": [
+        "1970s"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he was a delegate to the UN's 3rd Conference of Commerce and Development (United Nations Conference on Trade and Development)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker only indicates '1970s' which is a decade-long period. The UNCTAD III conference was a specific event that occurred in 1972 in Santiago, Chile, but without explicit confirmation in the supporting quotes that this refers to that specific conference, and given the vague '1970s' marker, I cannot confidently assign specific years. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Latin American Faculty of Social Sciences (FLACSO)"
+      ],
+      "roles": [
+        "Secretary General"
+      ],
+      "time_markers": [
+        "after 1973 coup"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Soon after the 1973 coup d'état, he and his family were sent into exile in Buenos Aires, Argentina, where he took the position of Secretary General of the Latin American Faculty of Social Sciences (FLACSO)"
+      ],
+      "time_start": 1973,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position began 'soon after the 1973 coup d'état', which indicates it started in 1973. No end date is mentioned in the provided information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "University of North Carolina at Chapel Hill"
+      ],
+      "roles": [
+        "visiting professor of the William R. Kenan chair for Latin American Studies"
+      ],
+      "time_markers": [
+        "1970s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He moved for a year to the United States, where he became visiting professor of the William R. Kenan chair for Latin American Studies at the University of North Carolina at Chapel Hill"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1970s' indicates a decade-long range (1970-1979), but no specific year is provided. The supporting quote mentions 'for a year', indicating a one-year duration, but without a precise start year within the 1970s, I cannot determine exact time_start and time_finish values. Being conservative as instructed, I'm setting both to null rather than guessing a specific year within the decade."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Development Programme"
+      ],
+      "roles": [
+        "consultant"
+      ],
+      "time_markers": [
+        "1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1975, he worked as a consultant for the United Nations Development Programme"
+      ],
+      "time_start": 1975,
+      "time_finish": 1975,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1975) is mentioned in the time_markers and supporting quote. The quote states 'In 1975, he worked as a consultant' without indicating a duration beyond that year. Following guideline 4, when only a single year is mentioned, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "Regional Program of Employment (PREALC)"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "1978 onwards"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lagos returned to Chile in 1978, and worked for the Regional Program of Employment of the United Nations, PREALC"
+      ],
+      "time_start": 1978,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1978 onwards' and supporting quote 'Lagos returned to Chile in 1978, and worked for the Regional Program of Employment' clearly indicate the position started in 1978. The phrase 'onwards' suggests continuation without a specified end date, so time_finish is set to null as no ending year is provided."
+      }
+    },
+    {
+      "organizations": [
+        "Socialist Party of Chile"
+      ],
+      "roles": [
+        "leader"
+      ],
+      "time_markers": [
+        "1980s",
+        "1961-1987 affiliation"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In addition to being one of the leaders of the Socialist Party of Chile"
+      ],
+      "time_start": 1961,
+      "time_finish": 1987,
+      "metadata": {
+        "timeline_reasoning": "The time_markers provide a specific affiliation period of '1961-1987 affiliation' which gives exact start and end years. While '1980s' is also mentioned and the role is 'leader' (which may have been during a subset of the affiliation period), the most concrete temporal information available is the 1961-1987 range for the overall affiliation with the Socialist Party of Chile."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Alliance"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "December 1983"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December of that year, he became president of the Democratic Alliance"
+      ],
+      "time_start": 1983,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'December 1983' indicates he became president in 1983. No end date is mentioned in the supporting quote or time_markers, suggesting the position may be ongoing or the end date is unknown. Following conservative guidelines, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Committee of the Left for Free Elections"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1987, as the president of the Committee of the Left for Free Elections"
+      ],
+      "time_start": 1987,
+      "time_finish": 1987,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1987) is mentioned in the time_markers and supporting quote. The quote uses past tense ('as the president') indicating this was a specific point in time rather than an ongoing position. Following guideline 4, when only a single year is mentioned, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Chile"
+      ],
+      "roles": [
+        "Minister of Education"
+      ],
+      "time_markers": [
+        "11 March 1990 - 28 September 1992"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1990, Lagos was named Minister of Education by President Patricio Aylwin"
+      ],
+      "time_start": 1990,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates the position started on 11 March 1990 and ended on 28 September 1992. This is corroborated by the supporting quote mentioning Lagos was named Minister of Education in 1990. Therefore, time_start is 1990 and time_finish is 1992."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Chile"
+      ],
+      "roles": [
+        "Minister of Public Works"
+      ],
+      "time_markers": [
+        "11 March 1994 - 1 August 1998"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1994, Frei himself named Lagos Minister of Public Works"
+      ],
+      "time_start": 1994,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates the position ran from '11 March 1994 - 1 August 1998'. The start year is 1994 and the end year is 1998. This is corroborated by the supporting quote mentioning 'In 1994, Frei himself named Lagos Minister of Public Works'."
+      }
+    },
+    {
+      "organizations": [
+        "Socialist International",
+        "Committee of Twelve Distinguished Members"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "1990s"
+      ],
+      "event_type": "international_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His status was later ratified by his appointment as one of the members of the Committee of Twelve Distinguished Members of the Socialist International"
+      ],
+      "time_start": 1990,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates '1990s' which spans from 1990 to 1999. The supporting quote uses 'was later ratified' suggesting a past event that occurred during this decade. Without more specific information, I'm using the full decade range. The use of past tense suggests this position has ended, so time_finish is set to 1999 rather than null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Chile"
+      ],
+      "roles": [
+        "President of Chile"
+      ],
+      "time_markers": [
+        "11 March 2000 - 11 March 2006"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Winning 51.3 percent of the vote, Lagos became the new President of Chile"
+      ],
+      "time_start": 2000,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '11 March 2000 - 11 March 2006', indicating the presidential term started in 2000 and ended in 2006. This is a completed term with clear start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Party for Democracy"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "1987-present"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Political party: Party for Democracy (1987–present)"
+      ],
+      "time_start": 1987,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1987-present' clearly indicates the membership started in 1987 and is ongoing. The supporting quote confirms this with 'Party for Democracy (1987–present)', where 'present' indicates the position is still current, so time_finish should be null."
+      }
+    },
+    {
+      "organizations": [
+        "Democracia y Desarrollo Foundation"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "24 March 2006"
+      ],
+      "event_type": "organization_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 24 March 2006, Lagos inaugurated his own foundation called Democracia y Desarrollo ('Democracy and Development') in Santiago"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The foundation was inaugurated on 24 March 2006, marking the start year as 2006. As a founder of an organization, this is typically an ongoing role with no specified end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Club de Madrid"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "March 2006",
+        "two-year term"
+      ],
+      "event_type": "international_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Three days later he began a two-year term as President of the Club de Madrid"
+      ],
+      "time_start": 2006,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The position started in March 2006 as explicitly stated in the time_markers. The supporting quote indicates it was a 'two-year term', which means it would end in 2008 (2006 + 2 years = 2008)."
+      }
+    },
+    {
+      "organizations": [
+        "Inter-American Dialogue"
+      ],
+      "roles": [
+        "co-chairman of Board of Directors"
+      ],
+      "time_markers": [
+        "2006 onwards"
+      ],
+      "event_type": "international_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also assumed co-chairmanship of the Inter-American Dialogue's Board of Directors"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2006 onwards' clearly indicates the position started in 2006 and is ongoing. The word 'onwards' signals continuation without a specified end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Envoy on Climate Change"
+      ],
+      "time_markers": [
+        "2 May 2007",
+        "2007-2010"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 2 May 2007 Lagos, along with Gro Harlem Brundtland and Han Seung-soo, was named by UN Secretary-General Ban Ki-moon as a Special Envoy on Climate Change",
+        "From 2007 to 2010 he served as a Special Envoy on Climate Change for the United Nations Secretary-General Ban Ki-moon"
+      ],
+      "time_start": 2007,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '2007-2010' as the duration of service. This is corroborated by the supporting quote 'From 2007 to 2010 he served as a Special Envoy on Climate Change'. The appointment date of '2 May 2007' confirms the start year as 2007, and the position ended in 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Americas Quarterly"
+      ],
+      "roles": [
+        "editorial board member"
+      ],
+      "time_markers": [
+        "early 2007"
+      ],
+      "event_type": "publishing_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In early 2007, Lagos became a member of the editorial board of Americas Quarterly"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'early 2007' clearly indicates the position started in 2007. There is no information about when this editorial board membership ended, and no language suggesting it was temporary or has concluded, so time_finish is set to null indicating it may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "UC Berkeley",
+        "Center for Latin American Studies"
+      ],
+      "roles": [
+        "special seminar instructor"
+      ],
+      "time_markers": [
+        "post-2006"
+      ],
+      "event_type": "academic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After abandoning power, Lagos taught a one-month special seminar at UC Berkeley's Center for Latin American Studies, called 'Democracy and Development in Latin America'"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The event occurred 'post-2006' after Lagos abandoned power. Lagos was President of Chile from 2000-2006, so he left office in 2006. The seminar was a one-month special course taught immediately after leaving office, making 2006 the most likely year for both start and finish of this brief teaching engagement."
+      }
+    },
+    {
+      "organizations": [
+        "Brown University",
+        "Watson Institute for International Studies"
+      ],
+      "roles": [
+        "teaching position"
+      ],
+      "time_markers": [
+        "1 July 2007",
+        "five-year period"
+      ],
+      "event_type": "academic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2007, Brown University announced that Lagos would take a teaching position at the Watson Institute for International Studies for a period of five years, starting on 1 July 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The position started on 1 July 2007 and was for a five-year period. Adding 5 years to 2007 gives 2012 as the end year."
+      }
+    },
+    {
+      "organizations": [
+        "University of São Paulo"
+      ],
+      "roles": [
+        "visiting professor",
+        "José Bonifácio Cátedra"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "academic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2013, Lagos was a visiting professor at the University of São Paulo assuming the 'José Bonifácio Cátedra'"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The event describes a visiting professor position with a specific year mentioned (2013). Visiting professorships are typically temporary appointments lasting weeks to months within an academic year. Since only 2013 is mentioned and no duration or end date is specified, both time_start and time_finish are set to 2013, indicating the position occurred during that year."
+      }
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "former member"
+      ],
+      "time_markers": [
+        "unspecified"
+      ],
+      "event_type": "international_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Former Members: Ricardo Lagos"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates Ricardo Lagos is a 'former member' of The Elders, but no specific years are provided in the time_markers (marked as 'unspecified') or supporting quotes. While we know the membership has ended (indicated by 'former'), without concrete dates, both time_start and time_finish must be set to null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "APEC"
+      ],
+      "roles": [
+        "Chairperson"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "international_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Preceded by Thaksin Shinawatra, Chairperson of APEC 2004, Succeeded by Roh Moo-hyun"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2004' and the supporting quote indicates this person succeeded Thaksin Shinawatra as Chairperson of APEC 2004. APEC chairpersonship rotates annually among member economies, so the position would have been held for the calendar year 2004 only."
+      }
+    },
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "Doctor of Laws degree (honorary) recipient"
+      ],
+      "time_markers": [
+        "24 May 2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 24 May 2018, he was awarded the Doctor of Laws degree by Harvard University"
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award event that occurred on a specific date (24 May 2018). Awards are typically one-time events that happen in a single year, so both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Italy"
+      ],
+      "roles": [
+        "Knight Grand Cross decorated with Grand Cordon of the Order of Merit of the Italian Republic"
+      ],
+      "time_markers": [
+        "3 March 2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Italy: Knight Grand Cross decorated with Grand Cordon of the Order of Merit of the Italian Republic (3 March 2000)"
+      ],
+      "time_start": 2000,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor with a specific conferral date of 3 March 2000. Awards and decorations are typically considered as point-in-time events occurring in the year they were conferred, so both time_start and time_finish are set to 2000."
+      }
+    },
+    {
+      "organizations": [
+        "Portugal"
+      ],
+      "roles": [
+        "Grand Collar of the Order of Prince Henry recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Portugal: Grand Collar of the Order of Prince Henry (2001)"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2001) mentioned in time_markers and supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Slovakia"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the White Double Cross recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Slovakia: Grand Cross (or 1st Class) of the Order of the White Double Cross (2001)"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2001) mentioned in both time_markers and supporting_quotes. Awards are typically conferred in a specific year rather than being ongoing positions, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Spain"
+      ],
+      "roles": [
+        "Knight Collar of the Order of Isabella the Catholic"
+      ],
+      "time_markers": [
+        "1 June 2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Spain: Knight Collar of the Order of Isabella the Catholic (1 June 2001)"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '1 June 2001'. Awards are typically conferred on a single date and represent a point-in-time honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Peru"
+      ],
+      "roles": [
+        "Grand Cross with Diamonds of the Order of the Sun recipient"
+      ],
+      "time_markers": [
+        "29 July 2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Peru: Grand Cross with Diamonds of the Order of the Sun (29 July 2001)"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of conferral (29 July 2001). Awards are typically granted at a single point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2001, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Hungary"
+      ],
+      "roles": [
+        "Grand Cross with Chain of the Order of Merit of the Republic of Hungary recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Hungary: Grand Cross with Chain of the Order of Merit of the Republic of Hungary (2002)"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2002) mentioned in the time_markers and supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Poland"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Merit of the Republic of Poland recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Poland: Grand Cross of the Order of Merit of the Republic of Poland (2002)"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2002) mentioned in the time_markers and supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Finland"
+      ],
+      "roles": [
+        "Grand Cross with Collar of the Order of the White Rose of Finland recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Finland: Grand Cross with Collar of the Order of the White Rose of Finland (2002)"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor event with a single year (2002) mentioned in the time_markers and supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Croatia"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Grand Order of King Tomislav recipient"
+      ],
+      "time_markers": [
+        "6 February 2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Croatia: Knight Grand Cross of the Grand Order of King Tomislav (6 February 2004)"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of conferral (6 February 2004). Awards are typically granted at a single point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2004, the year the honor was received."
+      }
+    },
+    {
+      "organizations": [
+        "Romania"
+      ],
+      "roles": [
+        "Grand Cross with Chain of the Order of the Star of Romania recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Romania: Grand Cross with Chain of the Order of the Star of Romania (2004)"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2004) mentioned in the time_markers and supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Bulgaria"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the Balkan Mountains recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Bulgaria: Grand Cross of the Order of the Balkan Mountains (2004)"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2004) mentioned in both time_markers and supporting_quotes. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Algeria"
+      ],
+      "roles": [
+        "Order of the Athir recipient"
+      ],
+      "time_markers": [
+        "7 May 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Algeria: Order of the Athir (7 May 2005)"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '7 May 2005'. Awards are typically conferred on a single date and represent a point-in-time honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Uruguay"
+      ],
+      "roles": [
+        "Medal of the Oriental Republic of Uruguay recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Uruguay: Medal of the Oriental Republic of Uruguay (2002)"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2002) mentioned in both time_markers and supporting_quotes. Awards are typically received at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 2002."
+      }
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "person_name": "David Cameron",
+  "career_events": [
+    {
+      "organizations": [
+        "Conservative Research Department"
+      ],
+      "roles": [
+        "researcher",
+        "head of political section"
+      ],
+      "time_markers": [
+        "September 1988",
+        "1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduation, Cameron worked for the Conservative Research Department between September 1988 and 1993.",
+        "He became head of the political section of the Conservative Research Department"
+      ],
+      "time_start": 1988,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'between September 1988 and 1993', providing clear start and end dates for this position at the Conservative Research Department. The time_markers confirm these dates: 'September 1988' for start and '1993' for finish."
+      }
+    },
+    {
+      "organizations": [
+        "10 Downing Street"
+      ],
+      "roles": [
+        "briefing assistant to Prime Minister John Major"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1991 Cameron was seconded to Downing Street to work on briefing John Major for the then twice-weekly sessions of Prime Minister's Questions."
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1991) is mentioned in the time_markers and supporting quote. The quote indicates Cameron 'was seconded' to this position in 1991, with no end date specified. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year. The term 'seconded' suggests a temporary assignment, making it reasonable that this was a position held within that year."
+      }
+    },
+    {
+      "organizations": [
+        "HM Treasury"
+      ],
+      "roles": [
+        "Special Adviser to Chancellor of the Exchequer Norman Lamont"
+      ],
+      "time_markers": [
+        "1992",
+        "May 1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Cameron was rewarded with a promotion to special adviser to the chancellor of the exchequer, Norman Lamont.",
+        "Cameron was working for Lamont at the time of Black Wednesday"
+      ],
+      "time_start": 1992,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_markers show '1992' and 'May 1993'. Black Wednesday occurred on September 16, 1992, and the quote confirms Cameron was working for Lamont at that time. Norman Lamont served as Chancellor until May 1993 when he was replaced. Therefore, the position started in 1992 and ended in 1993 when Lamont left office."
+      }
+    },
+    {
+      "organizations": [
+        "Home Office"
+      ],
+      "roles": [
+        "Special Adviser to Home Secretary Michael Howard"
+      ],
+      "time_markers": [
+        "September 1993",
+        "July 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After Lamont was sacked, Cameron remained at the Treasury for less than a month before being specifically recruited by Home Secretary Michael Howard.",
+        "At the beginning of September 1993, he applied to go on Conservative Central Office's list of prospective parliamentary candidates"
+      ],
+      "time_start": 1993,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate 'September 1993' as the start (confirmed by the quote mentioning 'beginning of September 1993') and 'July 1994' as the end of this position as Special Adviser to Home Secretary Michael Howard."
+      }
+    },
+    {
+      "organizations": [
+        "Carlton Communications"
+      ],
+      "roles": [
+        "Director of Corporate Affairs"
+      ],
+      "time_markers": [
+        "July 1994",
+        "1997",
+        "February 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 1994 Cameron left his role as Special Adviser to work as the Director of Corporate Affairs at Carlton Communications.",
+        "He left Carlton in 1997 to run for Parliament, returning to his job after his defeat.",
+        "Cameron resigned as Director of Corporate Affairs in February 2001 to run for Parliament for a second time"
+      ],
+      "time_start": 1994,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The position started in July 1994 when Cameron joined as Director of Corporate Affairs. He left in 1997 to run for Parliament but returned after his defeat, continuing in the same role. The position definitively ended in February 2001 when he resigned to run for Parliament again. Therefore, the overall tenure spans from 1994 to 2001, despite the brief interruption in 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Urbium PLC"
+      ],
+      "roles": [
+        "non-executive director"
+      ],
+      "time_markers": [
+        "February 2002",
+        "August 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From February 2002 to August 2005, he was a non-executive director of Urbium PLC, operator of the Tiger Tiger bar chain."
+      ],
+      "time_start": 2002,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'From February 2002 to August 2005' for the non-executive director position at Urbium PLC. The start year is 2002 and the end year is 2005."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Member of Parliament for Witney"
+      ],
+      "time_markers": [
+        "7 June 2001",
+        "12 September 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was Member of Parliament (MP) for Witney from 2001 to 2016",
+        "He won the seat with a 1.9% swing to the Conservatives, taking 22,153 votes (45%) to Labour candidate Michael Bartlet's 14,180 (28.8%)"
+      ],
+      "time_start": 2001,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the start date as '7 June 2001' and end date as '12 September 2016'. The supporting quote confirms 'He was Member of Parliament (MP) for Witney from 2001 to 2016', providing definitive start and end years for this parliamentary position."
+      }
+    },
+    {
+      "organizations": [
+        "House of Commons",
+        "Home Affairs Select Committee"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Upon his election to Parliament, Cameron served as a member of the Commons Home Affairs Select Committee, a prominent appointment for a newly elected MP."
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 2001, and the supporting quote states 'Upon his election to Parliament' Cameron served on this committee, suggesting 2001 as the start year. However, no end date is provided in the available information, so time_finish is set to null as we cannot determine when this committee membership ended."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party",
+        "Shadow Cabinet"
+      ],
+      "roles": [
+        "shadow minister in the Privy Council Office",
+        "vice-chairman of the Conservative Party",
+        "Opposition frontbench local government spokesman",
+        "head of policy co-ordination",
+        "Shadow Education Secretary"
+      ],
+      "time_markers": [
+        "June 2003",
+        "November 2003",
+        "2004",
+        "June 2004",
+        "post-election reshuffle"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2003 Cameron was appointed a shadow minister in the Privy Council Office as a deputy to Eric Forth",
+        "He also became a vice-chairman of the Conservative Party when Michael Howard took over the leadership in November of that year.",
+        "He was appointed Opposition frontbench local government spokesman in 2004, before being promoted to the Shadow Cabinet that June as head of policy co-ordination.",
+        "Later, he became Shadow Education Secretary in the post-election reshuffle."
+      ],
+      "time_start": 2003,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The career event describes a progression of roles starting in June 2003 (shadow minister in Privy Council Office), continuing through November 2003 (vice-chairman), 2004 (local government spokesman), June 2004 (head of policy co-ordination), and ending with Shadow Education Secretary in a post-election reshuffle (likely 2005 based on UK election timing). The start is clearly 2003. No end date is specified for the final role, and without additional context indicating when these Shadow Cabinet positions ended, time_finish should be null rather than assumed."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "Leader of the Conservative Party"
+      ],
+      "time_markers": [
+        "6 December 2005",
+        "11 July 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Cameron was Leader of the Conservative Party from 2005 to 2016",
+        "Cameron's election as the leader of the Conservative Party and leader of the opposition was announced on 6 December 2005."
+      ],
+      "time_start": 2005,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the start date as '6 December 2005' and end date as '11 July 2016'. The supporting quote confirms Cameron was 'Leader of the Conservative Party from 2005 to 2016'. Therefore, time_start is 2005 and time_finish is 2016."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Leader of the Opposition"
+      ],
+      "time_markers": [
+        "6 December 2005",
+        "11 May 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served as Leader of the Opposition from 2005 to 2010"
+      ],
+      "time_start": 2005,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers provide specific dates: '6 December 2005' (start date) and '11 May 2010' (end date). The supporting quote confirms this timeframe with 'served as Leader of the Opposition from 2005 to 2010'. Therefore, time_start is 2005 and time_finish is 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Privy Council"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "formally approved 14 December 2005",
+        "sworn in 8 March 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "upon election Cameron became a member of the Privy Council, being formally approved to join on 14 December 2005, and sworn of the council on 8 March 2006."
+      ],
+      "time_start": 2005,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The member was formally approved to join the Privy Council on 14 December 2005, marking the official start of membership. Privy Council membership is a lifetime appointment that does not end unless explicitly stated, so time_finish is null as there is no indication the membership has ended."
+      }
+    },
+    {
+      "organizations": [
+        "UK Government"
+      ],
+      "roles": [
+        "Prime Minister of the United Kingdom",
+        "First Lord of the Treasury",
+        "Minister for the Civil Service"
+      ],
+      "time_markers": [
+        "11 May 2010",
+        "13 July 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "is a British politician who served as Prime Minister of the United Kingdom from 2010 to 2016.",
+        "At age 43, Cameron became the youngest prime minister since Lord Liverpool in 1812"
+      ],
+      "time_start": 2010,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_markers provide specific dates: '11 May 2010' (start date) and '13 July 2016' (end date). This is corroborated by the supporting quote stating Cameron 'served as Prime Minister of the United Kingdom from 2010 to 2016.' The position clearly ended in 2016, so time_finish is not null."
+      }
+    },
+    {
+      "organizations": [
+        "National Citizen Service"
+      ],
+      "roles": [
+        "chairman of the National Citizen Service Patrons"
+      ],
+      "time_markers": [
+        "October 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2016 Cameron became chairman of the National Citizen Service Patrons."
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event clearly states Cameron became chairman in October 2016, establishing 2016 as time_start. There is no information indicating when this position ended, and no end date is mentioned in the supporting quotes or time_markers, suggesting the position may be ongoing. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Alzheimer's Research UK"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "January 2017",
+        "left November 2023",
+        "returned March 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2017, he was appointed president of Alzheimer's Research UK",
+        "He left the position upon his appointment as foreign secretary in November 2023, before returning to the charity as president in March 2025."
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The person was appointed president in January 2017, left in November 2023, but then returned to the role in March 2025. Since they returned to the same position and are currently serving as president again, the position is ongoing. The time_start reflects the initial appointment (2017), and time_finish is null because they currently hold the position as of March 2025."
+      }
+    },
+    {
+      "organizations": [
+        "Illumina Inc."
+      ],
+      "roles": [
+        "Consultant and Chair of International Advisory Board"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "All appointments post-premiership have to be approved by the UK government's Advisory Committee on Business Appointments. In addition to the two posts above, they have also approved the following positions: Consultant and Chair of International Advisory Board, Illumina Inc."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote only indicates this is a post-premiership appointment that required government approval, but provides no dates for when the consultancy role at Illumina Inc. began or ended. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "UK-China Fund"
+      ],
+      "roles": [
+        "Vice-chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Vice-chair, UK-China Fund"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are provided in the career event data. The supporting quote only confirms the role and organization but contains no temporal information. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "ONE"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Board of Directors, ONE"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. The event only indicates a board membership position at ONE without any temporal context, dates, or indicators of when it started or whether it is current or past."
+      }
+    },
+    {
+      "organizations": [
+        "First Data Corporation"
+      ],
+      "roles": [
+        "Consultant and Brand Ambassador"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Consultant and Brand Ambassador, First Data Corporation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are present in the career event data. The supporting quote only confirms the role and organization but contains no temporal information. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations"
+      ],
+      "roles": [
+        "Member, Global Board of Advisers"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member, Global Board of Advisers, Council on Foreign Relations"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers are provided, and the supporting quote contains no date information. The position could be current or historical, but without specific years mentioned, I cannot determine accurate time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [
+        "LSE-Oxford Commission on Growth in Fragile States"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman, LSE-Oxford Commission on Growth in Fragile States"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are provided in the career event data. The supporting quote only confirms the role and organization but contains no temporal information. Without specific years mentioned, I cannot determine when this chairmanship began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Washington Speakers Bureau"
+      ],
+      "roles": [
+        "Public speaker"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Public speaker, Washington Speakers Bureau"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are provided in the career event data. The supporting quote only confirms the role and organization but contains no temporal information. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Greensill Capital"
+      ],
+      "roles": [
+        "advisor"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2018 he became an advisor to Greensill Capital and held share options in the company"
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote states 'In 2018 he became an advisor to Greensill Capital' which clearly indicates the position started in 2018. The use of past tense 'became' confirms the start year, but there is no information about when this advisory role ended. Without explicit evidence of termination, I cannot assume an end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "New York University Abu Dhabi"
+      ],
+      "roles": [
+        "politics lecturer"
+      ],
+      "time_markers": [
+        "January 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2023, Cameron was assigned to teach politics in a three-week course at New York University Abu Dhabi."
+      ],
+      "time_start": 2023,
+      "time_finish": 2023,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was a specific three-week course in January 2023, not an ongoing position. Since it was a short-term teaching assignment with a defined duration, both start and finish are set to 2023."
+      }
+    },
+    {
+      "organizations": [
+        "House of Lords"
+      ],
+      "roles": [
+        "member",
+        "Baron Cameron of Chipping Norton"
+      ],
+      "time_markers": [
+        "17 November 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "has been a member of the House of Lords since November 2023",
+        "He was created Baron Cameron of Chipping Norton, of Chipping Norton in the County of Oxfordshire on 17 November 2023."
+      ],
+      "time_start": 2023,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started on 17 November 2023 as indicated by the creation of the barony and membership beginning. The phrase 'since November 2023' indicates this is an ongoing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "UK Government",
+        "Foreign, Commonwealth and Development Office"
+      ],
+      "roles": [
+        "Foreign Secretary"
+      ],
+      "time_markers": [
+        "13 November 2023",
+        "5 July 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he served as Foreign Secretary in the government of prime minister Rishi Sunak from 2023 to 2024",
+        "In Rishi Sunak's cabinet reshuffle on 13 November 2023, Cameron was appointed Foreign Secretary"
+      ],
+      "time_start": 2023,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "The time_markers provide specific dates: appointment on 13 November 2023 and end on 5 July 2024. The supporting quotes confirm service 'from 2023 to 2024'. This indicates the position started in 2023 and ended in 2024."
+      }
+    },
+    {
+      "organizations": [
+        "Eton College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "age 13",
+        "1984"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the age of 13, he went on to Eton College in Berkshire",
+        "After leaving Eton in 1984"
+      ],
+      "time_start": 1979,
+      "time_finish": 1984,
+      "metadata": {
+        "timeline_reasoning": "The person left Eton in 1984 (explicitly stated). They entered at age 13, which would be 1984 minus approximately 5 years (typical duration at Eton from age 13-18), giving 1979 as the start year. This aligns with the standard Eton education period."
+      }
+    },
+    {
+      "organizations": [
+        "Brasenose College, Oxford",
+        "University of Oxford"
+      ],
+      "roles": [
+        "student",
+        "BA degree in Philosophy, Politics and Economics"
+      ],
+      "time_markers": [
+        "October 1985",
+        "graduated 1988"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 1985 Cameron began his Bachelor of Arts course in Philosophy, Politics and Economics (PPE) at Brasenose College, Oxford.",
+        "Cameron graduated in 1988 with a first-class BA degree (later promoted to an MA by seniority)."
+      ],
+      "time_start": 1985,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes clearly indicate Cameron began his BA course in October 1985 and graduated in 1988. These are explicit start and end dates for this educational period."
+      }
+    }
+  ]
+}

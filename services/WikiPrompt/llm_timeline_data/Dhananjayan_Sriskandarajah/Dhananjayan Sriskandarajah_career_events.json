@@ -1,0 +1,288 @@
+{
+  "person_name": "Dhananjayan Sriskandarajah",
+  "career_events": [
+    {
+      "organizations": [
+        "James Ruse Agricultural High School"
+      ],
+      "roles": [
+        "student",
+        "school captain"
+      ],
+      "time_markers": [
+        "graduating in 1993"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah was educated at James Ruse Agricultural High School in Carlingford, New South Wales, Australia, graduating in 1993. He was the school captain"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "Error: Extra data: line 6 column 1 (char 738)"
+      }
+    },
+    {
+      "organizations": [
+        "University of Sydney",
+        "Wesley College"
+      ],
+      "roles": [
+        "student",
+        "Bachelor of Economics and Social Science graduate",
+        "resident of Wesley College"
+      ],
+      "time_markers": [
+        "graduated 1998",
+        "resided 1995-1996"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah then attended the University of Sydney, from which he graduated with a Bachelor of Economics and Social Science in 1998.",
+        "During 1995 and 1996, he resided at Wesley College, a residential college within, but separate from, the university."
+      ],
+      "time_start": 1995,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The person resided at Wesley College during 1995-1996 and graduated with a Bachelor of Economics and Social Science in 1998. Since Wesley College residence occurred during their university attendance, 1995 marks the start of their university education, and 1998 marks the completion (graduation year)."
+      }
+    },
+    {
+      "organizations": [
+        "Rhodes Trust"
+      ],
+      "roles": [
+        "Rhodes Scholar"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After becoming the first Asian Australian to win a Rhodes scholarship in 1998"
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The event is a Rhodes scholarship award won in 1998. Since this is an award event rather than an ongoing position, and only a single year is mentioned, both time_start and time_finish are set to 1998. Rhodes scholarships are typically awarded for a specific year (though the actual study period may extend 2-3 years), but the award itself is dated to the year it was won."
+      }
+    },
+    {
+      "organizations": [
+        "Magdalen College",
+        "University of Oxford"
+      ],
+      "roles": [
+        "student",
+        "M.Phil. in international development graduate",
+        "D.Phil. in international development graduate"
+      ],
+      "time_markers": [
+        "after 1998"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah then matriculated to Magdalen College, a constituent college of the University of Oxford, to read for an M.Phil. and then a D.Phil. in international development. His research focused on inequalities and ethnic conflict in Sri Lanka."
+      ],
+      "time_start": 1999,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker indicates 'after 1998', so the earliest start would be 1999. The event describes completing both an M.Phil. and D.Phil., which typically takes 5-7 years combined, but no end date is provided in the available information. Without a specific completion year mentioned, time_finish must be null to remain conservative."
+      }
+    },
+    {
+      "organizations": [
+        "Institute for Public Policy Research"
+      ],
+      "roles": [
+        "Deputy Director"
+      ],
+      "time_markers": [
+        "2004 to 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah held various posts from 2004 to 2009, including Deputy Director of the left-leaning think tank, the Institute for Public Policy Research."
+      ],
+      "time_start": 2004,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2004 to 2009' and supporting quote explicitly state that Sriskandarajah held various posts from 2004 to 2009, including the Deputy Director role at IPPR. This clearly indicates a start year of 2004 and end year of 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Commonwealth Society"
+      ],
+      "roles": [
+        "Director General"
+      ],
+      "time_markers": [
+        "2009 to 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was Director General of the Royal Commonwealth Society, from 2009 to 2012, the youngest ever person and the first non-Briton to head this 140-year-old organisation."
+      ],
+      "time_start": 2009,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2009 to 2012' and supporting quote explicitly state the position was held 'from 2009 to 2012', providing clear start and end years for this role."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Young Global Leader"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, he was named a Young Global Leader by the World Economic Forum."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an award ('Young Global Leader') that was received in 2012. Awards are typically one-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2012, the year the award was conferred."
+      }
+    },
+    {
+      "organizations": [
+        "CIVICUS"
+      ],
+      "roles": [
+        "Secretary General"
+      ],
+      "time_markers": [
+        "January 2013 to December 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the Secretary General of CIVICUS, a global alliance of civil society organisations from January 2013 to December 2018. He was the fourth person to hold this position"
+      ],
+      "time_start": 2013,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states 'January 2013 to December 2018', providing clear start and end dates. This is confirmed by the supporting quote which uses identical phrasing. The position has a definite end date, so it is not ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of High Level Panel on Humanitarian Finance"
+      ],
+      "time_markers": [
+        "2015 to 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was previously a member of the High Level Panel on Humanitarian Finance from 2015 to 2016."
+      ],
+      "time_start": 2015,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2015 to 2016' and the supporting quote confirms 'from 2015 to 2016', clearly indicating the position started in 2015 and ended in 2016."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN Secretary General's High Level Panel on Digital Cooperation"
+      ],
+      "time_markers": [
+        "announced July 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2018, Sriskandarajah was announced as a member of the UN Secretary General's High Level Panel on Digital Cooperation, co-chaired by Jack Ma and Melinda Gates."
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position was announced in July 2018, which marks the start year. High-level panels typically have defined durations, but no end date is mentioned in the provided information. Without explicit evidence of when the panel concluded, time_finish should be set to null rather than assumed."
+      }
+    },
+    {
+      "organizations": [
+        "Oxfam GB"
+      ],
+      "roles": [
+        "Chief Executive"
+      ],
+      "time_markers": [
+        "January 2019 to December 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah was Chief Executive of Oxfam GB from January 2019 to December 2023."
+      ],
+      "time_start": 2019,
+      "time_finish": 2023,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states 'January 2019 to December 2023', indicating the position started in 2019 and ended in 2023. This is confirmed by the supporting quote which uses the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "New Economics Foundation"
+      ],
+      "roles": [
+        "Chief Executive"
+      ],
+      "time_markers": [
+        "appointed January 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was appointed Chief Executive of the New Economics Foundation in January 2024.",
+        "is a Tamil Sri Lankan-born British-Australian activist who is the Chief Executive of the New Economics Foundation."
+      ],
+      "time_start": 2024,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The person was appointed Chief Executive in January 2024. The supporting quotes indicate this is a current position ('is the Chief Executive'), so time_finish is set to null as the role is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Headline Publishing"
+      ],
+      "roles": [
+        "author"
+      ],
+      "time_markers": [
+        "published 2024"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is the author of the 2024 book Power to the People (subtitled 'Use Your Voice, Change the World'), published by Headline."
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is a publication event with a specific publication year of 2024. The book was published in 2024, making both the start and finish of this discrete event the same year. Publications are point-in-time events rather than ongoing positions."
+      }
+    }
+  ]
+}

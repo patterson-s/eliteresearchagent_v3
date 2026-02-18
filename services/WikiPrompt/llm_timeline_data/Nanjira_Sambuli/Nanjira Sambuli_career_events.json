@@ -1,0 +1,444 @@
+{
+  "person_name": "Nanjira Sambuli",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Nairobi"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree in actuarial science graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sambuli holds a bachelor's degree in actuarial science from the University of Nairobi."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms that Sambuli holds a bachelor's degree in actuarial science from the University of Nairobi, but provides no specific years for when the degree program started or when it was completed. Without additional temporal information, I cannot determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Carnegie Endowment for International Peace"
+      ],
+      "roles": [
+        "Fellow in the Technology and International Affairs Program"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira is a Fellow in the Technology and International Affairs Program at The Carnegie Endowment for International Peace"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is a Fellow'), indicating this is a current position, but no specific start year is provided in the available information. While time_finish should be null for an ongoing position, time_start cannot be determined without additional context or dates."
+      }
+    },
+    {
+      "organizations": [
+        "Ford Foundation"
+      ],
+      "roles": [
+        "Ford Global Fellow"
+      ],
+      "event_type": "fellowship",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a Ford Global Fellow."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote 'and a Ford Global Fellow' only confirms the fellowship status but provides no temporal information. No years, time markers, or contextual clues are present in the provided data to determine when this fellowship started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Transform Health Coalition"
+      ],
+      "roles": [
+        "President",
+        "co-Chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also President and co-Chair of the Transform Health Coalition"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is also President and co-Chair'), indicating this is a current position, but no specific start year is provided. While time_finish should be null for ongoing positions, time_start cannot be determined from the available information."
+      }
+    },
+    {
+      "organizations": [
+        "The New Humanitarian"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a board member at The New Humanitarian"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote 'a board member at The New Humanitarian' uses present tense which suggests it may be current, but without explicit time markers, dates, or context indicating when the position started or whether it's ongoing, I cannot determine specific years. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Development Gateway"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Development Gateway"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quotes only mention 'Development Gateway' without any dates, time markers, or context that would indicate when the board member position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Digital Impact Alliance"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and Digital Impact Alliance (DIAL)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions the organization name 'Digital Impact Alliance (DIAL)' without any temporal information, time markers, or context that would indicate when the board member position started or ended. No years or time periods are referenced in the provided data."
+      }
+    },
+    {
+      "organizations": [
+        "Lancet & Financial Times Global Commission"
+      ],
+      "roles": [
+        "Commissioner on Governing Health Futures 2030"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a Commissioner on the Lancet & Financial Times Global Commission (Governing Health Futures 2030)."
+      ],
+      "time_start": null,
+      "time_finish": 2030,
+      "metadata": {
+        "timeline_reasoning": "The commission name 'Governing Health Futures 2030' indicates 2030 as a target end date for the commission's work. However, no start date is mentioned in the supporting quote or event data. The '2030' in the title suggests this is when the commission's mandate concludes, but without explicit start date information, time_start remains null."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "advisory board member for Technology and Social Justice Initiatives"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira also sits on several advisory boards, including the World Economic Forum's Technology and Social Justice Initiatives"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('sits on several advisory boards'), indicating this is a current position, but no specific start year is mentioned in the provided information. Without a concrete year reference, time_start must be null. Since the position appears to be ongoing, time_finish would be null as well."
+      }
+    },
+    {
+      "organizations": [
+        "Alliance for Inclusive Algorithms"
+      ],
+      "roles": [
+        "advisory board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Alliance for Inclusive Algorithms"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quotes only mention the organization name 'Alliance for Inclusive Algorithms' without any dates, time markers, or contextual clues about when this advisory board position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Carnegie Council"
+      ],
+      "roles": [
+        "advisory board member for AI and Equality Initiative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Carnegie Council's AI and Equality Initiative."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions the Carnegie Council's AI and Equality Initiative without any temporal information. No years, time markers, or context indicating when this advisory board position started or whether it is ongoing are provided in the career event data."
+      }
+    },
+    {
+      "organizations": [
+        "Geneva Science and Diplomacy Anticipator (GESDA)"
+      ],
+      "roles": [
+        "Diplomacy Moderator"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Additionally, she is a Diplomacy Moderator at the Geneva Science and Diplomacy Anticipator (GESDA)."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses the present tense 'is a Diplomacy Moderator', indicating this is a current position. However, no specific start year is mentioned in the provided information. While time_finish should be null for an ongoing position, time_start cannot be determined from the available data, so it must also be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "Senior Policy Manager"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira has served as a Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Nanjira 'has served' as Senior Policy Manager, suggesting a past role, but no specific years are mentioned. The quote also mentions a previous role (Digital Equality Advocacy Manager) at the same organization, but without temporal markers or dates, it's impossible to determine accurate start and end years for the Senior Policy Manager position. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "Digital Equality Advocacy Manager"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira has served as a Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this is a previous position ('previously as the Digital Equality Advocacy Manager') but provides no specific years or dates. Without temporal information, I cannot determine when this role started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "iHub"
+      ],
+      "roles": [
+        "Research Lead",
+        "Research Manager"
+      ],
+      "time_markers": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "between 2013 and 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira Sambuli was the former Research Lead and Research Manager at iHub in Nairobi between 2013 and 2016."
+      ],
+      "time_start": 2013,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'between 2013 and 2016', indicating the position started in 2013 and ended in 2016. The time_markers confirm these boundary years, and the use of 'former' and 'between' indicates this is a completed position with clear start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN Secretary General's High Level Panel on Digital Cooperation"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira is a member of the UN Secretary General's High Level Panel on Digital Cooperation",
+        "In 2018, she was invited by António Guterres, the United Nations Secretary General to join the High- Level Panel on Digital Cooperation."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'In 2018, she was invited by António Guterres... to join the High-Level Panel on Digital Cooperation.' The UN High-Level Panel on Digital Cooperation was a specific initiative that ran from 2018 and concluded in 2019 with its final report. However, since only 2018 is mentioned in the available data and we should be conservative, I'm setting both start and finish to 2018 as per guideline 4 for single year mentions."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "deputy on UN Secretary General's High Level Panel for Women's Economic Empowerment"
+      ],
+      "time_markers": [
+        "2016",
+        "2017",
+        "2016–17"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and served as a deputy on the UN Secretary General's High Level Panel for Women's Economic Empowerment (2016–17)."
+      ],
+      "time_start": 2016,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states '(2016–17)' indicating the position ran from 2016 to 2017. The time_markers confirm both years and the range format. The past tense 'served' confirms this position has ended."
+      }
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "leader of Women's Rights Online work"
+      ],
+      "event_type": "project_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sambuli led the Women's Rights Online work at the Web Foundation, that comprises a network of gender and digital rights organisations across Africa, Asia and Latin America."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote uses past tense ('led'), indicating the role has ended, but provides no temporal information to determine when it started or finished. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Umati Project"
+      ],
+      "roles": [
+        "framework developer"
+      ],
+      "event_type": "project_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sambuli developed a framework for accessing the viability, verification and validity of Crowdsourcing, Umati, an online dangerous speech monitoring project."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are mentioned in the supporting quote or career event data. The quote only describes that Sambuli developed a framework for the Umati project but provides no temporal information about when this work occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Innovative Africa"
+      ],
+      "roles": [
+        "editor"
+      ],
+      "event_type": "editorial_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is the editor of Innovative Africa."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote 'She is the editor of Innovative Africa' uses present tense ('is'), suggesting this is a current position. However, no specific start year is provided in the career event data. While time_finish could be set to null to indicate an ongoing role, without any temporal information (no dates, time markers, or context about when this role began), time_start must also be null. Being conservative as instructed, I cannot infer years without explicit evidence."
+      }
+    },
+    {
+      "organizations": [
+        "Daily Nation"
+      ],
+      "roles": [
+        "columnist"
+      ],
+      "event_type": "editorial_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also occasionally writes a column for the Daily Nation newspaper in Kenya and international press."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses the present tense 'writes' and the word 'occasionally', indicating this is an ongoing but intermittent activity. However, no specific start year is mentioned in the provided information. Since the role appears to be current, time_finish should be null, but without any temporal markers or dates to establish when this column writing began, time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "BBC"
+      ],
+      "roles": [
+        "BBC 100 Women honoree"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2019 - She was named in the list of BBC 100 Women."
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (BBC 100 Women) given in a specific year (2019). Awards are typically one-time recognitions that occur in a single year rather than ongoing positions. The supporting quote confirms 'She was named in the list of BBC 100 Women' in 2019, indicating a discrete event."
+      }
+    },
+    {
+      "organizations": [
+        "New African Magazine"
+      ],
+      "roles": [
+        "100 Most Influential Africans honoree"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2016 - She was named one of the New African Magazine's 100 Most Influential Africans"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor given in a specific year (2016). Awards are typically one-time recognitions that occur in a single year rather than ongoing positions. The supporting quote clearly states '2016 - She was named one of the New African Magazine's 100 Most Influential Africans', indicating this honor was bestowed in 2016."
+      }
+    }
+  ]
+}

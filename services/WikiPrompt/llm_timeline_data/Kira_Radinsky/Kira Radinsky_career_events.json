@@ -1,0 +1,312 @@
+{
+  "person_name": "Kira Radinsky",
+  "career_events": [
+    {
+      "organizations": [
+        "Israel Defense Forces",
+        "Unit 8200"
+      ],
+      "roles": [
+        "programmer"
+      ],
+      "time_markers": [
+        "2004-2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2004 and 2007, she served in the Intelligence Unit 8200 as a programmer"
+      ],
+      "time_start": 2004,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2004-2007' and supporting quote 'Between 2004 and 2007, she served in the Intelligence Unit 8200 as a programmer' clearly indicate the position started in 2004 and ended in 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Israel Defense Forces",
+        "Unit 8200"
+      ],
+      "roles": [
+        "Israel Defense Prize recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in 2006 she won the Israel Defense Prize as part of her unit's programming team"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single specific year mentioned (2006). Awards are typically received at a point in time rather than spanning multiple years, so both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Technion"
+      ],
+      "roles": [
+        "PhD student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "While working on her Ph.D. she co-founded a company, SalesPredict",
+        "the intellectual property of her work belongs to Technion"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes mention that she was working on her Ph.D. and co-founded SalesPredict during that time, but no specific years are provided for when the PhD program started or ended. Without concrete temporal information, I cannot determine accurate time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [
+        "SalesPredict"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "event_type": "entrepreneurship",
+      "confidence": "high",
+      "supporting_quotes": [
+        "While working on her Ph.D. she co-founded a company, SalesPredict, based on similar ideas, but with different algorithms"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that SalesPredict was co-founded 'while working on her Ph.D.' but provides no specific years or dates. Without additional temporal information, I cannot determine when this entrepreneurship event started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "MIT Technology Review"
+      ],
+      "roles": [
+        "35 Innovators Under 35 honoree"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2013: Included into the MIT Technology Review's '35 Innovators Under 35' list",
+        "Radinsky gained recognition after being selected by the MIT Technology Review to the '35 Innovators Under 35' list"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor received in 2013. Awards are typically one-time recognitions rather than ongoing positions. The time_markers array contains '2013' and the supporting quotes explicitly state '2013: Included into the MIT Technology Review's '35 Innovators Under 35' list'. Since this is a recognition event that occurred in a specific year rather than an ongoing role, both time_start and time_finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "30 under 30 honoree"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2015 Included into the Forbes '30 under 30' young innovators and entrepreneurs list"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is a '30 under 30' award/honor received in 2015. Awards are typically one-time recognitions that occur in a specific year rather than ongoing positions. The supporting quote clearly states '2015 Included into the Forbes 30 under 30' list, indicating this was a single-year honor."
+      }
+    },
+    {
+      "organizations": [
+        "eBay"
+      ],
+      "roles": [
+        "acquisition of SalesPredict"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "entrepreneurship",
+      "confidence": "high",
+      "supporting_quotes": [
+        "It was acquired by eBay in 2016"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The acquisition event occurred in 2016 as stated in the supporting quote 'It was acquired by eBay in 2016'. An acquisition is a discrete event that happens at a specific point in time, so both time_start and time_finish are set to 2016."
+      }
+    },
+    {
+      "organizations": [
+        "eBay Israel"
+      ],
+      "roles": [
+        "Chief Scientist",
+        "Director of Data Science"
+      ],
+      "time_markers": [
+        "2016-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "where Kira Radinsky worked as chief scientist and the director of data science during 2016–2019",
+        "Former Director of Data Science and Chief Scientist at eBay Israel"
+      ],
+      "time_start": 2016,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2016-2019', and this is corroborated by the supporting quote 'worked as chief scientist and the director of data science during 2016–2019'. The use of 'Former' in the second quote confirms this position has ended. Therefore, time_start is 2016 and time_finish is 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Lady Globes magazine"
+      ],
+      "roles": [
+        "Woman of the Year recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2016 selected as the 'Woman of the Year' by Lady Globes magazine"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2016) mentioned. Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2016."
+      }
+    },
+    {
+      "organizations": [
+        "Diagnostic Robotics"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "entrepreneurship",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Diagnostic Robotics, Tel Aviv, which she co-founded in 2019"
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person co-founded Diagnostic Robotics in 2019. This marks the start year. Since there is no indication that the co-founder role has ended, and entrepreneurship/founding roles typically continue unless explicitly stated otherwise, time_finish is set to null to indicate an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Radinsky is a member of the World Economic Forum"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only states that Radinsky 'is a member' of the World Economic Forum, using present tense, which suggests an ongoing membership. However, no specific start year is provided in the available information. Since the position appears to be current/ongoing, time_finish would be null, but without any temporal markers or dates for when the membership began, time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Young Global Leader"
+      ],
+      "time_markers": [
+        "2021"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the year 2021, she was declared among its 'Young Global Leaders' to be part of the proactive multistakeholder community of the world's next-generation leaders"
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The Young Global Leader designation was awarded in 2021. This is typically an ongoing honorary title and membership in the community rather than a time-limited position, so time_finish is set to null to indicate it remains current."
+      }
+    },
+    {
+      "organizations": [
+        "Diagnostic Robotics"
+      ],
+      "roles": [
+        "Chief Executive Officer"
+      ],
+      "time_markers": [
+        "since end of 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since the end of 2021, Radinsky also is the Chief Executive Officer at Diagnostic Robotics, Tel Aviv"
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since end of 2021' indicates the position started at the end of 2021 and is ongoing. The word 'since' clearly indicates a continuing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Technion"
+      ],
+      "roles": [
+        "visiting professor"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a visiting professor at the Technion",
+        "She is also a visiting professor at Technion teaching the applications of predictive data mining in medicine"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes indicate this is a visiting professor position at Technion, with one quote using present tense ('is also a visiting professor'). However, no specific years are mentioned in the provided information. While the present tense suggests it may be ongoing, without explicit dates or time markers, I cannot determine when this position started or whether it has ended. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Israel Securities Authority"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is a member of the Israel Securities Authority"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is a member'), indicating this is a current position. However, no specific start year is provided in the available information. Following the guideline to be conservative when uncertain, time_start is set to null. Since the position appears to be ongoing, time_finish is set to null as well."
+      }
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "person_name": "David Hugh Alexander Hannay, Baron Hannay of Chiswick",
+  "birth_date": "1935-09-28",
+  "primary_profession": "British diplomat",
+  "career_events": [
+    {
+      "organizations": [
+        "Craigflower Preparatory School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Hannay was born in London and educated at Craigflower Preparatory School"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that Hannay was educated at Craigflower Preparatory School but provides no specific years or time markers. Without additional context about Hannay's birth year or age during attendance, no accurate dates can be determined."
+      }
+    },
+    {
+      "organizations": [
+        "Winchester College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "educated at Craigflower Preparatory School, Winchester College and New College, Oxford"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that the person was educated at Winchester College, but provides no specific years or time markers to determine when this education began or ended. Without additional context such as birth year, graduation year, or other temporal references, it is not possible to accurately determine the time period."
+      }
+    },
+    {
+      "organizations": [
+        "New College, Oxford"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "educated at Craigflower Preparatory School, Winchester College and New College, Oxford"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote. The quote only indicates the person was educated at New College, Oxford as part of their educational progression, but provides no dates or time markers to determine when this occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Foreign and Commonwealth Office"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "time_markers": [
+        "1959"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He entered the Foreign and Commonwealth Office in 1959"
+      ],
+      "time_start": 1959,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'He entered the Foreign and Commonwealth Office in 1959', which clearly indicates the start year as 1959. However, no end date is mentioned in the provided information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "British Embassy Tehran"
+      ],
+      "roles": [
+        "diplomat (initial posting)"
+      ],
+      "time_markers": [
+        "after 1959"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was initially posted to positions in Tehran and Kabul"
+      ],
+      "time_start": 1960,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'after 1959', which means the posting began in 1960 or later. Using 1960 as the earliest possible start year. No end date is provided for this initial posting, and without additional information about duration or when the diplomat left Tehran, time_finish cannot be determined."
+      }
+    },
+    {
+      "organizations": [
+        "British Embassy Kabul"
+      ],
+      "roles": [
+        "diplomat (initial posting)"
+      ],
+      "time_markers": [
+        "after 1959"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was initially posted to positions in Tehran and Kabul"
+      ],
+      "time_start": 1960,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'after 1959', which means the posting began in 1960 or later. Using 1960 as the earliest possible start year. No end date is provided in the available information, and without additional context about when this posting concluded, time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "British Government",
+        "European Economic Community"
+      ],
+      "roles": [
+        "representative in EEC accession discussions"
+      ],
+      "time_markers": [
+        "1965 to early 1970s",
+        "UK entry 1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Starting in 1965 and continuing into the early 1970s, he was a representative of the British government in discussions which led to the United Kingdom's entry into the European Economic Community in 1973"
+      ],
+      "time_start": 1965,
+      "time_finish": 1973,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states the position 'Starting in 1965 and continuing into the early 1970s' with the discussions leading to 'United Kingdom's entry into the European Economic Community in 1973'. Since the role was specifically as a representative in accession discussions that culminated in UK entry in 1973, that year marks the natural conclusion of this particular position. The time_markers confirm '1965 to early 1970s' and 'UK entry 1973'."
+      }
+    },
+    {
+      "organizations": [
+        "Foreign Office London"
+      ],
+      "roles": [
+        "various positions"
+      ],
+      "time_markers": [
+        "1970s",
+        "1980s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He held various positions at the Foreign Office in London during the 1970s and 1980s"
+      ],
+      "time_start": 1970,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person held positions 'during the 1970s and 1980s'. The 1970s span 1970-1979 and the 1980s span 1980-1989. Since they worked across both decades, the most accurate interpretation is time_start: 1970 (beginning of the 1970s) and time_finish: 1989 (end of the 1980s)."
+      }
+    },
+    {
+      "organizations": [
+        "British Embassy Washington DC"
+      ],
+      "roles": [
+        "minister"
+      ],
+      "time_markers": [
+        "1984-1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a minister at the British Embassy in Washington, DC, in 1984–1985"
+      ],
+      "time_start": 1984,
+      "time_finish": 1985,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1984-1985' and supporting quote clearly indicate this position spanned from 1984 to 1985. This is a completed position with defined start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "European Economic Community"
+      ],
+      "roles": [
+        "UK Permanent Representative to the European Union",
+        "ambassador"
+      ],
+      "time_markers": [
+        "1985-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was then promoted to ambassador and permanent representative to the European Economic Community from 1985 to 1990"
+      ],
+      "time_start": 1985,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1985-1990' and the supporting quote confirms 'from 1985 to 1990', providing clear start and end years for this ambassadorial position."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UK Permanent Representative to the United Nations",
+        "ambassador"
+      ],
+      "time_markers": [
+        "1990-1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After that posting he spent the next five years as ambassador and permanent representative to the United Nations"
+      ],
+      "time_start": 1990,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly provides '1990-1995' as the date range, and the supporting quote confirms this was a five-year posting as ambassador and permanent representative to the United Nations. This gives us a clear start year of 1990 and end year of 1995."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Representative for Cyprus"
+      ],
+      "time_markers": [
+        "1996-2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Hannay took on specialised roles such as United Nations Special Representative for Cyprus between 1996 and 2003"
+      ],
+      "time_start": 1996,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1996-2003' and the supporting quote confirms 'between 1996 and 2003', clearly indicating the start year as 1996 and end year as 2003 for this UN position."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN High Level Panel on Threats, Challenges and Change"
+      ],
+      "time_markers": [
+        "reported December 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a member of the UN High Level Panel on Threats, Challenges and Change, reporting to the Secretary-General in December 2004"
+      ],
+      "time_start": null,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The panel reported in December 2004, which indicates when the work concluded. However, no start date is provided in the available information. The phrase 'reporting to the Secretary-General in December 2004' clearly establishes 2004 as the end year, but without information about when the panel was formed or when membership began, time_start must remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Order of St Michael and St George"
+      ],
+      "roles": [
+        "Companion (CMG)"
+      ],
+      "time_markers": [
+        "1981"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981 he was appointed a Companion of the Order of St Michael and St George (CMG)"
+      ],
+      "time_start": 1981,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The CMG is an honor/award that, once conferred, is held for life rather than for a specific term. The supporting quote indicates appointment in 1981, which marks when the honor was received. Since honors like CMG don't have an end date, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Order of St Michael and St George"
+      ],
+      "roles": [
+        "Knight Commander (KCMG)"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in 1986 a Knight Commander (KCMG)"
+      ],
+      "time_start": 1986,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an honor/award (KCMG) conferred in 1986. Such honors are typically held for life once awarded, so time_start is 1986 and time_finish is null as it remains ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Order of St Michael and St George"
+      ],
+      "roles": [
+        "Knight Grand Cross (GCMG)"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in 1995 a Knight Grand Cross (GCMG)"
+      ],
+      "time_start": 1995,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Knight Grand Cross of the Order of St Michael and St George) conferred in 1995. Awards and honors are typically held for life once conferred, so time_start is 1995 and time_finish is null as it remains ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "House of Lords"
+      ],
+      "roles": [
+        "Life Peer",
+        "Baron Hannay of Chiswick",
+        "crossbencher"
+      ],
+      "time_markers": [
+        "created 19 June 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 19 June 2001 he was created a life peer as Baron Hannay of Chiswick, of Bedford Park in the London Borough of Ealing, sitting as a crossbencher"
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position of Life Peer was created on 19 June 2001. Life peerages in the UK House of Lords are appointments for life and do not have an end date unless the peer dies or is removed. Since there is no indication that this peerage has ended, time_finish is set to null, indicating the position is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "University of Birmingham"
+      ],
+      "roles": [
+        "pro-Chancellor"
+      ],
+      "time_markers": [
+        "2001-2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was pro-Chancellor of the University of Birmingham from 2001 to 2006"
+      ],
+      "time_start": 2001,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2001-2006' and supporting quote 'He was pro-Chancellor of the University of Birmingham from 2001 to 2006' clearly indicate the position started in 2001 and ended in 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Order of the Companions of Honour"
+      ],
+      "roles": [
+        "Member (CH)"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2003 he was made a Member of the Order of the Companions of Honour"
+      ],
+      "time_start": 2003,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award was received in 2003. The Order of the Companions of Honour is a lifetime honor that does not expire, so time_finish is null to indicate it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "University of Birmingham"
+      ],
+      "roles": [
+        "Doctor of Letters (Honorary) recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lord Hannay was awarded the honorary degree of Doctor of Letters by the University of Birmingham in 2003"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2003. Honorary degrees are conferred on a specific date rather than representing an ongoing position, so both time_start and time_finish are set to the year of the award."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Association UK"
+      ],
+      "roles": [
+        "chair of the Board"
+      ],
+      "time_markers": [
+        "January 2006 to January 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He chaired the Board of United Nations Association UK from January 2006 to January 2011"
+      ],
+      "time_start": 2006,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states 'January 2006 to January 2011', indicating the position started in 2006 and ended in 2011. This is confirmed by the supporting quote which uses the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "UN All-Party Parliamentary Group"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "current as of source date"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "is now chair of the UN All-Party Parliamentary Group"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates the position is current ('is now chair', 'current as of source date'), so time_finish should be null for an ongoing position. However, no specific year is provided for when the chair position started. Without a source date or any temporal reference point, time_start cannot be determined and must remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Top Level Group for Nuclear Disarmament and Non-proliferation"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "current as of source date"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is currently a member of the Top Level Group for Nuclear Disarmament and Non-proliferation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current as of source date' and the quote uses 'currently', confirming this is an ongoing position. However, no specific start year is provided in the available information. Since the position is current/ongoing, time_finish should be null, and without a determinable start year, time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "Lords International Relations Committee"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "current as of source date"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a member of the Lords International Relations Committee"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current as of source date' which confirms the position is ongoing, but no specific start year is provided in the available information. Without knowing the source date or any mention of when the membership began, time_start cannot be determined. Since the position is current/ongoing, time_finish should be null, but this requires knowing when it started first. Being conservative as instructed, both values are set to null due to insufficient temporal information."
+      }
+    }
+  ]
+}

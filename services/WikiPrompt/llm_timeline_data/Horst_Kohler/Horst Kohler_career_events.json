@@ -1,0 +1,1056 @@
+{
+  "person_name": "Horst Köhler",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Tübingen"
+      ],
+      "roles": [
+        "student",
+        "doctorate graduate in economics and political sciences"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He studied and finally gained a doctorate in economics and political sciences from the University of Tübingen"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only states that the person studied and gained a doctorate from the University of Tübingen, but provides no temporal information about when this occurred. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Tübingen",
+        "Institut für Angewandte Wirtschaftsforschung"
+      ],
+      "roles": [
+        "scientific research assistant"
+      ],
+      "time_markers": [
+        "1969 to 1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he was a scientific research assistant at the Institut für Angewandte Wirtschaftsforschung from 1969 to 1976"
+      ],
+      "time_start": 1969,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1969 to 1976' and the supporting quote confirms 'from 1969 to 1976', providing clear start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "Bundeswehr"
+      ],
+      "roles": [
+        "Leutnant der Reserve (Reserve Lieutenant)"
+      ],
+      "time_markers": [
+        "two years of military service",
+        "left as Reserve Lieutenant"
+      ],
+      "event_type": "military_service",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After two years of military service at a Panzergrenadier battalion in Ellwangen, he left the Bundeswehr as Leutnant der Reserve (Reserve Lieutenant)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "While we know the duration was two years of military service, no specific calendar years are mentioned in the time_markers or supporting quotes. Without additional context about when this service occurred, we cannot determine the actual start or end years."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Economics"
+      ],
+      "roles": [
+        "civil service employee"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler joined the civil service in 1976, when he was employed in the Federal Ministry of Economics"
+      ],
+      "time_start": 1976,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Köhler 'joined the civil service in 1976' at the Federal Ministry of Economics. This gives us a clear start year of 1976. However, no end date is mentioned in the provided information, so we cannot determine when this position ended. Following the conservative approach, time_finish is set to null rather than making an assumption."
+      }
+    },
+    {
+      "organizations": [
+        "Staatskanzlei des Landes Schleswig-Holstein"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981, he was employed in the Staatskanzlei des Landes Schleswig-Holstein (chancellery of the state government of Schleswig-Holstein) under Minister-president Gerhard Stoltenberg"
+      ],
+      "time_start": 1981,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 1981, he was employed' which indicates the start year is 1981. However, no end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Christian Democratic Union (CDU)"
+      ],
+      "roles": [
+        "party member"
+      ],
+      "time_markers": [
+        "1981–2025"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "A member of the CDU from 1981",
+        "Political party: Christian Democratic Union (1981–2025)"
+      ],
+      "time_start": 1981,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1981–2025' and this is corroborated by both supporting quotes. The year 1981 marks when the person became a CDU member, and 2025 indicates when this affiliation ended (not ongoing, as it has a defined end date)."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "head of Stoltenberg's office"
+      ],
+      "time_markers": [
+        "1 October 1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Upon Stoltenberg's recommendation, Köhler was made head of Stoltenberg's office in the Federal Ministry of Finance"
+      ],
+      "time_start": 1982,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1 October 1982' clearly indicates the position started in 1982. No end date is provided in the career event data, so time_finish is set to null as we cannot determine when this position ended based on the available information."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "Director General for financial policy and federal industrial interests"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler rose to Director General for financial policy and federal industrial interests in 1987"
+      ],
+      "time_start": 1987,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The text states 'Köhler rose to Director General... in 1987', indicating 1987 as the start year. No end date is mentioned in the available information, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "Director General for currency and credit"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1989 he became Director General for currency and credit"
+      ],
+      "time_start": 1989,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 1989 he became Director General for currency and credit', which clearly indicates the position started in 1989. However, no end date is mentioned in the provided information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "Secretary of State",
+        "administrative head of the Ministry",
+        "deputy of the Federal Minister of Finance"
+      ],
+      "time_markers": [
+        "1990 to 1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler was Secretary of State in the Federal Ministry of Finance from 1990 to 1993, and as such, the administrative head of the Ministry and the deputy of the Federal Minister of Finance (Theodor Waigel)"
+      ],
+      "time_start": 1990,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array explicitly states '1990 to 1993' and the supporting quote confirms 'Köhler was Secretary of State in the Federal Ministry of Finance from 1990 to 1993'. This provides clear start and end years for the position."
+      }
+    },
+    {
+      "organizations": [
+        "German Government"
+      ],
+      "roles": [
+        "sherpa (personal representative) for Chancellor Helmut Kohl for G7 summits"
+      ],
+      "time_markers": [
+        "during tenure as Secretary of State, 1990-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In that capacity, he served as a 'sherpa' (personal representative) for Chancellor Helmut Kohl, preparing G7 summits and other international economic conferences"
+      ],
+      "time_start": 1990,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_markers explicitly state 'during tenure as Secretary of State, 1990-1993', which clearly indicates this sherpa role was performed during that specific period. The supporting quote confirms this role was performed 'in that capacity' (as Secretary of State), establishing the direct connection between the timeframe and the role."
+      }
+    },
+    {
+      "organizations": [
+        "German Government"
+      ],
+      "roles": [
+        "chief negotiator for the Maastricht Treaty on European Monetary Union"
+      ],
+      "time_markers": [
+        "during tenure as Secretary of State"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In addition, he was chief negotiator for the Maastricht Treaty on European Monetary Union, which led to the creation of the euro as the Union's single currency"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes a role as chief negotiator for the Maastricht Treaty during tenure as Secretary of State, but no specific years are provided in the career event data. While the Maastricht Treaty was negotiated 1991-1992, without explicit confirmation of which person this refers to or their Secretary of State tenure dates in the provided information, I cannot definitively assign years. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Deutscher Sparkassen- und Giroverband"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "1993 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 1993 and 1998 he served as president of the association of savings banks in Germany, Deutscher Sparkassen- und Giroverband"
+      ],
+      "time_start": 1993,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1993 to 1998' and supporting quote 'Between 1993 and 1998 he served as president' clearly indicate the position started in 1993 and ended in 1998."
+      }
+    },
+    {
+      "organizations": [
+        "European Bank for Reconstruction and Development (EBRD)"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "September 1998 to April 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 1998 Köhler was appointed president of the European Bank for Reconstruction and Development",
+        "He was president of the European Bank for Reconstruction and Development from 1998 to 2000"
+      ],
+      "time_start": 1998,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states 'September 1998 to April 2000', and this is corroborated by supporting quotes mentioning '1998 to 2000'. The position started in 1998 and ended in 2000."
+      }
+    },
+    {
+      "organizations": [
+        "International Monetary Fund (IMF)"
+      ],
+      "roles": [
+        "managing director",
+        "chairman of the executive board"
+      ],
+      "time_markers": [
+        "1 May 2000 to 4 March 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler was appointed managing director and chairman of the executive board of the International Monetary Fund (IMF) in 2000",
+        "head of the International Monetary Fund (IMF) from 2000 to 2004"
+      ],
+      "time_start": 2000,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1 May 2000 to 4 March 2004', and this is corroborated by supporting quotes mentioning 'from 2000 to 2004'. The position started in 2000 and ended in 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "President of Germany"
+      ],
+      "time_markers": [
+        "elected 23 May 2004",
+        "inaugurated 1 July 2004",
+        "resigned 31 May 2010"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Horst Köhler was a German politician who served as President of Germany from 2004 to 2010",
+        "Köhler was elected to his first five-year term by the Federal Convention on 23 May 2004 and was subsequently inaugurated on 1 July 2004"
+      ],
+      "time_start": 2004,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The position started in 2004 (inaugurated 1 July 2004) and ended in 2010 (resigned 31 May 2010). Both the time_markers and supporting quotes consistently indicate this timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "President of Germany (second term)"
+      ],
+      "time_markers": [
+        "re-elected 23 May 2009",
+        "sworn in 1 July 2009",
+        "resigned 31 May 2010"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was reelected to a second term on 23 May 2009",
+        "On 23 May 2009, he was re-elected by the Federal Assembly, and was sworn into office for a second term on 1 July 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The second term officially began when sworn in on 1 July 2009 and ended with resignation on 31 May 2010. Both start and end dates are explicitly stated in the time_markers."
+      }
+    },
+    {
+      "organizations": [
+        "Palais-Royal Initiative"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2010 to 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2010 and 2011, Köhler served as member of the Palais-Royal Initiative, a group convened by Michel Camdessus, Alexandre Lamfalussy and Tommaso Padoa-Schioppa to reform the international monetary system"
+      ],
+      "time_start": 2010,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2010 to 2011' and supporting quote 'Between 2010 and 2011, Köhler served as member' clearly indicate the position started in 2010 and ended in 2011."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on the Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2012 to 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2012 to 2013, Köhler served on the UN Secretary-General's High-level Panel on the Post-2015 Development Agenda",
+        "From 2012 to 2013, Köhler served on the United Nations' High-level Panel on the Post-2015 Development Agenda"
+      ],
+      "time_start": 2012,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2012 to 2013' and both supporting quotes confirm 'From 2012 to 2013, Köhler served on the UN Secretary-General's High-level Panel on the Post-2015 Development Agenda'. This clearly indicates the position started in 2012 and ended in 2013."
+      }
+    },
+    {
+      "organizations": [
+        "African Development Bank (AfDB)"
+      ],
+      "roles": [
+        "Special Panel co-chair"
+      ],
+      "time_markers": [
+        "beginning in 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Beginning in 2016, Köhler co-chaired, together with former UN Secretary-General Kofi Annan, a Special Panel of the African Development Bank (AfDB)"
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'beginning in 2016' and supporting quote clearly indicate the position started in 2016. There is no information about when this role ended, and no past tense indicators to suggest it has concluded, so time_finish is set to null indicating it may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "special envoy for Western Sahara"
+      ],
+      "time_markers": [
+        "appointed 2017",
+        "left post 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2017, Köhler was appointed by Secretary-General António Guterres as his new special envoy for Western Sahara, in charge of restarting talks between Morocco and the Polisario independence movement over the disputed territory",
+        "In 2019, he left his post on health grounds"
+      ],
+      "time_start": 2017,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate 'appointed 2017' and 'left post 2019'. This is corroborated by the supporting quotes which state he was appointed in 2017 and left the post in 2019. The position has a definite end date."
+      }
+    },
+    {
+      "organizations": [
+        "University of Tübingen"
+      ],
+      "roles": [
+        "honorary professor"
+      ],
+      "time_markers": [
+        "post-presidency"
+      ],
+      "event_type": "academic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler also worked for numerous charities and non-profit organizations, and held an honorary professorship at the University of Tübingen, his alma mater"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is marked as 'post-presidency' and the quote indicates Köhler 'held' (past tense) an honorary professorship, but no specific years are provided. Without knowing when his presidency ended or when the professorship began/ended, I cannot determine accurate time_start or time_finish values. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Scope Foundation"
+      ],
+      "roles": [
+        "Member of the Honorary Board"
+      ],
+      "time_markers": [
+        "as of 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scope Foundation, Member of the Honorary Board (as of 2020)"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'as of 2020' indicates the person held this position at least by 2020, making it the earliest confirmed year. Since there's no end date mentioned and 'as of' typically indicates a status that continues from that point forward, the position appears to be ongoing, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Aktion Deutschland Hilft (Germany's Relief Coalition)"
+      ],
+      "roles": [
+        "Patron"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Aktion Deutschland Hilft (Germany's Relief Coalition), Patron"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role as 'Patron' of Aktion Deutschland Hilft but contains no dates, time markers, or contextual clues about when this patronage began or ended. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Club of Madrid"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Club of Madrid, Member"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms membership in the Club of Madrid without any dates, time markers, or contextual clues about when this membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Deutsche Nationalstiftung"
+      ],
+      "roles": [
+        "Chairman of the Senate"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Deutsche Nationalstiftung, Chairman of the Senate"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the position and organization but contains no dates, time markers, or contextual clues about when this role began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Friedrich August von Hayek Foundation"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Friedrich August von Hayek Foundation, Member of the Board of Trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the organization and role but contains no dates, time markers, or contextual clues about when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Hermann Kunst-Stiftung zur Förderung der neutestamentlichen Textforschung"
+      ],
+      "roles": [
+        "chairman of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Hermann Kunst-Stiftung zur Förderung der neutestamentlichen Textforschung, chairman of the Board of Trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only mentions the organization name and role title without any dates, time markers, or contextual clues about when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Friede Springer Foundation"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "time_markers": [
+        "as of 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Friede Springer Foundation, Member of the Board of Trustees (as of 2011)"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'as of 2011' indicates the person held this position starting in or by 2011. Since there is no end date mentioned and 'as of' typically indicates a status that continues from that point forward, time_finish is set to null to indicate the position may be ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Konrad Adenauer Foundation (KAS)"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Konrad Adenauer Foundation (KAS), Member of the Board of Trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the organization and role but contains no dates, time markers, or context that would indicate when this board membership started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Wittenberg Center for Global Ethics"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "time_markers": [
+        "as of 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wittenberg Center for Global Ethics, Member of the Board of Trustees (as of 2011)"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'as of 2011' indicates the person held this position at least by 2011, making it the earliest confirmed year. Since there is no end date mentioned and the phrasing suggests the position was current as of the time of documentation, time_finish is set to null to indicate an ongoing or unknown end date."
+      }
+    },
+    {
+      "organizations": [
+        "Emerging Markets Forum (EMF)"
+      ],
+      "roles": [
+        "Co-chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Emerging Markets Forum (EMF), Co-chair"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event data. The supporting quote only mentions the organization and role without any dates, time markers, or temporal context. Without specific year information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Opera Village Africa"
+      ],
+      "roles": [
+        "Honorary Patron"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Opera Village Africa, Honorary Patron"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this honorary patronage began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Lindau Nobel Laureate Meetings"
+      ],
+      "roles": [
+        "Patron of the Horst Köhler Fellowship Programme"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lindau Nobel Laureate Meetings, Patron of the Horst Köhler Fellowship Programme"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quotes or career event data. The role 'Patron of the Horst Köhler Fellowship Programme' at Lindau Nobel Laureate Meetings is stated without any temporal information. Without additional context or time markers, it's impossible to determine when this patronage began or whether it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Stiftung Weltethos (Global Ethics Foundation)"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stiftung Weltethos (Global Ethics Foundation), Member of the Board of Trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the organization name and role, but contains no dates, time markers, or context that would indicate when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Club of Rome"
+      ],
+      "roles": [
+        "Honorary Member"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Club of Rome, Honorary Member"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the honorary membership status but contains no dates or time markers. Honorary memberships are typically ongoing positions, but without a specific start year, both fields must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Tübingen"
+      ],
+      "roles": [
+        "Honorary Senator"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Tübingen, Honorary Senator"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the honorary senator title at University of Tübingen but contains no dates or time markers. Honorary senator titles are typically lifetime honors, but without specific year information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Baden-Württemberg"
+      ],
+      "roles": [
+        "Order of Merit of Baden-Württemberg recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Merit of Baden-Württemberg (2002)"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2002) in both the time_markers array and supporting quote. Awards are typically conferred in a specific year rather than representing an ongoing position, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany (2004) (awarded by virtue of office)"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2004) indicating when the honor was received. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Republic of Austria"
+      ],
+      "roles": [
+        "Grand Decoration of Honour in Gold with Star for Services to the Republic of Austria recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Decoration of Honour in Gold with Star for Services to the Republic of Austria (2003)"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2003) indicating when the honor was received. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Lithuania"
+      ],
+      "roles": [
+        "Order of Vytautas the Great with the Golden Chain recipient"
+      ],
+      "time_markers": [
+        "19 October 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Vytautas the Great with the Golden Chain (19 October 2005)"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '19 October 2005'. Awards are typically conferred on a single date and represent a point-in-time honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Poland"
+      ],
+      "roles": [
+        "Knight of the Order of the White Eagle"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight of the Order of the White Eagle (2005)"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Knight of the Order of the White Eagle) with a single year marker of 2005. Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2005, representing the year the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "Italian Republic"
+      ],
+      "roles": [
+        "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic recipient"
+      ],
+      "time_markers": [
+        "15 March 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic (15 March 2006)"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award was received on 15 March 2006. Awards and honors, particularly prestigious knighthoods like the Knight Grand Cross with Collar, are typically permanent distinctions that do not expire. Therefore, time_start is set to 2006 when the honor was conferred, and time_finish is null as the recipient retains this title indefinitely."
+      }
+    },
+    {
+      "organizations": [
+        "Finland"
+      ],
+      "roles": [
+        "Grand Cross with Collar of the Order of the White Rose of Finland recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross with Collar of the Order of the White Rose of Finland (2007)"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Grand Cross with Collar of the Order of the White Rose of Finland) received in 2007. Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2007, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Netherlands"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of the Netherlands Lion"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand Cross of the Order of the Netherlands Lion (2007)"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Knight Grand Cross) that was received in 2007. Awards and honors are typically conferred at a specific point in time and remain valid indefinitely - the recipient holds the title permanently. Therefore, time_start is 2007 when the award was received, and time_finish is null as the honor continues ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Norway"
+      ],
+      "roles": [
+        "Grand Cross of the Order of St. Olav recipient"
+      ],
+      "time_markers": [
+        "15 October 2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of St. Olav (15 October 2007)"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award (Grand Cross of the Order of St. Olav) with a specific conferral date of 15 October 2007. Awards are typically granted at a single point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Portugal"
+      ],
+      "roles": [
+        "Grand Collar of the Order of Prince Henry recipient"
+      ],
+      "time_markers": [
+        "2 March 2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Collar of the Order of Prince Henry (2 March 2009)"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '2 March 2009'. Awards are typically conferred on a single date and represent a permanent honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2009, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Germany"
+      ],
+      "roles": [
+        "The National German Sustainability Award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: The National German Sustainability Award (2014)"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2014). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Green Budget Germany"
+      ],
+      "roles": [
+        "Adam Smith Prize for Environmental Economic Policy recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: Adam Smith Prize for Environmental Economic Policy (2014), Green Budget Germany"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2014). Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "CARE"
+      ],
+      "roles": [
+        "CARE-Millenniumspreis recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: CARE-Millenniumspreis (2015), in recognition of his service to poverty eradication and work towards a global partnership"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an award (CARE-Millenniumspreis) given in 2015. Awards are typically one-time events that occur in a specific year. The supporting quote clearly states '(2015)' as the year the award was received. Following guideline 4, when only a single year is mentioned for an award event, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "IfW Kiel Institute for the World Economy"
+      ],
+      "roles": [
+        "Global Economy Prize recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: Global Economy Prize (2017), IfW Kiel Institute for the World Economy"
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2017). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2017."
+      }
+    }
+  ]
+}

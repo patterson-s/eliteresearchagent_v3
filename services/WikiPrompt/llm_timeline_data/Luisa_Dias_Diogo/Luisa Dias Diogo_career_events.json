@@ -1,0 +1,488 @@
+{
+  "person_name": "Luísa Dias Diogo",
+  "career_events": [
+    {
+      "organizations": [
+        "Eduardo Mondlane University"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree in economics graduate"
+      ],
+      "time_markers": [
+        "1983"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Diogo studied economics at Eduardo Mondlane University in Maputo. She graduated with a bachelor's degree in 1983."
+      ],
+      "time_start": null,
+      "time_finish": 1983,
+      "metadata": {
+        "timeline_reasoning": "The event describes a bachelor's degree program that concluded in 1983 with graduation. While 1983 is clearly the end date, the start date is not specified. A bachelor's degree typically takes 3-4 years, which would suggest a start around 1979-1980, but without explicit confirmation in the text, it's more conservative to leave time_start as null rather than assume a duration."
+      }
+    },
+    {
+      "organizations": [
+        "School of Oriental and African Studies",
+        "University of London"
+      ],
+      "roles": [
+        "student",
+        "master's degree in financial economics graduate"
+      ],
+      "time_markers": [
+        "1992"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She went on to obtain a master's degree in financial economics at the School of Oriental and African Studies, University of London in 1992."
+      ],
+      "time_start": 1992,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states she 'obtained a master's degree in financial economics... in 1992.' This indicates 1992 is the graduation/completion year. Since only this single year is mentioned and it refers to when the degree was obtained (not when studies began), both time_start and time_finish are set to 1992 following guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "University of London"
+      ],
+      "roles": [
+        "PhD graduate"
+      ],
+      "time_markers": [
+        "24 November 2011"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "PhD( University of London 2011 24 November )"
+      ],
+      "time_start": null,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The date '24 November 2011' indicates when the PhD was completed/awarded. For a PhD graduation event, this is the time_finish. The time_start (when the PhD program began) is not specified in the available information, so it is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Mozambique Finance Ministry"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Diogo began working in the Mozambique Finance Ministry in 1980 while she was still a college student."
+      ],
+      "time_start": 1980,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Diogo began working at the Mozambique Finance Ministry in 1980, establishing a clear start year. However, no end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Mozambique Finance Ministry"
+      ],
+      "roles": [
+        "head of department"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She became head of department in 1986"
+      ],
+      "time_start": 1986,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote 'She became head of department in 1986' indicates the position started in 1986. There is no information about when this position ended, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Mozambique Finance Ministry"
+      ],
+      "roles": [
+        "national budget director"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and national budget director in 1989."
+      ],
+      "time_start": 1989,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1989) is mentioned in the time_markers and supporting quote. Following guideline 4, when only one year is provided, both time_start and time_finish should be set to that year, as this indicates the person held the position during 1989, though the exact duration is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "programme officer in Mozambique"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She then went to work for the World Bank, as the programme officer in Mozambique."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only indicates that 'She then went to work for the World Bank' without any temporal information. Following the conservative approach, both time_start and time_finish are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "FRELIMO",
+        "Government of Mozambique"
+      ],
+      "roles": [
+        "Deputy Minister of Finance"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1994 she joined the FRELIMO government as Deputy Minister of Finance under Mozambican President Joaquim Chissano."
+      ],
+      "time_start": 1994,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates she joined as Deputy Minister of Finance in 1994, which establishes the start year. However, no end date is mentioned in the provided information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Mozambique"
+      ],
+      "roles": [
+        "Minister of Planning and Finance",
+        "Minister of Economy and Finance"
+      ],
+      "time_markers": [
+        "2000-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before becoming prime minister, she was Minister of Planning and Finance, and she continued to hold that post until February 2005.",
+        "Minister of Economy and Finance In office 2000–2005"
+      ],
+      "time_start": 2000,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2000-2005', and this is corroborated by the supporting quote 'Minister of Economy and Finance In office 2000–2005'. Another quote mentions the position was held 'until February 2005', confirming 2005 as the end year. The evidence consistently points to a 2000 start and 2005 finish."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "United Nations Commission on the Private Sector and Development"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2003, United Nations Secretary-General Kofi Annan appointed Diogo to the United Nations Commission on the Private Sector and Development"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2003) is mentioned for this appointment to the UN Commission. The supporting quote indicates this was when Diogo was appointed to the commission. With no information about when the commission membership ended or whether it was ongoing, and following guideline 4 for single-year mentions, both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Mozambique"
+      ],
+      "roles": [
+        "Prime Minister of Mozambique"
+      ],
+      "time_markers": [
+        "17 February 2004 – 16 January 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Luísa Dias Diogo (born 11 April 1958) is a Mozambican politician who served as Prime Minister of Mozambique from February 2004 to January 2010.",
+        "In office 17 February 2004 – 16 January 2010"
+      ],
+      "time_start": 2004,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '17 February 2004 – 16 January 2010', showing the position started in 2004 and ended in 2010. This is corroborated by the supporting quote stating she 'served as Prime Minister of Mozambique from February 2004 to January 2010.'"
+      }
+    },
+    {
+      "organizations": [
+        "British Labour Party"
+      ],
+      "roles": [
+        "international guest speaker at Labour Party Conference"
+      ],
+      "time_markers": [
+        "September 2005"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2005, Diogo was the international guest speaker at the British Labour Party Conference."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The event is a single speaking engagement that occurred in September 2005. Since this is a one-time event rather than an ongoing position, both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, Annan appointed Diogo to co-chair – alongside Shaukat Aziz and Jens Stoltenberg – a High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The event is an appointment to co-chair a High-level Panel in 2006. High-level panels are typically temporary bodies with specific mandates that conclude within the same year or shortly after. Since only 2006 is mentioned and no end date is provided, and given that this is a panel (not a permanent position), it's most accurate to set both start and finish to 2006, indicating the panel operated during that year."
+      }
+    },
+    {
+      "organizations": [
+        "Commission on Effective Development Cooperation with Africa"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "April to October 2008"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also a member of the Commission on Effective Development Cooperation with Africa which was set up by the Prime Minister Anders Fogh Rasmussen of Denmark and held meetings between April and October 2008."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states 'April to October 2008', indicating the commission meetings occurred within a single year. Both the start (April 2008) and finish (October 2008) fall within 2008."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-Level Panel on Global Sustainability"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "August 2010"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In August 2010, UN Secretary-General Ban Ki-moon appointed Diogo to the High-Level Panel on Global Sustainability"
+      ],
+      "time_start": 2010,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in August 2010, establishing 2010 as time_start. No end date is mentioned in the available information, and panel memberships typically have defined terms but without explicit end date information, time_finish should be set to null rather than guessed."
+      }
+    },
+    {
+      "organizations": [
+        "FRELIMO"
+      ],
+      "roles": [
+        "presidential candidate (internal election)"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, Diogo came second to Filipe Nyusi in FRELIMO's elections for candidate in that year's general elections."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The event describes an internal FRELIMO election that occurred in 2014 where Diogo ran as a presidential candidate. This was a specific election event that took place in 2014, not an ongoing position. Since it refers to a discrete electoral campaign and election that concluded in 2014, both start and finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Development Assistance Committee",
+        "High Level Panel on the Future of the Development Assistance Committee"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2016, Diogo was appointed by Erik Solheim, the Chairman of the Development Assistance Committee, to serve on the High Level Panel on the Future of the Development Assistance Committee"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 2016, Diogo was appointed' to serve on the High Level Panel. Only a single year (2016) is mentioned with no indication of when the panel service ended. Following guideline 4, when only a single year is mentioned for an appointment, both time_start and time_finish are set to that year, as panel memberships are typically time-bound rather than ongoing positions."
+      }
+    },
+    {
+      "organizations": [
+        "Absa Bank Mozambique"
+      ],
+      "roles": [
+        "Chairwoman of the Board"
+      ],
+      "time_markers": [
+        "since 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Absa Bank Mozambique, Chairwoman of the Board (since 2012)"
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2012' clearly indicates the position started in 2012. The word 'since' indicates an ongoing position that continues to the present, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "African Union Foundation"
+      ],
+      "roles": [
+        "Member of the Council"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "African Union Foundation, Member of the Council"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote only confirms the position and organization but contains no dates or time references. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Brenthurst Foundation"
+      ],
+      "roles": [
+        "Member of the Advisory Board"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brenthurst Foundation, Member of the Advisory Board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are present in the career event data. The supporting quote only confirms the organization and role but contains no temporal information. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Club de Madrid"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Club de Madrid, Member"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are provided in the career event data. The supporting quote only confirms membership in Club de Madrid without any temporal context. Without specific years mentioned, I cannot determine when this membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Council of Women World Leaders"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Council of Women World Leaders, Member"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are provided in the career event data. The supporting quote only confirms the organization and role but contains no temporal information. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "NOVAFRICA",
+        "Universidade Nova de Lisboa"
+      ],
+      "roles": [
+        "Member of the Advisory Board"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "NOVAFRICA of the Universidade Nova de Lisboa, Member of the Advisory Board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. The career event only mentions the organization (NOVAFRICA of Universidade Nova de Lisboa) and role (Member of the Advisory Board) without any temporal indicators. Following the conservative approach, both time_start and time_finish are set to null."
+      }
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "person_name": "Satish Nambiar",
+  "full_name": "Chenicheri Satish Nambiar",
+  "career_events": [
+    {
+      "organizations": [
+        "Indian Military Academy"
+      ],
+      "roles": [
+        "cadet",
+        "20th regular course graduate"
+      ],
+      "time_markers": [
+        "circa 1954-1956"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was an Under Officer with the National Cadet Corps, and joined the 20th regular course of the Indian Military Academy."
+      ],
+      "time_start": 1954,
+      "time_finish": 1956,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'circa 1954-1956' provides a clear date range for the cadet's attendance at the Indian Military Academy's 20th regular course. The 'circa' indicates approximate dates, but these are the best available years for this educational period. The start year (1954) marks entry as a cadet, and the finish year (1956) marks graduation from the course."
+      }
+    },
+    {
+      "organizations": [
+        "St. Xavier's College, Bombay"
+      ],
+      "roles": [
+        "student",
+        "alumnus"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was educated mostly in Poona (present-day Pune) and Bombay, and is an alumnus of St. Xavier's College, Bombay."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms that the person is an alumnus of St. Xavier's College, Bombay and was educated in Poona and Bombay, but provides no specific years or time markers for when they attended the college. Without additional temporal information, I cannot determine the start or finish years of their education."
+      }
+    },
+    {
+      "organizations": [
+        "National Cadet Corps"
+      ],
+      "roles": [
+        "Under Officer"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was an Under Officer with the National Cadet Corps"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only confirms the role and organization but contains no temporal information. Without additional context about when this National Cadet Corps service occurred, I cannot determine accurate start or finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army",
+        "Maratha Light Infantry"
+      ],
+      "roles": [
+        "commissioned officer",
+        "unit member"
+      ],
+      "time_markers": [
+        "1956-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Branch: Indian Army",
+        "Years of service: 1956–1994",
+        "Unit: Maratha Light Infantry"
+      ],
+      "time_start": 1956,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1956-1994' and this is corroborated by the supporting quote 'Years of service: 1956–1994', which explicitly defines the start and end years of service in the Indian Army."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army"
+      ],
+      "roles": [
+        "participant in Indo-Pakistan War"
+      ],
+      "time_markers": [
+        "1965"
+      ],
+      "event_type": "military_service",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Battles / wars: Indo-Pakistan War of 1965"
+      ],
+      "time_start": 1965,
+      "time_finish": 1965,
+      "metadata": {
+        "timeline_reasoning": "The Indo-Pakistan War of 1965 was a specific historical conflict that occurred in 1965. Since this is participation in a war rather than an ongoing position, and only the single year 1965 is mentioned, both time_start and time_finish are set to 1965 to indicate participation during that year."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army"
+      ],
+      "roles": [
+        "participant in Indo-Pakistan War"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "military_service",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Battles / wars: Indo-Pakistan War of 1971"
+      ],
+      "time_start": 1971,
+      "time_finish": 1971,
+      "metadata": {
+        "timeline_reasoning": "The Indo-Pakistan War of 1971 was a specific military conflict that occurred in 1971. This was a discrete historical event lasting from December 3-16, 1971, so both start and finish are set to 1971 as it began and ended within the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army"
+      ],
+      "roles": [
+        "officer in Operation Cactus-Lilly"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "military_service",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Vir Chakra, for Operation Cactus-Lilly (1971)"
+      ],
+      "time_start": 1971,
+      "time_finish": 1971,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was an award for Operation Cactus-Lilly in 1971. Military operations are typically discrete events occurring within a specific timeframe. Since only one year (1971) is mentioned and this refers to a specific operation rather than an ongoing position, both time_start and time_finish are set to 1971."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army Training Team"
+      ],
+      "roles": [
+        "training team member in Iraq"
+      ],
+      "time_markers": [
+        "1977-1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During 1977-1979, Nambiar was a part of the Indian Army Training team in Iraq."
+      ],
+      "time_start": 1977,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1977-1979' and supporting quote 'During 1977-1979, Nambiar was a part of the Indian Army Training team in Iraq' clearly indicate this position started in 1977 and ended in 1979."
+      }
+    },
+    {
+      "organizations": [
+        "High Commission of India, London"
+      ],
+      "roles": [
+        "Military Adviser"
+      ],
+      "time_markers": [
+        "1983-1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During 1983-1987, he worked as a Military Adviser at the High Commission of India, London."
+      ],
+      "time_start": 1983,
+      "time_finish": 1987,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1983-1987' and supporting quote 'During 1983-1987, he worked as a Military Adviser at the High Commission of India, London' clearly indicate the position started in 1983 and ended in 1987."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army"
+      ],
+      "roles": [
+        "Director General of Military Operations"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also worked as the Director General of Military Operations in India."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms that the person worked as Director General of Military Operations in India, but provides no specific years or time markers to determine when this position started or ended. Without additional temporal information, I cannot accurately determine the time period."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "UNPROFOR"
+      ],
+      "roles": [
+        "Force Commander",
+        "Head of Mission"
+      ],
+      "time_markers": [
+        "1992-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the first Force Commander and Head of Mission of UNPROFOR, the United Nations Protection Force in the former Yugoslavia during 1992–1993.",
+        "Commander UNPROFOR 1992–1993"
+      ],
+      "time_start": 1992,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "Both supporting quotes clearly indicate the position spanned 1992-1993. The time_marker '1992-1993' and the explicit statement 'during 1992–1993' provide high confidence that the role started in 1992 and ended in 1993."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army"
+      ],
+      "roles": [
+        "participant in Yugoslav Wars"
+      ],
+      "time_markers": [
+        "1992-1993"
+      ],
+      "event_type": "military_service",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Battles / wars: Yugoslav Wars"
+      ],
+      "time_start": 1992,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1992-1993' clearly indicates a date range for participation in the Yugoslav Wars. This represents the start year (1992) and end year (1993) of the military service event."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Army"
+      ],
+      "roles": [
+        "Deputy Chief of the Army Staff"
+      ],
+      "time_markers": [
+        "retired 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He retired as the Deputy Chief of the Army Staff (India) in 1994."
+      ],
+      "time_start": null,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The text states he 'retired as the Deputy Chief of the Army Staff (India) in 1994', which clearly indicates 1994 as the end year of this position. However, no information is provided about when he started in this role, so time_start is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of India"
+      ],
+      "roles": [
+        "Vir Chakra recipient"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Vir Chakra, for Operation Cactus-Lilly (1971)"
+      ],
+      "time_start": 1971,
+      "time_finish": 1971,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Vir Chakra) with a single year marker of 1971. Awards are typically conferred in a specific year rather than spanning multiple years. Both time_start and time_finish are set to 1971 as per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "High Level Panel member on Threats, Challenges and Change"
+      ],
+      "time_markers": [
+        "pre-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served on the United Nations High Level Panel on 'Threats, Challenges and Change', which provided basis for the UN Secretary General's report to the 2005 World Summit."
+      ],
+      "time_start": 2003,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The UN High Level Panel on Threats, Challenges and Change was established in 2003 and delivered its report 'A More Secure World: Our Shared Responsibility' in December 2004, which formed the basis for the UN Secretary General's report to the 2005 World Summit. The time_marker 'pre-2005' confirms the panel completed its work before 2005. The typical duration of such high-level UN panels is 1-2 years, and historical records confirm this panel operated from 2003-2004."
+      }
+    },
+    {
+      "organizations": [
+        "Government of India"
+      ],
+      "roles": [
+        "Padma Bhushan recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Padma Bhushan, 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The Padma Bhushan is an award (not a position), which is conferred in a specific year. The time_marker '2009' and supporting quote 'Padma Bhushan, 2009' clearly indicate this award was received in 2009. Since awards are one-time events rather than ongoing positions, both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Institute for Defence Studies and Analyses"
+      ],
+      "roles": [
+        "Distinguished Fellow"
+      ],
+      "time_markers": [
+        "since 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2011, he is a distinguished fellow of the Institute for Defence Studies and Analyses, New Delhi."
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2011' and supporting quote 'Since 2011, he is a distinguished fellow' clearly indicate the position started in 2011. The word 'since' and present tense 'is' indicate this is an ongoing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Centre for Armed Forces Historical Research",
+        "United Service Institution of India"
+      ],
+      "roles": [
+        "author",
+        "co-author of 'For the Honour of India: A History of Indian Peacekeeping'"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Satish Nambiar; Chandar S. Sundaram; Rana Chhina (2009). For the Honour of India: A History of Indian Peacekeeping."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is a publication event with a specific year (2009) mentioned in both time_markers and the supporting quote. Publications occur at a specific point in time, so both time_start and time_finish are set to 2009, representing the year the book was published."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Publications"
+      ],
+      "roles": [
+        "contributing author to UN High-level Panel report"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "UN High-level Panel on Threats, Challenges, and Change (2004). A More Secure World: Our Shared Responsibility"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is a publication event with a specific year (2004) mentioned in both time_markers and the supporting quote. Publications are discrete events that occur in a single year, so both time_start and time_finish are set to 2004."
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "person_name": "Gareth Huw Evans (filmmaker)",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Glamorgan"
+      ],
+      "roles": [
+        "MA in screenwriting graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He graduated from the University of Glamorgan (now the University of South Wales) with an MA in screenwriting."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person graduated with an MA in screenwriting from the University of Glamorgan, but no specific years are mentioned for when the program started or when graduation occurred. Without temporal information, both values should be set to null."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director of Footsteps"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After directing a small-budget film called Footsteps"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "Only one year (2006) is mentioned in the time_markers, and the supporting quote uses past tense ('After directing'), indicating this was a completed film project. For a film director role, which is typically project-based rather than an ongoing position, it's appropriate to set both start and finish to the same year when only one year is provided."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "freelance director for pencak silat documentary"
+      ],
+      "time_markers": [
+        "after Footsteps"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Evans was hired as a freelance director for a documentary about the Indonesian martial art pencak silat."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The only time marker is 'after Footsteps', which is a relative reference to another work without a specific year provided. Without knowing when 'Footsteps' occurred or any other concrete dates in the supporting quotes, I cannot determine specific years for this freelance director position. Being conservative as instructed, I'm setting both values to null."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, editor of Merantau"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Evans cast Uwais in his 2009 film Merantau."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The event describes the creation of the film 'Merantau' in 2009. Film production roles (director, writer, editor) are project-based and tied to the specific year of the film's completion/release. Since only 2009 is mentioned and this represents a completed film project, both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, executive producer, editor, action choreographer of The Raid"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "created an action film called The Raid (2011)"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The event describes the creation of the film 'The Raid' with a specific release year of 2011. Film production roles (director, writer, producer, editor, choreographer) are project-based positions that conclude when the film is completed and released. Since only 2011 is mentioned and this represents a completed film project, both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Toronto International Film Festival"
+      ],
+      "roles": [
+        "Midnight Madness Award winner for The Raid"
+      ],
+      "time_markers": [
+        "November 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2011, The Raid won the Midnight Madness Award at the Toronto International Film Festival in 2011."
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred at a specific point in time. The time_marker 'November 2011' and supporting quote both confirm the award was won in 2011. Awards are typically one-time events, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "co-director (with Timo Tjahjanto), writer, editor of Safe Haven segment in V/H/S/2"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Segment of V/H/S/2 (Co-directed with Timo Tjahjanto)"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is a specific film project (V/H/S/2 segment) with a single year marker of 2013. Film directing/editing work is typically completed within a single year for a specific project, and there's no indication this was an ongoing position. Therefore, both start and finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, editor of The Raid 2"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the larger action film eventually became the basis for its sequel, The Raid 2: Berandal (2014)."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The event describes the director, writer, and editor roles for 'The Raid 2', which was released in 2014 according to the supporting quote. Since this is a film project with a specific release year rather than an ongoing position, both time_start and time_finish are set to 2014, representing the year the work was completed and released."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, producer, editor of Apostle"
+      ],
+      "time_markers": [
+        "started late 2016",
+        "released 12 October 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In late 2016, Evans started working on his next film, Apostle, which stars Dan Stevens. The film was released by Netflix on 12 October 2018."
+      ],
+      "time_start": 2016,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The career event clearly indicates Evans started working on Apostle in late 2016 and the film was released on 12 October 2018. For a film production role (director, writer, producer, editor), the work typically concludes with the film's release, so time_start is 2016 (when work began) and time_finish is 2018 (when the film was released)."
+      }
+    },
+    {
+      "organizations": [
+        "Netflix"
+      ],
+      "roles": [
+        "exclusive deal to produce and direct films"
+      ],
+      "time_markers": [
+        "February 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In February 2021, it was reported that Evans signed an exclusive deal to produce and direct films for Netflix."
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The deal was signed in February 2021 as indicated by the time_marker and supporting quote. Since this is an exclusive deal with Netflix and there is no mention of an end date or termination, it should be considered ongoing, making time_finish null."
+      }
+    },
+    {
+      "organizations": [
+        "Netflix"
+      ],
+      "roles": [
+        "director, writer, producer of Havoc"
+      ],
+      "time_markers": [
+        "filmed 2021",
+        "release date April 25, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His first film under that deal was Havoc, starring Tom Hardy & Forest Whitaker, which was filmed in 2021.",
+        "the film was eventually given a release date of April 25, 2025."
+      ],
+      "time_start": 2021,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The position as director/writer/producer began when filming started in 2021 and concluded with the film's release on April 25, 2025. This represents the complete span of the creative work from production through delivery."
+      }
+    },
+    {
+      "organizations": [
+        "Amazon MGM"
+      ],
+      "roles": [
+        "director, producer of A Colt is My Passport"
+      ],
+      "time_markers": [
+        "principal photography completed later in 2021",
+        "announced September 30, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Later that year, Evans completed principal photography on A Colt is My Passport, a reimagining of the Takashi Nomura 1967 film of the same name."
+      ],
+      "time_start": 2021,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "The career event is the role of director/producer of 'A Colt is My Passport'. The time marker indicates 'principal photography completed later in 2021', which marks the completion of the primary production work. The 2025 announcement date appears to be unrelated to when Evans held this production role. Since principal photography completion in 2021 represents the substantive work period for this specific production role, both time_start and time_finish are set to 2021."
+      }
+    },
+    {
+      "organizations": [
+        "Sky Atlantic",
+        "AMC"
+      ],
+      "roles": [
+        "co-creator, co-writer, co-director, executive producer of Gangs of London"
+      ],
+      "time_markers": [
+        "2020–present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also known for co-creating, co-writing, co-directing, and executive producing the Sky Atlantic/AMC action crime drama television series Gangs of London (2020–present), alongside Matt Flannery"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2020–present' clearly indicates the position started in 2020 and is ongoing. The 'present' designation means the position has not ended, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "relocated from Jakarta, Indonesia to Wales with family"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "personal",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Evans lived in Jakarta, Indonesia with his wife, Maya Barack-Evans, and their daughter, until the family moved back to Wales in 2015."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The event is a relocation that occurred in 2015. Since this is a discrete personal event (moving from one location to another) rather than an ongoing position or role, both time_start and time_finish are set to 2015, representing when the move took place."
+      }
+    }
+  ]
+}

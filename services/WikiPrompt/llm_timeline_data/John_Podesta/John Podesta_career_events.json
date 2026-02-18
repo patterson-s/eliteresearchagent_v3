@@ -1,0 +1,685 @@
+{
+  "person_name": "John Podesta",
+  "career_events": [
+    {
+      "organizations": [
+        "White House",
+        "Biden Administration"
+      ],
+      "roles": [
+        "Senior Advisor to the President for International Climate Policy"
+      ],
+      "time_markers": [
+        "March 6, 2024 – January 20, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Senior Advisor to the President for International Climate Policy In office March 6, 2024 – January 20, 2025"
+      ],
+      "time_start": 2024,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states 'March 6, 2024 – January 20, 2025', indicating the position started in 2024 and ended in 2025. January 20, 2025 marks the end of the Biden Administration term, confirming this is a completed position, not ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Biden Administration"
+      ],
+      "roles": [
+        "Senior Advisor to the President for Clean Energy Innovation and Implementation"
+      ],
+      "time_markers": [
+        "September 2, 2022 – January 20, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Senior Advisor to the President for Clean Energy Innovation and Implementation In office September 2, 2022 – January 20, 2025",
+        "On September 2, 2022, President Joe Biden appointed Podesta as senior advisor to the president for clean energy innovation and implementation"
+      ],
+      "time_start": 2022,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate 'September 2, 2022 – January 20, 2025'. The start year is 2022 when the appointment began, and the end year is 2025 when the position concluded on January 20, 2025 (end of Biden Administration term)."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Obama Administration"
+      ],
+      "roles": [
+        "Counselor to the President"
+      ],
+      "time_markers": [
+        "January 1, 2014 – February 13, 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Counselor to the President In office January 1, 2014 – February 13, 2015"
+      ],
+      "time_start": 2014,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on January 1, 2014 and ended on February 13, 2015. Therefore, time_start is 2014 and time_finish is 2015."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "White House Chief of Staff"
+      ],
+      "time_markers": [
+        "October 20, 1998 – January 20, 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "20th White House Chief of Staff In office October 20, 1998 – January 20, 2001",
+        "In 1998, he became President Clinton's chief of staff in the second Clinton administration and served in the position until the end of Clinton's time in office in January 2001"
+      ],
+      "time_start": 1998,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on October 20, 1998 and ended on January 20, 2001. This is corroborated by the supporting quotes which confirm he became Chief of Staff in 1998 and served until the end of Clinton's presidency in January 2001."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "White House Deputy Chief of Staff for Operations"
+      ],
+      "time_markers": [
+        "January 20, 1997 – October 20, 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "White House Deputy Chief of Staff for Operations In office January 20, 1997 – October 20, 1998"
+      ],
+      "time_start": 1997,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly states 'January 20, 1997 – October 20, 1998', indicating the position started in 1997 and ended in 1998. This is corroborated by the supporting_quotes field which contains the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "White House Staff Secretary"
+      ],
+      "time_markers": [
+        "January 20, 1993 – June 30, 1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "White House Staff Secretary In office January 20, 1993 – June 30, 1995",
+        "Earlier, from January 1993 to 1995, he was assistant to the president, staff secretary and a senior policy adviser"
+      ],
+      "time_start": 1993,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on January 20, 1993 and ended on June 30, 1995. This is corroborated by the supporting quote mentioning 'from January 1993 to 1995'. Therefore, time_start is 1993 and time_finish is 1995."
+      }
+    },
+    {
+      "organizations": [
+        "Center for American Progress"
+      ],
+      "roles": [
+        "founder",
+        "president and CEO"
+      ],
+      "time_markers": [
+        "founded 2003",
+        "president October 24, 2003 – November 1, 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2003, Podesta founded the Center for American Progress, a liberal think tank in Washington, D.C., and served as its president and CEO until he stepped down in 2011"
+      ],
+      "time_start": 2003,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started in 2003 (when founded) and ended in 2011 (stepped down November 1, 2011). The supporting quote confirms 'served as its president and CEO until he stepped down in 2011'."
+      }
+    },
+    {
+      "organizations": [
+        "Center for American Progress"
+      ],
+      "roles": [
+        "chairman of the board",
+        "board member"
+      ],
+      "time_markers": [
+        "2011 – at least August 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta remained chairman of the nonexecutive board of directors for a time",
+        "and remains on the board as of August 2020, although not as chairman"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates the position started in 2011. The supporting quotes confirm the person 'remains on the board as of August 2020', indicating the board membership was ongoing at that time. While the chairman role ended before August 2020, the person continued as a board member, so the overall career event at this organization is still active. Therefore, time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Georgetown University Law Center"
+      ],
+      "roles": [
+        "visiting professor of law",
+        "Distinguished Visitor from Practice"
+      ],
+      "time_markers": [
+        "many times over the years"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as a visiting professor of law at the Georgetown University Law Center",
+        "Podesta has taught at his alma mater, Georgetown University Law Center, many times over the years",
+        "On the Georgetown faculty, Podesta's title is Distinguished Visitor from Practice"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'many times over the years' indicates recurring visits across an unspecified time period, but no specific years are mentioned in any of the supporting quotes or time markers. The phrase suggests an ongoing or intermittent relationship rather than a single continuous appointment, but without concrete dates, both time_start and time_finish must be null."
+      }
+    },
+    {
+      "organizations": [
+        "Hillary Clinton 2016 presidential campaign"
+      ],
+      "roles": [
+        "campaign chairman"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was chairman of Hillary Clinton's 2016 presidential campaign"
+      ],
+      "time_start": 2015,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "Hillary Clinton's 2016 presidential campaign officially ran from April 2015 to November 2016. While only '2016' is mentioned in the time_markers, this refers to the election year. As campaign chairman, the role would have started when the campaign launched in 2015 and ended when the campaign concluded in 2016 after the election."
+      }
+    },
+    {
+      "organizations": [
+        "Obama Presidential Transition Team"
+      ],
+      "roles": [
+        "co-chairman"
+      ],
+      "time_markers": [
+        "2008-2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Additionally, he was a co-chairman of the Obama transition team"
+      ],
+      "time_start": 2008,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2008-2009' clearly indicates a range from 2008 to 2009. This aligns with the historical context of the Obama Presidential Transition Team, which operated between Obama's election in November 2008 and his inauguration in January 2009, extending through the early transition period of 2009."
+      }
+    },
+    {
+      "organizations": [
+        "U.S. Department of Justice"
+      ],
+      "roles": [
+        "trial attorney, Honors Program, Land and Natural Resources Division"
+      ],
+      "time_markers": [
+        "1976–1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta worked as a trial attorney for the Department of Justice's Honors Program in the Land and Natural Resources Division (1976–77)"
+      ],
+      "time_start": 1976,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1976–1977' and the supporting quote confirms 'Podesta worked as a trial attorney for the Department of Justice's Honors Program in the Land and Natural Resources Division (1976–77)'. This shows the position started in 1976 and ended in 1977."
+      }
+    },
+    {
+      "organizations": [
+        "ACTION (Federal volunteer agency)"
+      ],
+      "roles": [
+        "Special Assistant to the Director"
+      ],
+      "time_markers": [
+        "1978–1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and as a Special Assistant to the Director of ACTION, the Federal volunteer agency (1978–79)"
+      ],
+      "time_start": 1978,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1978–1979' clearly indicates the position started in 1978 and ended in 1979. This is confirmed by the supporting quote which states the same date range (1978–79)."
+      }
+    },
+    {
+      "organizations": [
+        "U.S. Senate"
+      ],
+      "roles": [
+        "Counselor to Democratic Leader Senator Thomas Daschle"
+      ],
+      "time_markers": [
+        "1995–1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta held positions on Capitol Hill, including Counselor to Democratic Leader Senator Thomas Daschle (1995–96)"
+      ],
+      "time_start": 1995,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1995–1996' clearly indicates the position started in 1995 and ended in 1996. This is corroborated by the supporting quote which states '(1995–96)' for the role of Counselor to Senator Thomas Daschle."
+      }
+    },
+    {
+      "organizations": [
+        "Senate Agriculture Committee"
+      ],
+      "roles": [
+        "Chief Counsel"
+      ],
+      "time_markers": [
+        "1987–1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chief Counsel for the Senate Agriculture Committee (1987–88)"
+      ],
+      "time_start": 1987,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1987–1988' and supporting quote 'Chief Counsel for the Senate Agriculture Committee (1987–88)' clearly indicate the position started in 1987 and ended in 1988."
+      }
+    },
+    {
+      "organizations": [
+        "Senate Judiciary Committee"
+      ],
+      "roles": [
+        "Counsel on the Majority Staff"
+      ],
+      "time_markers": [
+        "1979–1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and Counsel on the Majority Staff of the Senate Judiciary Committee (1979–81)"
+      ],
+      "time_start": 1979,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1979–1981', showing this position started in 1979 and ended in 1981. This is corroborated by the supporting quote which states '(1979–81)'."
+      }
+    },
+    {
+      "organizations": [
+        "Podesta Associates, Inc.",
+        "Podesta Group"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1988, he and his brother Tony co-founded Podesta Associates, Inc., a Washington, D.C., 'government relations and public affairs' lobbying firm. Now known as the Podesta Group"
+      ],
+      "time_start": 1988,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the company was co-founded in 1988. The text mentions 'Now known as the Podesta Group,' suggesting the organization continues to exist (possibly under a different name). There is no indication of when the co-founder role ended, so time_finish is set to null to indicate an ongoing or unspecified end date."
+      }
+    },
+    {
+      "organizations": [
+        "Constitution Project"
+      ],
+      "roles": [
+        "member of bipartisan Liberty and Security Committee"
+      ],
+      "time_markers": [
+        "2002 to 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2002 to 2014, Podesta served as a member of the Constitution Project's bipartisan Liberty and Security Committee"
+      ],
+      "time_start": 2002,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2002 to 2014' and the supporting quote confirms 'From 2002 to 2014, Podesta served as a member'. This clearly indicates the position started in 2002 and ended in 2014."
+      }
+    },
+    {
+      "organizations": [
+        "University Philosophical Society"
+      ],
+      "roles": [
+        "honorary patron"
+      ],
+      "time_markers": [
+        "March 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta became an honorary patron of the University Philosophical Society in March 2006"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates Podesta became an honorary patron in March 2006. Honorary patronages are typically ongoing positions without a defined end date unless explicitly stated otherwise. Since no end date is mentioned, time_finish is set to null to indicate the position may still be current or has an unknown end date."
+      }
+    },
+    {
+      "organizations": [
+        "Knox College"
+      ],
+      "roles": [
+        "emeritus member of Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta is an emeritus member of the Knox College Board of Trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The term 'emeritus' indicates this is a former position that has ended, but no specific years are provided in the supporting quote or event data. While we know the active board membership has concluded (hence the emeritus status), without concrete dates, both time_start and time_finish must be set to null following the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Joule Unlimited"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "since January 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta has served on the board of directors of Bedford, Massachusetts–based energy company Joule Unlimited since January 2011"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since January 2011' indicates the position started in 2011 and is ongoing. The word 'since' clearly signals a continuing position with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Equilibrium Capital"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has also served on the board of the Portland, Oregon-based Equilibrium Capital"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('has also served'), indicating the board position has ended, but no specific years are mentioned for when it started or finished. Without concrete temporal information, both values should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "HJW Foundation"
+      ],
+      "roles": [
+        "consultant"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2013, Podesta earned $90,000 as a consultant to the West Chester, Pennsylvania-based HJW Foundation"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2013) is mentioned in the time_markers and supporting quote. The quote states 'In 2013, Podesta earned $90,000 as a consultant,' which refers to earnings in that specific year. Without evidence of the position extending beyond 2013, both time_start and time_finish are set to 2013 per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "U.S. representative to the UN High-Level Panel on the Post-2015 Development Agenda"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the U.S. representative to the UN High-Level Panel on the Post-2015 Development Agenda"
+      ],
+      "time_start": 2012,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The UN High-Level Panel on the Post-2015 Development Agenda was established in July 2012 and completed its work in May 2013 when it submitted its final report. This was a specific time-bound panel with a defined mandate period."
+      }
+    },
+    {
+      "organizations": [
+        "The Washington Post"
+      ],
+      "roles": [
+        "contributing columnist"
+      ],
+      "time_markers": [
+        "after the 2016 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the 2016 election, Podesta joined The Washington Post as a columnist"
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'after the 2016 election' indicates the position started in 2016 (the election occurred in November 2016, so the position likely began in late 2016 or shortly after). No end date is mentioned in the supporting quote or time markers, suggesting this is an ongoing position, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "China–United States Exchange Foundation"
+      ],
+      "roles": [
+        "steering committee member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta also sits on the steering committee of the China–United States Exchange Foundation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('sits on the steering committee'), suggesting this is a current position, but no specific start year is provided. Without a definite start date, and following the conservative approach when uncertain, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "George McGovern presidential campaign"
+      ],
+      "roles": [
+        "campaign staff"
+      ],
+      "time_markers": [
+        "1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His political career began in 1972, when he worked for George McGovern's unsuccessful presidential campaign"
+      ],
+      "time_start": 1972,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1972) is mentioned in the time_markers and supporting quote. The McGovern presidential campaign occurred in 1972, and campaign staff positions are typically limited to the election year. Following guideline 4, both time_start and time_finish are set to 1972."
+      }
+    },
+    {
+      "organizations": [
+        "Joseph Duffey Senate campaign"
+      ],
+      "roles": [
+        "campaign worker"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta met Bill Clinton in 1970 when they worked in Connecticut for Joseph Duffey, a candidate for the United States Senate"
+      ],
+      "time_start": 1970,
+      "time_finish": 1970,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1970) is mentioned in the time_markers and supporting quote. This refers to working on Joseph Duffey's Senate campaign, which would have been a time-bound event occurring during the 1970 election cycle. Following guideline 4, when only a single year is mentioned, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Eugene McCarthy presidential campaign"
+      ],
+      "roles": [
+        "volunteer"
+      ],
+      "time_markers": [
+        "while at Knox College, graduated 1971"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1971, he graduated from Knox College in Galesburg, Illinois, where he had served as a volunteer for the presidential candidacy of Eugene McCarthy"
+      ],
+      "time_start": 1968,
+      "time_finish": 1968,
+      "metadata": {
+        "timeline_reasoning": "Eugene McCarthy's presidential campaign occurred in 1968. The person graduated from Knox College in 1971, meaning they were a student there during 1968. The volunteer work happened 'while at Knox College,' which aligns with McCarthy's 1968 presidential run. Both time_start and time_finish are set to 1968 as presidential campaigns are typically single-year events."
+      }
+    },
+    {
+      "organizations": [
+        "Knox College"
+      ],
+      "roles": [
+        "student",
+        "BA graduate"
+      ],
+      "time_markers": [
+        "graduated 1971"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1971, he graduated from Knox College in Galesburg, Illinois"
+      ],
+      "time_start": 1967,
+      "time_finish": 1971,
+      "metadata": {
+        "timeline_reasoning": "The event indicates graduation from Knox College in 1971 with a BA degree. A typical undergraduate degree takes 4 years, so the start year would be approximately 1967. The time_finish is definitively 1971 based on the graduation year stated in the supporting quote."
+      }
+    },
+    {
+      "organizations": [
+        "Georgetown University Law Center"
+      ],
+      "roles": [
+        "law student",
+        "JD graduate"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He received his J.D. from Georgetown University Law Center in 1976"
+      ],
+      "time_start": 1973,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "The event indicates a J.D. graduation from Georgetown University Law Center in 1976. A J.D. program typically takes 3 years to complete, so the start year would be 1973. The time_finish is 1976 when the degree was received."
+      }
+    },
+    {
+      "organizations": [
+        "Lane Tech High School"
+      ],
+      "roles": [
+        "student",
+        "graduate"
+      ],
+      "time_markers": [
+        "1967"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1967, Podesta graduated from Lane Tech High School in Chicago"
+      ],
+      "time_start": null,
+      "time_finish": 1967,
+      "metadata": {
+        "timeline_reasoning": "The event describes graduation from high school in 1967. This is the completion/end year of the education period. While high school typically spans 4 years (suggesting a start around 1963-1964), only the graduation year 1967 is explicitly stated in the evidence. Following the conservative approach, time_start is set to null since it's not explicitly mentioned, while time_finish is set to 1967 as the confirmed graduation year."
+      }
+    }
+  ]
+}

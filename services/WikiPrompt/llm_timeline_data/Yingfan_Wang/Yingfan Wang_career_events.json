@@ -1,0 +1,157 @@
+{
+  "person_name": "Wang Yingfan",
+  "personal_details": {
+    "birth_date": "April 1942",
+    "birthplace": "Inner-Mongolia Autonomous Region, People's Republic of China",
+    "nationality": "Chinese",
+    "political_party": "Chinese Communist Party"
+  },
+  "career_events": [
+    {
+      "organizations": [
+        "Beijing Foreign Studies University"
+      ],
+      "roles": [
+        "student",
+        "graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wang graduated from Beijing Foreign Studies University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that Wang graduated from Beijing Foreign Studies University, but provides no specific year information. Without additional context about when the graduation occurred or the duration of study, I cannot determine accurate time_start or time_finish years. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "People's Republic of China",
+        "Philippines"
+      ],
+      "roles": [
+        "Chinese Ambassador to the Philippines"
+      ],
+      "time_markers": [
+        "1985 to 1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also the Chinese Ambassador to the Philippines from 1985 to 1990."
+      ],
+      "time_start": 1985,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1985 to 1990' and supporting quote explicitly state the ambassadorship was 'from 1985 to 1990', providing clear start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "People's Republic of China"
+      ],
+      "roles": [
+        "Permanent Representative of China to the United Nations",
+        "Ambassador"
+      ],
+      "time_markers": [
+        "October 2000 to June 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wang Yingfan is a Chinese diplomat who served as Permanent Representative of China to the United Nations from 2000 to 2003.",
+        "Wang served as Permanent Representative of China to the United Nations from 2000 to 2003.",
+        "In office October 2000 – June 2003"
+      ],
+      "preceded_by": "Qin Huasun",
+      "succeeded_by": "Wang Guangya",
+      "time_start": 2000,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate 'October 2000 to June 2003', and this is corroborated by multiple supporting quotes stating the position was held 'from 2000 to 2003'. The start year is 2000 and the end year is 2003."
+      }
+    },
+    {
+      "organizations": [
+        "National People's Congress Foreign Affairs Committee"
+      ],
+      "roles": [
+        "Vice-Chairman"
+      ],
+      "time_markers": [
+        "2003 to 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wang was Vice-Chairman of the National People's Congress Foreign Affairs Committee from 2003 to 2008."
+      ],
+      "time_start": 2003,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2003 to 2008' and the supporting quote confirms 'Wang was Vice-Chairman of the National People's Congress Foreign Affairs Committee from 2003 to 2008.' This clearly indicates the position started in 2003 and ended in 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Standing Committee of the 10th National People's Congress"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [
+        "approximately 2003-2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Members of the Standing Committee of the 10th National People's Congress"
+      ],
+      "time_start": 2003,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'approximately 2003-2008' provides a clear date range for this position. The 10th National People's Congress of China officially served from 2003 to 2008, which aligns with the approximate dates given. This is a fixed-term legislative body with well-documented start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Preparatory Committee for the Hong Kong Special Administrative Region"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Members of the Preparatory Committee for the Hong Kong Special Administrative Region"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The Preparatory Committee for the Hong Kong Special Administrative Region was established in January 1996 and completed its work when Hong Kong was transferred to China on July 1, 1997. This committee had a specific mandate to prepare for the handover, making these dates definitive for membership duration."
+      }
+    },
+    {
+      "organizations": [
+        "International Commission on Nuclear Non-proliferation and Disarmament"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Commissioners - International Commission on Nuclear Non-proliferation and Disarmament"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this commissioner position was held. Following the conservative approach guideline, both time_start and time_finish are set to null."
+      }
+    }
+  ]
+}

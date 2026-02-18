@@ -12,6 +12,8 @@ from pathlib import Path
 from typing import List, Dict, Any
 import anthropic
 from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 
 def construct_timeline_prompt(event: Dict[str, Any]) -> str:
     """Construct a prompt to extract timeline data from a single career event."""
@@ -102,9 +104,7 @@ def enhance_file_with_llm(input_path: Path, output_path: Path, api_key: str) -> 
         
         # Process each career event with LLM
         if 'career_events' in enhanced_data:
-            for i, event in enumerate(enhanced_data['career_events']):
-                print(f"  Processing event {i+1}/{len(enhanced_data['career_events'])}")
-                
+            for event in enhanced_data['career_events']:
                 # Extract timeline data using LLM
                 timeline = extract_timeline_with_llm(event, api_key)
                 
@@ -127,8 +127,8 @@ def enhance_file_with_llm(input_path: Path, output_path: Path, api_key: str) -> 
         print(f"Error enhancing file: {e}")
         return False
 
-def enhance_directory_with_llm(input_dir: Path, output_dir: Path = None, api_key: str = None) -> None:
-    """Enhance all career events files in a directory using LLM."""
+def enhance_directory_with_llm(input_dir: Path, output_dir: Path = None, api_key: str = None, workers: int = 6) -> None:
+    """Enhance all career events files in a directory using LLM with parallel processing."""
     
     if output_dir is None:
         output_dir = input_dir / "llm_enhanced"
@@ -147,29 +147,55 @@ def enhance_directory_with_llm(input_dir: Path, output_dir: Path = None, api_key
     json_files = list(input_dir.rglob("*_career_events.json"))
     
     print(f"Found {len(json_files)} career events files to enhance with LLM")
-    print("This may take a while as each event requires an API call...\n")
+    print(f"Using {workers} parallel workers for faster processing...\n")
     
     success_count = 0
     error_count = 0
+    start_time = time.time()
     
-    for i, json_file in enumerate(json_files, 1):
-        print(f"Processing file {i}/{len(json_files)}: {json_file.name}")
+    # Process files in parallel
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        # Submit all file enhancement tasks
+        future_to_file = {}
+        for json_file in json_files:
+            # Create output path properly
+            relative_path = json_file.relative_to(input_dir)
+            output_file = output_dir / relative_path
+            output_file.parent.mkdir(parents=True, exist_ok=True)  # Ensure directory exists
+            
+            future = executor.submit(enhance_file_with_llm, json_file, output_file, api_key)
+            future_to_file[future] = (json_file, output_file)
         
-        # Create relative path in output directory
-        relative_path = json_file.relative_to(input_dir)
-        output_file = output_dir / relative_path
-        output_file.parent.mkdir(parents=True, exist_ok=True)
-        
-        if enhance_file_with_llm(json_file, output_file, api_key):
-            success_count += 1
-            print(f"  ✓ Enhanced: {json_file.name}")
-        else:
-            error_count += 1
-            print(f"  ✗ Failed: {json_file.name}")
+        # Process results as they complete
+        completed = 0
+        for future in as_completed(future_to_file):
+            completed += 1
+            json_file, output_file = future_to_file[future]
+            
+            try:
+                if future.result():
+                    success_count += 1
+                    print(f"✓ Completed {completed}/{len(json_files)}: {json_file.name}")
+                else:
+                    error_count += 1
+                    print(f"✗ Failed {completed}/{len(json_files)}: {json_file.name}")
+            except Exception as e:
+                error_count += 1
+                print(f"✗ Error {completed}/{len(json_files)}: {json_file.name} - {str(e)}")
+            
+            # Show ETA after first few completions
+            if completed >= 3:
+                elapsed = time.time() - start_time
+                remaining = (len(json_files) - completed) * (elapsed / completed)
+                print(f"  ETA: {remaining:.0f} seconds remaining")
+    
+    # Calculate duration
+    duration = time.time() - start_time
     
     print(f"\nLLM Enhancement Complete:")
     print(f"  Success: {success_count}")
     print(f"  Failed: {error_count}")
+    print(f"  Time taken: {duration:.1f} seconds")
     print(f"  Results saved to: {output_dir}")
 
 def enhance_specific_file_with_llm(input_path: Path, output_path: Path = None, api_key: str = None) -> None:
@@ -200,15 +226,17 @@ if __name__ == "__main__":
     parser.add_argument('--file', type=Path, help='Enhance a specific JSON file')
     parser.add_argument('--directory', type=Path, help='Enhance all JSON files in a directory')
     parser.add_argument('--output', type=Path, help='Output directory (for directory mode)')
+    parser.add_argument('--workers', type=int, default=6, help='Number of parallel workers (default: 6)')
     
     args = parser.parse_args()
     
     if args.file:
         enhance_specific_file_with_llm(args.file)
     elif args.directory:
-        enhance_directory_with_llm(args.directory, args.output)
+        enhance_directory_with_llm(args.directory, args.output, workers=args.workers)
     else:
         print("Usage:")
         print("  python extract_timeline_with_llm.py --file path/to/file.json")
         print("  python extract_timeline_with_llm.py --directory path/to/batch_outputs")
         print("  python extract_timeline_with_llm.py --directory path/to/input --output path/to/output")
+        print("  python extract_timeline_with_llm.py --directory path/to/input --workers 6")

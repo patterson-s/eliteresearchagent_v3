@@ -1,0 +1,454 @@
+{
+  "person_name": "Elvira Nabiullina",
+  "career_events": [
+    {
+      "organizations": [
+        "Moscow State University"
+      ],
+      "roles": [
+        "student",
+        "graduate of Faculty of Economics"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nabiullina graduated from school No. 31 of Ufa, followed by the Moscow State University Faculty of Economics in 1986."
+      ],
+      "time_start": 1981,
+      "time_finish": 1986,
+      "metadata": {
+        "timeline_reasoning": "The event indicates graduation from Moscow State University Faculty of Economics in 1986. A typical undergraduate economics program in the Soviet Union lasted 5 years, so the start year would be 1981. The time_finish is 1986 when she graduated."
+      }
+    },
+    {
+      "organizations": [
+        "Yale University"
+      ],
+      "roles": [
+        "Yale World Fellows program participant"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In subsequent years, she was selected for the 2007 Yale World Fellows program."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The Yale World Fellows program is a four-month fellowship program that takes place within a single academic year. Since the person was selected for the 2007 program, both start and finish are set to 2007, as this represents a time-bound award/fellowship rather than an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "USSR Science and Industry Union",
+        "Russian Union of Industrialists and Entrepreneurs"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "1991-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 1991 and 1994, Nabiullina worked at the USSR Science and Industry Union and its successor, the Russian Union of Industrialists and Entrepreneurs."
+      ],
+      "time_start": 1991,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1991-1994' and supporting quote 'Between 1991 and 1994' clearly indicate this position started in 1991 and ended in 1994. The person worked at both organizations during this period, with one being the successor of the other."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry for Economic Development and Trade"
+      ],
+      "roles": [
+        "employee",
+        "deputy minister"
+      ],
+      "time_markers": [
+        "1994-1998",
+        "deputy minister by 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1994, she moved to the Ministry for Economic Development and Trade, where she rose to the level of deputy minister by 1997; she left the ministry in 1998."
+      ],
+      "time_start": 1994,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In 1994, she moved to the Ministry for Economic Development and Trade' (start year) and 'she left the ministry in 1998' (end year). The time_marker '1994-1998' confirms this range. The promotion to deputy minister by 1997 occurred within this employment period but does not change the overall start/end dates of the position at the ministry."
+      }
+    },
+    {
+      "organizations": [
+        "Sberbank"
+      ],
+      "roles": [
+        "chief executive"
+      ],
+      "time_markers": [
+        "1998-2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She spent the next two years with Sberbank as its chief executive"
+      ],
+      "time_start": 1998,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1998-2000' clearly indicates a two-year period, and the supporting quote 'spent the next two years with Sberbank as its chief executive' confirms this was a completed position spanning from 1998 to 2000."
+      }
+    },
+    {
+      "organizations": [
+        "Center for Strategic Development"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "1998-2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She spent the next two years with Sberbank as its chief executive and with former Economic Development and Trade Minister German Gref's non-governmental think tank, the Center for Strategic Development"
+      ],
+      "time_start": 1998,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly provides '1998-2000' as the date range for this position at the Center for Strategic Development. This clearly indicates the position started in 1998 and ended in 2000."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry for Economic Development and Trade"
+      ],
+      "roles": [
+        "first deputy minister"
+      ],
+      "time_markers": [
+        "2000-2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "before returning to the Ministry for Economic Development and Trade as first deputy in 2000."
+      ],
+      "time_start": 2000,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2000-2007' clearly indicates a range, and the supporting quote confirms the position started in 2000 ('returning to the Ministry... as first deputy in 2000'). The end year 2007 is explicitly provided in the time_marker range."
+      }
+    },
+    {
+      "organizations": [
+        "Center for Strategic Development"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "2003-2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2003 and her September 2007 appointment as minister, she chaired the Center for Strategic Development"
+      ],
+      "time_start": 2003,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'Between 2003 and her September 2007 appointment as minister, she chaired the Center for Strategic Development', indicating the position started in 2003 and ended in 2007 when she was appointed minister."
+      }
+    },
+    {
+      "organizations": [
+        "G8 Russian Presidency"
+      ],
+      "roles": [
+        "advisory committee member"
+      ],
+      "time_markers": [
+        "2003-2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2003 and her September 2007 appointment as minister, she chaired the Center for Strategic Development as well as an advisory committee preparing for Russia's 2006 presidency of the G8."
+      ],
+      "time_start": 2003,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2003-2006' directly indicates the duration of this advisory committee role. The supporting quote confirms this timeframe by stating the person served on 'an advisory committee preparing for Russia's 2006 presidency of the G8' between 2003 and September 2007. Since Russia's G8 presidency was in 2006, the advisory committee work would have concluded by 2006, aligning with the time_marker range."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Economic Development"
+      ],
+      "roles": [
+        "Minister of Economic Development and Trade"
+      ],
+      "time_markers": [
+        "24 September 2007 - 21 May 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Russian President Putin appointed Nabiullina to the post of minister of economic development and trade on 24 September 2007, replacing Gref.",
+        "remained in that position until 21 May 2012."
+      ],
+      "time_start": 2007,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 24 September 2007 and ended on 21 May 2012. This is confirmed by the supporting quotes stating the appointment date and that she 'remained in that position until 21 May 2012.'"
+      }
+    },
+    {
+      "organizations": [
+        "Russian Federation"
+      ],
+      "roles": [
+        "1st class Active State Councillor of the Russian Federation"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has the federal state civilian service rank of 1st class Active State Councillor of the Russian Federation."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this is a rank/title that the person holds ('has the federal state civilian service rank'), suggesting it is current. However, no specific years are mentioned in the time_markers or supporting quotes to determine when this rank was awarded or achieved. Since this is a civil service rank that typically remains once achieved (rather than a time-bound position), and no temporal information is provided, both time_start and time_finish are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Office of the President of Russia"
+      ],
+      "roles": [
+        "Aide to the President of Russia",
+        "Assistant to President Putin for Economic Affairs"
+      ],
+      "time_markers": [
+        "22 May 2012 - 24 June 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From May 2012 to June 2013, she served as Assistant to President Putin for Economic Affairs."
+      ],
+      "time_start": 2012,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly states '22 May 2012 - 24 June 2013', indicating the position started in 2012 and ended in 2013. This is corroborated by the supporting quote 'From May 2012 to June 2013'."
+      }
+    },
+    {
+      "organizations": [
+        "Central Bank of Russia"
+      ],
+      "roles": [
+        "Governor of the Central Bank of Russia"
+      ],
+      "time_markers": [
+        "24 June 2013 - present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Succeeding Sergey Ignatyev in 2013, Nabiullina was appointed head of the Central Bank of Russia",
+        "Assumed office 24 June 2013"
+      ],
+      "time_start": 2013,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '24 June 2013 - present' and supporting quote 'Assumed office 24 June 2013' clearly indicate the position started in 2013. The word 'present' in the time_marker indicates this is an ongoing position, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "ranked among world's most powerful women"
+      ],
+      "time_markers": [
+        "May 2014",
+        "as of 2019, ranked 53rd"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2014 she was named one of the world's most powerful women by Forbes",
+        "As of 2019, she was listed as the 53rd most powerful woman in the world by Forbes."
+      ],
+      "time_start": 2014,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award/recognition started in May 2014 when she was first named to Forbes' most powerful women list. The 2019 reference shows she was still ranked (53rd) as of that year, indicating ongoing recognition. Since this is a recurring annual ranking that she continues to appear on, time_finish is set to null to indicate it's ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Euromoney"
+      ],
+      "roles": [
+        "Central Bank Governor of the Year"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Euromoney magazine named her their 2015 Central Bank Governor of the Year."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2015). Awards are typically given for a specific year and represent a point-in-time recognition rather than an ongoing position. Both time_start and time_finish are set to 2015 as per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "The Banker"
+      ],
+      "roles": [
+        "Central Banker of the Year, Europe"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2017, the British magazine The Banker chose Nabiullina as 'Central Banker of the Year, Europe'."
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2017). Awards are typically given for a specific year and are not ongoing positions. The supporting quote confirms this was awarded 'In 2017', so both time_start and time_finish should be set to 2017."
+      }
+    },
+    {
+      "organizations": [
+        "Australia"
+      ],
+      "roles": [
+        "sanctioned individual"
+      ],
+      "time_markers": [
+        "19 April 2022"
+      ],
+      "event_type": "sanction",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 19 April 2022, Nabiullina was sanctioned by Australia after the Russian invasion of Ukraine."
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The sanction was imposed on 19 April 2022. Sanctions typically remain in effect until explicitly lifted, and there is no indication in the provided information that this sanction has been removed. Therefore, time_start is 2022 and time_finish is null to indicate it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "United States"
+      ],
+      "roles": [
+        "sanctioned individual"
+      ],
+      "time_markers": [
+        "30 September 2022"
+      ],
+      "event_type": "sanction",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 30 September 2022, after the Russian annexation of southern and eastern Ukraine, she was sanctioned by the United States.",
+        "In September 2022, the United States Treasury Department sanctioned Nabiullina."
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The sanction was imposed on 30 September 2022. Sanctions typically remain in effect until explicitly lifted, and there is no indication in the provided information that this sanction has ended. Therefore, time_start is 2022 and time_finish is null to indicate it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Canada"
+      ],
+      "roles": [
+        "sanctioned individual"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "sanction",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also sanctioned by Canada"
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates the sanction was imposed in 2022. Sanctions typically remain in effect until explicitly lifted, so time_finish is set to null to indicate this is an ongoing status."
+      }
+    },
+    {
+      "organizations": [
+        "New Zealand"
+      ],
+      "roles": [
+        "sanctioned individual"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "sanction",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also sanctioned by Canada, New Zealand"
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 2022 as when the sanction was imposed by New Zealand. Sanctions typically remain in effect until explicitly lifted, so time_finish is set to null as there's no indication the sanction has ended."
+      }
+    },
+    {
+      "organizations": [
+        "United Kingdom"
+      ],
+      "roles": [
+        "sanctioned individual"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "sanction",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also sanctioned by Canada, New Zealand and the United Kingdom."
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 2022 as when the sanction was imposed. Sanctions typically remain in effect until explicitly lifted, and there is no information suggesting this sanction has ended. Therefore, time_start is 2022 and time_finish is null to indicate it is ongoing."
+      }
+    }
+  ]
+}

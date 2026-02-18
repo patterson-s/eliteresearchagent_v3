@@ -1,0 +1,880 @@
+{
+  "person_name": "Sadako Ogata",
+  "career_events": [
+    {
+      "organizations": [
+        "University of the Sacred Heart, Tokyo"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree in English Literature graduate"
+      ],
+      "time_markers": [
+        "after World War II"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She stayed in Japan during World War II and after the war, she graduated from the University of the Sacred Heart in Tokyo with a bachelor's degree in English Literature."
+      ],
+      "time_start": 1945,
+      "time_finish": 1949,
+      "metadata": {
+        "timeline_reasoning": "The event occurred 'after World War II' which ended in 1945. A bachelor's degree typically takes 4 years to complete. Since she graduated after the war, the earliest she could have started would be 1945, with graduation likely around 1949. However, without more specific information about when exactly she started or graduated, these are educated estimates based on the post-WWII timeframe and typical degree duration."
+      }
+    },
+    {
+      "organizations": [
+        "Georgetown University",
+        "Edmund A. Walsh School of Foreign Service"
+      ],
+      "roles": [
+        "student",
+        "master's degree in International Relations graduate"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she dared to study at Georgetown University and its Edmund A. Walsh School of Foreign Service, earning a master's degree in International Relations."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote only indicates that the person earned a master's degree at Georgetown University but provides no temporal information to determine when this education occurred. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of California, Berkeley"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD in Political Science graduate"
+      ],
+      "time_markers": [
+        "1963"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was awarded a PhD in Political Science from the University of California, Berkeley in 1963, after she completed a dissertation on the politics behind the foundation of Manchukuo."
+      ],
+      "time_start": null,
+      "time_finish": 1963,
+      "metadata": {
+        "timeline_reasoning": "The event describes a PhD program completion at UC Berkeley. The only time marker is 1963, which is explicitly stated as the year the PhD was awarded (graduation year). This represents the end of the doctoral studies. The start year is not mentioned in the provided information, so it is set to null rather than guessing a typical PhD duration."
+      }
+    },
+    {
+      "organizations": [
+        "International Christian University"
+      ],
+      "roles": [
+        "Lecturer"
+      ],
+      "time_markers": [
+        "1965"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1965, she became Lecturer at International Christian University in Tokyo."
+      ],
+      "time_start": 1965,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 1965, she became Lecturer' which clearly indicates the start year as 1965. However, no end date is mentioned in the provided information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Japan to the United Nations"
+      ],
+      "roles": [
+        "appointed to Japan's UN mission"
+      ],
+      "time_markers": [
+        "1968"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ogata was appointed to Japan's UN mission in 1968, on the recommendation of Fusae Ichikawa"
+      ],
+      "time_start": 1968,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states that Ogata was appointed to Japan's UN mission in 1968, which establishes the start year. However, no end date is provided in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "UN General Assembly"
+      ],
+      "roles": [
+        "Japan representative"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ogata represented Japan at several sessions of the UN General Assembly in 1970."
+      ],
+      "time_start": 1970,
+      "time_finish": 1970,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'Ogata represented Japan at several sessions of the UN General Assembly in 1970.' Only the single year 1970 is mentioned, indicating the representation occurred within that year. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Japan to the United Nations",
+        "UNICEF"
+      ],
+      "roles": [
+        "Envoy Extraordinary and Minister Plenipotentiary",
+        "Chair of the UNICEF Executive Board"
+      ],
+      "time_markers": [
+        "1978 to 1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she served from 1978 to 1979 as Envoy Extraordinary and Minister Plenipotentiary for the permanent mission of Japan to the UN, and as Chair of the UNICEF Executive Board."
+      ],
+      "time_start": 1978,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1978 to 1979' and the supporting quote confirms 'she served from 1978 to 1979' in both roles. This provides clear start and end years for the career positions."
+      }
+    },
+    {
+      "organizations": [
+        "Sophia University"
+      ],
+      "roles": [
+        "professor of international politics",
+        "Dean of the Faculty of Foreign Studies"
+      ],
+      "time_markers": [
+        "after 1980",
+        "until 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After 1980, she taught international politics at Sophia University in Tokyo as a professor and later became Dean of the Faculty of Foreign Studies until her departure to join the UNHCR in 1991."
+      ],
+      "time_start": 1980,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The text states 'After 1980' she taught at Sophia University and 'until her departure to join the UNHCR in 1991.' This indicates the position started in 1980 (or shortly after, but 1980 is the most reasonable interpretation) and definitively ended in 1991 when she left to join UNHCR."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations High Commissioner for Refugees"
+      ],
+      "roles": [
+        "United Nations High Commissioner for Refugees",
+        "first woman head of UNHCR"
+      ],
+      "time_markers": [
+        "appointed 1990",
+        "in office 3 November 1990 – 31 December 2000",
+        "re-elected November 1993",
+        "re-elected September 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1990, she was appointed as head of the United Nations High Commissioner for Refugees (UNHCR). She was the first woman to be appointed as a head of the UNHCR.",
+        "She was re-elected twice (in November 1993 and in September 1998), and served, over a decade, until 2001."
+      ],
+      "time_start": 1990,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state 'in office 3 November 1990 – 31 December 2000', which provides exact start and end dates. This is corroborated by 'appointed 1990' and the supporting quote mentioning she 'served, over a decade, until 2001'. The end date of December 31, 2000 means the position ended in 2000, even though the quote mentions 'until 2001' (likely referring to the beginning of 2001 or rounding up the decade)."
+      }
+    },
+    {
+      "organizations": [
+        "RET International (Refugee Education Trust)"
+      ],
+      "roles": [
+        "founder and visionary"
+      ],
+      "time_markers": [
+        "announced December 2000",
+        "launched at end of UNHCR tenure"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2000, and coinciding with the end of her second term at the High Commission at UNHCR, as well as the 50th anniversary of the agency, Ogata announced the launch of RET International in Geneva, Switzerland."
+      ],
+      "time_start": 2000,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The organization was announced and launched in December 2000. As founder and visionary, this represents the start of Ogata's involvement with RET International. There is no indication of when this role ended, and founder/visionary roles typically continue indefinitely unless otherwise stated, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Human Security Commission"
+      ],
+      "roles": [
+        "co-chairperson"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After UNHCR leader, in 2001, she became co-chairperson of UN Human Security Commission."
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates she 'became co-chairperson' in 2001, establishing that as the start year. No end date is mentioned in the available information, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Special Representative of Prime Minister of Japan on Reconstruction Assistance to Afghanistan"
+      ],
+      "time_markers": [
+        "2001",
+        "after September 11 attacks"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2001, after the September 11 attacks, she was appointed as Special Representative of Prime Minister of Japan on Reconstruction Assistance to Afghanistan."
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the appointment occurred 'In 2001, after the September 11 attacks.' However, there is no information provided about when this position ended. Without an explicit end date or context indicating the position was temporary or has concluded, time_finish should be set to null rather than assumed."
+      }
+    },
+    {
+      "organizations": [
+        "Japan International Cooperation Agency"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1 October 2003 – 30 March 2012",
+        "retired April 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Japanese government appointed her as President of the Japan International Cooperation Agency (JICA) on 1 October 2003.",
+        "She continued to work as president of JICA for more than two terms (over eight years), retiring in April 2012"
+      ],
+      "time_start": 2003,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on '1 October 2003' and ended on '30 March 2012', with retirement confirmed in 'April 2012'. Both supporting quotes corroborate these dates, specifying appointment on 1 October 2003 and retirement in April 2012 after over eight years of service."
+      }
+    },
+    {
+      "organizations": [
+        "Advisory Council on the Imperial House Law",
+        "Cabinet Office of Japan"
+      ],
+      "roles": [
+        "council member"
+      ],
+      "time_markers": [
+        "appointed 27 November 2004",
+        "meetings 25 January 2005 to 24 November 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of The Advisory Council on the Imperial House Law on 27 November 2014.",
+        "The council met 17 times from 25 January 2005 to discuss the Japanese succession controversy and the Imperial Household Act."
+      ],
+      "time_start": 2004,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The appointment date is clearly stated as 27 November 2004, establishing time_start as 2004. The meetings ran from 25 January 2005 to 24 November 2005, establishing time_finish as 2005. This represents a complete term of service on the Advisory Council."
+      }
+    },
+    {
+      "organizations": [
+        "Japan Model United Nations"
+      ],
+      "roles": [
+        "Advisor of the Executive Committee"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also served as Advisor of the Executive Committee of the Japan Model United Nations (JMUN)."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers array or supporting quotes. The quote uses past tense ('served'), indicating the position has ended, but provides no temporal information to determine when it started or finished. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Sergio Vieira de Mello Foundation"
+      ],
+      "roles": [
+        "involved member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Ogata was involved in the Sergio Vieira de Mello Foundation."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers are provided, and the supporting quote only confirms involvement without specifying any dates or timeframe. The Sergio Vieira de Mello Foundation was established in 2004 (after Sergio Vieira de Mello's death in 2003), but without explicit information about when Ogata's involvement began or ended, it would be speculative to assign specific years."
+      }
+    },
+    {
+      "organizations": [
+        "Sophia University"
+      ],
+      "roles": [
+        "professor emerita"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a Japanese academic, diplomat, author, administrator, and professor emerita at the Roman Catholic Sophia University."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The title 'professor emerita' indicates a retired/honorary status, but no specific years are provided in the time_markers or supporting quotes. The quote uses past tense ('was') suggesting the person is deceased, but this doesn't give us the actual years when emerita status was held. Without concrete temporal information, both values should be null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Person of Cultural Merit"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Person of Cultural Merit"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "Person of Cultural Merit is a one-time honor/award bestowed by the Government of Japan in a specific year. The time_marker '2001' and supporting quote '2001 Person of Cultural Merit' indicate this award was received in 2001. As an award rather than an ongoing position, both time_start and time_finish are set to the year of receipt."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Order of Culture recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2003 Order of Culture"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The Order of Culture is a one-time award/honor bestowed by the Government of Japan, not an ongoing position. The time_marker '2003' and supporting quote '2003 Order of Culture' clearly indicate this award was received in 2003. Since awards are typically conferred at a specific point in time rather than held over a period, both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Archivio Disarmo (Italian Research Institute)"
+      ],
+      "roles": [
+        "Golden Doves for Peace recipient"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1993 Journalistic prize Golden Doves for Peace issued by the Italian Research Institute Archivio Disarmo"
+      ],
+      "time_start": 1993,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (1993) mentioned in both time_markers and supporting_quotes. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 1993."
+      }
+    },
+    {
+      "organizations": [
+        "Liberal International"
+      ],
+      "roles": [
+        "Prize For Freedom recipient"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1994 Prize For Freedom by the Liberal International"
+      ],
+      "time_start": 1994,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1994). Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 1994."
+      }
+    },
+    {
+      "organizations": [
+        "National Constitution Center"
+      ],
+      "roles": [
+        "Liberty Medal recipient"
+      ],
+      "time_markers": [
+        "1995",
+        "acceptance speech 4 July 1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1995 Liberty Medal",
+        "Liberty Medal acceptance speech, 4 July 1995"
+      ],
+      "time_start": 1995,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Liberty Medal) with a specific date mentioned (4 July 1995). Awards are typically one-time honors received in a single year. Both time_markers and supporting_quotes consistently reference 1995 as the year of the award and acceptance speech, so both time_start and time_finish are set to 1995."
+      }
+    },
+    {
+      "organizations": [
+        "American Philosophical Society"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1995 Member of the American Philosophical Society"
+      ],
+      "time_start": 1995,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event shows membership in the American Philosophical Society starting in 1995. Memberships in prestigious academic societies like the American Philosophical Society are typically lifetime appointments once granted, with no end date indicated in the source material. Therefore, time_start is set to 1995 and time_finish is null to indicate ongoing membership."
+      }
+    },
+    {
+      "organizations": [
+        "Ramon Magsaysay Award Foundation"
+      ],
+      "roles": [
+        "Ramon Magsaysay Award recipient"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1997 Ramon Magsaysay Award"
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '1997'. Awards are typically received in a specific year rather than being ongoing positions. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Seoul Peace Prize Foundation"
+      ],
+      "roles": [
+        "Seoul Peace Prize recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2000 Seoul Peace Prize"
+      ],
+      "time_start": 2000,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2000'. Awards are typically received in a specific year rather than spanning multiple years. Both time_start and time_finish are set to 2000 as per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "Order of Friendship recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Order of Friendship of Russia"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Order of Friendship) with a single year marker of 2001. Awards are typically conferred at a specific point in time rather than representing an ongoing position. Both time_start and time_finish are set to 2001 as this represents when the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Germany"
+      ],
+      "roles": [
+        "Commander's Cross of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Commander's Cross of the Order of Merit of the Federal Republic of Germany"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2001) indicating when the Commander's Cross of the Order of Merit was received. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Government of France"
+      ],
+      "roles": [
+        "Commander of the Légion d'honneur"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Commander of the Légion d'honneur"
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award (Commander of the Légion d'honneur) received in 2001. Awards are typically conferred at a specific point in time and remain as honors indefinitely - they don't have an end date. Therefore, time_start is set to 2001 when the award was received, and time_finish is null as the honor continues ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Italy"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of Merit of the Italian Republic"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Knight Grand Cross of the Order of Merit of the Italian Republic"
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Knight Grand Cross) conferred in 2001. Awards and honors are typically permanent distinctions that do not have an end date, so time_start is set to 2001 when it was received, and time_finish is null as the honor continues indefinitely."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Sweden"
+      ],
+      "roles": [
+        "Commander First Class of the Order of the Polar Star"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Commander First Class of the Order of the Polar Star of Sweden"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2001' indicating when the honor was bestowed. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Government of India"
+      ],
+      "roles": [
+        "Indira Gandhi Prize recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Indira Gandhi Prize"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Indira Gandhi Prize) with a single year marker of 2001. Awards are typically received in a specific year rather than spanning multiple years. Both time_start and time_finish are set to 2001 as per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "Fulbright Association"
+      ],
+      "roles": [
+        "Fulbright Prize for International Understanding recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002 Fulbright Prize for International Understanding"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2002' mentioned in both the time_markers array and the supporting quote. Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Brown University"
+      ],
+      "roles": [
+        "Honorary Doctor of Human Letters"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002 Honorary Doctor of Human Letters from Brown University."
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2002. Honorary degrees are conferred on a specific date rather than representing an ongoing position, so both time_start and time_finish are set to the same year."
+      }
+    },
+    {
+      "organizations": [
+        "World Citizenship Award Foundation"
+      ],
+      "roles": [
+        "World Citizenship Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2005 World Citizenship Award"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2005'. Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Government of the Philippines"
+      ],
+      "roles": [
+        "Grand Officer of the Order of Lakandula"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Grand Officer (Maringal na Pinuno) of the Order of Lakandula of the Philippines"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2006) mentioned in both the time_markers array and the supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Government of the Netherlands"
+      ],
+      "roles": [
+        "Grand Officer of the Order of Orange-Nassau"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Grand Officer of the Order of Orange-Nassau of the Netherlands"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2008) indicating when the honor was bestowed. Awards are typically conferred at a specific point in time rather than representing ongoing positions, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Government of the United Kingdom"
+      ],
+      "roles": [
+        "Honorary Dame Commander of the Order of St. Michael and St. George"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Honorary Dame Commander of the Order of St. Michael and St. George (DCMG)"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary award/title (Dame Commander) conferred in 2011. Such honors are typically held for life once awarded and do not have an end date, so time_finish is set to null while time_start is 2011 when the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Kyrgyzstan"
+      ],
+      "roles": [
+        "Medal of the Friendship of Nations (Danaker Medal) recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Medal of the Friendship of Nations (Danaker Medal) of Kyrgyzstan"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2011) in both the time_markers field and supporting quote. Awards are typically received at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Mexico"
+      ],
+      "roles": [
+        "Band of the Order of the Aztec Eagle"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2013 Band of the Order of the Aztec Eagle of Mexico"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Band of the Order of the Aztec Eagle) with a single year marker of 2013. Awards are typically conferred at a specific point in time rather than being ongoing positions. The supporting quote '2013 Band of the Order of the Aztec Eagle of Mexico' confirms this was awarded in 2013, so both time_start and time_finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Government of the Philippines"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Sikatuna, Rank of Datu"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2013 Grand Cross of the Order of Sikatuna, Rank of Datu"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2013). Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2013, indicating the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Kosovo"
+      ],
+      "roles": [
+        "Humanitarian Medal Mother Teresa recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2017 Humanitarian Medal Mother Teresa of Kosovo"
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2017). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2017."
+      }
+    }
+  ]
+}

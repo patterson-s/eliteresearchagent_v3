@@ -1,0 +1,503 @@
+{
+  "note": "This source contains information about TWO different people with the same name",
+  "persons": [
+    {
+      "person_name": "Kim Sung-hwan (diplomat, born 1953)",
+      "birth_date": "1953-04-13",
+      "birth_place": "Seoul, South Korea",
+      "career_events": [
+        {
+          "organizations": [
+            "Ministry of Foreign Affairs and Trade of South Korea"
+          ],
+          "roles": [
+            "Minister of Foreign Affairs and Trade"
+          ],
+          "time_markers": [
+            "8 October 2010 to 11 March 2013"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Kim Sung-hwan is a South Korean politician who was South Korea's Minister of Foreign Affairs and Trade from 8 October 2010 to 24 February 2013.",
+            "In office 8 October 2010 – 11 March 2013"
+          ],
+          "additional_context": {
+            "president_served_under": "Lee Myung-bak",
+            "preceded_by": "Yu Myung-hwan",
+            "succeeded_by": "Yun Byung-se"
+          }
+        },
+        {
+          "organizations": [
+            "Ministry of Foreign Affairs and Trade of South Korea"
+          ],
+          "roles": [
+            "Vice Minister of Foreign Affairs and Trade"
+          ],
+          "time_markers": [
+            "from March 2008"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "His previous positions include Vice Minister of Foreign Affairs and Trade (from March 2008)"
+          ]
+        },
+        {
+          "organizations": [
+            "Office of the President of South Korea"
+          ],
+          "roles": [
+            "Senior Secretary to the President for Foreign Affairs and National Security"
+          ],
+          "time_markers": [
+            "from June 2008"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Senior Secretary to the President for Foreign Affairs and National Security (from June 2008)"
+          ]
+        },
+        {
+          "organizations": [
+            "South Korean diplomatic service"
+          ],
+          "roles": [
+            "Ambassador of South Korea to Austria"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Ambassadors of South Korea to Austria"
+          ]
+        },
+        {
+          "organizations": [
+            "Seoul National University"
+          ],
+          "roles": [
+            "student",
+            "alumnus"
+          ],
+          "event_type": "education",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Alma mater: Seoul National University",
+            "Seoul National University alumni"
+          ]
+        }
+      ],
+      "political_affiliation": "Saenuri Party",
+      "profession": "Diplomat"
+    },
+    {
+      "person_name": "Kim Sung-hwan (politician, born 1965)",
+      "birth_date": "1965-10-15",
+      "birth_place": "Geomundo-ri, Samsan-myeon, Yeosu County, South Jeolla, South Korea",
+      "career_events": [
+        {
+          "organizations": [
+            "Ministry of Climate, Energy and Environment"
+          ],
+          "roles": [
+            "Minister of Climate, Energy and Environment"
+          ],
+          "time_markers": [
+            "assumed office 21 July 2025"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Kim Sung-hwan is a South Korean politician who has served as the minister of environment since 2025.",
+            "Assumed office 21 July 2025"
+          ],
+          "additional_context": {
+            "president_served_under": "Lee Jae-myung",
+            "prime_minister": "Kim Min-seok",
+            "preceded_by": "Kim Wan-sup",
+            "status": "Incumbent"
+          }
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "Member of the National Assembly"
+          ],
+          "time_markers": [
+            "assumed office June 14, 2018"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "he is a three-term member of the National Assembly, currently representing the Nowon B constituency in Seoul.",
+            "Assumed office June 14, 2018"
+          ],
+          "additional_context": {
+            "constituencies": [
+              "Nowon Byeong (2018–2024)",
+              "Nowon Eul (2024–present)"
+            ],
+            "preceded_by": "Ahn Cheol-soo (for Nowon Byeong)",
+            "status": "Incumbent"
+          }
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "Member representing Nowon District Byeong constituency"
+          ],
+          "time_markers": [
+            "2018 by-election"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "In 2018, Kim successfully ran for the National Assembly in a by-election for the Nowon District Byeong constituency, filling the vacancy left by Ahn Cheol-soo."
+          ],
+          "additional_context": {
+            "election_details": "defeated Lee Jun-seok of the Bareunmirae Party"
+          }
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "Member representing Nowon District Byeong constituency"
+          ],
+          "time_markers": [
+            "2020 general election"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Kim was re-elected in the 2020 general election"
+          ]
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "Member representing Nowon District Eul constituency"
+          ],
+          "time_markers": [
+            "2024 election"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "in 2024, was elected to represent the Nowon District Eul constituency"
+          ]
+        },
+        {
+          "organizations": [
+            "Nowon District"
+          ],
+          "roles": [
+            "Mayor of Nowon District"
+          ],
+          "time_markers": [
+            "July 1, 2010 – February 12, 2018"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Kim previously served as the mayor of Nowon District from 2010 to 2018",
+            "In office July 1, 2010 – February 12, 2018"
+          ],
+          "additional_context": {
+            "preceded_by": "Lee No-geun",
+            "succeeded_by": "Park Moon-gyu (acting), Oh Seung-rok",
+            "election_notes": "won in 2010 defeating incumbent, re-elected in 2014"
+          }
+        },
+        {
+          "organizations": [
+            "Seoul Metropolitan Council"
+          ],
+          "roles": [
+            "Member of the Seoul Metropolitan Council"
+          ],
+          "time_markers": [
+            "July 1, 1998 – June 30, 2002"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "served in the Seoul Metropolitan Council from 1998 to 2002",
+            "In office July 1, 1998 – June 30, 2002"
+          ],
+          "additional_context": {
+            "constituency": "Nowon District, 4th constituency"
+          }
+        },
+        {
+          "organizations": [
+            "Nowon District Council"
+          ],
+          "roles": [
+            "Member of the Nowon District Council"
+          ],
+          "time_markers": [
+            "July 1, 1995 – June 30, 1998"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "He was elected as a member of the Nowon District Council in 1995",
+            "In office July 1, 1995 – June 30, 1998"
+          ],
+          "additional_context": {
+            "constituency": "Sanggye 9-dong"
+          }
+        },
+        {
+          "organizations": [
+            "Blue House (Office of the President)"
+          ],
+          "roles": [
+            "administrative officer",
+            "secretary in the Office for Policy Coordination"
+          ],
+          "time_markers": [
+            "2003 to 2007"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Kim was appointed to the presidential transition team and subsequently served in the Blue House as an administrative officer and later as a secretary in the Office for Policy Coordination, serving from 2003 to 2007."
+          ]
+        },
+        {
+          "organizations": [
+            "Roh Moo-hyun Presidential Campaign"
+          ],
+          "roles": [
+            "welfare policy advisor"
+          ],
+          "time_markers": [
+            "2002"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "In 2002, Kim served as a welfare policy advisor to then-presidential candidate Roh Moo-hyun."
+          ]
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "legislative aide to National Assembly member Shin Kye-ryoon"
+          ],
+          "time_markers": [
+            "early 1990s"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Kim began his political career as a legislative aide to National Assembly member Shin Kye-ryoon in the early 1990s."
+          ]
+        },
+        {
+          "organizations": [
+            "Democratic Party of Korea",
+            "National Assembly"
+          ],
+          "roles": [
+            "Chief of Staff to the Party Leader"
+          ],
+          "time_markers": [
+            "2018–2020"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "He has also held several key positions within the Democratic Party, including Chief of Staff to the Party Leader (2018–2020)"
+          ]
+        },
+        {
+          "organizations": [
+            "Democratic Party of Korea",
+            "National Assembly"
+          ],
+          "roles": [
+            "Chief Deputy Floor Leader for Planning"
+          ],
+          "time_markers": [
+            "2021–2022"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Chief Deputy Floor Leader for Planning (2021–2022)"
+          ]
+        },
+        {
+          "organizations": [
+            "Democratic Party of Korea"
+          ],
+          "roles": [
+            "Chair of the Policy Committee"
+          ],
+          "time_markers": [
+            "2022–2023"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Chair of the Policy Committee (2022–2023)"
+          ]
+        },
+        {
+          "organizations": [
+            "Democratic Party of Korea"
+          ],
+          "roles": [
+            "Secretary of the Talent Recruitment Committee"
+          ],
+          "time_markers": [
+            "from 2023"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Secretary of the Talent Recruitment Committee (from 2023)"
+          ]
+        },
+        {
+          "organizations": [
+            "Democratic Party of Korea"
+          ],
+          "roles": [
+            "head of the party's chapter for Nowon District Eul"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "He currently serves as the head of the party's chapter for Nowon District Eul."
+          ]
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "committee member on Industry, Trade, SMEs and Startups Committee"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "In the National Assembly, Kim has served on the Industry, Trade, SMEs and Startups Committee"
+          ]
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "committee member on Energy Special Committee"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "the Energy Special Committee"
+          ]
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "committee member on Climate Crisis Special Committee"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "the Climate Crisis Special Committee"
+          ]
+        },
+        {
+          "organizations": [
+            "National Assembly of South Korea"
+          ],
+          "roles": [
+            "committee member on National Assembly Steering and Political Affairs Committees"
+          ],
+          "event_type": "career_position",
+          "confidence": "high",
+          "supporting_quotes": [
+            "the National Assembly Steering and Political Affairs Committees"
+          ]
+        },
+        {
+          "organizations": [
+            "Yonsei University"
+          ],
+          "roles": [
+            "student",
+            "Bachelor of Laws graduate"
+          ],
+          "time_markers": [
+            "1990"
+          ],
+          "event_type": "education",
+          "confidence": "high",
+          "supporting_quotes": [
+            "In 1990, he earned a Bachelor of Laws from Yonsei University."
+          ]
+        },
+        {
+          "organizations": [
+            "Yonsei University Graduate School of Public Administration"
+          ],
+          "roles": [
+            "student",
+            "Master of Public Administration graduate"
+          ],
+          "time_markers": [
+            "1999"
+          ],
+          "event_type": "education",
+          "confidence": "high",
+          "supporting_quotes": [
+            "He later obtained a Master of Public Administration, with a concentration in urban and local governance, from Yonsei University's Graduate School of Public Administration in 1999."
+          ],
+          "additional_context": {
+            "thesis_topic": "strategies for revitalizing senior centers"
+          }
+        },
+        {
+          "organizations": [
+            "South Korean Army"
+          ],
+          "roles": [
+            "soldier"
+          ],
+          "event_type": "military_service",
+          "confidence": "high",
+          "supporting_quotes": [
+            "Branch/service: South Korean Army, Rank: Private First Class"
+          ]
+        }
+      ],
+      "political_affiliation": "Democratic Party of Korea",
+      "publications": [
+        "National Strategy for the Future of Progressivism (2010)",
+        "He Left, But I Did Not Let Him Go (2010)",
+        "Speaking About Roh Moo-hyun Through 10 Books (2010)",
+        "Butterfly Effect (2012)",
+        "Think Globally, Act Locally – Butterfly Effect 2 (2014)",
+        "The Age of Coexistence (2018)"
+      ]
+    }
+  ]
+}

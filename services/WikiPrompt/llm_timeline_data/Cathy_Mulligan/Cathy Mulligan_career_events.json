@@ -1,0 +1,876 @@
+{
+  "person_name": "Carey Mulligan",
+  "career_events": [
+    {
+      "organizations": [
+        "Royal Court Theatre"
+      ],
+      "roles": [
+        "actress in stage production"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2004, Mulligan made her stage debut in the play Forty Winks at the Royal Court Theatre in London."
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was a stage debut in a specific play ('Forty Winks') in 2004. Stage productions typically run for a limited time period within a single year. Since only 2004 is mentioned and this refers to a specific theatrical production rather than an ongoing position, both time_start and time_finish are set to 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Pride & Prejudice (film)"
+      ],
+      "roles": [
+        "Kitty Bennet"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She made her film debut the following year in Joe Wright's 2005 film adaptation of the Jane Austen novel Pride & Prejudice, portraying Kitty Bennet alongside Keira Knightley."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is a film role, which represents a discrete project completed in 2005. Film productions have a defined start and end, and since only 2005 is mentioned as the release year, both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "BBC",
+        "Bleak House (TV series)"
+      ],
+      "roles": [
+        "Ada Clare"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Later that year, she won the role of orphan Ada Clare in the BAFTA award-winning BBC adaption of Charles Dickens' Bleak House, her television debut."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The event describes a TV series role in 'Bleak House' that occurred in 2005. TV series roles are typically completed within a single year or production period. Since only 2005 is mentioned and this is a specific TV adaptation (not an ongoing series), both start and finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Constellation Awards"
+      ],
+      "roles": [
+        "Best Female Performance in a 2007 Science Fiction Television Episode winner"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Doctor Who episode 'Blink', which won her the Constellation Award for Best Female Performance in a 2007 Science Fiction Television Episode."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event for a specific achievement in 2007. Awards are typically one-time honors received in a single year. The supporting quote indicates she won the Constellation Award for her performance in a 2007 television episode, making 2007 both the start and finish year for this recognition."
+      }
+    },
+    {
+      "organizations": [
+        "Broadway",
+        "The Seagull (play)"
+      ],
+      "roles": [
+        "Nina"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She made her Broadway debut playing Nina in the revival of Anton Chekhov's The Seagull (2008)."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was a Broadway debut in a specific production of 'The Seagull' in 2008. Broadway theatrical productions typically run for a limited time period within a single year. Since only 2008 is mentioned and this refers to a specific theatrical run rather than an ongoing position, both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Drama Desk Awards"
+      ],
+      "roles": [
+        "nominee"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her debut Broadway performance in the 2008 American transfer of The Seagull, she was nominated for a Drama Desk Award"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination for a specific 2008 Broadway performance. Award nominations are point-in-time events that occur in a single year. The time_marker '2008' and supporting quote both confirm this nomination occurred in 2008."
+      }
+    },
+    {
+      "organizations": [
+        "BAFTA",
+        "An Education (film)"
+      ],
+      "roles": [
+        "BAFTA Award for Best Actress winner",
+        "Jenny"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan's breakthrough role came as a 1960s schoolgirl in the coming-of-age film An Education (2009), for which she won the BAFTA Award for Best Actress"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event for the BAFTA Award for Best Actress won for the film 'An Education' (2009). Awards are typically given in a specific year and represent a point-in-time achievement rather than an ongoing position. The time_marker '2009' and the supporting quote both indicate this award was won in 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Academy Awards"
+      ],
+      "roles": [
+        "Academy Award for Best Actress nominee"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and received a nomination for the Academy Award for Best Actress."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an Academy Award nomination, which is a single-year event. The nomination occurred in 2009 as indicated by the time_marker. Award nominations are tied to a specific ceremony year and do not span multiple years."
+      }
+    },
+    {
+      "organizations": [
+        "BAFTA"
+      ],
+      "roles": [
+        "BAFTA Rising Star Award nominee"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan received a nomination for the BAFTA Rising Star Award, which is voted on by the British public."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination for a specific year (2009). Award nominations are point-in-time events that occur in a single year, not ongoing positions. The BAFTA Rising Star Award is an annual award, and the nomination occurred in 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Academy of Motion Picture Arts and Sciences"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, she was invited to join the Academy of Motion Picture Arts and Sciences"
+      ],
+      "time_start": 2010,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates she was invited to join the Academy in 2010, which marks the start of her membership. Academy memberships are typically lifetime/ongoing positions unless explicitly terminated, and there is no indication of an end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "British Independent Film Awards",
+        "Never Let Me Go (film)"
+      ],
+      "roles": [
+        "British Independent Award winner"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "That same year she starred in the film adaptation of Kazuo Ishiguro's acclaimed novel Never Let Me Go with Keira Knightley, and Andrew Garfield. She won a British Independent Award for her performance."
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific year marker of 2010. The supporting quote indicates 'That same year' referring to 2010 when she starred in Never Let Me Go and won the British Independent Award. Awards are typically given in a single year, so both time_start and time_finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Atlantic Theater Company",
+        "Through a Glass, Darkly (play)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "May-July 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She returned to the stage in the Atlantic Theater Company's off-Broadway play adaptation of Ingmar Bergman's Through a Glass, Darkly, from 13 May – 3 July 2011."
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the play ran 'from 13 May – 3 July 2011', and the time_markers confirm 'May-July 2011'. Both the start and end dates fall within the same year, 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Drama Desk Awards"
+      ],
+      "roles": [
+        "Drama Desk Award for Outstanding Actress in a Play nominee"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance she was nominated for the Drama Desk Award for Outstanding Actress in a Play."
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination for a specific year (2011). Award nominations are point-in-time events that occur in a single year, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "BAFTA",
+        "Drive (film)"
+      ],
+      "roles": [
+        "BAFTA Award for Best Actress in a Supporting Role nominee"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She received her second nomination for the BAFTA Award for Best Actress in a Supporting Role—for the film Drive"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination event for a specific film (Drive) with a single year marker of 2011. Award nominations are point-in-time events that occur in a specific year, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "British Independent Film Awards",
+        "Shame (film)"
+      ],
+      "roles": [
+        "BIFA for Best Supporting Actress nominee",
+        "Sissy"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance in Shame, she received critical praise as well as a nomination for the BIFA for Best Supporting Actress."
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination event for a specific film (Shame) with a single time marker of 2011. Award nominations are point-in-time events that occur in a specific year, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Met Gala"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "May 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2012, she was a co-chair, alongside Anna Wintour, for the 2012 Met Ball Gala themed Schiaparelli and Prada: Impossible Conversations."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In May 2012, she was a co-chair...for the 2012 Met Ball Gala.' The Met Gala is an annual one-night event, and being a co-chair for a specific year's gala indicates this was a single-year position for the 2012 event only."
+      }
+    },
+    {
+      "organizations": [
+        "Alzheimer's Society"
+      ],
+      "roles": [
+        "ambassador"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan became the ambassador of the Alzheimer's Society in 2012, with the goal of raising awareness and research funding for Alzheimers and dementia.",
+        "Mulligan has been an ambassador for the Alzheimer's Society since 2012"
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes indicate Mulligan 'became the ambassador...in 2012' and 'has been an ambassador...since 2012', with the present perfect tense 'has been' and 'since' indicating this is an ongoing role that started in 2012 and continues to the present. No end date is mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "War Child"
+      ],
+      "roles": [
+        "ambassador"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, Mulligan became an ambassador for the charity War Child",
+        "and an ambassador for War Child since 2014"
+      ],
+      "time_start": 2014,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes indicate Mulligan 'became an ambassador' in 2014 and has been 'an ambassador for War Child since 2014', using present perfect tense that suggests an ongoing role. No end date is mentioned, indicating this ambassadorship is still current."
+      }
+    },
+    {
+      "organizations": [
+        "Wyndham's Theatre",
+        "Skylight (play)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, she returned to the stage, starring in the London revival of the David Hare play Skylight with Bill Nighy and Matthew Beard, directed by Stephen Daldry, at Wyndham's Theatre in London's West End."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was a specific theatrical production that occurred in 2014. Stage productions typically have limited runs rather than being ongoing positions, and only the single year 2014 is mentioned with no indication of continuation beyond that year."
+      }
+    },
+    {
+      "organizations": [
+        "Evening Standard Theatre Awards"
+      ],
+      "roles": [
+        "Revival of the Year winner (production)"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "It won the 2014 Evening Standard Theatre Award for Revival of the Year"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2014). Awards are typically given for a specific year and represent a point-in-time achievement rather than an ongoing position. Both time_start and time_finish are set to 2014 as per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "Olivier Awards"
+      ],
+      "roles": [
+        "Best Revival nominee (production)"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was nominated for the 2014 Olivier Award for Best Revival."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination for a specific year (2014). Award nominations are point-in-time events that occur in a single year, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "John Golden Theatre",
+        "Broadway",
+        "Skylight (play)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "April 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She followed the production when it transferred to Broadway at the John Golden Theatre in April 2015."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'April 2015' indicates when the Broadway production started. Since this refers to a specific theatrical production run (Skylight at John Golden Theatre), and no end date is mentioned, this represents a limited engagement typical of Broadway shows. Setting both start and finish to 2015 as this represents a single production event in that year."
+      }
+    },
+    {
+      "organizations": [
+        "Tony Awards"
+      ],
+      "roles": [
+        "Tony Award for Best Performance by a Leading Actress in a Play nominee"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she earned her first Tony Award nomination for Best Performance by a Leading Actress in a Play.",
+        "She was appointed Commander of the Order of the British Empire (CBE) in 2025 for services to drama."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is a Tony Award nomination which occurred in a specific year (2015). Award nominations are point-in-time events that happen in a single year, not ongoing positions. The time_marker clearly indicates 2015, and the supporting quote confirms this was her first Tony nomination."
+      }
+    },
+    {
+      "organizations": [
+        "Independent Spirit Awards",
+        "Wildlife (film)"
+      ],
+      "roles": [
+        "Independent Spirit Award for Best Female Lead nominee"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance, Mulligan received a nomination for the Independent Spirit Award for Best Female Lead."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination for a specific film (Wildlife) with a single year marker of 2018. Award nominations are point-in-time events that occur in a specific year, so both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "BBC Two",
+        "Collateral (TV series)"
+      ],
+      "roles": [
+        "Detective Inspector"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan stepped back into television as a Detective Inspector in Collateral, a BBC Two limited series"
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The event describes a role in 'Collateral', which is explicitly identified as a 'limited series' on BBC Two in 2018. Limited series are by definition finite productions that air within a specific timeframe, typically a single year. Since only 2018 is mentioned and the format indicates a completed, bounded project, both start and finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Minetta Lane Theatre",
+        "Girls and Boys (play)"
+      ],
+      "roles": [
+        "solo performer"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan starred off Broadway in the solo show, Girls and Boys at the Minetta Lane Theatre."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "Only one year (2018) is mentioned in the time_markers, and the event describes a theatrical performance which is typically a time-limited engagement rather than an ongoing position. Following guideline 4, when a single year is mentioned for a discrete event like a theatrical run, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Drama Desk Awards"
+      ],
+      "roles": [
+        "Drama Desk Award for Outstanding Solo Performance nominee"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was nominated for the Drama Desk Award for Outstanding Solo Performance."
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination for a specific year (2019). Award nominations are point-in-time events that occur in a single year, so both time_start and time_finish are set to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Promising Young Woman (film)"
+      ],
+      "roles": [
+        "lead actress",
+        "executive producer"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2020, Mulligan starred in Emerald Fennell's black comedy thriller film Promising Young Woman, alongside Bo Burnham and Alison Brie. She also served as an executive producer on the film"
+      ],
+      "time_start": 2020,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The event describes work on a film that was released in 2020. Film production work (acting and executive producing) is typically completed before or during the release year and is not an ongoing position. Since only 2020 is mentioned and film work is time-bound to the production period, both start and finish are set to 2020."
+      }
+    },
+    {
+      "organizations": [
+        "Academy Awards"
+      ],
+      "roles": [
+        "Academy Award for Best Actress nominee"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance, she received her second nomination for the Academy Award for Best Actress"
+      ],
+      "time_start": 2020,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates '2020' and the event is an Academy Award nomination, which is a single-year event. Award nominations occur in a specific year and are not ongoing positions, so both time_start and time_finish are set to 2020."
+      }
+    },
+    {
+      "organizations": [
+        "Critics' Choice Movie Awards"
+      ],
+      "roles": [
+        "Critics' Choice Movie Award for Best Actress winner"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and won the Critics' Choice Movie Award for Best Actress, among many other accolades."
+      ],
+      "time_start": 2020,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2020'. Awards are typically given for a specific year and represent a point-in-time achievement rather than an ongoing position. Therefore, both time_start and time_finish are set to 2020."
+      }
+    },
+    {
+      "organizations": [
+        "Independent Spirit Awards"
+      ],
+      "roles": [
+        "Best Female Lead winner"
+      ],
+      "time_markers": [
+        "2021",
+        "36th Independent Spirit Awards"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After winning Best Female Lead at the 36th Independent Spirit Awards, Mulligan dedicated her award to the late Helen McCrory."
+      ],
+      "time_start": 2021,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred at a specific ceremony in 2021 (the 36th Independent Spirit Awards). Awards are point-in-time events, so both time_start and time_finish are set to the year the award was won."
+      }
+    },
+    {
+      "organizations": [
+        "Golden Globe Awards",
+        "She Said (film)"
+      ],
+      "roles": [
+        "Golden Globe Best Supporting Actress nominee",
+        "Megan Twohey"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance, Mulligan received a Golden Globe nomination for Best Supporting Actress."
+      ],
+      "time_start": 2022,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "This is an award nomination for a specific film performance. The time_marker indicates 2022, and award nominations are discrete events that occur in a single year (the year of the ceremony). Since this is a nomination rather than an ongoing position, both time_start and time_finish are set to 2022."
+      }
+    },
+    {
+      "organizations": [
+        "Academy Awards",
+        "Maestro (film)"
+      ],
+      "roles": [
+        "Academy Award for Best Actress nominee",
+        "Felicia Montealegre"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her portrayal of Montealegre, she received her third nomination for the Academy Award for Best Actress, among other honours."
+      ],
+      "time_start": 2023,
+      "time_finish": 2023,
+      "metadata": {
+        "timeline_reasoning": "This is an Academy Award nomination for a specific film (Maestro). Award nominations occur in a single year - the year of the ceremony. The time_marker indicates 2023, and award nominations are discrete events that don't span multiple years."
+      }
+    },
+    {
+      "organizations": [
+        "Order of the British Empire"
+      ],
+      "roles": [
+        "Commander of the Order of the British Empire (CBE)"
+      ],
+      "time_markers": [
+        "2025",
+        "2025 New Year Honours"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Commander of the Order of the British Empire (CBE) in the 2025 New Year Honours for services to drama."
+      ],
+      "time_start": 2025,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an honor/award (CBE) appointed in the 2025 New Year Honours. Such honors are typically held for life once awarded and do not have an end date, so time_start is 2025 and time_finish is null as it remains ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Sundance Film Festival",
+        "The Ballad of Wallis Island (film)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "January 25, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The film premiered at the Sundance Film Festival on January 25, 2025."
+      ],
+      "time_start": 2025,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The event describes a film premiere at Sundance Film Festival on January 25, 2025. A film premiere is a single-day event, not an ongoing position. The lead actress role in the film would have been completed before the premiere date. Since this is a discrete event occurring in 2025, both time_start and time_finish are set to 2025."
+      }
+    },
+    {
+      "organizations": [
+        "Netflix",
+        "Beef (TV series)"
+      ],
+      "roles": [
+        "cast member season 2"
+      ],
+      "time_markers": [
+        "announced 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan will also star on the second season of Netflix's anthology series Beef, alongside Oscar Isaac, Cailee Spaeny, Charles Melton."
+      ],
+      "time_start": 2024,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The role was announced in 2024 for season 2 of an anthology series. Since this is a cast member position that was announced but likely not yet completed (anthology series seasons are typically filmed and released over a period of time), time_start is set to 2024 when the announcement occurred. time_finish is set to null as there's no indication the role has concluded, and production/release timelines for TV series typically extend beyond the announcement year."
+      }
+    },
+    {
+      "organizations": [
+        "The Chronicles of Narnia film",
+        "Narnia: The Magician's Nephew"
+      ],
+      "roles": [
+        "cast member"
+      ],
+      "time_markers": [
+        "May 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2025, she joined Greta Gerwig's The Chronicles of Narnia film adaptation, which is titled Narnia: The Magician's Nephew"
+      ],
+      "time_start": 2025,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates joining a film production in May 2025. Since this is a cast member role for a film that appears to be in production/development, there is no end date specified. The position is ongoing from 2025, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Laika",
+        "Wildwood (film)"
+      ],
+      "roles": [
+        "voice actor"
+      ],
+      "time_markers": [
+        "announced"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She will have a voice role in Laika's stop motion animated feature Wildwood"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes an announced voice role in an upcoming film. The time_marker 'announced' indicates this is a future project that has been revealed but not yet completed. Without specific years mentioned in the supporting quote or time_markers, and given that this appears to be a future/ongoing project rather than a completed one, both time_start and time_finish should be null. The actual performance/recording dates are not provided."
+      }
+    },
+    {
+      "organizations": [
+        "Woldingham School"
+      ],
+      "roles": [
+        "student",
+        "student head of drama department"
+      ],
+      "time_markers": [
+        "teenage years"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As a teenager, she was educated at Woldingham School, an independent school in Surrey.",
+        "She was the student head of the drama department there, performing in plays and musicals"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The only time marker provided is 'teenage years' which is too vague to determine specific years. Without additional context such as birth year or other dated events, it's impossible to accurately determine when this education period occurred. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Ealing Studios"
+      ],
+      "roles": [
+        "errand-runner"
+      ],
+      "time_markers": [
+        "late teens and early twenties"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During her late teens and early twenties, she worked as a pub barmaid and an errand-runner for Ealing Studios between acting jobs."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'late teens and early twenties' provides only a relative age range without any absolute years or contextual information that would allow calculation of specific dates. Without knowing the person's birth year or any other temporal anchors, it's impossible to determine the actual calendar years when this position was held."
+      }
+    }
+  ]
+}

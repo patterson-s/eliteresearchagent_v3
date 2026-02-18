@@ -1,0 +1,754 @@
+{
+  "person_name": "Mohammad Abdullah Al Gergawi",
+  "career_events": [
+    {
+      "organizations": [
+        "United Arab Emirates Government"
+      ],
+      "roles": [
+        "Minister of Cabinet Affairs"
+      ],
+      "time_markers": [
+        "appointed 11 February 2006",
+        "assumed office 9 February 2006",
+        "present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 11 February 2006, UAE President Khalifa bin Zayed Al Nahyan issued a presidential decree appointing the new UAE cabinet, which included Al Gergawi as Minister of Cabinet Affairs",
+        "Minister of Cabinet Affairs Incumbent Assumed office 9 February 2006"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started in February 2006 based on multiple consistent sources (appointed 11 February 2006, assumed office 9 February 2006). The time_marker 'present' and the term 'Incumbent' in the supporting quotes indicate this is an ongoing position, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Executive Office of Sheikh Mohammed bin Rashid Al Maktoum",
+        "Dubai Government"
+      ],
+      "roles": [
+        "Chairman of the Executive Office of Dubai"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "is an Emirati politician who is the minister of cabinet affairs of the United Arab Emirates and the chairman of the Executive Office of Sheikh Mohammed bin Rashid Al Maktoum, in the government of Dubai",
+        "Chairman of the Executive Office of Dubai"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes indicate this is a current position ('is an Emirati politician who is the minister...and the chairman'), but no specific start year is provided in the career event data. Without concrete temporal information, I cannot determine when this position began."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder",
+        "chairman"
+      ],
+      "time_markers": [
+        "founded 2004",
+        "chairman until March 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Al Gergawi was the chairman of Dubai Holding until March 2017",
+        "Founded in 2004, Dubai Holding was created to manage the extensive portfolio of businesses and investments of the government of Dubai. Al Gergawi founded Dubai Holding and oversaw its growth and strategic direction until 2017"
+      ],
+      "time_start": 2004,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate 'founded 2004' for the start date and 'chairman until March 2017' for the end date. The supporting quotes confirm Al Gergawi founded Dubai Holding in 2004 and served as chairman until 2017, providing consistent evidence for both time_start and time_finish."
+      }
+    },
+    {
+      "organizations": [
+        "Mohammed bin Rashid Al Maktoum Foundation"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "appointed 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2007, Al Gergawi was appointed Chairman of the Mohammed bin Rashid Al Maktoum Foundation"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'appointed 2007' and supporting quote clearly indicate the position started in 2007. There is no information suggesting the position has ended, so time_finish is set to null indicating it is likely ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Mohammed bin Rashid Global Initiatives"
+      ],
+      "roles": [
+        "Secretary General"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is the Secretary General of the Mohammed bin Rashid Global Initiatives, a charitable foundation that consolidates the philanthropic initiatives undertaken by Mohammed bin Rashid Al Maktoum"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('He is the Secretary General'), indicating this is likely a current position, but no specific start year is mentioned in the provided information. Without a concrete year reference, both values should be set to null following the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "World Governments Summit"
+      ],
+      "roles": [
+        "founder",
+        "Chairman"
+      ],
+      "time_markers": [
+        "established 2013 as Government Summit",
+        "renamed World Government Summit 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammed Al Gergawi played a key role in the founding and development of the World Government Summit",
+        "Initially established in 2013 as the Government Summit, an annual forum focused on the future of governance, it was renamed the World Government Summit in 2015 to reflect its expanded global scope. Al Gergawi, as its founder, oversaw this transition",
+        "Chairman of the World Governments Summit (WGS)"
+      ],
+      "time_start": 2013,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started in 2013 when Al Gergawi founded the organization (initially as 'Government Summit'). The supporting quotes refer to him as 'Chairman of the World Governments Summit' in present tense without any indication of an end date, suggesting the position is ongoing. The 2015 renaming represents a continuation of the same role, not a new position."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Future Foundation"
+      ],
+      "roles": [
+        "Vice Chairman of the Board of Trustees",
+        "Managing Director"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Vice Chairman of the Board of Trustees and Managing Director of the Dubai Future Foundation (DFF)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the roles and organization but contains no dates, time markers, or indicators of when these positions started or whether they are current or historical."
+      }
+    },
+    {
+      "organizations": [
+        "Museum of the Future"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "museum opened 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman of the Museum of the Future",
+        "The museum, which opened in 2022, is designed to be an incubator for ideas and a showcase for technologies that will shape the future"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "While we know the museum opened in 2022, there is no specific information about when the Chairman position started or whether it is ongoing. The person could have been appointed before the opening, at the opening, or after. Without explicit dates for the chairmanship itself, the conservative approach is to set both values to null."
+      }
+    },
+    {
+      "organizations": [
+        "Great Arab Minds"
+      ],
+      "roles": [
+        "Chairman of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman of the Board of Trustees of Great Arab Minds"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this position started or whether it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Mohammed bin Rashid School of Government"
+      ],
+      "roles": [
+        "founding president"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the founding president of the Mohammed bin Rashid School of Government in 2005"
+      ],
+      "time_start": 2005,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The text indicates this person became 'founding president' in 2005. As a founding president role with no end date mentioned, and no evidence suggesting the position has ended, time_finish is set to null to indicate the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Federal National Media Council"
+      ],
+      "roles": [
+        "Vice Chairman"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As part of his responsibilities as former Vice Chairman of the Federal National Media Council, he implemented and followed up on a number of initiatives and plans to support local media"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses the phrase 'former Vice Chairman' which indicates the position has ended, but no specific years are mentioned for when the position started or finished. Without concrete temporal information, both values should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "UAE University"
+      ],
+      "roles": [
+        "Council member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammed Al Gergawi has held several positions in a number of academic institutions, including membership in the UAE University Council"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Mohammed Al Gergawi 'has held' a position as a Council member at UAE University, but no specific years or time periods are mentioned. The past tense 'has held' suggests this may be a historical position, but without concrete dates or time markers, I cannot determine accurate start or finish years. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Abu Dhabi University"
+      ],
+      "roles": [
+        "Board of Trustees member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Board of Trustees of Abu Dhabi University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the position at Abu Dhabi University but contains no dates, time markers, or context that would indicate when this Board of Trustees membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "London Business School"
+      ],
+      "roles": [
+        "honorary fellow"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also an honorary fellow at the London Business School"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is also an honorary fellow'), indicating this is a current position. However, no specific start year is provided in the available information. Since honorary fellowships are typically ongoing once awarded and no end date is mentioned, time_finish should be null to indicate it's current. Without any temporal information about when this honor was bestowed, time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "American University of Beirut"
+      ],
+      "roles": [
+        "International Advisory Board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a member of the International Advisory Board at the American University of Beirut"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only confirms membership on the International Advisory Board but does not indicate when this position started or whether it is current or historical. Without temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "National Defense College"
+      ],
+      "roles": [
+        "Supreme Council member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a member of the Supreme Council of the National Defense College"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this position was held or its duration."
+      }
+    },
+    {
+      "organizations": [
+        "Georgetown University"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammad Al Gergawi receiving an honorary doctorate from Georgetown University - 2024"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2024. Awards are typically one-time events that occur in a specific year. Since the time_marker clearly indicates '2024' and the supporting quote confirms the doctorate was received in 2024, both time_start and time_finish are set to 2024."
+      }
+    },
+    {
+      "organizations": [
+        "United States university (unspecified)"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree in Business Administration graduate"
+      ],
+      "event_type": "education",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "He completed his primary and secondary school education in the emirate and attained a bachelor's degree in Business Administration from the United States"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote. The text only indicates that the person completed a bachelor's degree in Business Administration from a United States university, but provides no temporal information to determine when this education occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and overseer of TECOM Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Through Dubai Holding, Al Gergawi helped envision and launch TECOM Group, Dubai Properties Group, Emirates Integrated Telecommunications, and Family Entertainment and New Media"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only indicates that Al Gergawi helped envision and launch TECOM Group through Dubai Holding, but provides no temporal information about when this occurred or how long the role lasted. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and overseer of Dubai Properties Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Through Dubai Holding, Al Gergawi helped envision and launch TECOM Group, Dubai Properties Group, Emirates Integrated Telecommunications, and Family Entertainment and New Media"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Al Gergawi helped envision and launch Dubai Properties Group through Dubai Holding, but no specific years or time markers are provided in the career event data. Without temporal information, I cannot determine when this role began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and overseer of Emirates Integrated Telecommunications"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Through Dubai Holding, Al Gergawi helped envision and launch TECOM Group, Dubai Properties Group, Emirates Integrated Telecommunications, and Family Entertainment and New Media"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Al Gergawi helped launch Emirates Integrated Telecommunications through Dubai Holding, but no specific years or time markers are provided in the career event data. Without temporal information, I cannot determine when this role began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Government"
+      ],
+      "roles": [
+        "strategic projects overseer for Dubai Internet City"
+      ],
+      "time_markers": [
+        "late 1990s-2000s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammed bin Rashid Al Maktoum assigned him to plan and implement a number of projects and initiatives launched by Dubai, including: Dubai Internet City, Dubai Media City, Knowledge Village, Dubai Healthcare City, Dubai Financial Centre, Mohammed bin Rashid Program for Leadership Development and International Humanitarian City"
+      ],
+      "time_start": 1998,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'late 1990s-2000s' indicates a range spanning from approximately 1998-1999 through 2009. Dubai Internet City was officially launched in 2000, and the role as 'strategic projects overseer' would have begun in the planning phase in the late 1990s (approximately 1998). The '2000s' typically refers to the decade ending in 2009. Using 1998 as the start (late 1990s) and 2009 as the end (end of 2000s decade) provides the most accurate conservative interpretation of the stated timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Government"
+      ],
+      "roles": [
+        "strategic projects overseer for Dubai Media City"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the late 1990s, Mohammed bin Rashid Al Maktoum tasked Mohammed Al Gergawi with transforming Dubai into a global media hub, and from here a group of media projects were launched that Al Gergawi supervised the establishment of, including: Dubai Media City"
+      ],
+      "time_start": 1998,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'late 1990s' typically refers to 1997-1999. Given this is when Al Gergawi was tasked with and began supervising the establishment of Dubai Media City, 1998 serves as a reasonable midpoint estimate for time_start. No end date is mentioned in the supporting quote or time markers, and the phrasing suggests this was an ongoing supervisory role during the establishment phase, so time_finish is set to null due to insufficient information about when this specific role concluded."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Government"
+      ],
+      "roles": [
+        "strategic projects overseer for Knowledge Village"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammed bin Rashid Al Maktoum assigned him to plan and implement a number of projects and initiatives launched by Dubai, including: Dubai Internet City, Dubai Media City, Knowledge Village, Dubai Healthcare City, Dubai Financial Centre"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote mentions that Mohammed bin Rashid Al Maktoum assigned this person to oversee strategic projects including Knowledge Village, but no specific years or time markers are provided for when this role began or ended. Without concrete temporal information, I cannot determine accurate start or finish dates."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Government"
+      ],
+      "roles": [
+        "strategic projects overseer for Dubai Healthcare City"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammed bin Rashid Al Maktoum assigned him to plan and implement a number of projects and initiatives launched by Dubai, including: Dubai Internet City, Dubai Media City, Knowledge Village, Dubai Healthcare City, Dubai Financial Centre"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote mentions that Mohammed bin Rashid Al Maktoum assigned this person to plan and implement various projects including Dubai Healthcare City, but no specific years or time periods are provided for when this role began or ended. Without concrete temporal information, I cannot determine accurate start or finish dates."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Government"
+      ],
+      "roles": [
+        "strategic projects overseer for Dubai Financial Centre"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammed bin Rashid Al Maktoum assigned him to plan and implement a number of projects and initiatives launched by Dubai, including: Dubai Internet City, Dubai Media City, Knowledge Village, Dubai Healthcare City, Dubai Financial Centre"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only indicates that Mohammed bin Rashid Al Maktoum assigned this person to oversee strategic projects including Dubai Financial Centre, but provides no temporal information about when this assignment began or ended. Without concrete date information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Government"
+      ],
+      "roles": [
+        "strategic projects overseer for International Humanitarian City"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohammed bin Rashid Al Maktoum assigned him to plan and implement a number of projects and initiatives launched by Dubai, including: Dubai Internet City, Dubai Media City, Knowledge Village, Dubai Healthcare City, Dubai Financial Centre, Mohammed bin Rashid Program for Leadership Development and International Humanitarian City"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote mentions that Mohammed bin Rashid Al Maktoum assigned this person to plan and implement various projects including International Humanitarian City, but no specific years or time markers are provided for when this role began or ended. Without concrete temporal information, I cannot determine accurate start or finish dates."
+      }
+    },
+    {
+      "organizations": [
+        "Arab Journalism Award"
+      ],
+      "roles": [
+        "founder and supervisor"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the late 1990s, Mohammed bin Rashid Al Maktoum tasked Mohammed Al Gergawi with transforming Dubai into a global media hub, and from here a group of media projects were launched that Al Gergawi supervised the establishment of, including: Dubai Media City, the Arab Journalism Award, the Dubai Press Club, the Arab Media Forum, and the Dubai Media Incorporated"
+      ],
+      "time_start": 1998,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'late 1990s' typically refers to 1997-1999, with 1998 being the midpoint. The role is 'founder and supervisor' of the Arab Journalism Award, which suggests an ongoing supervisory position rather than a time-limited one. Since there's no indication the role ended, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Press Club"
+      ],
+      "roles": [
+        "founder and supervisor"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a group of media projects were launched that Al Gergawi supervised the establishment of, including: Dubai Media City, the Arab Journalism Award, the Dubai Press Club, the Arab Media Forum, and the Dubai Media Incorporated"
+      ],
+      "time_start": 1999,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'late 1990s' indicates the founding occurred around 1997-1999. Using 1999 as the most likely year for 'late 1990s'. The role is 'founder and supervisor' which suggests an ongoing supervisory position with no end date mentioned, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Arab Media Forum"
+      ],
+      "roles": [
+        "founder and supervisor"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a group of media projects were launched that Al Gergawi supervised the establishment of, including: Dubai Media City, the Arab Journalism Award, the Dubai Press Club, the Arab Media Forum, and the Dubai Media Incorporated"
+      ],
+      "time_start": 1998,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'late 1990s' indicates the Arab Media Forum was founded approximately 1997-1999. Using 1998 as the midpoint of late 1990s for time_start. Since this is a founding/supervisory role with no end date mentioned and the organization still exists, time_finish is set to null indicating an ongoing or unspecified end date."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Media Incorporated"
+      ],
+      "roles": [
+        "founder and supervisor"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a group of media projects were launched that Al Gergawi supervised the establishment of, including: Dubai Media City, the Arab Journalism Award, the Dubai Press Club, the Arab Media Forum, and the Dubai Media Incorporated"
+      ],
+      "time_start": 1999,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'late 1990s' indicates the founding occurred around 1997-1999. Using 1999 as the most likely year for the establishment. time_finish is set to null as there is no indication that the supervisory role has ended, and founding/supervisory positions often continue indefinitely unless otherwise stated."
+      }
+    },
+    {
+      "organizations": [
+        "Arab Media Group",
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and leader"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Within Dubai Holding, he led the efforts to establish the Arab Media Group 'AMG', the Arab Radio Network, the newspaper Emarat Al Youm, Dubai Studio City, and Dubai Production City"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only describes that the person led efforts to establish various entities within Dubai Holding, but provides no temporal information about when this occurred or how long it lasted."
+      }
+    },
+    {
+      "organizations": [
+        "Arab Radio Network",
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and leader"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Within Dubai Holding, he led the efforts to establish the Arab Media Group 'AMG', the Arab Radio Network, the newspaper Emarat Al Youm, Dubai Studio City, and Dubai Production City"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote describes leadership activities ('he led the efforts to establish') but provides no specific years or time markers. Without temporal information in the career event data, I cannot determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Emarat Al Youm",
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and leader"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Within Dubai Holding, he led the efforts to establish the Arab Media Group 'AMG', the Arab Radio Network, the newspaper Emarat Al Youm, Dubai Studio City, and Dubai Production City"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only describes that the person led efforts to establish various entities within Dubai Holding, including Emarat Al Youm, but provides no temporal information about when this occurred or how long the position lasted."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Studio City",
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and leader"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Within Dubai Holding, he led the efforts to establish the Arab Media Group 'AMG', the Arab Radio Network, the newspaper Emarat Al Youm, Dubai Studio City, and Dubai Production City"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates he 'led the efforts to establish' Dubai Studio City within Dubai Holding, but no specific years or time markers are provided in the career event data. Without temporal information, I cannot determine when this founding/leadership role began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Dubai Production City",
+        "Dubai Holding"
+      ],
+      "roles": [
+        "founder and leader"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Within Dubai Holding, he led the efforts to establish the Arab Media Group 'AMG', the Arab Radio Network, the newspaper Emarat Al Youm, Dubai Studio City, and Dubai Production City"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only describes that the person led efforts to establish Dubai Production City and other entities within Dubai Holding, but provides no temporal information about when this occurred or how long it lasted."
+      }
+    },
+    {
+      "organizations": [
+        "Arab Social Media Award"
+      ],
+      "roles": [
+        "founder and manager"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, he managed the establishment of the Arab Social Media Award, in addition to chairing the organizing committee of the Social Media Influencers Summit"
+      ],
+      "time_start": 2014,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote states 'In 2014, he managed the establishment of the Arab Social Media Award,' indicating the position started in 2014. The role is 'founder and manager' which suggests an ongoing relationship with the organization. No end date is mentioned, and founding/management roles typically continue unless explicitly stated otherwise, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Social Media Influencers Summit"
+      ],
+      "roles": [
+        "organizing committee chairman"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, he managed the establishment of the Arab Social Media Award, in addition to chairing the organizing committee of the Social Media Influencers Summit"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2014) is mentioned in the time_markers and supporting quote. The quote states 'In 2014, he...chairing the organizing committee' which indicates this role occurred in 2014. There is no information suggesting the role continued beyond 2014, so following guideline 4, both time_start and time_finish are set to 2014."
+      }
+    }
+  ]
+}

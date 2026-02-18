@@ -1,0 +1,627 @@
+{
+  "person_name": "Yevgeny Maksimovich Primakov",
+  "career_events": [
+    {
+      "organizations": [
+        "Moscow Institute of Oriental Studies"
+      ],
+      "roles": [
+        "student",
+        "graduate with degree in Arabic"
+      ],
+      "time_markers": [
+        "graduated 1953"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Primakov was educated at the Moscow Institute of Oriental Studies, graduating in 1953"
+      ],
+      "time_start": null,
+      "time_finish": 1953,
+      "metadata": {
+        "timeline_reasoning": "The event indicates Primakov graduated in 1953 from the Moscow Institute of Oriental Studies. While we know the graduation year (time_finish), the start year of his studies is not specified in the provided information. For educational events, graduation marks the end, so time_finish is 1953, but time_start remains null due to lack of information."
+      }
+    },
+    {
+      "organizations": [
+        "Moscow State University"
+      ],
+      "roles": [
+        "postgraduate student"
+      ],
+      "time_markers": [
+        "after 1953"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "carried out postgraduate work at Moscow State University"
+      ],
+      "time_start": 1954,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'after 1953' indicates the postgraduate work began sometime after 1953, so the earliest possible start would be 1954. However, there is no information about when the postgraduate studies ended, so time_finish is set to null. A typical postgraduate program would last 3-4 years, but without explicit evidence of completion date, it's more conservative to leave it null."
+      }
+    },
+    {
+      "organizations": [
+        "Soviet Radio",
+        "Pravda newspaper"
+      ],
+      "roles": [
+        "journalist",
+        "Middle Eastern correspondent",
+        "KGB co-optee (codename MAKSIM)"
+      ],
+      "time_markers": [
+        "1956 to 1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1956 to 1970, he worked as a journalist for Soviet radio and a Middle Eastern correspondent for Pravda newspaper. During this time, he was sent frequently on intelligence missions to the Middle East and the United States as a KGB co-optee under codename MAKSIM."
+      ],
+      "time_start": 1956,
+      "time_finish": 1970,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array explicitly states '1956 to 1970', and the supporting quote confirms 'From 1956 to 1970, he worked as a journalist for Soviet radio and a Middle Eastern correspondent for Pravda newspaper.' This clearly indicates the career position started in 1956 and ended in 1970."
+      }
+    },
+    {
+      "organizations": [
+        "Institute of World Economy and International Relations"
+      ],
+      "roles": [
+        "Senior Researcher"
+      ],
+      "time_markers": [
+        "1962"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As a Senior Researcher at the Institute of World Economy and International Relations, Primakov entered into scientific society in 1962."
+      ],
+      "time_start": 1962,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Primakov 'entered into scientific society in 1962' as a Senior Researcher at the Institute. This clearly marks 1962 as the start year. However, no end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Institute of World Economy and International Relations",
+        "Academy of Sciences of the Soviet Union"
+      ],
+      "roles": [
+        "deputy director"
+      ],
+      "time_markers": [
+        "30 December 1970 to 1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 30 December 1970 to 1977, he served as deputy director of the Institute of World Economy and International Relations, part of the Academy of Sciences of the Soviet Union."
+      ],
+      "time_start": 1970,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states 'From 30 December 1970 to 1977', clearly indicating the position started in 1970 and ended in 1977. This is confirmed by the supporting quote which uses the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "Institute of Oriental Studies of the USSR Academy of Sciences"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "1977 to 1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1977 to 1985 he was Director of the Institute of Oriental Studies of the USSR Academy of Sciences."
+      ],
+      "time_start": 1977,
+      "time_finish": 1985,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1977 to 1985' and supporting quote 'From 1977 to 1985 he was Director' clearly indicate the position started in 1977 and ended in 1985. The past tense 'was' confirms this is a completed position."
+      }
+    },
+    {
+      "organizations": [
+        "Soviet Peace Committee"
+      ],
+      "roles": [
+        "First Deputy Chairman"
+      ],
+      "time_markers": [
+        "1977 to 1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During this time he was also First Deputy Chairman of the Soviet Peace Committee."
+      ],
+      "time_start": 1977,
+      "time_finish": 1985,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1977 to 1985', indicating a clear start year of 1977 and end year of 1985 for the position of First Deputy Chairman of the Soviet Peace Committee."
+      }
+    },
+    {
+      "organizations": [
+        "Institute of World Economy and International Relations"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "1985 until 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1985 he returned to the Institute of World Economy and International Relations, serving as Director until 1989."
+      ],
+      "time_start": 1985,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1985 until 1989' and the supporting quote confirms 'serving as Director until 1989', clearly indicating the position started in 1985 and ended in 1989."
+      }
+    },
+    {
+      "organizations": [
+        "Supreme Soviet of the Soviet Union"
+      ],
+      "roles": [
+        "Chairman of the Soviet of the Union"
+      ],
+      "time_markers": [
+        "3 June 1989 – 31 March 1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Primakov became involved in national politics in 1989, as the Chairman of the Soviet of the Union, one of two chambers of the Soviet parliament."
+      ],
+      "time_start": 1989,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '3 June 1989 – 31 March 1990', indicating the position started in 1989 and ended in 1990. This is corroborated by the supporting quote mentioning 1989 as when Primakov became Chairman of the Soviet of the Union."
+      }
+    },
+    {
+      "organizations": [
+        "27th Politburo of the Communist Party of the Soviet Union"
+      ],
+      "roles": [
+        "Candidate member"
+      ],
+      "time_markers": [
+        "1989–1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1989–1990: Candidate member, 27th Politburo"
+      ],
+      "time_start": 1989,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1989–1990' clearly indicates a start year of 1989 and an end year of 1990. This is confirmed by the supporting quote '1989–1990: Candidate member, 27th Politburo' which uses the same date range format."
+      }
+    },
+    {
+      "organizations": [
+        "Presidential Council of the Soviet Union"
+      ],
+      "roles": [
+        "member",
+        "special envoy to Iraq"
+      ],
+      "time_markers": [
+        "1990 until 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1990 until 1991 he was a member of Soviet leader Mikhail Gorbachev's Presidential Council of the Soviet Union.",
+        "He served as Gorbachev's special envoy to Iraq in the run-up to the Persian Gulf War"
+      ],
+      "time_start": 1990,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1990 until 1991', and the supporting quote confirms 'From 1990 until 1991 he was a member of Soviet leader Mikhail Gorbachev's Presidential Council.' This clearly indicates the position started in 1990 and ended in 1991."
+      }
+    },
+    {
+      "organizations": [
+        "KGB First Chief Directorate"
+      ],
+      "roles": [
+        "First Deputy Chairman of the KGB",
+        "Director of the KGB First Chief Directorate"
+      ],
+      "time_markers": [
+        "30 September 1991 – 6 November 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the failed August 1991 putsch, Primakov was appointed First Deputy Chairman of the KGB and Director of the KGB First Chief Directorate responsible for foreign intelligence."
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '30 September 1991 – 6 November 1991', indicating both the start and end dates occurred within the same year, 1991."
+      }
+    },
+    {
+      "organizations": [
+        "USSR Central Intelligence Service"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "6 November 1991 – 26 December 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Director of the USSR Central Intelligence Service In office 6 November 1991 – 26 December 1991"
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly indicates the position started on 6 November 1991 and ended on 26 December 1991. Both dates fall within the same year, so time_start and time_finish are both 1991."
+      }
+    },
+    {
+      "organizations": [
+        "Foreign Intelligence Service (SVR)"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "26 December 1991 – 9 January 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the formation of the Russian Federation, Primakov shepherded the transition of the KGB First Chief Directorate to the control of the Russian Federation government, under the new name Foreign Intelligence Service (SVR).",
+        "He served as SVR director from 1991 until 1996."
+      ],
+      "time_start": 1991,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field provides a precise date range '26 December 1991 – 9 January 1996', indicating the position started in 1991 and ended in 1996. This is corroborated by the supporting quote 'He served as SVR director from 1991 until 1996.' Both sources consistently point to 1991 as the start year and 1996 as the end year."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs of Russia"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "9 January 1996 – 11 September 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Primakov served as Minister of Foreign Affairs from January 1996 until September 1998."
+      ],
+      "time_start": 1996,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates the position started on 9 January 1996 and ended on 11 September 1998. This is corroborated by the supporting quote stating 'Primakov served as Minister of Foreign Affairs from January 1996 until September 1998.'"
+      }
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "Prime Minister of Russia"
+      ],
+      "time_markers": [
+        "11 September 1998 – 12 May 1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a Russian politician and diplomat who served as Prime Minister of Russia from 1998 to 1999"
+      ],
+      "time_start": 1998,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates the position started on 11 September 1998 and ended on 12 May 1999. The supporting quote confirms service 'from 1998 to 1999'. Therefore, time_start is 1998 and time_finish is 1999."
+      }
+    },
+    {
+      "organizations": [
+        "Fatherland – All Russia"
+      ],
+      "roles": [
+        "supporter",
+        "presidential candidate"
+      ],
+      "time_markers": [
+        "1998-2002",
+        "abandoned race 4 February 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before Yeltsin's resignation, Primakov supported the Fatherland – All Russia electoral faction, which at that time was the major opponent of the pro-Putin Unity, and launched his presidential bid.",
+        "Primakov officially abandoned the presidential race in his TV address on 4 February 2000"
+      ],
+      "time_start": 1999,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1998-2002' refers to the Fatherland – All Russia faction's existence period, not Primakov's involvement. The supporting quotes indicate Primakov's presidential bid occurred 'before Yeltsin's resignation' (December 31, 1999) and ended on February 4, 2000 when he abandoned the race. His active involvement as supporter and presidential candidate therefore spans from 1999 (when he launched his bid) to 2000 (when he officially withdrew)."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "adviser to President Putin"
+      ],
+      "time_markers": [
+        "2000 onwards"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Soon he became an adviser to Putin and a political ally."
+      ],
+      "time_start": 2000,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2000 onwards' clearly indicates the position started in 2000. The word 'onwards' suggests the position continued beyond 2000 with no specified end date, making it either ongoing or with an unknown end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Russian Chamber of Commerce and Industry"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "14 December 2001 until 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 14 December 2001, Primakov became President of the Russian Chamber of Commerce and Industry, a position he held until 2011."
+      ],
+      "time_start": 2001,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states '14 December 2001 until 2011', indicating the position started in 2001 and ended in 2011. This is confirmed by the supporting quote which states the same timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "special representative of President Putin to Iraq"
+      ],
+      "time_markers": [
+        "February and March 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In February and March 2003, he visited Iraq and held talks with Iraqi President Saddam Hussein, as a special representative of President Putin."
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'February and March 2003' indicates this was a specific diplomatic mission that occurred during a two-month period in 2003. The supporting quote confirms he 'visited Iraq and held talks' as a special representative during this timeframe, suggesting a short-term assignment rather than an ongoing position. Both time_start and time_finish are set to 2003 as this appears to be a brief, specific mission within that single year."
+      }
+    },
+    {
+      "organizations": [
+        "Russian Academy of Sciences"
+      ],
+      "roles": [
+        "member of the Presidium"
+      ],
+      "time_markers": [
+        "26 May 2008 onwards"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 26 May 2008, Primakov was elected as a member of the Presidium of the Russian Academy of Sciences.",
+        "Primakov was an academician (Arabist) and a member of the Presidium of the Russian Academy of Sciences."
+      ],
+      "time_start": 2008,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '26 May 2008 onwards' clearly indicates the position started in 2008. The word 'onwards' explicitly signals this is an ongoing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Nasser Prize Committee"
+      ],
+      "roles": [
+        "Nasser Prize recipient"
+      ],
+      "time_markers": [
+        "1974"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Nasser Prize (1974)"
+      ],
+      "time_start": 1974,
+      "time_finish": 1974,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1974). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 1974."
+      }
+    },
+    {
+      "organizations": [
+        "USSR"
+      ],
+      "roles": [
+        "USSR State Prize recipient"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the USSR State Prize (1980)"
+      ],
+      "time_start": 1980,
+      "time_finish": 1980,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1980). Awards are typically received in a specific year rather than spanning multiple years. Following guideline 4, both time_start and time_finish are set to 1980."
+      }
+    },
+    {
+      "organizations": [
+        "Avicenna Prize Committee"
+      ],
+      "roles": [
+        "Avicenna Prize recipient"
+      ],
+      "time_markers": [
+        "1983"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Avicenna Prize (1983)"
+      ],
+      "time_start": 1983,
+      "time_finish": 1983,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1983). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 1983."
+      }
+    },
+    {
+      "organizations": [
+        "George F. Kennan Institute"
+      ],
+      "roles": [
+        "George F. Kennan Prize recipient"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the George F. Kennan Prize (1990)"
+      ],
+      "time_start": 1990,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1990). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 1990."
+      }
+    },
+    {
+      "organizations": [
+        "Hugo Grotius Prize Committee"
+      ],
+      "roles": [
+        "Hugo Grotius Prize recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Hugo Grotius Prize for the huge contribution to the development of international law and for the creation of a multipolar world doctrine (2000)."
+      ],
+      "time_start": 2000,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2000) mentioned in the time_markers and supporting quote. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2000."
+      }
+    },
+    {
+      "organizations": [
+        "University of Niš, Serbia"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2009, the University of Niš, Serbia awarded Primakov an honorary doctorate."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (honorary doctorate) that occurred in a single year (2009). Awards are typically conferred at a specific point in time rather than spanning multiple years. The supporting quote confirms 'In 2009, the University of Niš, Serbia awarded Primakov an honorary doctorate.'"
+      }
+    },
+    {
+      "organizations": [
+        "Demidov Prize Committee"
+      ],
+      "roles": [
+        "Demidov Prize recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Demidov Prize (2012)"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2012'. Awards are typically received in a specific year rather than spanning multiple years. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "International Criminal Tribunal for the former Yugoslavia"
+      ],
+      "roles": [
+        "defense witness for Slobodan Milošević"
+      ],
+      "time_markers": [
+        "November 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2004, Primakov testified in defense of the former Yugoslav President Slobodan Milošević, on trial for war crimes."
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The event is a specific testimony that occurred in November 2004. This is a discrete event (testifying as a defense witness) rather than an ongoing position, so both start and finish are set to 2004."
+      }
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "person_name": "Robert Badinter",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Paris",
+        "Paris Law Faculty"
+      ],
+      "roles": [
+        "law student",
+        "LLB graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter graduated in law from Paris Law Faculty of the University of Paris."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms that Badinter graduated in law from Paris Law Faculty, but provides no specific years for when he started or completed his studies. Without additional temporal information, I cannot determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Columbia University"
+      ],
+      "roles": [
+        "graduate student",
+        "MA recipient"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He then went to the United States to continue his studies at Columbia University in New York City, where he got his MA."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person studied at Columbia University and received an MA, but no specific years or time markers are provided. Without additional context or dates, it's not possible to determine when this education period started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "the Sorbonne"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "until 1954"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He continued his studies again at the Sorbonne until 1954."
+      ],
+      "time_start": null,
+      "time_finish": 1954,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'until 1954' and supporting quote 'continued his studies again at the Sorbonne until 1954' clearly indicate the end year as 1954. However, no start year is provided. The phrase 'continued his studies again' suggests this was a resumption of studies, but without specific information about when this continuation began, time_start must be null."
+      }
+    },
+    {
+      "organizations": [
+        "Henri Torrès law practice"
+      ],
+      "roles": [
+        "lawyer"
+      ],
+      "time_markers": [
+        "1951"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter started his career in Paris in 1951, as a lawyer working with Henri Torrès."
+      ],
+      "time_start": 1951,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote states Badinter 'started his career in Paris in 1951' working with Henri Torrès, but provides no information about when this position ended. Since only the start year is mentioned and no end date is given, time_start is set to 1951 and time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Sorbonne"
+      ],
+      "roles": [
+        "professor",
+        "Emeritus professor"
+      ],
+      "time_markers": [
+        "appointed 1965",
+        "until 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1965, Badinter was appointed a professor at University of Sorbonne. He continued as an Emeritus professor until 1996."
+      ],
+      "time_start": 1965,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate 'appointed 1965' as the start date and 'until 1996' as the end date. The supporting quote confirms this timeline, stating the person was appointed professor in 1965 and continued (including as Emeritus professor) until 1996."
+      }
+    },
+    {
+      "organizations": [
+        "Badinter, Bredin et partenaires",
+        "Bredin Prat"
+      ],
+      "roles": [
+        "co-founder",
+        "practicing lawyer"
+      ],
+      "time_markers": [
+        "founded 1965",
+        "practiced until 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1965, along with Jean-Denis Bredin, he founded the law firm Badinter, Bredin et partenaires, (now Bredin Prat) where he practised law until 1981."
+      ],
+      "time_start": 1965,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the law firm was founded in 1965 and the person practiced law there until 1981. Both the start year (founded 1965) and end year (practiced until 1981) are explicitly provided in the time_markers and supporting quote."
+      }
+    },
+    {
+      "organizations": [
+        "French Government",
+        "Ministry of Justice"
+      ],
+      "roles": [
+        "Minister of Justice"
+      ],
+      "time_markers": [
+        "23 June 1981 - 19 February 1986"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981, François Mitterrand, a self-professed opponent of the death penalty, was elected president and Badinter was appointed as Minister of Justice.",
+        "He remained a minister until February 1986."
+      ],
+      "time_start": 1981,
+      "time_finish": 1986,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '23 June 1981 - 19 February 1986', indicating the position started in 1981 and ended in 1986. This is corroborated by the supporting quotes mentioning appointment in 1981 and remaining minister until February 1986."
+      }
+    },
+    {
+      "organizations": [
+        "French Constitutional Council"
+      ],
+      "roles": [
+        "President of the Constitutional Council"
+      ],
+      "time_markers": [
+        "4 March 1986 - 4 March 1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From March 1986 to March 1995, he was president of the French Constitutional Council."
+      ],
+      "time_start": 1986,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '4 March 1986 - 4 March 1995', indicating the position started in 1986 and ended in 1995. This is corroborated by the supporting quote 'From March 1986 to March 1995, he was president of the French Constitutional Council.'"
+      }
+    },
+    {
+      "organizations": [
+        "French Senate"
+      ],
+      "roles": [
+        "Senator for Hauts-de-Seine"
+      ],
+      "time_markers": [
+        "24 September 1995 - 30 September 2011",
+        "elected 1995",
+        "reelected 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1995 to 2011, he served as a senator, representing the Hauts-de-Seine département.",
+        "Senator for Hauts-de-Seine: 1995–2011. Elected in 1995, reelected in 2004."
+      ],
+      "time_start": 1995,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '24 September 1995 - 30 September 2011' as the full period of service. This is corroborated by supporting quotes stating 'From 1995 to 2011' and 'Senator for Hauts-de-Seine: 1995–2011'. The position started in 1995 (when first elected) and ended in 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Council of Ministers of the European Community",
+        "Arbitration Commission of the Peace Conference on Yugoslavia"
+      ],
+      "roles": [
+        "commission member",
+        "president of the commission"
+      ],
+      "time_markers": [
+        "appointed 1991",
+        "1991-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1991, Badinter was appointed by the Council of Ministers of the European Community as a member of the Arbitration Commission of the Peace Conference on Yugoslavia. He was elected as president of the commission by the four other members"
+      ],
+      "time_start": 1991,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '1991-1993' as the period of service. The appointment occurred in 1991 as confirmed by both 'appointed 1991' and the supporting quote, and the commission ended in 1993."
+      }
+    },
+    {
+      "organizations": [
+        "Court of Conciliation and Arbitration",
+        "Organization for Security and Co-operation in Europe (OSCE)"
+      ],
+      "roles": [
+        "first president of the Court"
+      ],
+      "time_markers": [
+        "1995-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter was the first president of the Court of Conciliation and Arbitration of the Organization for Security and Co-operation in Europe (OSCE) following its creation in 1995; he served in that position until 2013."
+      ],
+      "time_start": 1995,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1995-2013', and the supporting quote confirms that Badinter 'was the first president of the Court of Conciliation and Arbitration... following its creation in 1995; he served in that position until 2013.' This clearly indicates he started in 1995 and ended in 2013."
+      }
+    },
+    {
+      "organizations": [
+        "American Philosophical Society"
+      ],
+      "roles": [
+        "elected member"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter was elected to the American Philosophical Society in 2009."
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is an election to membership in the American Philosophical Society in 2009. Membership in such prestigious societies is typically a lifetime honor that continues indefinitely once granted, rather than a time-limited position. Therefore, time_start is 2009 when the membership began, and time_finish is null as the membership is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "World Justice Project"
+      ],
+      "roles": [
+        "Honorary Co-Chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter served as an Honorary Co-Chair for the World Justice Project."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or any other field. The quote only confirms that Badinter served as Honorary Co-Chair but provides no temporal information about when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "International Commission Against the Death Penalty"
+      ],
+      "roles": [
+        "honorary member"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As a longstanding activist for the abolition of the death penalty, Robert Badinter was appointed an honorary member of the International Commission Against the Death Penalty."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Robert Badinter was appointed as an honorary member due to his longstanding activism, but no specific year or time period is mentioned for when this appointment occurred or ended. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Czech Republic"
+      ],
+      "roles": [
+        "Order of Tomáš Garrigue Masaryk recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He nevertheless received foreign decorations, notably the Order of Tomáš Garrigue Masaryk (Czech Republic) in 2001."
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2001). Awards are typically received at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "North Macedonia"
+      ],
+      "roles": [
+        "Order 8-September recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Order 8-September (North Macedonia) in 2006."
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2006). Awards are typically conferred at a specific point in time rather than spanning multiple years. The supporting quote confirms the Order 8-September was received in 2006, so both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "World Macedonian Congress"
+      ],
+      "roles": [
+        "honorary title 'Macedonian Senator'"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For that judgement implying that Republic of Macedonia could unconditionally be admitted to International Organizations he was awarded with the title 'Macedonian Senator' by the World Macedonian Congress in 2004."
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honorary title given in 2004. Awards and honorary titles are typically conferred at a specific point in time rather than representing ongoing positions. The title 'Macedonian Senator' appears to be an honorific recognition rather than an active role with a duration, so both start and finish are set to the year it was awarded."
+      }
+    },
+    {
+      "organizations": [
+        "Death Penalty Focus"
+      ],
+      "roles": [
+        "International Abolition Award recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was awarded the International Abolition Award by Death Penalty Focus in 2023."
+      ],
+      "time_start": 2023,
+      "time_finish": 2023,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific year mentioned (2023). Awards are typically one-time events that occur in a single year, so both time_start and time_finish are set to 2023."
+      }
+    },
+    {
+      "organizations": [
+        "Socialist Party (France)"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Political party: Socialist Party"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The career event only indicates membership in the Socialist Party (France) with no temporal information provided. The supporting quote 'Political party: Socialist Party' is a static statement of affiliation without any dates, time markers, or context that would indicate when the membership began or ended. Without specific years or time indicators, both values must be set to null."
+      }
+    }
+  ]
+}

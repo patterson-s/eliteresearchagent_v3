@@ -1,0 +1,745 @@
+{
+  "person_name": "Gro Harlem Brundtland",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Oslo"
+      ],
+      "roles": [
+        "medical student",
+        "Cand.Med. graduate"
+      ],
+      "time_markers": [
+        "1963"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1963, Brundtland graduated with a medical degree, a cand.med. from the University of Oslo."
+      ],
+      "time_start": null,
+      "time_finish": 1963,
+      "metadata": {
+        "timeline_reasoning": "The event describes graduation from medical school in 1963. This is the completion year of the education. While medical degrees typically take several years, only the graduation year (1963) is explicitly mentioned. The time_finish is set to 1963 as this marks when the degree was completed. The time_start is set to null as no information about when the medical studies began is provided in the data."
+      }
+    },
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "Master of Public Health student",
+        "MPH graduate"
+      ],
+      "time_markers": [
+        "1965"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She took her master's degree at Harvard University in 1965, as a Master of Public Health."
+      ],
+      "time_start": null,
+      "time_finish": 1965,
+      "metadata": {
+        "timeline_reasoning": "The quote indicates she 'took her master's degree at Harvard University in 1965', meaning 1965 is the graduation year (time_finish). The start year is not specified. While MPH programs typically last 1-2 years, without explicit information about when she began, time_start should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Directorate of Health (Helsedirektoratet)"
+      ],
+      "roles": [
+        "physician"
+      ],
+      "time_markers": [
+        "1966 to 1969"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1966 to 1969, she worked as a physician at the Directorate of Health (Helsedirektoratet)"
+      ],
+      "time_start": 1966,
+      "time_finish": 1969,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1966 to 1969' and the supporting quote confirms 'From 1966 to 1969, she worked as a physician at the Directorate of Health'. This clearly indicates the position started in 1966 and ended in 1969."
+      }
+    },
+    {
+      "organizations": [
+        "Oslo public school health service"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "time_markers": [
+        "from 1969"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from 1969 she worked as a doctor in Oslo's public school health service."
+      ],
+      "time_start": 1969,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'from 1969' and supporting quote 'from 1969 she worked as a doctor' clearly indicate the position started in 1969. No end date is mentioned, and the phrasing 'from 1969' without an end marker suggests the position may have been ongoing at the time of documentation, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of the Environment"
+      ],
+      "time_markers": [
+        "6 September 1974 – 8 October 1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was minister for environmental affairs from 1974 to 1979.",
+        "Minister of the Environment In office 6 September 1974 – 8 October 1979"
+      ],
+      "time_start": 1974,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field provides precise dates '6 September 1974 – 8 October 1979', clearly indicating the position started in 1974 and ended in 1979. This is corroborated by the supporting quote 'minister for environmental affairs from 1974 to 1979.'"
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament (Storting)"
+      ],
+      "roles": [
+        "Member of Parliament",
+        "representative for Oslo constituency"
+      ],
+      "time_markers": [
+        "1 October 1977 – 30 September 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Norwegian Parliament In office 1 October 1977 – 30 September 1997"
+      ],
+      "time_start": 1977,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1 October 1977 – 30 September 1997', indicating the position started in 1977 and ended in 1997. This is corroborated by the supporting_quotes field which contains the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "Labour Party (Norway)"
+      ],
+      "roles": [
+        "Leader"
+      ],
+      "time_markers": [
+        "1981–1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland became leader of the Labour Party in 1981 and held the office until resigning in 1992",
+        "Leader of the Labour Party In office 1981–1992"
+      ],
+      "time_start": 1981,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly shows '1981–1992', and this is corroborated by both supporting quotes which explicitly state Brundtland became leader in 1981 and held office until resigning in 1992. The evidence is consistent and unambiguous."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway",
+        "first female Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "4 February 1981 – 14 October 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She became the first female prime minister of Norway on 4 February 1981, but left office on 14 October 1981",
+        "Brundtland became Norway's first female prime minister in 1981.",
+        "At 41 years old she was the youngest person to become Prime Minister of Norway."
+      ],
+      "time_start": 1981,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 4 February 1981 and ended on 14 October 1981. Both the start and end dates fall within the same year, so both time_start and time_finish are set to 1981."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "World Commission on Environment and Development (Brundtland Commission)"
+      ],
+      "roles": [
+        "Chair of the World Commission on Environment and Development"
+      ],
+      "time_markers": [
+        "1983",
+        "published report April 1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1983, Brundtland was invited by then United Nations Secretary-General Javier Pérez de Cuéllar to establish and chair the World Commission on Environment and Development (WCED), widely referred to as the Brundtland Commission.",
+        "The commission, which published its report, Our Common Future, in April 1987"
+      ],
+      "time_start": 1983,
+      "time_finish": 1987,
+      "metadata": {
+        "timeline_reasoning": "Brundtland was invited to establish and chair the commission in 1983, marking the start of the position. The commission published its final report in April 1987, which indicates the completion of the commission's work and thus the end of her role as chair."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "9 May 1986 – 16 October 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she returned as prime minister on 9 May 1986 and served until 16 October 1989.",
+        "The second ministry was from 9 May 1986 until 16 October 1989 and this cabinet became known worldwide for its high proportion of female ministers: nearly half, or eight of the total eighteen ministers, were female."
+      ],
+      "time_start": 1986,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '9 May 1986 – 16 October 1989', and both supporting quotes confirm this person served as Prime Minister from 9 May 1986 until 16 October 1989. The start year is 1986 and the end year is 1989."
+      }
+    },
+    {
+      "organizations": [
+        "Indira Gandhi Prize"
+      ],
+      "roles": [
+        "Indira Gandhi Prize recipient"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Indira Gandhi Prize (1988)"
+      ],
+      "time_start": 1988,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1988). Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 1988."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "3 November 1990 – 25 October 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She finally returned for her third term on 3 November 1990.",
+        "The third ministry was from 3 November 1990 to 25 October 1996."
+      ],
+      "time_start": 1990,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '3 November 1990 – 25 October 1996', and this is corroborated by both supporting quotes which explicitly mention the same date range for the third term as Prime Minister of Norway."
+      }
+    },
+    {
+      "organizations": [
+        "Charlemagne Prize Committee"
+      ],
+      "roles": [
+        "Charlemagne Prize recipient"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland received the 1994 Charlemagne Prize",
+        "In 1994, Brundtland was awarded the Charlemagne Prize of the city of Aachen."
+      ],
+      "time_start": 1994,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Charlemagne Prize) that occurred in a specific year (1994). Awards are typically one-time honors received in a single year, not ongoing positions. Both supporting quotes confirm the award was received in 1994."
+      }
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "Director-General"
+      ],
+      "time_markers": [
+        "13 May 1998 – 21 July 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the end of her term as PM, Brundtland was then elected Director-General of the World Health Organization in May 1998.",
+        "Director-General of the World Health Organization In office 13 May 1998 – 21 July 2003"
+      ],
+      "time_start": 1998,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly states '13 May 1998 – 21 July 2003', indicating the position started in 1998 and ended in 2003. This is corroborated by the supporting quotes which confirm she was elected Director-General in May 1998 and served until 21 July 2003."
+      }
+    },
+    {
+      "organizations": [
+        "American Philosophical Society"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the American Philosophical Society (2002)"
+      ],
+      "time_start": 2002,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The year 2002 indicates when membership in the American Philosophical Society began. Membership in such prestigious societies is typically ongoing/lifetime unless explicitly stated otherwise, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Scientific American"
+      ],
+      "roles": [
+        "'Policy Leader of the Year' award recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland was recognized in 2003 by Scientific American as their 'Policy Leader of the Year' for coordinating a rapid worldwide response to stem outbreaks of SARS."
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2003). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish should be set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Spanish Government"
+      ],
+      "roles": [
+        "Grand Cross of the Civil Order of Health recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Civil Order of Health (Spain, 2003)"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2003) indicating when the Grand Cross of the Civil Order of Health was received. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Conference on Trade and Development (UNCTAD)"
+      ],
+      "roles": [
+        "Panel of Eminent Persons member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006 Brundtland was a member of the Panel of Eminent Persons who reviewed the work of the United Nations Conference on Trade and Development (UNCTAD)."
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 2006 Brundtland was a member of the Panel of Eminent Persons who reviewed the work of UNCTAD.' This describes a specific review activity that occurred in 2006. Panel memberships for reviews are typically time-bound projects that conclude once the review is complete, suggesting this was a 2006-specific engagement rather than an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "founding member"
+      ],
+      "time_markers": [
+        "launched 18 July 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland is a founding member of The Elders, a group of world leaders originally convened by Nelson Mandela, Graça Machel and Desmond Tutu",
+        "Mandela announced the launch of the group on 18 July 2007 in Johannesburg, South Africa."
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The organization 'The Elders' was launched on 18 July 2007, which marks when Brundtland became a founding member. As a founding member of an ongoing organization with no end date mentioned, time_finish is set to null indicating the position is current/ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UN Special Envoy on Climate Change"
+      ],
+      "time_markers": [
+        "May 2007 to 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2007, UN Secretary-General Ban Ki-moon named Brundtland, as well as Ricardo Lagos (the former president of Chile), and Han Seung-soo (the former foreign minister of South Korea), to serve as UN Special Envoys for Climate Change.",
+        "served as director-general of the World Health Organization and as UN special envoy on Climate Change from 2007 to 2010."
+      ],
+      "time_start": 2007,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states 'May 2007 to 2010', and this is corroborated by the supporting quote mentioning 'from 2007 to 2010'. The start year is 2007 (when appointed in May) and the end year is 2010."
+      }
+    },
+    {
+      "organizations": [
+        "PepsiCo"
+      ],
+      "roles": [
+        "consultant"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2007, Brundtland was working for Pepsi as a consultant."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2007) is mentioned in the time_markers and supporting quote. The quote states 'In 2007, Brundtland was working for Pepsi as a consultant' which indicates activity during that year but provides no information about when the consultancy started or ended. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "University of Virginia",
+        "Thomas Jefferson Foundation"
+      ],
+      "roles": [
+        "Thomas Jefferson Foundation Medal in Architecture recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Thomas Jefferson Foundation Medal in Architecture (2008)"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2008). Awards are typically one-time honors received in a specific year rather than ongoing positions. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "Deputy Chair"
+      ],
+      "time_markers": [
+        "2013 to 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Deputy Chair of the group in 2013 and was succeeded in this role by Ban Ki-moon and Graça Machel in 2018."
+      ],
+      "time_start": 2013,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2013 to 2018' and the supporting quote confirms she was appointed Deputy Chair in 2013 and was succeeded in 2018, indicating the position ended that year."
+      }
+    },
+    {
+      "organizations": [
+        "Prize International Catalonia"
+      ],
+      "roles": [
+        "Prize International Catalonia recipient (shared with Malala Yousafzai)"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Prize International Catalonia (2013) with Malala Yousafzai"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2013' indicating when the Prize International Catalonia was received. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Tang Prize Foundation"
+      ],
+      "roles": [
+        "Tang Prize in Sustainable Development recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tang Prize in Sustainable Development (2014)"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2014'. Awards are typically received in a specific year rather than being ongoing positions. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Association for Women's Rights"
+      ],
+      "roles": [
+        "honorary member"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary member of the Norwegian Association for Women's Rights (2016)"
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is an honorary membership awarded in 2016. Honorary memberships are typically permanent distinctions that do not expire, so time_start is set to 2016 when the honor was bestowed, and time_finish is null as it remains ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "WHO Global Preparedness Monitoring Board"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Brundtland served as co-chair with the WHO Global Preparedness Monitoring Board."
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2019) is mentioned in both the time_markers and supporting quote. The quote states 'In 2019, Brundtland served as co-chair' using past tense, indicating this was a specific appointment in that year. Without additional information about when the role ended or whether it continued beyond 2019, the conservative approach per guideline 4 is to set both time_start and time_finish to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Oslo City Council"
+      ],
+      "roles": [
+        "elected member"
+      ],
+      "time_markers": [
+        "2023 local elections",
+        "won seat 14 September 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland returned to politics when she became a candidate to the Oslo City Council for the 2023 local elections. She ultimately won a seat in the council."
+      ],
+      "time_start": 2023,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The person won a seat in the Oslo City Council on 14 September 2023. Since this is an elected position and there is no mention of when the term ended or that they left the position, time_finish is set to null indicating the position may be ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Council of Women World Leaders"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland is a member of the Council of Women World Leaders, an international network of current and former women presidents and prime ministers"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is a member'), indicating this is likely a current/ongoing position. However, no specific start year is provided in the time_markers or supporting quotes. The Council of Women World Leaders is described as a network for 'current and former' leaders, suggesting membership could have begun when the person held or left a leadership position, but without concrete dates, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Club of Madrid"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland is also a member of the Club of Madrid, an independent organization of former leaders of democratic states"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates membership in the Club of Madrid but provides no temporal information. The time_markers array is empty, and there are no years mentioned in the quote. The use of present tense 'is also a member' suggests it may be current/ongoing, but without a confirmed start date, both values should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Socialist International"
+      ],
+      "roles": [
+        "former vice-president"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also deputy chair of The Elders and a former vice-president of Socialist International."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote describes this as a 'former vice-president' position, indicating it has ended, but no specific years are provided in the time_markers or supporting quotes. Without concrete temporal information, I cannot determine accurate start or end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Academy of Science and Letters"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Norwegian Academy of Science and Letters"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. The quote only states 'Member of the Norwegian Academy of Science and Letters' without any year or date reference. Membership in such academies is typically lifelong once granted, but without knowing when the membership began, both time_start and time_finish must be null."
+      }
+    },
+    {
+      "organizations": [
+        "Moscow Society of Naturalists"
+      ],
+      "roles": [
+        "honorary member"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Member of the Moscow Society of Naturalists"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or dates are present in the career event data. The supporting quote only confirms the honorary membership status but provides no temporal information. Without specific years mentioned, I cannot determine when this honor was awarded or if it has an end date."
+      }
+    },
+    {
+      "organizations": [
+        "National German Sustainability Award"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The National German Sustainability Award"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or years are present in the career event data. The supporting quote only mentions the award name without any temporal information. Without specific year information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Clubhouse International"
+      ],
+      "roles": [
+        "Rudyard n. Propst Award recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Rudyard n. Propst Award from Clubhouse International"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. Awards are typically one-time events, but without any year mentioned in the available data, I cannot determine when this award was received. Following the conservative approach, both values are set to null."
+      }
+    }
+  ]
+}

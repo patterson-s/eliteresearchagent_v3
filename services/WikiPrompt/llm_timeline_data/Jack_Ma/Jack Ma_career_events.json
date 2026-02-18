@@ -1,0 +1,924 @@
+{
+  "person_name": "Jack Ma",
+  "career_events": [
+    {
+      "organizations": [
+        "Hangzhou Normal University"
+      ],
+      "roles": [
+        "student",
+        "BA in English graduate"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1988, Ma earned a BA degree in English from Hangzhou Normal University."
+      ],
+      "time_start": 1988,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 1988, Ma earned a BA degree in English from Hangzhou Normal University.' The year 1988 refers to when the degree was earned (graduation year), which is the completion of the education event. Following guideline 4, when only a single year is mentioned for a completed event, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Hangzhou Dianzi University"
+      ],
+      "roles": [
+        "lecturer in English and international trade"
+      ],
+      "time_markers": [
+        "1988",
+        "after graduation"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduation, he became a lecturer in English and international trade at Hangzhou Dianzi University."
+      ],
+      "time_start": 1988,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1988' combined with 'after graduation' indicates the position started in 1988. There is no information about when this position ended, so time_finish is set to null as we cannot determine if or when it concluded."
+      }
+    },
+    {
+      "organizations": [
+        "Hangzhou Haibo Translation Agency"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1994, Ma heard about the Internet and also started his first company, Hangzhou Haibo Translation Agency"
+      ],
+      "time_start": 1994,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Ma started Hangzhou Haibo Translation Agency in 1994. There is no information about when this position ended or if the company closed, so time_finish is set to null following the guideline to be conservative when information is uncertain."
+      }
+    },
+    {
+      "organizations": [
+        "China Pages",
+        "Hangzhou Hope Computer Services Co., Ltd."
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "April 1995",
+        "May 10, 1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In April 1995, Ma and his business partner He Yibing (a computer instructor), opened the first office for China Pages",
+        "On 10 May 1995, the pair registered the domain chinapages.com in the United States."
+      ],
+      "time_start": 1995,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The career event clearly started in April 1995 when Ma co-founded China Pages and opened the first office. However, there is no information provided about when this position ended, so time_finish is set to null as we cannot determine an end date from the available data."
+      }
+    },
+    {
+      "organizations": [
+        "China Telecommunications Corporation"
+      ],
+      "roles": [
+        "employee following acquisition"
+      ],
+      "time_markers": [
+        "1996",
+        "left 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1996, Ma's company was acquired by China Telecommunications Corporation. Following an unsatisfactory collaboration, he left the company the next year"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states that in 1996 Ma's company was acquired and he became an employee of China Telecommunications Corporation. The time_markers explicitly indicate he 'left 1997', meaning his employment ended in 1997. The phrase 'the next year' in the quote confirms 1997 as the departure year."
+      }
+    },
+    {
+      "organizations": [
+        "China International Electronic Commerce Center",
+        "Ministry of Foreign Trade and Economic Cooperation"
+      ],
+      "roles": [
+        "head of information technology company"
+      ],
+      "time_markers": [
+        "1998 to 1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1998 to 1999, Ma headed an information technology company established by the China International Electronic Commerce Center, a department of the Ministry of Foreign Trade and Economic Cooperation."
+      ],
+      "time_start": 1998,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1998 to 1999' and the supporting quote confirms 'From 1998 to 1999, Ma headed an information technology company', clearly indicating the position started in 1998 and ended in 1999."
+      }
+    },
+    {
+      "organizations": [
+        "Alibaba Group"
+      ],
+      "roles": [
+        "co-founder",
+        "executive chairman"
+      ],
+      "time_markers": [
+        "1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1999, he quit and returned to Hangzhou with his team to establish Alibaba",
+        "From 1999, Ma was executive chairman of Alibaba Group"
+      ],
+      "time_start": 1999,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes clearly indicate that Ma founded Alibaba in 1999 and became executive chairman 'From 1999'. No end date is mentioned in the provided information, suggesting the position may be ongoing or the end date is not specified in this excerpt. Therefore, time_start is 1999 and time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Goldman Sachs",
+        "SoftBank"
+      ],
+      "roles": [
+        "funding recipient for Alibaba"
+      ],
+      "time_markers": [
+        "October 1999",
+        "January 2000"
+      ],
+      "event_type": "funding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 1999 and January 2000, Alibaba won a total of a $25 million foreign venture seed capital from the American investment bank, Goldman Sachs and the Japanese investment management conglomerate SoftBank."
+      ],
+      "time_start": 1999,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The funding event occurred across two specific time points: October 1999 and January 2000. This represents a funding round that started in 1999 and concluded in 2000, making these the appropriate start and finish years for this career event."
+      }
+    },
+    {
+      "organizations": [
+        "Taobao Marketplace",
+        "Alipay",
+        "Ali Mama",
+        "Lynx"
+      ],
+      "roles": [
+        "founder/establisher"
+      ],
+      "time_markers": [
+        "since 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2003, Ma established Taobao Marketplace, Alipay, Ali Mama and Lynx."
+      ],
+      "time_start": 2003,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 2003' indicates the founding activities began in 2003. The word 'since' implies an ongoing or continuous relationship that extends beyond just the founding year. However, as these are establishment/founding events rather than ongoing positions, and no end date is specified, time_finish is set to null as we cannot determine when the founder role ended or if it continues."
+      }
+    },
+    {
+      "organizations": [
+        "SoftBank"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "2007–2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ma was a board member of Japan's SoftBank (2007–2020)"
+      ],
+      "time_start": 2007,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2007–2020' clearly indicates the position started in 2007 and ended in 2020. This is confirmed by the supporting quote stating 'Ma was a board member of Japan's SoftBank (2007–2020)', which uses past tense and provides an explicit end date."
+      }
+    },
+    {
+      "organizations": [
+        "The Nature Conservancy"
+      ],
+      "roles": [
+        "trustee of China program"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He became a trustee of The Nature Conservancy's China program in 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'He became a trustee of The Nature Conservancy's China program in 2009', which clearly indicates the position started in 2009. There is no information about when this position ended, and trustee positions are often ongoing unless otherwise stated, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "The Nature Conservancy"
+      ],
+      "roles": [
+        "global board of directors member"
+      ],
+      "time_markers": [
+        "April 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "joined its global board of directors in April 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states the person 'joined its global board of directors in April 2010', which clearly indicates the start year as 2010. There is no information about when this position ended, and board positions are typically ongoing unless otherwise stated, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Huayi Brothers Media Corporation"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ma was a board member of Japan's SoftBank (2007–2020) and China's Huayi Brothers Media Corporation."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only provides specific dates (2007-2020) for Ma's board membership at SoftBank, not for Huayi Brothers Media Corporation. No time information is given for the Huayi Brothers position, so both time_start and time_finish should be null."
+      }
+    },
+    {
+      "organizations": [
+        "Yunfeng Capital"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and co-founder of Alibaba Group and Yunfeng Capital"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms the co-founder role at Yunfeng Capital but provides no temporal information about when this position started or whether it is ongoing. Without specific years or time markers, I cannot determine accurate time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [
+        "Alibaba Group"
+      ],
+      "roles": [
+        "chief executive officer"
+      ],
+      "time_markers": [
+        "stepped down May 10, 2013"
+      ],
+      "event_type": "career_transition",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ma stepped down as the chief executive officer of Alibaba on 10 May 2013, but remained as the executive chairman of the corporation."
+      ],
+      "time_start": null,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The event describes stepping down as CEO on May 10, 2013, which clearly indicates the position ended in 2013. However, no information is provided about when the CEO role started, so time_start is set to null rather than guessing."
+      }
+    },
+    {
+      "organizations": [
+        "The Nature Conservancy"
+      ],
+      "roles": [
+        "chairman of the board for China Program"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2013, he became chairman of the board for The Nature Conservancy's China Program; this was one day after he stepped down from Alibaba as company CEO."
+      ],
+      "time_start": 2013,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In 2013, he became chairman of the board for The Nature Conservancy's China Program.' This indicates the position started in 2013. There is no mention of when this position ended, and no indicators that it has concluded, so time_finish is set to null to indicate it may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Hupan School",
+        "Hupan University"
+      ],
+      "roles": [
+        "founder",
+        "president"
+      ],
+      "time_markers": [
+        "founded 2015",
+        "resigned May 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2015 he also founded the Hupan School, a business school.",
+        "In May 2021, Ma resigned from the presidency of Hupan University, which was founded by him in 2015."
+      ],
+      "time_start": 2015,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "The career event clearly shows the position started in 2015 when Hupan School/University was founded, as stated in both time_markers ('founded 2015') and supporting quotes. The position ended in 2021 when Ma resigned from the presidency in May 2021, as explicitly stated in the time_markers ('resigned May 2021') and supporting quotes."
+      }
+    },
+    {
+      "organizations": [
+        "Jack Ma Foundation"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "September 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2018, Ma started the Jack Ma Foundation"
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In September 2018, Ma started the Jack Ma Foundation', indicating the position began in 2018. As a founder of a foundation, this is typically an ongoing role with no end date mentioned, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Alibaba Group"
+      ],
+      "roles": [
+        "executive chairman"
+      ],
+      "time_markers": [
+        "announced retirement September 10, 2018"
+      ],
+      "event_type": "career_transition",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ma announced on 10 September 2018, that he would step down as executive chairman of Alibaba Group Holding in the coming year."
+      ],
+      "time_start": null,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The announcement was made on September 10, 2018, stating he would step down 'in the coming year,' which indicates 2019 as the finish year. However, no information is provided about when he started as executive chairman, so time_start remains null."
+      }
+    },
+    {
+      "organizations": [
+        "Alibaba Group"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "stepped down October 1, 2020"
+      ],
+      "event_type": "career_transition",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ma stepped down from the board of Alibaba on 1 October 2020."
+      ],
+      "time_start": null,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The event clearly indicates Ma stepped down from the board on October 1, 2020, establishing 2020 as time_finish. However, no information is provided about when he started as a board member, so time_start must be null."
+      }
+    },
+    {
+      "organizations": [
+        "Tokyo College",
+        "University of Tokyo"
+      ],
+      "roles": [
+        "invited professor"
+      ],
+      "time_markers": [
+        "May 1, 2023 to October 31, 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From May 1, 2023 to October 31, 2024, Ma had been an invited professor at Tokyo College, a research institute at the University of Tokyo. His research focus was on sustainable agriculture and food production."
+      ],
+      "time_start": 2023,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state 'May 1, 2023 to October 31, 2024', indicating the position started in 2023 and ended in 2024. The supporting quote confirms this is a completed position (past tense 'had been'), not ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "China Central Television"
+      ],
+      "roles": [
+        "Top 10 Economic Personalities of the Year recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2004, Ma was honoured as one of the 'Top 10 Economic Personalities of the Year' by China Central Television (CCTV)."
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is a one-time award event that occurred in 2004. Awards are typically received in a specific year rather than being ongoing positions, so both time_start and time_finish are set to 2004."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Young Global Leader"
+      ],
+      "time_markers": [
+        "September 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2005, the World Economic Forum selected Ma as a 'Young Global Leader'."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date 'September 2005' when Ma was selected as a Young Global Leader. Awards are typically one-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2005, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Fortune"
+      ],
+      "roles": [
+        "25 Most Powerful Businesspeople in Asia"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Fortune also selected him as one of the '25 Most Powerful Businesspeople in Asia' in 2005."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award/recognition event with a single year mentioned (2005). Awards are typically point-in-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "BusinessWeek"
+      ],
+      "roles": [
+        "Businessperson of the Year"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Businessweek also selected him as a 'Businessperson of the Year' in 2007."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2007). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish should be set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Barron's"
+      ],
+      "roles": [
+        "World's Best CEOs"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2008, Barron's featured him as one of the 30 'World's Best CEOs'"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award/recognition event that occurred in a specific year (2008). Awards are typically point-in-time honors rather than ongoing positions, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Time magazine"
+      ],
+      "roles": [
+        "100 most powerful people"
+      ],
+      "time_markers": [
+        "May 2009",
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2009, Time magazine listed Ma as one of the world's 100 most powerful people.",
+        "He was also included in this list in 2014."
+      ],
+      "time_start": 2009,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The person was listed in Time magazine's 100 most powerful people in May 2009 (first occurrence) and again in 2014 (second occurrence). These are discrete annual awards/recognitions, so the span covers from the first recognition (2009) to the last mentioned recognition (2014)."
+      }
+    },
+    {
+      "organizations": [
+        "Forbes Asia"
+      ],
+      "roles": [
+        "Asia's Heroes of Philanthropy"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, Ma was selected by Forbes Asia as one of Asia's Heroes of Philanthropy for his contribution to disaster relief and poverty."
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2010). Awards are typically one-time recognitions given in a specific year. The supporting quote confirms 'In 2010, Ma was selected by Forbes Asia as one of Asia's Heroes of Philanthropy,' indicating this was a specific recognition in 2010, not an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "Hong Kong University of Science and Technology"
+      ],
+      "roles": [
+        "honorary doctoral degree recipient"
+      ],
+      "time_markers": [
+        "November 2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ma was awarded an honorary doctoral degree by the Hong Kong University of Science and Technology in November 2013."
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (honorary doctoral degree) that occurred at a specific point in time - November 2013. Awards are typically conferred on a single date rather than spanning a period, so both time_start and time_finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "30th-most-powerful person in the world"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, he was ranked as the 30th-most-powerful person in the world in an annual ranking published by Forbes."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an annual ranking award for a specific year (2014). Forbes publishes this ranking annually, so the recognition applies specifically to 2014, not an ongoing position. Both time_start and time_finish should be set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Asian Award"
+      ],
+      "roles": [
+        "Entrepreneur of the Year"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2015, Asian Award honoured him with the Entrepreneur of the Year award."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2015). Awards are typically one-time honors received in a specific year, not ongoing positions. The supporting quote confirms 'In 2015, Asian Award honoured him with the Entrepreneur of the Year award,' indicating this was a discrete event in 2015."
+      }
+    },
+    {
+      "organizations": [
+        "National Taiwan Normal University"
+      ],
+      "roles": [
+        "honorary doctorate in education recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ma was awarded an honorary doctorate in education from National Taiwan Normal University."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award, which is a one-time event that occurred in 2015. Awards are typically conferred on a specific date/year rather than being ongoing positions, so both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "French Legion of Honour"
+      ],
+      "roles": [
+        "Chevalier recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2016, he was awarded the Chevalier of the French Legion of Honour by French Minister of Foreign Affairs and International Development Laurent Fabius."
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Chevalier of the French Legion of Honour) that was received in 2016. Awards are typically one-time honors that are conferred in a specific year rather than ongoing positions. Both time_start and time_finish are set to 2016 as this represents the year the award was granted."
+      }
+    },
+    {
+      "organizations": [
+        "Fortune"
+      ],
+      "roles": [
+        "World's 50 Greatest Leaders (ranked second)"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2017, Fortune ranked Ma second on its World's 50 Greatest Leaders list."
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "This is an award/recognition event that occurred in a specific year (2017). Awards are typically point-in-time events rather than ongoing positions, so both time_start and time_finish are set to 2017."
+      }
+    },
+    {
+      "organizations": [
+        "De La Salle University"
+      ],
+      "roles": [
+        "Doctor of Science in Technopreneurship recipient"
+      ],
+      "time_markers": [
+        "October 2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2017, Ma was given an honorary degree of Doctor of Science in Technopreneurship from De La Salle University Manila, Philippines."
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award given in October 2017. Awards are typically one-time events that occur at a specific point in time rather than ongoing positions. Both time_start and time_finish are set to 2017 as this represents when the award was conferred."
+      }
+    },
+    {
+      "organizations": [
+        "University of Hong Kong"
+      ],
+      "roles": [
+        "Doctor of Social Sciences recipient"
+      ],
+      "time_markers": [
+        "May 2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2018, Ma was given an honorary degree of Doctor of Social Sciences by the University of Hong Kong in recognition of his contributions to technology, society and the world."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award event that occurred at a specific point in time (May 2018). Awards are typically conferred on a single date rather than representing an ongoing position, so both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Tel Aviv University"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [
+        "May 2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2018, Ma received an honorary doctorate from professors Yaakov Frenkel and Yaron Oz at the Tel Aviv University."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in May 2018. Awards are typically one-time events that occur in a specific year. Since the time_marker clearly indicates 'May 2018' and this is an award ceremony rather than an ongoing position, both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "advocate for sustainable development goals"
+      ],
+      "time_markers": [
+        "May 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2019, Ma and other 16 influential global figures were appointed by Secretary-General of the United Nations as the new advocates for sustainable development goals."
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in May 2019 as clearly stated in the time_marker and supporting quote. The text describes an appointment to an advocacy role with no mention of an end date or term limit, indicating this is likely an ongoing position. Therefore, time_start is 2019 and time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "Asia's 2019 Heroes of Philanthropy",
+        "Malcolm S. Forbes Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Forbes named Ma in its list of 'Asia's 2019 Heroes of Philanthropy' and awarded him the Malcolm S. Forbes Lifetime Achievement Award"
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred in a specific year (2019). Awards are typically one-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2019, the year the awards were received."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Jordan"
+      ],
+      "roles": [
+        "first class medal recipient"
+      ],
+      "time_markers": [
+        "July 2020"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2020, Ma received from King Abdullah II a first class medal for his contribution in fighting back against the COVID-19 pandemic."
+      ],
+      "time_start": 2020,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "This is a one-time award event that occurred in July 2020. Awards are typically received at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2020."
+      }
+    },
+    {
+      "organizations": [
+        "Pakistan"
+      ],
+      "roles": [
+        "Hilal e Quaid e Azam medal recipient"
+      ],
+      "time_markers": [
+        "August 2020"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In August 2020, Ma was to receive from the President of Pakistan a Hilal e Quaid e Azam medal for his contribution in fighting back against the COVID-19 pandemic."
+      ],
+      "time_start": 2020,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred in August 2020. Awards are typically one-time honors received in a specific year, so both time_start and time_finish are set to 2020."
+      }
+    },
+    {
+      "organizations": [
+        "World Confucius Association"
+      ],
+      "roles": [
+        "2023 Confucius Education Award recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "At the 2023 World Chinese Culture Festival (Tokyo), Kong Jian, Chairman of the World Confucius Association, Guo Shaocheng, Chairman of the World Chinese Alliance, and Mr. Fanghe Yuanjian, Chairman of the World Confucius Foundation, jointly announced that Ma won the [2023 Confucius Education Award]"
+      ],
+      "time_start": 2023,
+      "time_finish": 2023,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific year (2023) mentioned in both the time_markers and supporting quote. Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2023."
+      }
+    },
+    {
+      "organizations": [
+        "General Association of Zhejiang Entrepreneurs"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "2015–2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the General Association of Zhejiang Entrepreneurs 2015–2022"
+      ],
+      "time_start": 2015,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2015–2022', indicating the position started in 2015 and ended in 2022. This is corroborated by the supporting quote which shows the same date range. The position is not ongoing as it has a clear end date."
+      }
+    }
+  ]
+}

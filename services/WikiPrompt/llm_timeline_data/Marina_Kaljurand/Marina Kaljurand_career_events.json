@@ -1,0 +1,750 @@
+{
+  "person_name": "Marina Kaljurand",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Tartu"
+      ],
+      "roles": [
+        "student",
+        "Master of Law graduate (cum laude)"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she graduated in 1986 from the University of Tartu, where she earned a master's degree in law (cum laude)"
+      ],
+      "time_start": null,
+      "time_finish": 1986,
+      "metadata": {
+        "timeline_reasoning": "The event describes graduation from a Master of Law program in 1986. This is the completion year (time_finish). The start year is not mentioned in the available information, so time_start is set to null. The supporting quote confirms 'she graduated in 1986' which indicates the end of the educational period."
+      }
+    },
+    {
+      "organizations": [
+        "Estonian School of Diplomacy"
+      ],
+      "roles": [
+        "graduate"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has also graduated from the Estonian School of Diplomacy"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote only states 'She has also graduated from the Estonian School of Diplomacy' without any temporal information. Without concrete date information, both values should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Tufts University",
+        "Fletcher School of Law and Diplomacy"
+      ],
+      "roles": [
+        "student",
+        "Master's degree in international law and diplomacy graduate",
+        "Fulbright Scholar"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "has acquired a master's degree in international law and diplomacy from Tufts University's Fletcher School of Law and Diplomacy (F95) on a Fulbright Scholarship in the United States"
+      ],
+      "time_start": 1995,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "The notation '(F95)' in the supporting quote indicates Fletcher School class of 1995, which is the graduation year for this Master's degree. This is a standard notation format used by Fletcher School alumni to indicate their graduation year."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs of Estonia"
+      ],
+      "roles": [
+        "Undersecretary for Legal and Consular Affairs",
+        "Undersecretary for Political Affairs",
+        "Undersecretary for Foreign Economic Relations and Development Aid"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kaljurand formerly worked as the Undersecretary for Legal and Consular Affairs, Undersecretary for Political Affairs, Undersecretary for Foreign Economic Relations and Development Aid at the Foreign Affairs Ministry"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The text uses 'formerly worked' indicating these are past positions, but no specific years are mentioned in the time_markers or supporting quotes. The career event describes multiple roles at the Ministry of Foreign Affairs of Estonia, but without concrete dates, I cannot determine accurate time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Ambassador of Estonia to Israel"
+      ],
+      "time_markers": [
+        "2004-2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kaljurand was the Ambassador of Estonia to Israel in 2004–2006",
+        "Estonian Ambassador to Israel In office 2004–2006"
+      ],
+      "time_start": 2004,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '2004-2006' and both supporting quotes confirm this exact timeframe. The first quote states 'Ambassador of Estonia to Israel in 2004–2006' and the second shows 'In office 2004–2006', providing consistent evidence that the position started in 2004 and ended in 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Ambassador of Estonia to Russia"
+      ],
+      "time_markers": [
+        "2007-2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Estonian Ambassador to Russia In office 2007–2011",
+        "Preceded by Karin Jaani"
+      ],
+      "time_start": 2007,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '2007-2011' and this is corroborated by the supporting quote 'Estonian Ambassador to Russia In office 2007–2011', which explicitly states both the start and end years of this ambassadorial position."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Ambassador of Estonia to Kazakhstan"
+      ],
+      "time_markers": [
+        "2007-2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "to Kazakhstan in 2007–2011"
+      ],
+      "time_start": 2007,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2007-2011' and supporting quote 'to Kazakhstan in 2007–2011' clearly indicate the position started in 2007 and ended in 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Ambassador of Estonia to Canada"
+      ],
+      "time_markers": [
+        "2011-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "to Canada in 2011–2013"
+      ],
+      "time_start": 2011,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2011-2013' and supporting quote 'to Canada in 2011–2013' clearly indicate the position started in 2011 and ended in 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Ambassador of Estonia to the United States and Mexico"
+      ],
+      "time_markers": [
+        "2011-2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador of Estonia to the United States, Canada and Mexico In office 2011–2014",
+        "to the United States and Mexico in 2011–2014"
+      ],
+      "time_start": 2011,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '2011-2014', and both supporting quotes confirm this timeframe with 'In office 2011–2014' and 'in 2011–2014'. This represents a completed ambassadorial term from 2011 to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia",
+        "Reform Party"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "16 July 2015 - 12 September 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "28th Minister of Foreign Affairs In office 16 July 2015 – 12 September 2016",
+        "In July 2015, the Reform Party nominated Kaljurand as the new Minister of Foreign Affairs after Keit Pentus-Rosimannus had resigned. Her tenure began on 16 July 2015.",
+        "Kaljurand announced that she would step down from her position as Minister of Foreign Affairs and would run for presidency"
+      ],
+      "time_start": 2015,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '16 July 2015 - 12 September 2016', indicating the position started in 2015 and ended in 2016. This is corroborated by supporting quotes mentioning 'In office 16 July 2015 – 12 September 2016' and that the tenure began on 16 July 2015 and ended when Kaljurand stepped down to run for presidency in 2016."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs of Estonia"
+      ],
+      "roles": [
+        "adviser on cyber security-related matters"
+      ],
+      "time_markers": [
+        "October 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the election, Kaljurand returned to the Ministry of Foreign Affairs as an adviser on cyber security-related matters.",
+        "In October 2016, Kaljurand started working as an adviser on security-related questions at the Ministry of Foreign Affairs. 'Beginning on Oct. 24, I will begin part-time work as an adviser on security-related questions at the Ministry of Foreign Affairs'"
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes clearly indicate the position started in October 2016 (specifically Oct. 24, 2016). There is no information about when this position ended, and the phrasing 'started working' without any mention of an end date suggests the position may have been ongoing at the time of documentation. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Estonian representative in UN's Group of Governmental Experts on Cybersecurity"
+      ],
+      "time_markers": [
+        "2014-2015",
+        "September 2016 onwards"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "I will remain a representative of Estonia in the UN's Group of Governmental Experts on Cybersecurity; I have taken part in this work group since 2014",
+        "Estonian Cyber Security Expert at the UN Group of Governmental Experts on Cyber Security, 2014–2015, September 2016 – current"
+      ],
+      "time_start": 2014,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started in 2014 as indicated by both time_markers and supporting quotes. The second quote explicitly states '2014–2015, September 2016 – current', showing the person served in two periods: 2014-2015 and from September 2016 onwards (current). Since the role continued from 2016 to current with no end date mentioned, time_finish is set to null to indicate ongoing status."
+      }
+    },
+    {
+      "organizations": [
+        "Global Commission on the Stability of Cyberspace"
+      ],
+      "roles": [
+        "Chair"
+      ],
+      "time_markers": [
+        "end of 2016/March 2017 - 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the end of 2016, Kaljurand was appointed chair of the Global Commission on the Stability of Cyberspace, a commission which ran for three years, 2017–2019. She stepped down as chair upon taking up her post in the European Parliament in 2019",
+        "Chair of the Global Commission on the Stability of Cyberspace, March 2017– current"
+      ],
+      "time_start": 2017,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The first quote clearly states the commission 'ran for three years, 2017–2019' and that Kaljurand 'stepped down as chair upon taking up her post in the European Parliament in 2019'. While the second quote mentions 'current', the first quote provides more complete information showing the position ended in 2019. The appointment at 'end of 2016/March 2017' indicates a start in 2017, with the commission running through 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Social Democratic Party"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "June 2018 - present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2018, Kalurand announced that she had joined the Social Democratic Party",
+        "Political party Social Democratic Party (2018–present)"
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'June 2018 - present' and supporting quotes clearly indicate the position started in 2018 and is ongoing. The word 'present' and the date range '(2018–present)' confirm this is a current position with no end date."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "Member of the European Parliament for Estonia"
+      ],
+      "time_markers": [
+        "2 July 2019 - present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the European Parliament for Estonia Incumbent Assumed office 2 July 2019",
+        "Kaljurand was elected as a Member of the European Parliament in 2019"
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2 July 2019 - present' and supporting quote 'Assumed office 2 July 2019' clearly indicate the position started in 2019. The term 'present' and 'Incumbent' indicate this is an ongoing position, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "Committee on Civil Liberties, Justice and Home Affairs"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "2019 onwards"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has since been serving on the Committee on Civil Liberties, Justice and Home Affairs"
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2019 onwards' clearly indicates the position started in 2019 and is ongoing. The phrase 'onwards' signals the position has not ended, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "EU-Armenia Parliamentary Partnership Committee"
+      ],
+      "roles": [
+        "delegation member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she is part of the Parliament's delegation to the EU-Armenia Parliamentary Partnership Committee"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote uses present tense ('she is part of'), suggesting it may be current, but without a definitive start date or context about when this information was written, I cannot accurately determine time_start or time_finish."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "EU-Azerbaijan Parliamentary Cooperation Committee"
+      ],
+      "roles": [
+        "delegation member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the EU-Azerbaijan Parliamentary Cooperation Committee"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote only confirms the organization name but contains no dates or time references. Without specific years mentioned, I cannot determine when this delegation membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "EU-Georgia Parliamentary Association Committee"
+      ],
+      "roles": [
+        "delegation member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the EU-Georgia Parliamentary Association Committee"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote only confirms the organization name but contains no dates or time references. Without specific years mentioned, I cannot determine when this delegation membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "Euronest Parliamentary Assembly"
+      ],
+      "roles": [
+        "delegation member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as of the delegation to the Euronest Parliamentary Assembly"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or years are present in the provided data. The supporting quote only confirms the role as a delegation member to the Euronest Parliamentary Assembly but contains no temporal information. Without specific dates or contextual clues about when this position began or ended, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament Intergroup on LGBT Rights"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also a member of the European Parliament Intergroup on LGBT Rights"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is also a member'), suggesting this is a current/ongoing position. However, no specific start year is provided in the time_markers or supporting quotes. Since the start date cannot be determined and the position appears to be ongoing, time_start is set to null and time_finish is set to null (indicating current status)."
+      }
+    },
+    {
+      "organizations": [
+        "CSIS",
+        "Lillan and Robert D. Stuart Jr Center in Euro-Atlantic and Northern European Studies"
+      ],
+      "roles": [
+        "Member of the High-Level Advisory Council"
+      ],
+      "time_markers": [
+        "January 2017 - current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the CSIS High-Level Advisory Council to the Lillan and Robert D. Stuart Jr Center in Euro-Atlantic and Northern European Studies, January 2017– current"
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states 'January 2017 - current', indicating the position started in 2017 and is ongoing. Since it's marked as 'current', time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Salamanca"
+      ],
+      "roles": [
+        "Member of the Advisory Council of Global and International Studies"
+      ],
+      "time_markers": [
+        "January 2017 - current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Advisory Council of Global and International Studies at University of Salamanca, January 2017– current"
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly indicates 'January 2017 - current', meaning the position started in 2017 and is ongoing. Since it's marked as 'current', time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "OECD"
+      ],
+      "roles": [
+        "Chief Negotiator on Accession of Estonia to the OECD"
+      ],
+      "time_markers": [
+        "2008-2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chief Negotiator on Accession of Estonia to the OECD, 2008– 2011"
+      ],
+      "time_start": 2008,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2008-2011' and supporting quote 'Chief Negotiator on Accession of Estonia to the OECD, 2008– 2011' clearly indicate this position started in 2008 and ended in 2011."
+      }
+    },
+    {
+      "organizations": [
+        "European Union",
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Member of the Governmental Delegation in accession negotiations to the European Union",
+        "Head of the Legal Working Group of the Accession Treaty"
+      ],
+      "time_markers": [
+        "2002-2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Governmental Delegation in accession negotiations to the European Union, Head of the Legal Working Group of the Accession Treaty, 2002–2004"
+      ],
+      "time_start": 2002,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2002-2004' clearly indicates a range from 2002 to 2004. This is confirmed by the supporting quote which states '2002–2004' for both roles in the governmental delegation."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Member of the Governmental Delegation - negotiations on Land and Maritime Boundaries Agreements between Estonia and Russian Federation"
+      ],
+      "time_markers": [
+        "1995-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Governmental Delegation- negotiations on Land and Maritime Boundaries Agreements between Estonia and Russian Federation, 1995–2005"
+      ],
+      "time_start": 1995,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1995-2005' and supporting quote clearly indicate this position spanned from 1995 to 2005. The range format with an en dash suggests a completed period of service in the governmental delegation for these boundary negotiations."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Legal expert of the Governmental Delegation - Agreement on Troops Withdrawal between Estonia and Russian Federation"
+      ],
+      "time_markers": [
+        "1992-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Legal expert of the Governmental Delegation- Agreement on Troops Withdrawal between Estonia and Russian Federation, 1992–1994"
+      ],
+      "time_start": 1992,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1992-1994' and supporting quote clearly indicate this position ran from 1992 to 1994. This represents a specific historical role related to the Estonia-Russia troops withdrawal agreement during this defined period."
+      }
+    },
+    {
+      "organizations": [
+        "International Law Association"
+      ],
+      "roles": [
+        "Founding member of the Estonian Branch"
+      ],
+      "time_markers": [
+        "since 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Founding member of the Estonian Branch of the International Law Association, since 1996"
+      ],
+      "time_start": 1996,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 1996' indicates the position started in 1996 and is ongoing. The word 'since' signals a continuing status with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Women in International Security (WIIS-EST)"
+      ],
+      "roles": [
+        "Founding member of Estonian Branch"
+      ],
+      "time_markers": [
+        "since 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Founding member of WIIS-EST – Estonian Branch of Women in International Security, since 2000"
+      ],
+      "time_start": 2000,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 2000' clearly indicates the position started in 2000. The word 'since' implies the position is ongoing with no end date mentioned, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Tallinn University"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "time_markers": [
+        "since 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Board of Trustees of Tallinn University, since 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2010' clearly indicates the position started in 2010. The word 'since' indicates an ongoing position that continues to the present, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Order of the White Star, III class recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of White Star, III class (2004)"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2004). Awards are typically conferred at a specific point in time rather than representing an ongoing position. Following guideline 4, when only a single year is mentioned, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Postimees"
+      ],
+      "roles": [
+        "Person of the Year"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "'Postimees' Person of the Year (2007)"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is a 'Person of the Year' award for 2007. Such awards are typically given for a specific year and represent a one-time honor rather than an ongoing position. Both time_start and time_finish are set to 2007 as this award applies to that single year."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Estonia"
+      ],
+      "roles": [
+        "Order of the National Coat of Arms, III class recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the National Coat of Arms, III class (2008)"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2008) indicating when the Order of the National Coat of Arms, III class was received. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Estonian Association of Business and Professional Women"
+      ],
+      "roles": [
+        "Woman of the Year"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Estonian Association of Business and Professional Women Woman of the Year (2015)"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2015). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Finland"
+      ],
+      "roles": [
+        "Commander Grand Cross of the Order of the Lion of Finland recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commander Grand Cross of the Order of the Lion of Finland (2016)"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Commander Grand Cross of the Order of the Lion of Finland) received in 2016. Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2016, the year the award was received."
+      }
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "person_name": "Amr Moussa",
+  "career_events": [
+    {
+      "organizations": [
+        "Cairo University"
+      ],
+      "roles": [
+        "law student",
+        "law degree graduate"
+      ],
+      "time_markers": [
+        "1957"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Moussa finished his education after earning a degree in law from Cairo University in 1957."
+      ],
+      "time_start": null,
+      "time_finish": 1957,
+      "metadata": {
+        "timeline_reasoning": "The quote states Moussa 'finished his education after earning a degree in law from Cairo University in 1957.' This indicates 1957 is the completion/graduation year. The start year of the law degree program is not specified in the available information, so time_start is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs",
+        "Egypt's Embassy in Switzerland"
+      ],
+      "roles": [
+        "diplomatic missions officer"
+      ],
+      "time_markers": [
+        "1958-1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Moussa then began his diplomatic career between 1958 and 1972 he worked in several missions, including Egypt's Embassy in Switzerland and the Egyptian mission to the United Nations."
+      ],
+      "time_start": 1958,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1958-1972' clearly indicates a range, and the supporting quote explicitly states 'between 1958 and 1972 he worked in several missions,' confirming this was the period of diplomatic service covering multiple postings including Switzerland and the UN mission."
+      }
+    },
+    {
+      "organizations": [
+        "Egyptian mission to the United Nations"
+      ],
+      "roles": [
+        "diplomatic missions officer"
+      ],
+      "time_markers": [
+        "1958-1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Moussa then began his diplomatic career between 1958 and 1972 he worked in several missions, including Egypt's Embassy in Switzerland and the Egyptian mission to the United Nations."
+      ],
+      "time_start": 1958,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'between 1958 and 1972 he worked in several missions, including Egypt's Embassy in Switzerland and the Egyptian mission to the United Nations.' This indicates the overall timeframe of diplomatic career work that included the Egyptian mission to the United Nations. While this specific organization may not have spanned the entire period, the time_marker '1958-1972' directly corresponds to this career phase."
+      }
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "advisor to the Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1974-1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1974 to 1977, he was an advisor to the Minister of Foreign Affairs."
+      ],
+      "time_start": 1974,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1974-1977' and supporting quote 'From 1974 to 1977, he was an advisor to the Minister of Foreign Affairs' clearly indicate the position started in 1974 and ended in 1977."
+      }
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of the Department of International Organizations"
+      ],
+      "time_markers": [
+        "1977-1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1977 to 1981 and again from 1983 to 1990, he was the Director of the Department of International Organizations at the Ministry of Foreign Affairs."
+      ],
+      "time_start": 1977,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1977-1981' and supporting quote explicitly state 'From 1977 to 1981' for this specific period as Director of the Department of International Organizations. Note that the quote mentions a second period (1983-1990) for the same role, but this event specifically covers the first period only."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Deputy Permanent Representative of Egypt"
+      ],
+      "time_markers": [
+        "1981-1983"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1981 to 1983, Moussa was the Deputy Permanent Representative to the United Nations in New York"
+      ],
+      "time_start": 1981,
+      "time_finish": 1983,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1981-1983' and supporting quote 'From 1981 to 1983' clearly indicate this position started in 1981 and ended in 1983."
+      }
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of the Department of International Organizations"
+      ],
+      "time_markers": [
+        "1983-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1977 to 1981 and again from 1983 to 1990, he was the Director of the Department of International Organizations at the Ministry of Foreign Affairs."
+      ],
+      "time_start": 1983,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1983-1990' clearly indicates this specific tenure period. The supporting quote confirms 'from 1983 to 1990, he was the Director of the Department of International Organizations', providing explicit start and end years for this particular appointment (noting this was his second time in this role, after an earlier 1977-1981 period)."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Ambassador to India"
+      ],
+      "time_markers": [
+        "1983-1986"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "then from 1983 to 1986 Ambassador to India."
+      ],
+      "time_start": 1983,
+      "time_finish": 1986,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1983-1986' and supporting quote 'then from 1983 to 1986 Ambassador to India' clearly indicate the position started in 1983 and ended in 1986."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Permanent Representative of Egypt",
+        "Egyptian Ambassador to the United Nations"
+      ],
+      "time_markers": [
+        "1 January 1990 - 20 May 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1990, he was promoted Permanent Representative of Egypt to the United Nations.",
+        "Egyptian Ambassador to the United Nations: In office 1 January 1990 – 20 May 1991"
+      ],
+      "time_start": 1990,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '1 January 1990 - 20 May 1991' and this is corroborated by the supporting quote 'Egyptian Ambassador to the United Nations: In office 1 January 1990 – 20 May 1991'. The position started in 1990 and ended in 1991."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "20 May 1991 - 15 May 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was named Minister of Foreign Affairs by Prime Minister Atef Sedki on 20 May 1991. He was minister until 15 May 2001",
+        "Minister of Foreign Affairs: In office 20 May 1991 – 15 May 2001"
+      ],
+      "time_start": 1991,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position started on 20 May 1991 and ended on 15 May 2001. Therefore, time_start is 1991 and time_finish is 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Arab League"
+      ],
+      "roles": [
+        "Secretary-General"
+      ],
+      "time_markers": [
+        "selected 15 May 2001",
+        "in office 1 June 2001 - 1 July 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 15 May 2001, Moussa was selected as Secretary-General of the League of Arab States and took office on 1 June 2001.",
+        "6th Secretary-General of the Arab League: In office 1 June 2001 – 1 July 2011"
+      ],
+      "time_start": 2001,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position started on 1 June 2001 and ended on 1 July 2011. Therefore, time_start is 2001 and time_finish is 2011."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of the High Level Panel on Threats, Challenges and Change for International Peace and Security"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "On 2003, he became a member of the United Nations High Level Panel on Threats, Challenges and Change for International Peace and Security."
+      ],
+      "time_start": 2003,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The quote indicates the person became a member in 2003. The UN High Level Panel on Threats, Challenges and Change was a specific panel that operated from 2003-2004 and delivered its final report in December 2004. Since this was a time-bound panel with a defined mandate rather than an ongoing position, time_finish is set to 2004 when the panel concluded its work."
+      }
+    },
+    {
+      "organizations": [
+        "Egyptian Constituent Assembly"
+      ],
+      "roles": [
+        "president of the committee of 50 to amend the Egyptian constitution"
+      ],
+      "time_markers": [
+        "elected 8 September 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 8 September 2013, he was elected president of the committee of 50 that will amend the Egyptian constitution."
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The person was elected on 8 September 2013 to lead a committee with a specific task (amending the Egyptian constitution). This type of constitutional committee typically has a defined, limited duration to complete its work. Since only 2013 is mentioned and the role is task-specific rather than ongoing, both start and finish are set to 2013, indicating the position was held during that year."
+      }
+    },
+    {
+      "organizations": [
+        "Conference Party"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "after 2012 presidential election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the election, he formed the Conference Party with which a number of smaller opposition parties aligned."
+      ],
+      "time_start": 2013,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event occurred 'after 2012 presidential election', which means it would have started in 2013 at the earliest. Since there is no information indicating when this position ended or that it has ended, time_finish is set to null to indicate it may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "presidential candidate"
+      ],
+      "time_markers": [
+        "announced 1 March 2011",
+        "election 2012"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Amr Moussa announced that he would be running as a presidential candidate on 1 March 2011.",
+        "Moussa placed fifth in the election with 11.13% of the first round vote."
+      ],
+      "time_start": 2011,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The presidential campaign started when Amr Moussa announced his candidacy on 1 March 2011, and ended with the election in 2012 where he placed fifth. This represents a discrete political campaign event with clear start and end points."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Nile recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Nile"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or dates are provided in the career event data. The event describes receiving the Grand Cordon of the Order of the Nile award from the Government of Egypt, but without any temporal information in the time_markers array or supporting quotes, it's impossible to determine when this award was received. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Arab Republic of Egypt recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Arab Republic of Egypt"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event. The time_markers array is empty, and the supporting_quotes only confirm the award name without any dates. Awards are typically received at a specific point in time, but without any temporal data, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Argentina"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the Liberator General San Martín recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of the Liberator General San Martín"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event. The time_markers array is empty, and the supporting_quotes only confirm the award name without any dates. Awards are typically received at a specific point in time, but without any temporal data, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Brazil"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the Southern Cross recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of the Southern Cross"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with no time_markers provided and no dates mentioned in the supporting_quotes. Awards are typically received at a single point in time, but without any temporal information in the data, I cannot determine when this honor was bestowed. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Ecuador"
+      ],
+      "roles": [
+        "Grand Cross of National Order of Merit recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of National Order of Merit"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with no time_markers provided and no dates mentioned in the supporting_quotes. Awards are typically received at a specific point in time, but without any temporal information in the data, I cannot determine when this Grand Cross of National Order of Merit was awarded. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of France"
+      ],
+      "roles": [
+        "Commander of the Legion of Honour"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commander of the Legion of Honour"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Commander of the Legion of Honour) with no time_markers provided and no dates mentioned in the supporting quotes. Awards are typically conferred at a specific point in time, but without any temporal information available, I cannot determine when this honor was received. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Germany"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of Merit of the Federal Republic of Germany"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with no time_markers or dates mentioned in the supporting_quotes. Awards like the Grand Cross of the Order of Merit are typically one-time honors rather than positions with duration. Without any temporal information provided, both time_start and time_finish should be set to null following the conservative approach."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Rising Sun recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Rising Sun"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event. The time_markers array is empty, and the supporting_quotes only confirm the award name without any dates. Awards like the Grand Cordon of the Order of the Rising Sun are typically conferred at a specific point in time, but without any temporal data, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Jordan"
+      ],
+      "roles": [
+        "Grand Cordon of the Supreme Order of the Renaissance recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Supreme Order of the Renaissance"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or dates are provided in the career event data. The event describes an award (Grand Cordon of the Supreme Order of the Renaissance) from the Government of Jordan, but without any temporal information in the time_markers array or supporting quotes, it's impossible to determine when this award was received. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Palestine"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Star of Palestine recipient"
+      ],
+      "time_markers": [
+        "30 May 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Star of Palestine",
+        "الرئيس عباس يقلد عمرو موسى وسام نجمة فلسطين. 30 May 2011."
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '30 May 2011'. Awards are typically conferred on a single date and represent a point-in-time honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "Medal of the Order of Friendship recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Medal of the Order of Friendship"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event. The time_markers array is empty, and the supporting_quotes only confirm the award name without any dates. Awards are typically one-time events, but without specific year information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Sweden"
+      ],
+      "roles": [
+        "Commander 1st Class of the Order of the Polar Star"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commander 1st Class of the Order of the Polar Star"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event. The time_markers array is empty, and the supporting_quotes only contain the award name without any dates. Awards are typically received at a specific point in time, but without any temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Sudan"
+      ],
+      "roles": [
+        "First Class of the National Order of El-Nilein recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "First Class of the National Order of El-Nilein"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or dates are provided in the career event data. The event describes receiving an award (First Class of the National Order of El-Nilein from the Government of Sudan), but no year information is available in the time_markers array or supporting quotes. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tunisia"
+      ],
+      "roles": [
+        "Grand Officer of the Order of the Republic recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Officer of the Order of the Republic"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with no time_markers provided and no dates mentioned in the supporting_quotes. Awards are typically received at a specific point in time, but without any temporal information in the data, I cannot determine when this honor was bestowed. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "ADA University"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "ADA University [honorary degree]"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting_quotes. Honorary degrees are typically awarded in a single ceremony/year, but without any date indicators in the available data, I cannot determine when this award was received. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "American University of Beirut"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "American University of Beirut [honorary degree]"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. Honorary degrees are typically awarded in a single ceremony/year, but without any specific year mentioned, both values should be set to null following the conservative approach."
+      }
+    }
+  ]
+}

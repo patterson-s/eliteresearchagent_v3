@@ -1,0 +1,800 @@
+{
+  "person_name": "Susilo Bambang Yudhoyono",
+  "career_events": [
+    {
+      "organizations": [
+        "Indonesian Military Academy (AKABRI)"
+      ],
+      "roles": [
+        "cadet",
+        "Commander of Cadet Corps Division",
+        "graduate as second lieutenant"
+      ],
+      "time_markers": [
+        "entered 1970",
+        "graduated 1973"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono officially entered AKABRI in 1970 after passing the test in Bandung.",
+        "Yudhoyono spent three years at AKABRI and became the commander of the Cadet Corps Division there. He graduated from AKABRI as second lieutenant in 1973"
+      ],
+      "time_start": 1970,
+      "time_finish": 1973,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate 'entered 1970' and 'graduated 1973'. The supporting quotes confirm that Yudhoyono entered AKABRI in 1970 and graduated in 1973 after spending three years there. This represents a complete educational period with definitive start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Military Academy (AKABRI)"
+      ],
+      "roles": [
+        "Adhi Makayasa medal recipient"
+      ],
+      "time_markers": [
+        "1973"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as the best graduate of the year, received the prestigious Adhi Makayasa medal from President Suharto."
+      ],
+      "time_start": 1973,
+      "time_finish": 1973,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '1973'. Awards are typically received at a specific point in time rather than spanning multiple years. The supporting quote confirms this was a graduation award received in that year from President Suharto."
+      }
+    },
+    {
+      "organizations": [
+        "Webster University"
+      ],
+      "roles": [
+        "student",
+        "MA in Business Management graduate"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono also studied in the United States, where he received his master's degree in Business Management from Webster University in 1991.",
+        "he took the opportunity to obtain an MA degree in business management from Webster University in 1991."
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes indicate that Yudhoyono 'received his master's degree' and 'obtain an MA degree' in 1991. Since 1991 is specified as the graduation year (when the degree was received/obtained), and no start date is mentioned, following guideline 4 for a single year mention, both time_start and time_finish are set to 1991. This represents the completion year of the MA program."
+      }
+    },
+    {
+      "organizations": [
+        "Bogor Agricultural University"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD in agricultural economics graduate"
+      ],
+      "time_markers": [
+        "3 October 2004"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He subsequently earned PhD in agricultural economics from the Bogor Agricultural University on 3 October 2004, two days before his presidential victory was announced."
+      ],
+      "time_start": null,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The event describes a PhD program that concluded on 3 October 2004 when the degree was earned. While we know the finish date with certainty, the start date of the PhD program is not mentioned in the provided information. PhD programs typically last 3-5 years, but without explicit information about when this person began their studies, time_start should remain null to avoid speculation."
+      }
+    },
+    {
+      "organizations": [
+        "Webster University"
+      ],
+      "roles": [
+        "honorary doctorate in law recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also awarded two honorary doctorates in 2005 in the fields, respectively, of law from his alma mater, Webster University"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award, which is a one-time event that occurred in 2005. Awards are typically conferred on a specific date/year rather than being ongoing positions, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Thammasat University"
+      ],
+      "roles": [
+        "honorary doctorate in political science recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and in political science from Thammasat University in Thailand"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award, which is a one-time event that occurs in a specific year. The time_marker clearly indicates 2005 as the year the award was received. Since awards are conferred at a single point in time rather than being ongoing positions, both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Defense University of Indonesia"
+      ],
+      "roles": [
+        "professor degree recipient in National Defense Science"
+      ],
+      "time_markers": [
+        "12 June 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 12 June 2014, he earned professor degree from Defense University of Indonesia in National Defense Science."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (professor degree) with a specific date of '12 June 2014'. Academic degrees are conferred on a specific date and represent a point-in-time achievement rather than an ongoing position. Therefore, both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Army Strategic Reserve (Kostrad)"
+      ],
+      "roles": [
+        "platoon commander in 330th Airborne Battalion"
+      ],
+      "time_markers": [
+        "after 1973 graduation"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduating, Yudhoyono joined the Army Strategic Reserve (Kostrad) and became a platoon commander in the 330th Airborne Battalion."
+      ],
+      "time_start": 1973,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event occurred 'after 1973 graduation', indicating it started in 1973. No end date is provided in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "US Army"
+      ],
+      "roles": [
+        "Airborne and Ranger Courses participant at Fort Benning"
+      ],
+      "time_markers": [
+        "1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono's proficiency in English was one of the reasons why he was sent to the United States to undertake the Airborne and Ranger Courses at Fort Benning in 1975."
+      ],
+      "time_start": 1975,
+      "time_finish": 1975,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Yudhoyono undertook the Airborne and Ranger Courses at Fort Benning in 1975. These are training courses with defined durations, not ongoing positions. Since only the single year 1975 is mentioned and these courses typically last weeks to months (not multiple years), both time_start and time_finish are set to 1975."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Armed Forces"
+      ],
+      "roles": [
+        "platoon commander in 305th Battalion, East Timor"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono returned to Indonesia in 1976, where he became a platoon commander in the 305th Battalion and was assigned to Indonesian-occupied East Timor."
+      ],
+      "time_start": 1976,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1976) is mentioned in the time_markers and supporting quote. The quote states 'Yudhoyono returned to Indonesia in 1976, where he became a platoon commander,' indicating this position began in 1976. No end date is provided, and following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Kostrad"
+      ],
+      "roles": [
+        "mortar platoon commander",
+        "operations officer for airborne brigade",
+        "company commander"
+      ],
+      "time_markers": [
+        "1977",
+        "1977-1978",
+        "1979-1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From East Timor, Yudhoyono became a mortar platoon commander in 1977, an operations officer for an airborne brigade from 1977 to 1978, and a company commander at Kostrad from 1979 to 1981."
+      ],
+      "time_start": 1977,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The career event spans multiple roles at Kostrad from 1977 to 1981. The earliest position (mortar platoon commander) started in 1977, and the latest position (company commander at Kostrad) ended in 1981, making this the complete timeframe for this career event at the organization."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Army Headquarters"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1981-1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono then spent 1981 and 1982 working at the Army headquarters."
+      ],
+      "time_start": 1981,
+      "time_finish": 1982,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1981-1982' and supporting quote 'spent 1981 and 1982 working at the Army headquarters' clearly indicate this position started in 1981 and ended in 1982."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Armed Forces"
+      ],
+      "roles": [
+        "commander of Infantry Trainers' School"
+      ],
+      "time_markers": [
+        "1983"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "When Yudhoyono returned in 1983, he was made commander of the Infantry Trainers' School."
+      ],
+      "time_start": 1983,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The text indicates Yudhoyono was made commander in 1983, but provides no information about when this position ended. Following guideline 4, since only a single year is mentioned for when the position started, I would normally set both to 1983. However, the phrasing 'was made commander' indicates an appointment/start date rather than a completed tenure. Since there's no end date mentioned and the position is not indicated as current/ongoing, the most conservative approach is to set time_start to 1983 and time_finish to null."
+      }
+    },
+    {
+      "organizations": [
+        "Kodam IX/Udayana"
+      ],
+      "roles": [
+        "battalion commander",
+        "operational staff member"
+      ],
+      "time_markers": [
+        "1986-1988",
+        "1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1986 to 1988, Yudhoyono served with Kodam IX/Udayana, which covers Bali and the Lesser Sunda Islands. Yudhoyono was a battalion commander from 1986 to 1988 and was part of the operational staff in 1988."
+      ],
+      "time_start": 1986,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'From 1986 to 1988, Yudhoyono served with Kodam IX/Udayana' and specifies he was 'a battalion commander from 1986 to 1988 and was part of the operational staff in 1988.' The overall service period at this organization spans 1986-1988, covering both roles mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Army Staff College (Seskoad)"
+      ],
+      "roles": [
+        "lecturer"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1989, Yudhoyono became a lecturer at the Army Staff College (Seskoad)"
+      ],
+      "time_start": 1989,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 1989, Yudhoyono became a lecturer at the Army Staff College (Seskoad)', which clearly indicates the position started in 1989. However, there is no information about when this position ended, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Army Information Department"
+      ],
+      "roles": [
+        "speechwriter for General Edi Sudrajat"
+      ],
+      "time_markers": [
+        "1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1992, Yudhoyono was transferred to the Army Information Department and worked as a speechwriter for General Edi Sudrajat, the Army chief of staff."
+      ],
+      "time_start": 1992,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1992) is mentioned in the time_markers and supporting quote. The quote states 'In 1992, Yudhoyono was transferred to the Army Information Department,' indicating this is when the position began. With no end date specified and only one year provided, following guideline 4, both time_start and time_finish are set to 1992."
+      }
+    },
+    {
+      "organizations": [
+        "Military of Indonesia (ABRI)"
+      ],
+      "roles": [
+        "personal staff to ABRI commander"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1993, when Edi became commander of the Military of Indonesia (ABRI), Yudhoyono joined Edi's personal staff."
+      ],
+      "time_start": 1993,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In 1993, when Edi became commander of the Military of Indonesia (ABRI), Yudhoyono joined Edi's personal staff.' This indicates the position started in 1993. However, no end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this role ended."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Peacekeeping Force"
+      ],
+      "roles": [
+        "Indonesia's chief military observer in Bosnia"
+      ],
+      "time_markers": [
+        "1995-1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono had one more stint overseas when he became Indonesia's chief military observer of the United Nation Peacekeeping Force in Bosnia in 1995–96."
+      ],
+      "time_start": 1995,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1995-1996' and supporting quote clearly indicate this position spanned from 1995 to 1996. This is a completed assignment with definite start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "KODAM II/Sriwijaya"
+      ],
+      "roles": [
+        "Commander"
+      ],
+      "time_markers": [
+        "23 August 1996 – 7 August 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "When Yudhoyono returned to Indonesia, he was made KODAM Jaya chief of staff before being appointed as KODAM II/Sriwijaya commander. In this position, Yudhoyono was responsible for military operations in southern Sumatra."
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '23 August 1996 – 7 August 1997', indicating the position started in 1996 and ended in 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Armed Forces (ABRI)"
+      ],
+      "roles": [
+        "chief of staff for social-political affairs",
+        "chairman of ABRI Faction in People's Consultative Assembly"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served in this position until 1997, when he was appointed chief of staff for social-political affairs. At the same time, he was also appointed chairman of the ABRI Faction in the People's Consultative Assembly General Session"
+      ],
+      "time_start": 1997,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that in 1997, the person was appointed to both the chief of staff for social-political affairs and chairman of ABRI Faction positions. The phrase 'At the same time' confirms these appointments occurred simultaneously in 1997. There is no information about when these positions ended, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Government"
+      ],
+      "roles": [
+        "Minister of Mining and Energy"
+      ],
+      "time_markers": [
+        "29 October 1999 – 23 August 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono was appointed mining and energy minister in the cabinet of President Abdurrahman Wahid in 1999."
+      ],
+      "time_start": 1999,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates the position started on 29 October 1999 and ended on 23 August 2000. This is corroborated by the supporting quote mentioning appointment in 1999. Therefore, time_start is 1999 and time_finish is 2000."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Government"
+      ],
+      "roles": [
+        "Coordinating Minister for Political and Security Affairs"
+      ],
+      "time_markers": [
+        "23 August 2000 – 1 June 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In August 2000, after a cabinet reshuffle, Yudhoyono became the coordinating minister for politic and security affairs."
+      ],
+      "time_start": 2000,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '23 August 2000 – 1 June 2001', indicating the position started in 2000 and ended in 2001. This is corroborated by the supporting quote mentioning 'August 2000' as the start date."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesian Government"
+      ],
+      "roles": [
+        "Coordinating Minister for Political, Social, and Security Affairs"
+      ],
+      "time_markers": [
+        "10 August 2001 – 12 March 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono was appointed to his old position of coordinating minister of political and security affairs in Megawati's new cabinet."
+      ],
+      "time_start": 2001,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates the position started on '10 August 2001' and ended on '12 March 2004'. Therefore, time_start is 2001 and time_finish is 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Indonesia"
+      ],
+      "roles": [
+        "founder",
+        "co-organizer"
+      ],
+      "time_markers": [
+        "declared 9 September 2001",
+        "registered 10 September 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 9 September 2001, the formation of the party was officially declared, and it was registered at the Ministry of Justice and Human Rights on 10 September."
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The career event describes the founding of the Democratic Party of Indonesia, which was declared on 9 September 2001 and registered on 10 September 2001. The roles of 'founder' and 'co-organizer' are inherently tied to the specific founding event in 2001. Since founding is a discrete event that occurred and concluded in 2001, both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Indonesia"
+      ],
+      "roles": [
+        "President of Indonesia"
+      ],
+      "time_markers": [
+        "20 October 2004 – 20 October 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono was inaugurated as president on 20 October 2004.",
+        "he was sworn in for a second term on 20 October 2009."
+      ],
+      "time_start": 2004,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states '20 October 2004 – 20 October 2014', indicating the full tenure as President of Indonesia. This is corroborated by supporting quotes showing inauguration on 20 October 2004 and a second term beginning 20 October 2009, with the position ending in 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party"
+      ],
+      "roles": [
+        "chairman of executive board (Ketua Dewan Pembina)"
+      ],
+      "time_markers": [
+        "May 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2005, at PD's first National Congress, Yudhoyono was elected chairman of the executive board (Ketua Dewan Pembina)."
+      ],
+      "time_start": 2005,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes Yudhoyono being elected as chairman of the executive board in May 2005. This marks the start of the position (2005). There is no information indicating when this position ended, suggesting it may be ongoing or the end date is unknown, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "30 March 2013 – 15 March 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He founded the Democratic Party of Indonesia and served as its 4th chairman from 2014 until 2020."
+      ],
+      "time_start": 2013,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field provides a specific date range '30 March 2013 – 15 March 2020', which clearly indicates the position started in 2013 and ended in 2020. While the supporting quote mentions '2014 until 2020', the more precise time_markers data takes precedence, showing the actual start date was in March 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Global Green Growth Institute"
+      ],
+      "roles": [
+        "President of the Assembly and Chair of the Council"
+      ],
+      "time_markers": [
+        "September 2014 to December 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After 10 years of his presidency ended on 20 October 2014, SBY was elected as President of the Assembly and Chair of the Council of the Global Green Growth Institute for the period September 2014 to December 2016."
+      ],
+      "time_start": 2014,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states 'September 2014 to December 2016', indicating the position started in 2014 and ended in 2016. This is corroborated by the supporting quote which mentions the same time period."
+      }
+    },
+    {
+      "organizations": [
+        "ASEAN"
+      ],
+      "roles": [
+        "Chairperson",
+        "chair of 18th and 19th ASEAN Summits"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono also chaired the 18th and 19th ASEAN Summits in 2011"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states that Yudhoyono 'chaired the 18th and 19th ASEAN Summits in 2011'. This indicates a specific chairperson role that occurred during 2011. ASEAN Summit chairmanship is typically a rotating annual position, and since both summits mentioned occurred in the single year of 2011, both time_start and time_finish should be set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "APEC"
+      ],
+      "roles": [
+        "Chairperson"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Preceded by Vladimir Putin, Chairperson of APEC 2013"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates '2013' and the supporting quote confirms this person was 'Chairperson of APEC 2013'. APEC chairpersonship rotates annually among member economies, so this position would have been held for the calendar year 2013 only."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Environment Programme"
+      ],
+      "roles": [
+        "Champions of the Earth Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was awarded the Lifetime Achievement Award (Champions of the Earth) in 2014."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is a lifetime achievement award received in 2014. Awards are typically one-time events that occur in a specific year. Since only 2014 is mentioned and this is an award (not an ongoing position), both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "TIME Magazine"
+      ],
+      "roles": [
+        "one of 100 World's Most Influential People"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono was one of the 100 World's Most Influential People in 2009 according to TIME Magazine."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an annual recognition award from TIME Magazine's '100 Most Influential People' list for the year 2009. Such awards are specific to a single year rather than ongoing positions, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Australia"
+      ],
+      "roles": [
+        "Honorary Companion of the Order of Australia (AC)"
+      ],
+      "time_markers": [
+        "9 March 2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During an official visit to Australia on 9–11 March 2010, he was appointed an Honorary Companion of the Order of Australia (AC)"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary award (Honorary Companion of the Order of Australia) appointed on a specific date: 9 March 2010. Awards and honors are typically conferred at a point in time rather than being ongoing positions, so both time_start and time_finish are set to 2010, the year the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "United Kingdom"
+      ],
+      "roles": [
+        "Honorary Knight Grand Cross of the Order of the Bath (GCB)"
+      ],
+      "time_markers": [
+        "30 October 2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yudhoyono was made an honorary Knight Grand Cross of the Order of the Bath (GCB) by HM Queen Elizabeth II on 30 October 2012."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award was conferred on 30 October 2012. Honorary knighthoods and orders like the GCB are permanent honors that do not have an end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Philippines"
+      ],
+      "roles": [
+        "Grand Collar (Raja) of the Order of Sikatuna recipient"
+      ],
+      "time_markers": [
+        "23 March 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Collar (Raja) of the Order of Sikatuna, Philippines, 23 March 2014"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Grand Collar of the Order of Sikatuna) with a specific conferral date of 23 March 2014. Awards are typically considered as point-in-time events occurring in the year they were received, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Singapore"
+      ],
+      "roles": [
+        "Darjah Utama Temasek (First Class) recipient"
+      ],
+      "time_markers": [
+        "3 September 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Darjah Utama Temasek (First Class) (DUT), Singapore, 3 September 2014"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award (Darjah Utama Temasek) with a specific conferral date of 3 September 2014. Awards are typically conferred on a single date rather than representing an ongoing position, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "South Korea"
+      ],
+      "roles": [
+        "Grand Order of Mugunghwa recipient"
+      ],
+      "time_markers": [
+        "19 November 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Order of Mugunghwa, South Korea, 19 November 2014"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '19 November 2014'. Awards are typically conferred on a single date and represent a point-in-time honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2014."
+      }
+    }
+  ]
+}

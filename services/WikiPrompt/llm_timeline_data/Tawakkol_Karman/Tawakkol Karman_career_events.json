@@ -1,0 +1,374 @@
+{
+  "person_name": "Tawakkol Karman",
+  "career_events": [
+    {
+      "organizations": [
+        "Women Journalists Without Chains"
+      ],
+      "roles": [
+        "co-founder",
+        "leader"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She co-founded and leads 'Women Journalists Without Chains', a group established in 2005 to advocate for press freedom and human rights.",
+        "Tawakkol Karman co-founded the human rights group Women Journalists Without Chains (WJWC) with seven other female journalists in 2005"
+      ],
+      "time_start": 2005,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The organization was co-founded in 2005 as clearly stated in both supporting quotes. The role is described as 'leader' in present tense ('co-founded and leads'), indicating this is an ongoing position with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Al-Thawrah"
+      ],
+      "roles": [
+        "affiliated journalist"
+      ],
+      "time_markers": [
+        "March 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tawakkol Karman was affiliated with the Al-Thawrah newspaper at the time she founded WJWC in March 2005."
+      ],
+      "time_start": 2005,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'March 2005' indicates the person was affiliated with Al-Thawrah newspaper at that time. Since only a start point is mentioned with no indication of when this affiliation ended, time_start is set to 2005 and time_finish is null as the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Yemeni Journalists' Syndicate"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also a member of the Yemeni Journalists' Syndicate."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is also a member'), indicating this is a current/ongoing membership, but no specific start year is provided. While time_finish should be null for ongoing positions, time_start cannot be determined from the available information."
+      }
+    },
+    {
+      "organizations": [
+        "Al-Islah"
+      ],
+      "roles": [
+        "senior member"
+      ],
+      "time_markers": [
+        "suspended 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a senior member of the Al-Islah party, although she was suspended from the party in 2018 after she accused the Saudi-led coalition of acting as occupiers in the country."
+      ],
+      "time_start": null,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The text indicates she was suspended from Al-Islah party in 2018, which marks the end of her active membership. However, no information is provided about when she started as a senior member, so time_start must be null. The suspension in 2018 clearly marks the termination of this position."
+      }
+    },
+    {
+      "organizations": [
+        "Nobel Foundation"
+      ],
+      "roles": [
+        "Nobel Peace Prize laureate"
+      ],
+      "time_markers": [
+        "2011",
+        "10 December 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is a co-recipient of the 2011 Nobel Peace Prize for 'non-violent struggle for the safety of women and for women's rights to full participation in peace-building work'",
+        "Karman, along with Ellen Johnson Sirleaf and Leymah Gbowee, were the co-recipients of the 2011 Nobel Peace Prize"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is a Nobel Peace Prize award event. The time_markers clearly indicate '2011' and '10 December 2011' as the award date. Nobel Prizes are awarded at a specific point in time (not ongoing positions), so both time_start and time_finish are set to 2011, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "University of Massachusetts Lowell"
+      ],
+      "roles": [
+        "master's degree recipient in international security"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Karman holds a master's degree in international security from the University of Massachusetts Lowell"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only confirms that Karman holds a master's degree from UMass Lowell in international security, but provides no temporal information about when this degree was obtained."
+      }
+    },
+    {
+      "organizations": [
+        "University of Science and Technology"
+      ],
+      "roles": [
+        "undergraduate degree recipient in commerce"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "an undergraduate degree in commerce from the University of Science and Technology"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the career event data. The supporting quote only indicates that the person received an undergraduate degree in commerce from the University of Science and Technology, but provides no temporal information about when this occurred. Following the conservative approach guideline, both time_start and time_finish are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Sana'a",
+        "Sanaa University"
+      ],
+      "roles": [
+        "graduate degree recipient in political science"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a graduate degree in political science from the University of Sana'a"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only mentions that the person received 'a graduate degree in political science from the University of Sana'a' without any temporal information. Without additional context about when this degree was obtained, I cannot determine accurate time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "University of Alberta"
+      ],
+      "roles": [
+        "Honorary Doctorate in International Law recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, she received an Honorary Doctorate in International Law from the University of Alberta in Canada."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2012. Awards are typically conferred at a specific point in time rather than representing an ongoing position. Following guideline 4, when a single year is mentioned for an award event, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Turkish government"
+      ],
+      "roles": [
+        "Turkish citizenship recipient"
+      ],
+      "time_markers": [
+        "11 October 2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Turkish government offered her Turkish citizenship, which she received from the Turkish foreign minister on 11 October 2012"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The event is a citizenship award received on a specific date (11 October 2012). Citizenship is typically granted at a point in time rather than being a position held over a period. Therefore, both time_start and time_finish are set to 2012, the year the citizenship was received."
+      }
+    },
+    {
+      "organizations": [
+        "Clinton Global Initiative"
+      ],
+      "roles": [
+        "panelist"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, Karman participated as a panelist in the annual Clinton Global Initiative session titled 'Champions of Action'."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The event describes a single participation as a panelist in 2012. This was a one-time event (a panel session), not an ongoing position, so both start and finish are set to 2012."
+      }
+    },
+    {
+      "organizations": [
+        "The Asian Awards"
+      ],
+      "roles": [
+        "Social Entrepreneur of the Year"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, she was honored as the Social Entrepreneur of the Year at The Asian Awards."
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2019). Awards are typically one-time honors received in a specific year, so both time_start and time_finish are set to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Foreign Policy"
+      ],
+      "roles": [
+        "top 100 global thinkers (first place)"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was selected as the first place of the Foreign Policy top 100 global thinkers of 2011."
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award event for 'top 100 global thinkers (first place)' from Foreign Policy in 2011. Awards are typically one-time recognitions for a specific year, not ongoing positions. The supporting quote confirms this was for 2011 specifically, so both start and finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "MBI Al Jaber Media Institute"
+      ],
+      "roles": [
+        "International Advisory Board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is on the International Advisory Board of the MBI Al Jaber Media Institute in Yemen which offers free training in all aspects of journalism."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is on the International Advisory Board'), suggesting the position may be current, but no specific start or end years are mentioned in the provided information. Without concrete temporal data, both values should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Facebook",
+        "Meta Platforms"
+      ],
+      "roles": [
+        "Oversight Board member"
+      ],
+      "time_markers": [
+        "6 May 2020",
+        "2020–"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 6 May 2020, Facebook appointed her to its oversight board."
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred on 6 May 2020, establishing 2020 as time_start. The time_marker '2020–' (with an em dash and no end date) indicates the position is ongoing, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Doha Centre for Media Freedom"
+      ],
+      "roles": [
+        "consultant for Belqees TV establishment"
+      ],
+      "time_markers": [
+        "after 2011 Nobel Prize"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "After the announcement, Karman traveled to Qatar where she met with Sheikh Tamim bin Hamad Al Thani and also requested the Doha Centre for Media Freedom's assistance to set up a television and radio station, which would be named Belqees TV"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates this consultation occurred 'after 2011 Nobel Prize'. The Nobel Prize announcement happens in October, so the travel to Qatar and consultation work would have occurred in late 2011. Since this appears to be a specific consultancy project for establishing a TV station rather than an ongoing position, and no end date is specified, it's most accurate to mark both start and finish as 2011, representing a discrete consulting engagement that year."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Security Council"
+      ],
+      "roles": [
+        "activist advocate"
+      ],
+      "time_markers": [
+        "21 October 2011",
+        "28 October 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She lobbied the United Nations Security Council and the United States not to make a deal that would pardon Saleh",
+        "Karman, who was present for the vote, criticised the council's support for the GCC's proposal"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "Both time_markers indicate specific dates in October 2011 (21st and 28th). The supporting quotes describe discrete advocacy actions (lobbying and criticizing) that occurred during this brief period. This appears to be a short-term activist engagement rather than an ongoing position, so both start and finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Tawakkol Karman Foundation"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tawakkol Karman Foundation https://tkif.org/en/"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only contains a URL to the foundation's website without any dates or time markers indicating when Tawakkol Karman founded the organization or whether the role is ongoing."
+      }
+    }
+  ]
+}

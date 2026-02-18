@@ -1,0 +1,643 @@
+{
+  "person_name": "Louis Michel",
+  "career_events": [
+    {
+      "organizations": [
+        "Provincial School of Jodoigne"
+      ],
+      "roles": [
+        "teacher of English, Dutch and German"
+      ],
+      "time_markers": [
+        "1968-1978"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1968 to 1978, before dedicating his life to his political career, Michel taught English, Dutch and German in the Provincial School of Jodoigne, a rural town 25 miles from Brussels."
+      ],
+      "time_start": 1968,
+      "time_finish": 1978,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1968-1978' and supporting quote 'From 1968 to 1978' clearly indicate this teaching position started in 1968 and ended in 1978. The quote also confirms this was before the person's political career, indicating the position concluded in 1978."
+      }
+    },
+    {
+      "organizations": [
+        "Young Liberals",
+        "Nivelles district"
+      ],
+      "roles": [
+        "chairman"
+      ],
+      "time_markers": [
+        "1967-1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1967 to 1977, Michel was chairman of the Young Liberals in the district of Nivelles."
+      ],
+      "time_start": 1967,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1967-1977' and supporting quote 'From 1967 to 1977, Michel was chairman of the Young Liberals in the district of Nivelles' clearly indicate this position started in 1967 and ended in 1977."
+      }
+    },
+    {
+      "organizations": [
+        "Municipality of Jodoigne"
+      ],
+      "roles": [
+        "alderman"
+      ],
+      "time_markers": [
+        "1977-1983"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Then he became alderman in Jodoigne from 1977 to 1983"
+      ],
+      "time_start": 1977,
+      "time_finish": 1983,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1977-1983' and supporting quote 'from 1977 to 1983' clearly indicate the position started in 1977 and ended in 1983."
+      }
+    },
+    {
+      "organizations": [
+        "Parti Réformateur Libéral (PRL)"
+      ],
+      "roles": [
+        "secretary-general"
+      ],
+      "time_markers": [
+        "1980-1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "\"secretary-general\" of the Parti Réformateur Libéral (PRL) political party from 1980 to 1982"
+      ],
+      "time_start": 1980,
+      "time_finish": 1982,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1980-1982' and supporting quote explicitly state the position was held 'from 1980 to 1982', providing clear start and end years for this secretary-general role."
+      }
+    },
+    {
+      "organizations": [
+        "Parti Réformateur Libéral (PRL)"
+      ],
+      "roles": [
+        "chairman"
+      ],
+      "time_markers": [
+        "1982-1990",
+        "1995-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "chairman of the PRL from 1982 to 1990 and from 1995 to 1999."
+      ],
+      "time_start": 1982,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The person served as chairman of PRL during two separate periods: 1982-1990 and 1995-1999. The time_start is 1982 (when the first period began) and time_finish is 1999 (when the second period ended), representing the overall span of this role."
+      }
+    },
+    {
+      "organizations": [
+        "Belgian federal parliament"
+      ],
+      "roles": [
+        "representative"
+      ],
+      "time_markers": [
+        "1978-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Belgian federal parliament as a representative (1978–1999)."
+      ],
+      "time_start": 1978,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1978-1999' and supporting quote explicitly state the person served as a representative in the Belgian federal parliament from 1978 to 1999. This is a clear date range indicating the start year (1978) and end year (1999) of this position."
+      }
+    },
+    {
+      "organizations": [
+        "Municipality of Jodoigne"
+      ],
+      "roles": [
+        "mayor"
+      ],
+      "time_markers": [
+        "1983-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also the mayor of the municipality of Jodoigne in Walloon Brabant and has been since 1983."
+      ],
+      "time_start": 1983,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1983-present' and supporting quote 'has been since 1983' clearly indicate the position started in 1983 and is ongoing. The word 'present' indicates the position is still active, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Belgian Government"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs",
+        "Vice Prime Minister"
+      ],
+      "time_markers": [
+        "12 July 1999 - 18 July 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Michel was the Belgian foreign minister and vice prime minister from 1999 to 2004.",
+        "In office 12 July 1999 – 18 July 2004"
+      ],
+      "time_start": 1999,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '12 July 1999 - 18 July 2004', and this is corroborated by the supporting quote 'Michel was the Belgian foreign minister and vice prime minister from 1999 to 2004.' The position started in 1999 and ended in 2004."
+      }
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "European Commissioner for Research"
+      ],
+      "time_markers": [
+        "13 September 2004 - 21 November 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 13 September 2004 – 21 November 2004",
+        "Michel completed Busquin's term as the European Commissioner for Science and Research"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 13 September 2004 and ended on 21 November 2004. Both dates fall within the same year, 2004, so both time_start and time_finish are set to 2004."
+      }
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "European Commissioner for Development and Humanitarian Aid"
+      ],
+      "time_markers": [
+        "22 November 2004 - 17 July 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 22 November 2004 – 17 July 2009",
+        "He served in the government of Belgium as minister of foreign affairs from 1999 to 2004 and was European Commissioner for Development and Humanitarian Aid from 2004 to 2009."
+      ],
+      "time_start": 2004,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '22 November 2004 - 17 July 2009' as the period of service. The supporting quotes confirm this timeframe, stating the position was held 'from 2004 to 2009'. Therefore, time_start is 2004 and time_finish is 2009."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan appointed him to a High-level Panel on United Nations Systemwide Coherence, which was set up to explore how the United Nations system could work more coherently and effectively across the world in the areas of development, humanitarian assistance and the environment."
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person was appointed to the High-level Panel in 2006. This was a specific panel set up for a particular purpose (to explore UN system coherence), which suggests it was a time-limited assignment rather than an ongoing position. Since only 2006 is mentioned and panels of this nature are typically temporary, both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "Member of the European Parliament"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2009 to 2019, he was a Member of the European Parliament.",
+        "He resigned as Commissioner in July 2009 to become a Member of the European Parliament."
+      ],
+      "time_start": 2009,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2009-2019' and this is corroborated by the supporting quote 'From 2009 to 2019, he was a Member of the European Parliament.' The position has a clear start year (2009) and end year (2019), indicating it is not ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "member of Committee on Civil Liberties, Justice and Home Affairs"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Throughout his time as Member of the European Parliament, Michel served on the Committee on Civil Liberties, Justice and Home Affairs."
+      ],
+      "time_start": 2009,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2009-2019' clearly indicates a date range, and the supporting quote confirms this was the duration of Michel's service on the Committee during his time as Member of the European Parliament. The range format indicates the position ended in 2019."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "member of Committee of Inquiry into Money Laundering, Tax Avoidance and Tax Evasion (PANA)"
+      ],
+      "time_markers": [
+        "2016-2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2016 until 2017, he was part of the Committee of Inquiry into Money Laundering, Tax Avoidance and Tax Evasion (PANA) that investigated the Panama Papers revelations and tax avoidance schemes more broadly."
+      ],
+      "time_start": 2016,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2016-2017' and supporting quote 'From 2016 until 2017' clearly indicate this committee membership started in 2016 and ended in 2017."
+      }
+    },
+    {
+      "organizations": [
+        "ACP–EU Joint Parliamentary Assembly"
+      ],
+      "roles": [
+        "co-president"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In addition to his committee assignments, Michel co-presided over the ACP–EU Joint Parliamentary Assembly which advises on the orientations of co-operation policies between the EU and its partners in Africa, the Caribbean, and the Pacific."
+      ],
+      "time_start": 2009,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2009-2019' clearly indicates a defined period with a start year of 2009 and end year of 2019. The supporting quote uses past tense ('co-presided'), confirming this position has ended. The range format indicates this was not a single-year position but a role held across this entire period."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament Intergroup on LGBT Rights"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also a member of the European Parliament Intergroup on LGBT Rights"
+      ],
+      "time_start": 2009,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2009-2019' clearly indicates a defined period of membership in the European Parliament Intergroup on LGBT Rights, with a start year of 2009 and an end year of 2019."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament Intergroup on Extreme Poverty and Human Rights"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the European Parliament Intergroup on Extreme Poverty and Human Rights"
+      ],
+      "time_start": 2009,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2009-2019' clearly indicates a date range with a start year of 2009 and an end year of 2019. This represents a completed 10-year membership period in the European Parliament Intergroup on Extreme Poverty and Human Rights."
+      }
+    },
+    {
+      "organizations": [
+        "Campaign for the Establishment of a United Nations Parliamentary Assembly"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Campaign for the Establishment of a United Nations Parliamentary Assembly, an organisation which campaigns for democratic reformation of the United Nations, and the creation of a more accountable international political system."
+      ],
+      "time_start": 2009,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2009-2019' clearly indicates a defined period of membership that started in 2009 and ended in 2019. This is a straightforward date range with both start and end years explicitly stated."
+      }
+    },
+    {
+      "organizations": [
+        "Fondation Chirac"
+      ],
+      "roles": [
+        "member of honour committee"
+      ],
+      "time_markers": [
+        "2008-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Michel is also a member of the Fondation Chirac's honour committee, ever since the foundation was launched in 2008 by former French president Jacques Chirac to promote world peace."
+      ],
+      "time_start": 2008,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2008-present' and supporting quote clearly indicate the position started in 2008 when the foundation was launched and continues to the present day, making it an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Belgium"
+      ],
+      "roles": [
+        "Minister of State"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Belgium: Minister of State, by Royal Decree of 1995."
+      ],
+      "time_start": 1995,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event_type is 'award' and the supporting quote indicates this is an honorary title ('Minister of State') granted by Royal Decree in 1995. This is a lifetime honorific title in Belgium that does not have an end date, so time_start is 1995 when the honor was bestowed, and time_finish is null as the title remains valid indefinitely."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Belgium"
+      ],
+      "roles": [
+        "Commander in the Order of Leopold"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commander in the Order of Leopold."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Commander in the Order of Leopold from Belgium) with no time_markers or dates mentioned in the supporting quotes. Awards are typically conferred at a specific point in time, but without any temporal information provided, I cannot determine when this honor was received. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Belgium"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of Leopold II"
+      ],
+      "time_markers": [
+        "26 May 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand Cross in the Order of Leopold II, RD of 26 May 2014."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Knight Grand Cross in the Order of Leopold II) with a specific conferral date of 26 May 2014. Awards are typically considered as point-in-time events occurring in the year they were granted, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Sweden"
+      ],
+      "roles": [
+        "Grand Cross of the Royal Order of the Polar Star"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sweden: Grand Cross of the Royal Order of the Polar Star"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or dates are present in the career event data. The supporting quote only confirms the award name and organization but provides no temporal information. Awards are typically one-time honors, but without specific date information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Portuguese Republic"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Infante Dom Henrique"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Portugal: Grand Cross of the Order of Infante Dom Henrique"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with no time_markers provided and no dates mentioned in the supporting_quotes. Awards are typically conferred at a specific point in time, but without any temporal information in the data, I cannot determine when this honor was received. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of the Netherlands"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of Orange-Nassau"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Netherlands: Knight Grand Cross in the Order of Orange-Nassau."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. The event describes an award (Knight Grand Cross in the Order of Orange-Nassau) but contains no dates or temporal references. Following the conservative approach, both time_start and time_finish are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Spain"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of Isabella the Catholic"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Spain: Knight Grand Cross in the Order of Isabella the Catholic"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. The event describes an award (Knight Grand Cross in the Order of Isabella the Catholic) but contains no dates, years, or temporal context to determine when this honor was received. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Denmark"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of the Dannebrog"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Denmark: Knight Grand Cross in the Order of the Dannebrog"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers, supporting_quotes, or other fields. The event describes an award (Knight Grand Cross in the Order of the Dannebrog) but contains no dates or temporal references. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Romania"
+      ],
+      "roles": [
+        "Knight Grand-Cross in the Order of the Star of Romania"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand-Cross in the Order of the Star of Romania."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event. The time_markers array is empty, and the supporting quote only confirms the award title without any temporal context. Awards like the Knight Grand-Cross in the Order of the Star of Romania are typically conferred at a specific point in time, but without any date information in the provided data, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "French Republic"
+      ],
+      "roles": [
+        "Grand Officer in the Légion d'honneur"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "France: Grand Officer in the Légion d'honneur"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the time_markers array or supporting quotes. The Légion d'honneur is an honor/award that, once received, is typically held for life, but without any date information in the provided data, I cannot determine when this award was received. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Organisation internationale de la Francophonie"
+      ],
+      "roles": [
+        "Grand officer in the Order of the Pléiade"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand officer in the Order of the Pléiade (Ordre de la Francophonie et du dialogue des cultures; that is, \"Order of the Francophonie and of the dialogue of cultures\")"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Grand officer in the Order of the Pléiade) with no time_markers provided and no dates mentioned in the supporting quotes. Awards are typically conferred at a specific point in time, but without any temporal information in the data, I cannot determine when this honor was received. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Republic of Bulgaria"
+      ],
+      "roles": [
+        "1st Class in the Order of the Stara Planina"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Bulgaria: 1st Class in the Order of the Stara Planina / The Balkan Mountains."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the time_markers, supporting_quotes, or other fields. The event describes receiving an award (1st Class in the Order of the Stara Planina from Bulgaria), but no year or date is mentioned. Awards are typically one-time events, but without any temporal markers, both time_start and time_finish must be set to null."
+      }
+    }
+  ]
+}

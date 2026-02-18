@@ -1,0 +1,414 @@
+{
+  "person_name": "Emília Pires",
+  "career_events": [
+    {
+      "organizations": [
+        "Government of East Timor",
+        "Ministry of Finance"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "7 April 2007 to 16 February 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Emília Pires was East Timor's Minister of Finance from April 2007 until 16 February 2015.",
+        "In office 7 April 2007 – 16 February 2015"
+      ],
+      "time_start": 2007,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position started on 7 April 2007 and ended on 16 February 2015. Therefore, time_start is 2007 and time_finish is 2015."
+      }
+    },
+    {
+      "organizations": [
+        "Government of East Timor",
+        "V Constitutional Government"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "sworn in August 8, 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ms. Pires was sworn in as the Minister of Finance of the V Constitutional Government of East Timor on August 8, 2012 under the leadership of Prime Minister Xanana Gusmão."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position clearly started in 2012 as indicated by 'sworn in August 8, 2012'. However, there is no information provided about when this position ended, so time_finish is set to null as we cannot determine if or when the role concluded."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel of Eminent Persons"
+      ],
+      "roles": [
+        "panel member advising on Post-2015 Development Agenda"
+      ],
+      "time_markers": [
+        "appointed July 2012"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2012, Pires was appointed by the Secretary-General of United Nations, Ban Ki-moon, to the 26-member High-level Panel of Eminent Persons advising the United Nations on the post 2015 global development agenda."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in July 2012 as clearly stated in the time_markers and supporting quote. However, no end date is mentioned for this panel membership. Without information about when the position concluded, time_finish should be set to null rather than assumed."
+      }
+    },
+    {
+      "organizations": [
+        "Victorian Government",
+        "Australia"
+      ],
+      "roles": [
+        "junior public servant",
+        "senior management"
+      ],
+      "time_markers": [
+        "began in early 20s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Pires began her professional career as a junior public servant in the Victorian Government in her early 20s. She then rose to senior management level."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The only time marker provided is 'began in early 20s' which refers to the person's age, not a calendar year. Without additional context about when the person was born or any specific calendar years mentioned, it's impossible to determine the actual start or end years of this career position. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Senior Aid Management Specialist in West Bank and Gaza"
+      ],
+      "time_markers": [
+        "before becoming Minister of Finance"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "World Bank, Senior Aid Management Specialist in West Bank and Gaza, where she advised both the Ministries of Finance and Planning of the Palestinian Authority and donors on aid coordination to the economic sector"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The only temporal information provided is the relative time marker 'before becoming Minister of Finance,' which establishes sequence but not specific years. Without knowing when the person became Minister of Finance or any other concrete dates, no accurate years can be determined for this World Bank position."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "UNMISET"
+      ],
+      "roles": [
+        "Senior Advisor to the East Timor Ministry of Planning and Finance"
+      ],
+      "time_markers": [
+        "before becoming Minister of Finance"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "United Nations, UNMISET's Senior Advisor to the East Timor Ministry of Planning and Finance"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event description indicates this position was held 'before becoming Minister of Finance' but provides no specific years. UNMISET (United Nations Mission of Support in East Timor) operated from 2002-2005, which provides context but not definitive dates for this specific advisory role. Without concrete year information in the time_markers or supporting quotes, I cannot determine accurate start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "UNTAET"
+      ],
+      "roles": [
+        "Head of the Planning Commission Secretariat"
+      ],
+      "time_markers": [
+        "before becoming Minister of Finance"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "UNTAET's Head of the Planning Commission Secretariat as well as the Chief of the National Development and Planning Agency (NPDA)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The only time marker provided is 'before becoming Minister of Finance,' which is a relative reference without specific years. UNTAET (United Nations Transitional Administration in East Timor) operated from 1999-2002, but without knowing when this person became Minister of Finance or having explicit dates for this position, I cannot determine accurate start and finish years. Being conservative as instructed, both values should be null."
+      }
+    },
+    {
+      "organizations": [
+        "National Development and Planning Agency (NPDA)",
+        "East Timor"
+      ],
+      "roles": [
+        "Chief"
+      ],
+      "time_markers": [
+        "before becoming Minister of Finance"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "UNTAET's Head of the Planning Commission Secretariat as well as the Chief of the National Development and Planning Agency (NPDA)",
+        "Chief of the National Development and Planning Agency (NPDA)."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates this position was 'before becoming Minister of Finance' but no specific years are provided. Without additional context about when the person became Minister of Finance or when they served as Chief of NPDA, I cannot determine accurate start and end years. Being conservative as instructed, I'm setting both values to null."
+      }
+    },
+    {
+      "organizations": [
+        "g7+"
+      ],
+      "roles": [
+        "first Chair"
+      ],
+      "time_markers": [
+        "until May 2014"
+      ],
+      "event_type": "leadership_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Emilia Pires was selected to be the first Chair of the g7+, the first forum of its kind giving fragile and conflict-affected countries a voice and place to share issues and ideas.",
+        "Pires held the role until May 2014, when Minister Kaifala Marah of Sierra Leone took over."
+      ],
+      "time_start": null,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'until May 2014' and supporting quote confirm the position ended in May 2014, so time_finish is 2014. However, no specific start year is mentioned. While she was the 'first Chair' of g7+, without knowing when g7+ was established or when she assumed the role, time_start cannot be determined with certainty."
+      }
+    },
+    {
+      "organizations": [
+        "International Dialogue of Peacebuilding and Statebuilding"
+      ],
+      "roles": [
+        "co-chair with Denmark",
+        "co-chair with Finland"
+      ],
+      "time_markers": [
+        "until June 2014"
+      ],
+      "event_type": "leadership_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Until June 2014, Pires co-chaired the International Dialogue of Peacebuilding and Statebuilding with Denmark and later with Finland"
+      ],
+      "time_start": null,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The text explicitly states 'until June 2014', which clearly indicates the position ended in 2014. However, no start date is provided in the available information, so time_start must be null. The phrase 'until June 2014' definitively establishes 2014 as the end year."
+      }
+    },
+    {
+      "organizations": [
+        "UNDP"
+      ],
+      "roles": [
+        "chair of Working Group to produce first East Timor National Human Development Report"
+      ],
+      "time_markers": [],
+      "event_type": "leadership_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Emilia Pires led the planning process for the first Timorese National Development Plan and East Timor's Vision 2020, as well as chairing the UNDP Working Group to produce the first East Timor National Human Development Report."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or time_markers. The quote only indicates that Emilia Pires chaired the UNDP Working Group to produce the first East Timor National Human Development Report, but provides no temporal information about when this occurred. Without concrete date information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "La Trobe University"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree graduate in Mathematics (Statistics)"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a bachelor's degree majoring in Mathematics (Statistics) from La Trobe University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or years are mentioned in the career event data. The supporting quote only confirms the degree and institution but provides no temporal information. Without specific years or date references, I cannot determine when this education period started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "University of Melbourne"
+      ],
+      "roles": [
+        "postgraduate student in Government Law"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "post graduate studies in Government Law from the University of Melbourne"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only mentions 'post graduate studies in Government Law from the University of Melbourne' without any temporal information. Without concrete evidence of when this education occurred, both time_start and time_finish should be null."
+      }
+    },
+    {
+      "organizations": [
+        "London School of Economics and Political Science"
+      ],
+      "roles": [
+        "Masters of Science graduate in Development Management"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Masters of Science in Development Management from the London School of Economics and Political Science in the UK."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The text only confirms the person obtained a Masters degree from LSE, but provides no temporal information about when this occurred. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "IMF Finance and Development Magazine"
+      ],
+      "roles": [
+        "co-author"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Co-authored 'How will the Macroeconomy be Managed in an Independent East Timor? An East Timorese view' with East Timor President of the Republic, H,E. Jose Ramos-Horta in 2001, published in the IMF's Finance and Development Magazine."
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is a publication event with a single year mentioned (2001). Publications are point-in-time events that occur in a specific year, so both time_start and time_finish should be set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Peace and the Public Purse: Economic Policies for Postwar Statebuilding"
+      ],
+      "roles": [
+        "co-author"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Co-authored 'National Ownership and International Trusteeship: the Case of Timor-Leste', with Mr. Michael Francino in 2007, published in Boyce James K. and Madalene O'Donnell (eds) in the Peace and the Public Purse: Economic Policies for Postwar Statebuilding."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is a publication event with a single year mentioned (2007). The co-authored chapter was published in 2007, which represents both the start and completion of this specific publication event."
+      }
+    },
+    {
+      "organizations": [
+        "Senior Level Forum on Development Effectiveness in Fragile States",
+        "DFID",
+        "OECD",
+        "World Bank",
+        "UNDP",
+        "European Union"
+      ],
+      "roles": [
+        "keynote speaker"
+      ],
+      "time_markers": [
+        "London"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Senior Level Forum on Development Effectiveness in Fragile States in London organized by DFID, OECD, World Bank, UNDP and European Union"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The time_markers field only contains 'London' which is a location, not a date. The supporting quotes and other fields contain no year references or date indicators. As a speaking engagement is typically a single event, it would normally have the same start and finish year, but without any temporal data, both values must be null."
+      }
+    },
+    {
+      "organizations": [
+        "Communication Implementers"
+      ],
+      "roles": [
+        "keynote speaker"
+      ],
+      "time_markers": [
+        "Paris"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the 'Deepening Voice and Accountability to fight poverty' Dialogue sponsored by the Communication Implementers in Paris"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event. The time_markers field only contains 'Paris' which is a location, not a date. The supporting quote mentions the event but provides no year or date information. As a speaking engagement is typically a one-time event, if a year were known, both time_start and time_finish would be set to that year, but without any temporal data, both must be null."
+      }
+    },
+    {
+      "organizations": [
+        "3rd High-Level Forum on Aid Effectiveness"
+      ],
+      "roles": [
+        "co-chair of session on 'New Development Challenges and New Development Partnerships'"
+      ],
+      "time_markers": [
+        "Accra, Ghana"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the 3rd High-Level Forum on Aid Effectiveness held in Accra, Ghana where she co-chaired the session on 'New Development Challenges and New Development Partnerships: the Relevance and Urgency of Aid Reform'"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The 3rd High-Level Forum on Aid Effectiveness was held in Accra, Ghana in September 2008. This was a specific event that occurred in a single year, so both time_start and time_finish are set to 2008."
+      }
+    }
+  ]
+}

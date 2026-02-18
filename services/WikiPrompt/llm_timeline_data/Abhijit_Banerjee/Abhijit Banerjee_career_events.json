@@ -1,0 +1,538 @@
+{
+  "person_name": "Abhijit Banerjee",
+  "source": "Wikipedia article (accessed 2025)",
+  "career_events": [
+    {
+      "organizations": [
+        "Presidency College",
+        "University of Calcutta"
+      ],
+      "roles": [
+        "student",
+        "BSc (Honors) in Economics"
+      ],
+      "time_markers": [
+        "1978-1981"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Banerjee spent three years at Presidency, receiving a BSc (Honors) in Economics in 1981."
+      ],
+      "time_start": 1978,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1978-1981' clearly indicates a three-year period, and the supporting quote confirms that Banerjee received a BSc (Honors) in Economics in 1981 after spending three years at Presidency. This aligns with a start year of 1978 and finish year of 1981."
+      }
+    },
+    {
+      "organizations": [
+        "Jawaharlal Nehru University"
+      ],
+      "roles": [
+        "student",
+        "MA in Economics"
+      ],
+      "time_markers": [
+        "1981-1983"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After completing his undergraduate studies, Banerjee pursued an MA in Economics at Jawaharlal Nehru University, New Delhi",
+        "He completed his degree in 1983"
+      ],
+      "time_start": 1981,
+      "time_finish": 1983,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly provides '1981-1983' as the date range, and the supporting quote confirms 'He completed his degree in 1983'. This indicates the MA program started in 1981 and finished in 1983."
+      }
+    },
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "PhD student in Economics",
+        "research assistant to Jeffrey Sachs"
+      ],
+      "time_markers": [
+        "1983-1988"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Thesis: Essays on Information Economics (1988)",
+        "briefly served as a research assistant to Jeffrey Sachs",
+        "His dissertation research, supervised by Eric Maskin, was primarily theoretical"
+      ],
+      "time_start": 1983,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1983-1988' clearly indicates the duration of the PhD program at Harvard University. This is corroborated by the supporting quote mentioning the thesis completion in 1988, which aligns with the end of the doctoral studies."
+      }
+    },
+    {
+      "organizations": [
+        "Princeton University"
+      ],
+      "roles": [
+        "faculty member"
+      ],
+      "time_markers": [
+        "1988-1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Institutions: Princeton University (1988-1992)"
+      ],
+      "time_start": 1988,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly contains '1988-1992' and the supporting quote confirms 'Princeton University (1988-1992)', clearly indicating the position started in 1988 and ended in 1992."
+      }
+    },
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "faculty member"
+      ],
+      "time_markers": [
+        "1992-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Institutions: Harvard University (1992-1993)"
+      ],
+      "time_start": 1992,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1992-1993' and supporting quote 'Harvard University (1992-1993)' clearly indicate a position that started in 1992 and ended in 1993."
+      }
+    },
+    {
+      "organizations": [
+        "Massachusetts Institute of Technology"
+      ],
+      "roles": [
+        "faculty member",
+        "Ford Foundation International Professor of Economics"
+      ],
+      "time_markers": [
+        "1993-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Banerjee is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology",
+        "Institutions: MIT (1993–present)"
+      ],
+      "time_start": 1993,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1993-present' and supporting quote 'Institutions: MIT (1993–present)' clearly indicate the position started in 1993 and is ongoing. The word 'currently' in the supporting quote confirms this is a present position, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Sloan Foundation"
+      ],
+      "roles": [
+        "Sloan Research Fellowship recipient"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1994, he received a Sloan Research Fellowship, awarded annually to early career researchers with the 'potential to revolutionize their fields.'"
+      ],
+      "time_start": 1994,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "This is a Sloan Research Fellowship award received in 1994. Fellowships are typically awarded for a specific year or period, and since only 1994 is mentioned with the context 'he received' (indicating a point-in-time award), both start and finish are set to 1994. The event_type 'award' and the phrasing 'received' suggest this marks the year of receipt rather than an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "Abdul Latif Jameel Poverty Action Lab (J-PAL)"
+      ],
+      "roles": [
+        "co-founder",
+        "co-director"
+      ],
+      "time_markers": [
+        "founding date not specified, ongoing"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is co-founder and co-director of the Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+        "Banerjee is a co-founder of Abdul Latif Jameel Poverty Action Lab (along with economists Esther Duflo and Sendhil Mullainathan)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_markers explicitly state 'founding date not specified, ongoing'. While the position is clearly ongoing (indicated by present tense 'is co-founder and co-director'), no specific founding year is provided in the available information. Following the conservative approach guideline, both values are set to null since no specific years can be determined from the given data."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "fellow"
+      ],
+      "time_markers": [
+        "elected 2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was elected a fellow of the American Academy of Arts and Sciences in 2004."
+      ],
+      "time_start": 2004,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The person was elected as a fellow of the American Academy of Arts and Sciences in 2004. Fellowships in prestigious academies like AAAS are typically lifetime honors that do not expire, so time_finish is set to null to indicate this is an ongoing status."
+      }
+    },
+    {
+      "organizations": [
+        "National Bureau of Economic Research"
+      ],
+      "roles": [
+        "affiliated researcher"
+      ],
+      "time_markers": [
+        "2006-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Institutions: NBER (2006–present)"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2006-present' and supporting quote 'NBER (2006–present)' clearly indicate the position started in 2006 and is ongoing, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Infosys Prize"
+      ],
+      "roles": [
+        "laureate in Social Sciences (Economics)"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2009, he received the Infosys Prize in the social sciences (economics) category."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2009). Awards are typically received at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Gerald Loeb Award"
+      ],
+      "roles": [
+        "Honorable Mention recipient for Business Book"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, he shared the Gerald Loeb Award Honorable Mention for Business Book with co-author Esther Duflo for their book Poor Economics."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred in a specific year (2012). Awards are typically one-time events that are received in a particular year, so both time_start and time_finish should be set to 2012."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "panel member for Millennium Development Goals update"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2013, he was named by the United Nations Secretary-General Ban Ki-moon to a panel of experts tasked with updating the Millennium Development Goals after 2015"
+      ],
+      "time_start": 2013,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The person was named to the panel in 2013. The supporting quote explicitly states the panel was 'tasked with updating the Millennium Development Goals after 2015', indicating the work was focused on the post-2015 framework. This suggests the panel's work concluded around 2015 when the new Sustainable Development Goals were adopted by the UN."
+      }
+    },
+    {
+      "organizations": [
+        "Kiel Institute for the World Economy"
+      ],
+      "roles": [
+        "Bernhard-Harms-Prize recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, he received the Bernhard-Harms-Prize from the Kiel Institute for the World Economy."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2014). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Infosys Prize"
+      ],
+      "roles": [
+        "Social Sciences jury member"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served on the Social Sciences jury for the Infosys Prize in 2018."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'He served on the Social Sciences jury for the Infosys Prize in 2018.' The use of past tense 'served' and the specific single year '2018' indicates this was a completed position within that year. Jury service for annual prizes typically lasts for one cycle/year, so both start and finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "roles": [
+        "Nobel Memorial Prize in Economic Sciences laureate"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Banerjee shared the Nobel Memorial Prize in Economic Sciences with Esther Duflo and Michael Kremer, 'for their experimental approach to alleviating global poverty.'"
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is a Nobel Prize award, which is a one-time honor received in a specific year. The time_marker '2019' and supporting quote clearly indicate the award was received in 2019. Nobel Prizes are not ongoing positions but rather permanent recognitions awarded in a single year, so both time_start and time_finish are set to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "University of Calcutta"
+      ],
+      "roles": [
+        "Doctor of Letters (Honoris Causa) recipient"
+      ],
+      "time_markers": [
+        "January 2020"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was awarded the Doctor of Letters (Honoris Causa) by the University of Calcutta in January 2020."
+      ],
+      "time_start": 2020,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award given in January 2020. Awards are typically one-time events that occur in a specific year rather than ongoing positions. Both time_start and time_finish are set to 2020 as this represents when the award was conferred."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "September 2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Abhijit Banerjee and Esther Duflo received the Golden Plate Award of the American Academy of Achievement in September 2022."
+      ],
+      "time_start": 2022,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "The Golden Plate Award was received in September 2022. Since this is a one-time award event rather than an ongoing position, both time_start and time_finish are set to 2022."
+      }
+    },
+    {
+      "organizations": [
+        "University of Zurich",
+        "UZH Faculty of Business, Economics, and Informatics",
+        "Lemann Center for Development, Education and Public Policy"
+      ],
+      "roles": [
+        "faculty member",
+        "co-director of Lemann Center",
+        "endowed professor"
+      ],
+      "time_markers": [
+        "announced October 2025",
+        "starting July 2026"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026, where they would co-direct the newly-established Lemann Center for Development, Education and Public Policy.",
+        "Institutions: University of Zurich (2026–)"
+      ],
+      "time_start": 2026,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position starts in July 2026 as explicitly stated in the time_markers and supporting quotes. The supporting quote 'University of Zurich (2026–)' with an open-ended dash indicates this is an ongoing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Econometric Society"
+      ],
+      "roles": [
+        "fellow"
+      ],
+      "time_markers": [
+        "date not specified"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Banerjee is a fellow of the Econometric Society"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states 'date not specified' and the supporting quote only confirms fellowship status without any temporal information. Fellowships in organizations like the Econometric Society are typically ongoing once awarded, but without a specific award year, both time_start and time_finish must be null."
+      }
+    },
+    {
+      "organizations": [
+        "National Academy of Sciences"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "date not specified"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a member of the National Academy of Sciences"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_markers indicate 'date not specified' and the supporting quote 'a member of the National Academy of Sciences' uses present tense but provides no temporal information. Membership in the National Academy of Sciences is typically lifelong once awarded, but without any specific year mentioned, both time_start and time_finish must be set to null following the conservative approach."
+      }
+    },
+    {
+      "organizations": [
+        "Guggenheim Foundation"
+      ],
+      "roles": [
+        "Guggenheim Fellow"
+      ],
+      "time_markers": [
+        "date not specified"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has also been a Guggenheim Fellow"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_markers explicitly state 'date not specified' and the supporting quote uses past tense ('has been') without providing any specific year or time period. Guggenheim Fellowships are typically one-year awards, but without any temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Plaksha University"
+      ],
+      "roles": [
+        "academic advisory board member"
+      ],
+      "time_markers": [
+        "ongoing"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In India he serves on the academic advisory board of Plaksha University, a science and technology university established in 2010."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the position is ongoing ('serves on the academic advisory board'), and the time_markers confirm this with 'ongoing'. However, no specific start year for the board membership is provided. The year 2010 mentioned refers to when Plaksha University was established, not when the person joined the advisory board. Since we cannot determine when the board membership began, time_start is null, and time_finish is null as the position is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "British Museum"
+      ],
+      "roles": [
+        "trustee"
+      ],
+      "time_markers": [
+        "date not specified"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Categories: Trustees of the British Museum"
+      ],
+      "notes": "Only mentioned in article categories, not in main text",
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_markers explicitly state 'date not specified' and the only supporting evidence is a category mention without any temporal information. No specific years can be determined from the available data."
+      }
+    }
+  ],
+  "metadata": {
+    "total_events_extracted": 24,
+    "education_events": 3,
+    "career_positions": 10,
+    "awards": 11,
+    "date_ranges_specified": 19,
+    "undated_affiliations": 5,
+    "extraction_date": "2025-02-17",
+    "source_reliability": "high - Wikipedia with extensive citations"
+  }
+}

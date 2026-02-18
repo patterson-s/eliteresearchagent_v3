@@ -1,0 +1,571 @@
+{
+  "person_name": "Naoto Kan",
+  "career_events": [
+    {
+      "organizations": [
+        "Tokyo Institute of Technology"
+      ],
+      "roles": [
+        "student",
+        "graduate"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He graduated in 1970 from the Tokyo Institute of Technology"
+      ],
+      "time_start": null,
+      "time_finish": 1970,
+      "metadata": {
+        "timeline_reasoning": "The event indicates graduation in 1970, which is the end point of the education. The start year is not mentioned in the available information, so it is set to null rather than guessing a typical program duration."
+      }
+    },
+    {
+      "organizations": [
+        "Japan Patent Office"
+      ],
+      "roles": [
+        "licensed benrishi (patent agent/attorney)"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "professional_certification",
+      "confidence": "high",
+      "supporting_quotes": [
+        "became a licensed benrishi (patent agent/attorney) in 1971"
+      ],
+      "time_start": 1971,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is a professional certification obtained in 1971. Professional licenses typically remain valid indefinitely unless explicitly revoked or expired. Since there is no indication of an end date and certifications are generally ongoing credentials, time_start is set to 1971 and time_finish is set to null to indicate the license remains current."
+      }
+    },
+    {
+      "organizations": [
+        "patent office"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "after graduating from college",
+        "for four years"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduating from college, Kan worked at a patent office for four years."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time markers only provide relative information ('after graduating from college' and 'for four years') without any absolute years. While we know the position lasted four years and began after college graduation, we cannot determine the actual calendar years without knowing when Kan graduated from college."
+      }
+    },
+    {
+      "organizations": [
+        "Fusae Ichikawa campaign"
+      ],
+      "roles": [
+        "election campaign staff member"
+      ],
+      "time_markers": [
+        "before 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "also served on election campaign staff for Fusae Ichikawa, a women's rights activist"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'before 1980' provides only an upper bound, not specific start or end dates. Fusae Ichikawa was a prominent Japanese women's rights activist who ran for office multiple times over several decades. Without knowing which specific campaign or the exact timeframe, it's not possible to determine accurate start and finish years. Being conservative as instructed, both values should be null."
+      }
+    },
+    {
+      "organizations": [
+        "House of Representatives",
+        "Socialist Democratic Federation"
+      ],
+      "roles": [
+        "Member of the House of Representatives"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "political_election",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan achieved a seat in the lower house in 1980 as a member of the Socialist Democratic Federation"
+      ],
+      "time_start": 1980,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes Kan achieving a seat in the House of Representatives in 1980. This is a political election event marking the start of his tenure. Since no end date is mentioned and House of Representatives seats typically continue beyond a single year unless otherwise specified, time_finish is set to null to indicate the position began in 1980 but the end date is unknown from this event alone."
+      }
+    },
+    {
+      "organizations": [
+        "New Party Sakigake"
+      ],
+      "roles": [
+        "party member"
+      ],
+      "time_markers": [
+        "after Socialist Democratic Federation",
+        "before 1996"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He Later joined the New Party Sakigake."
+      ],
+      "time_start": null,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_markers indicate this membership occurred 'before 1996', establishing 1996 as the end year. However, there is insufficient information to determine when the membership started. While it occurred 'after Socialist Democratic Federation', no specific year is provided for when that previous affiliation ended, making it impossible to establish a reliable start date."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Health and Welfare",
+        "First Hashimoto Cabinet"
+      ],
+      "roles": [
+        "Minister of Health and Welfare"
+      ],
+      "time_markers": [
+        "11 January 1996",
+        "7 November 1996"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan was appointed Minister of Health and Welfare in the cabinet of Prime Minister Ryutaro Hashimoto in 1996",
+        "In office 11 January 1996 – 7 November 1996"
+      ],
+      "time_start": 1996,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 11 January 1996 and ended on 7 November 1996. Both dates fall within the same year, so time_start and time_finish are both 1996."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "September 1996"
+      ],
+      "event_type": "organization_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September of the same year, after having left cabinet, Kan founded the Democratic Party of Japan along with Yukio Hatoyama."
+      ],
+      "time_start": 1996,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The event is an organization founding that occurred in September 1996. This is a discrete event that happened at a specific point in time, not an ongoing position. Therefore, both time_start and time_finish are set to 1996 to indicate the founding occurred in that year."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "Leader of the Democratic Party"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Leader of the Democratic Party 1996–1997"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1996-1997' and supporting quote 'Leader of the Democratic Party 1996–1997' clearly indicate this leadership position started in 1996 and ended in 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "Leader of the Democratic Party"
+      ],
+      "time_markers": [
+        "1997-1998"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Leader of the Democratic Party 1997–1998"
+      ],
+      "time_start": 1997,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1997-1998' and supporting quote 'Leader of the Democratic Party 1997–1998' clearly indicate this leadership position started in 1997 and ended in 1998."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "President of the Democratic Party"
+      ],
+      "time_markers": [
+        "1998-1999"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the Democratic Party 1998–1999"
+      ],
+      "time_start": 1998,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1998-1999' and supporting quote 'President of the Democratic Party 1998–1999' clearly indicate this position started in 1998 and ended in 1999."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "Secretary General of the Democratic Party"
+      ],
+      "time_markers": [
+        "2000-2002"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Secretary General of the Democratic Party 2000–2002"
+      ],
+      "time_start": 2000,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2000-2002' and supporting quote 'Secretary General of the Democratic Party 2000–2002' clearly indicate the position started in 2000 and ended in 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "President of the Democratic Party"
+      ],
+      "time_markers": [
+        "2002-2004"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the Democratic Party 2002–2004"
+      ],
+      "time_start": 2002,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2002-2004' and supporting quote 'President of the Democratic Party 2002–2004' clearly indicate the position started in 2002 and ended in 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Deputy Prime Minister of Japan"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "8 June 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Deputy Prime Minister of Japan In office 16 September 2009 – 8 June 2010"
+      ],
+      "time_start": 2009,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 16 September 2009 and ended on 8 June 2010. This is confirmed by the supporting quote stating 'In office 16 September 2009 – 8 June 2010'. Therefore, time_start is 2009 and time_finish is 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Minister of State for Economic and Fiscal Policy"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "8 June 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of State for Economic and Fiscal Policy In office 16 September 2009 – 8 June 2010"
+      ],
+      "time_start": 2009,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 16 September 2009 and ended on 8 June 2010. Therefore, time_start is 2009 and time_finish is 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Minister of State in charge of National Strategy"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "6 January 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of State in charge of National Strategy In office 16 September 2009 – 6 January 2010"
+      ],
+      "time_start": 2009,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the position was held from '16 September 2009' to '6 January 2010'. The start year is 2009 and the end year is 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Minister of State for Science and Technology Policy"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "6 January 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of State for Science and Technology Policy In office 16 September 2009 – 6 January 2010"
+      ],
+      "time_start": 2009,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the position was held from 16 September 2009 to 6 January 2010. The start year is 2009 and the end year is 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Finance"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "6 January 2010",
+        "8 June 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of Finance In office 6 January 2010 – 8 June 2010",
+        "On 6 January 2010, he was picked by Yukio Hatoyama to be the new finance minister"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 6 January 2010 and ended on 8 June 2010. Both dates fall within the same year, so time_start and time_finish are both 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "President of the Democratic Party"
+      ],
+      "time_markers": [
+        "4 June 2010"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan, at the age of 63, won the leadership of the DPJ with 291 votes to 129",
+        "President of the Democratic Party 2010–2011"
+      ],
+      "time_start": 2010,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote 'President of the Democratic Party 2010–2011' explicitly states the tenure period. This is corroborated by the time_marker '4 June 2010' which indicates when the position started. The position ended in 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Prime Minister of Japan"
+      ],
+      "time_markers": [
+        "8 June 2010",
+        "2 September 2011"
+      ],
+      "event_type": "prime_ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Prime Minister of Japan In office 8 June 2010 – 2 September 2011",
+        "On 8 June, Emperor Akihito formally appointed Kan as the 94th Prime Minister"
+      ],
+      "time_start": 2010,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 8 June 2010 and ended on 2 September 2011. The supporting quotes confirm this was a completed term as Prime Minister of Japan, with both start and end dates explicitly stated."
+      }
+    },
+    {
+      "organizations": [
+        "APEC"
+      ],
+      "roles": [
+        "Chairperson of APEC"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairperson of APEC 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The role 'Chairperson of APEC 2010' indicates a specific year appointment. APEC chairmanship rotates annually among member economies, so this position would have been held only during 2010."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN high-level panel on post-2015 development agenda"
+      ],
+      "time_markers": [
+        "1 August 2012"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 1 August 2012, United Nations Secretary-General Ban Ki-moon announced Kan would be one of the members of the UN high-level panel on the post-2015 development agenda."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment was announced on 1 August 2012, establishing 2012 as the start year. No end date is mentioned in the provided information, so time_finish is set to null as we cannot determine when this panel membership concluded."
+      }
+    },
+    {
+      "organizations": [
+        "Constitutional Democratic Party of Japan"
+      ],
+      "roles": [
+        "party member"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He joined the Constitutional Democratic Party of Japan along with the liberal-leaning members of the Democratic Party following the party split prior to the 2017 general election"
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person joined the Constitutional Democratic Party of Japan in 2017 during the party split before the 2017 general election. There is no information indicating when this party membership ended, and political party memberships typically continue until explicitly stated otherwise, so time_finish is set to null to indicate an ongoing affiliation."
+      }
+    },
+    {
+      "organizations": [
+        "House of Representatives"
+      ],
+      "roles": [
+        "Member of the House of Representatives"
+      ],
+      "time_markers": [
+        "22 October 2017",
+        "9 October 2024"
+      ],
+      "event_type": "political_election",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 22 October 2017 – 9 October 2024",
+        "In the election, he regained his district seat, defeating the LDP incumbent Masatada Tsuchiya with a margin of 1,046 votes"
+      ],
+      "time_start": 2017,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In office 22 October 2017 – 9 October 2024', indicating the position started in 2017 and ended in 2024. The time_markers confirm these exact dates."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "retired politician"
+      ],
+      "time_markers": [
+        "November 2023 announcement",
+        "October 2024 term end"
+      ],
+      "event_type": "retirement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan would announce his retirement from politics in November 2023",
+        "In 2023, Kan stated publicly he would not run for a seat in the House of Representatives again",
+        "His term ended when the House was dissolved in October 2024"
+      ],
+      "time_start": 2023,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "The retirement event began in November 2023 when Kan announced his retirement and stated he would not run again. The retirement was completed in October 2024 when his term officially ended with the dissolution of the House."
+      }
+    },
+    {
+      "organizations": [
+        "Chikuma Shobō"
+      ],
+      "roles": [
+        "author"
+      ],
+      "time_markers": [
+        "26 February 2024"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In February 2024 he would publish a memoir reflecting on his time in politics titled 'Fifty Years of Citizen Politics'",
+        "On 26 February 2024 Kan published the memoir 'Fifty Years of Citizen Politics' through Chikuma Shobō detailing his life in politics"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is a publication event that occurred on a specific date: 26 February 2024. Publications are point-in-time events, so both time_start and time_finish are set to 2024, the year the memoir was published."
+      }
+    }
+  ]
+}

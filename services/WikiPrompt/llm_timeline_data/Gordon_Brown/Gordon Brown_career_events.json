@@ -1,0 +1,698 @@
+{
+  "person_name": "Gordon Brown",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "student",
+        "MA in History graduate"
+      ],
+      "time_markers": [
+        "1972"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown graduated from Edinburgh with an undergraduate MA degree with First-Class Honours in history in 1972."
+      ],
+      "time_start": null,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "The event describes graduation with an MA degree in 1972. This is the completion year of the education. While we know the degree ended in 1972, the start year is not specified. A typical undergraduate MA at Edinburgh would be 4 years, suggesting a start around 1968-1969, but without explicit confirmation in the provided data, time_start should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD in History graduate"
+      ],
+      "time_markers": [
+        "1982"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He stayed on to obtain his PhD degree in history, which he gained ten years later in 1982, defending a thesis titled The Labour Party and Political Change in Scotland 1918–1929."
+      ],
+      "time_start": 1972,
+      "time_finish": 1982,
+      "metadata": {
+        "timeline_reasoning": "The quote states the PhD was 'gained ten years later in 1982' after the person 'stayed on' (implying continuation from a previous degree). Working backwards, 1982 minus 10 years equals 1972 as the start year. The time_finish is 1982 when the PhD was completed."
+      }
+    },
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "Rector of the University of Edinburgh"
+      ],
+      "time_markers": [
+        "1972",
+        "served until 1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1972, while still a student, Brown was elected Rector of the University of Edinburgh, the convener of the University Court. He served as Rector until 1975"
+      ],
+      "time_start": 1972,
+      "time_finish": 1975,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In 1972, while still a student, Brown was elected Rector' and 'served as Rector until 1975'. The time_markers also explicitly list '1972' as the start and 'served until 1975' as the end date."
+      }
+    },
+    {
+      "organizations": [
+        "Glasgow College of Technology"
+      ],
+      "roles": [
+        "lecturer in politics"
+      ],
+      "time_markers": [
+        "1976 to 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1976 to 1980 Brown was employed as a lecturer in politics at Glasgow College of Technology."
+      ],
+      "time_start": 1976,
+      "time_finish": 1980,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1976 to 1980' and the supporting quote confirms 'From 1976 to 1980 Brown was employed as a lecturer in politics at Glasgow College of Technology.' This clearly indicates the position started in 1976 and ended in 1980."
+      }
+    },
+    {
+      "organizations": [
+        "Open University"
+      ],
+      "roles": [
+        "tutor"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also worked as a tutor for the Open University."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or time_markers. The quote 'He also worked as a tutor for the Open University' uses past tense ('worked'), indicating the position has ended, but provides no temporal information to determine when it started or finished."
+      }
+    },
+    {
+      "organizations": [
+        "Scottish Television"
+      ],
+      "roles": [
+        "journalist",
+        "current affairs editor"
+      ],
+      "time_markers": [
+        "From 1980",
+        "until his election to Parliament in 1983"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1980, he worked as a journalist at Scottish Television, later serving as current affairs editor until his election to Parliament in 1983."
+      ],
+      "time_start": 1980,
+      "time_finish": 1983,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started 'From 1980' and ended 'until his election to Parliament in 1983'. Both start and end years are explicitly stated."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Member of Parliament for Dunfermline East"
+      ],
+      "time_markers": [
+        "1983 general election",
+        "1983 to 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown was elected to Parliament as a Labour MP at his second attempt, for Dunfermline East in the 1983 general election."
+      ],
+      "time_start": 1983,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '1983 to 2005' as the period of service. This is corroborated by the supporting quote mentioning election in the '1983 general election'. The end year 2005 is explicitly stated in the time range."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "opposition spokesman on Trade and Industry"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown became an opposition spokesman on Trade and Industry in 1985."
+      ],
+      "time_start": 1985,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'Brown became an opposition spokesman on Trade and Industry in 1985,' which clearly indicates the position started in 1985. However, no end date is provided in the available information, so time_finish is set to null as we cannot determine when this role ended."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "Shadow Chief Secretary to the Treasury"
+      ],
+      "time_markers": [
+        "1987 to 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown was Shadow Chief Secretary to the Treasury from 1987 to 1989"
+      ],
+      "time_start": 1987,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1987 to 1989' and the supporting quote confirms 'Brown was Shadow Chief Secretary to the Treasury from 1987 to 1989'. This clearly indicates the position started in 1987 and ended in 1989."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "Shadow Secretary of State for Trade and Industry"
+      ],
+      "time_markers": [
+        "1989 to 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "then Shadow Secretary of State for Trade and Industry, before becoming Shadow Chancellor in 1992"
+      ],
+      "time_start": 1989,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1989 to 1992', and the supporting quote confirms this by mentioning 'before becoming Shadow Chancellor in 1992', indicating the role ended in 1992 when the person moved to a different position."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "Shadow Chancellor of the Exchequer"
+      ],
+      "time_markers": [
+        "1992",
+        "until 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "before becoming Shadow Chancellor in 1992 following Labour's fourth consecutive defeat in the general election that year."
+      ],
+      "time_start": 1992,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the position began 'in 1992' and the time_markers indicate it lasted 'until 1997'. This provides explicit start and end dates for the Shadow Chancellor role."
+      }
+    },
+    {
+      "organizations": [
+        "UK Government",
+        "HM Treasury"
+      ],
+      "roles": [
+        "Chancellor of the Exchequer"
+      ],
+      "time_markers": [
+        "2 May 1997",
+        "1997–2007",
+        "27 June 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "when Tony Blair, the new prime minister, announced his ministerial team on 2 May 1997, he appointed Brown as Chancellor of the Exchequer. Brown would remain in this role for 10 years and two months, making him the longest-serving Chancellor in modern history."
+      ],
+      "time_start": 1997,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states Brown was appointed Chancellor of the Exchequer on 2 May 1997 and remained in the role for 10 years and two months. The time_markers confirm this with '2 May 1997' as start date, '1997–2007' as the period, and '27 June 2007' as the end date. Therefore, time_start is 1997 and time_finish is 2007."
+      }
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Member of Parliament for Kirkcaldy and Cowdenbeath"
+      ],
+      "time_markers": [
+        "2005",
+        "until 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following a reorganisation of Westminster constituencies in Scotland in 2005, Brown became MP for Kirkcaldy and Cowdenbeath at the general election.",
+        "He continued to serve as the MP of Kirkcaldy and Cowdenbeath until 2015."
+      ],
+      "time_start": 2005,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '2005' and 'until 2015'. The supporting quotes confirm that Brown became MP for Kirkcaldy and Cowdenbeath in 2005 following constituency reorganisation and continued serving until 2015, indicating the position ended in that year."
+      }
+    },
+    {
+      "organizations": [
+        "Labour Party"
+      ],
+      "roles": [
+        "Leader of the Labour Party"
+      ],
+      "time_markers": [
+        "24 June 2007",
+        "2007–2010",
+        "11 May 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown replaced Blair as Leader of the Labour Party on 24 June 2007.",
+        "He resigned as leader of the Labour Party with immediate effect."
+      ],
+      "time_start": 2007,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states Brown became Leader of the Labour Party on 24 June 2007, establishing time_start as 2007. The time_marker '2007–2010' and the resignation date of 11 May 2010 both confirm time_finish as 2010."
+      }
+    },
+    {
+      "organizations": [
+        "UK Government"
+      ],
+      "roles": [
+        "Prime Minister of the United Kingdom"
+      ],
+      "time_markers": [
+        "27 June 2007",
+        "2007–2010",
+        "11 May 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After Blair tendered his resignation to Queen Elizabeth II, Brown was invited by the queen to form a government and become prime minister on 27 June 2007.",
+        "Brown visited Buckingham Palace to tender his resignation as prime minister to Queen Elizabeth II"
+      ],
+      "time_start": 2007,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '2007–2010' as the period of service. This is corroborated by the supporting quotes: Brown became Prime Minister on 27 June 2007 and tendered his resignation on 11 May 2010 (implied by the second quote and the end date in the time range)."
+      }
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "board director"
+      ],
+      "time_markers": [
+        "September 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sir Tim Berners-Lee... invited Brown to become a board director of the World Wide Web Foundation... and he was elected to the board of directors in September 2010."
+      ],
+      "time_start": 2010,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the person 'was elected to the board of directors in September 2010', establishing 2010 as the start year. There is no information indicating when this board position ended, and no language suggesting it was a temporary or completed role, so time_finish is set to null to indicate the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "unpaid advisory role"
+      ],
+      "time_markers": [
+        "22 April 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 22 April 2011, it was announced that Brown would be taking on an unpaid advisory role at the World Economic Forum."
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The announcement date of 22 April 2011 indicates the position started in 2011. There is no information about when this advisory role ended, and the phrasing 'would be taking on' suggests it was ongoing from that point. Without evidence of termination, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "New York University"
+      ],
+      "roles": [
+        "Distinguished Leader in Residence"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown was also appointed as the inaugural 'Distinguished Leader in Residence' by New York University and took part in discussions and lectures relating to the 2008 financial crisis and globalisation."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this appointment was related to 'discussions and lectures relating to the 2008 financial crisis,' strongly suggesting the appointment occurred in 2008. The phrase 'took part in discussions' (past tense) indicates this was a completed, time-limited residency rather than an ongoing position. Setting both start and finish to 2008 reflects a single-year appointment."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Envoy for Global Education"
+      ],
+      "time_markers": [
+        "13 July 2012",
+        "since 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2012, Brown was named by Secretary-General Ban Ki-moon as United Nations Special Envoy for Global Education.",
+        "He has served as United Nations Special Envoy for Global Education since 2012"
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started on 13 July 2012 as explicitly stated. The phrase 'since 2012' and 'has served' (present perfect tense) indicate this is an ongoing position with no end date."
+      }
+    },
+    {
+      "organizations": [
+        "International Commission on Financing Global Education Opportunity"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He chaired the International Commission on Financing Global Education Opportunity. The position is unpaid."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote uses past tense ('chaired'), indicating the position has ended, but without concrete dates, I cannot determine the time_start or time_finish years. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "PIMCO"
+      ],
+      "roles": [
+        "advisor"
+      ],
+      "time_markers": [
+        "December 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2015, Brown took his first large-scale role in the private sector since standing down as prime minister in 2010, becoming an advisor to PIMCO."
+      ],
+      "time_start": 2015,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Brown became an advisor to PIMCO in December 2015. This marks the start of the position. There is no information indicating when or if this advisory role ended, so time_finish is set to null as the position appears to be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "Goodwill Ambassador for Global Health Financing"
+      ],
+      "time_markers": [
+        "September 2021",
+        "20 September 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2021, Brown was appointed by the World Health Organization as Goodwill Ambassador for Global Health Financing.",
+        "he was appointed as World Health Organization Ambassador for Global Health Financing in 2021."
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in September 2021 as clearly stated in the time_markers and supporting quotes. There is no mention of an end date or termination of this Goodwill Ambassador position, indicating it is ongoing or current. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Brunel University"
+      ],
+      "roles": [
+        "Doctor of the University (DUniv) recipient"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor of the University (DUniv) from Brunel University (1996)"
+      ],
+      "time_start": 1996,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award (DUniv) from Brunel University. Awards and honorary degrees are typically conferred at a specific point in time rather than representing an ongoing position. The single year marker '1996' indicates when the award was received, so both time_start and time_finish are set to 1996."
+      }
+    },
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "Doctor Honoris Causa (HonDr) recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor Honoris Causa (HonDr) from University of Edinburgh (2003)"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award from the University of Edinburgh in 2003. Awards are typically conferred at a specific point in time rather than spanning a duration. Since only the year 2003 is mentioned and this is a one-time honor, both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Robert Gordon University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws (LLD) recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Laws (LLD) from Robert Gordon University (2003)"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2003. Honorary degrees are conferred on a specific date rather than representing an ongoing position, so both time_start and time_finish are set to the year of conferral."
+      }
+    },
+    {
+      "organizations": [
+        "New York University"
+      ],
+      "roles": [
+        "Honorary Doctor of Humane Letters (DHL) recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Humane Letters (DHL) from New York University (2005)"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award from 2005. Awards and honorary degrees are conferred at a specific point in time rather than representing an ongoing position. Both time_start and time_finish are set to 2005 as this represents when the honor was received."
+      }
+    },
+    {
+      "organizations": [
+        "Newcastle University"
+      ],
+      "roles": [
+        "Honorary Doctor of Civil Law (DCL) recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Civil Law (DCL) from Newcastle University (2007)"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2007. Honorary degrees are conferred on a specific date and are not ongoing positions, so both time_start and time_finish are set to the year of conferral."
+      }
+    },
+    {
+      "organizations": [
+        "University of Delhi"
+      ],
+      "roles": [
+        "Honorary Doctor of Letters (DLitt) recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Letters (DLitt) from University of Delhi (2008)"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award with a specific year (2008) mentioned. Awards and honorary degrees are typically conferred at a single point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "University of Glasgow"
+      ],
+      "roles": [
+        "Doctor of the University (DUniv) recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor of the University (DUniv) from University of Glasgow (2015)"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award (DUniv) from the University of Glasgow in 2015. Awards are typically conferred at a specific point in time rather than spanning multiple years. Since only one year (2015) is mentioned and this is a one-time conferral event, both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Society of Edinburgh"
+      ],
+      "roles": [
+        "Honorary Fellow (HonFRSE)"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Elected an Honorary Fellow of the Royal Society of Edinburgh (HonFRSE; 2018)"
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary fellowship award elected in 2018. Honorary fellowships are typically lifetime honors that do not expire, so time_start is 2018 when the honor was conferred, and time_finish is null as it remains ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Appeal of Conscience Foundation"
+      ],
+      "roles": [
+        "World Statesman of the Year recipient"
+      ],
+      "time_markers": [
+        "March 2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 2009, Brown was named World Statesman of the Year by the Appeal of Conscience Foundation"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred at a specific point in time (March 2009). Awards are typically one-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2009, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "UK Government"
+      ],
+      "roles": [
+        "Member of the Order of the Companions of Honour (CH)"
+      ],
+      "time_markers": [
+        "2024 Birthday Honours"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was awarded the Order of the Companions of Honour by King Charles III in the 2024 Birthday Honours for public and charitable services in the UK and abroad.",
+        "In the 2024 Birthday Honours, Brown was appointed Member of the Order of the Companions of Honour (CH) for public and charitable services in the UK and abroad."
+      ],
+      "time_start": 2024,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award was conferred in the 2024 Birthday Honours. The Order of the Companions of Honour is a lifetime honour that does not expire, so time_finish is null as it remains ongoing."
+      }
+    }
+  ]
+}

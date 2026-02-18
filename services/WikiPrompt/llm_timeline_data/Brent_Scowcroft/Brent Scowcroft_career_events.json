@@ -1,0 +1,888 @@
+{
+  "person_name": "Brent Scowcroft",
+  "career_events": [
+    {
+      "organizations": [
+        "United States Military Academy"
+      ],
+      "roles": [
+        "cadet",
+        "BS graduate"
+      ],
+      "time_markers": [
+        "June 1947"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft received his undergraduate degree and commission in the United States Army Air Forces from the United States Military Academy at West Point, New York, in June 1947."
+      ],
+      "time_start": 1947,
+      "time_finish": 1947,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Scowcroft 'received his undergraduate degree and commission' in June 1947. This is a graduation event marking the completion of his education at West Point. While the exact start year isn't specified, the time_finish is clearly 1947 when he graduated. For educational programs at military academies like West Point (typically 4-year programs), he likely started around 1943, but since we only have definitive evidence for the graduation date of June 1947, and following the guideline that 'if only a single year is mentioned, set both time_start and time_finish to that year,' I'm setting both to 1947 to represent the completion/graduation year."
+      }
+    },
+    {
+      "organizations": [
+        "Columbia University"
+      ],
+      "roles": [
+        "MA graduate in international relations",
+        "PhD graduate in international relations"
+      ],
+      "time_markers": [
+        "MA 1953",
+        "PhD 1967"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft subsequently earned an MA (1953) and PhD (1967) in international relations from Columbia University."
+      ],
+      "time_start": 1953,
+      "time_finish": 1967,
+      "metadata": {
+        "timeline_reasoning": "The career event spans two degrees at Columbia University. The MA was completed in 1953 (earliest degree, marking the start) and the PhD was completed in 1967 (latest degree, marking the end). This represents the full period of graduate education at this institution."
+      }
+    },
+    {
+      "organizations": [
+        "United States Air Force"
+      ],
+      "roles": [
+        "Second Lieutenant",
+        "commissioned officer"
+      ],
+      "time_markers": [
+        "commissioned 1947",
+        "pilot training completed October 1948"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft completed his pilot training in October 1948 following his commissioning as an Air Force Second Lieutenant in 1947 and received his Air Force Command Pilot Wings."
+      ],
+      "time_start": 1947,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The person was commissioned as a Second Lieutenant in 1947, which marks the start of their Air Force career. While pilot training was completed in October 1948, this represents a milestone within their ongoing Air Force service rather than an end date. No information indicates when this Air Force position ended, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United States Air Force Academy",
+        "United States Military Academy"
+      ],
+      "roles": [
+        "faculty member"
+      ],
+      "time_markers": [
+        "1948-1953 and later periods"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His other assignments included: faculty positions at the United States Air Force Academy and the United States Military Academy"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1948-1953 and later periods' appears to refer to a different context or assignment, not specifically to the faculty positions at the Air Force Academy and Military Academy. The supporting quote indicates these were among 'other assignments' but provides no specific dates for when these faculty positions occurred. Without clear temporal information linking the years to these specific faculty roles, the conservative approach is to set both values to null."
+      }
+    },
+    {
+      "organizations": [
+        "American Embassy Belgrade, Yugoslavia"
+      ],
+      "roles": [
+        "Assistant Air Attaché"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His other assignments included: faculty positions at the United States Air Force Academy and the United States Military Academy, and Assistant Air Attaché in the American Embassy in Belgrade, Yugoslavia."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote mentions this was one of several assignments but provides no specific years or time markers for when the Assistant Air Attaché position in Belgrade began or ended. Without additional temporal information, I cannot determine accurate dates."
+      }
+    },
+    {
+      "organizations": [
+        "United States Air Force Headquarters"
+      ],
+      "roles": [
+        "officer in Long Range Planning Division, Directorate of Doctrine, Concepts and Objectives"
+      ],
+      "time_markers": [
+        "1964-1966"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "General Scowcroft was assigned to Headquarters U.S. Air Force in the office of the Deputy Chief of Staff, Plans and Operations, and served in the Long Range Planning Division, Directorate of Doctrine, Concepts and Objectives from 1964 to 1966."
+      ],
+      "time_start": 1964,
+      "time_finish": 1966,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1964-1966' and the supporting quote confirms 'from 1964 to 1966', clearly indicating the position started in 1964 and ended in 1966."
+      }
+    },
+    {
+      "organizations": [
+        "National War College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "attended after 1966"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He next attended the National War College at Fort McNair"
+      ],
+      "time_start": 1967,
+      "time_finish": 1967,
+      "metadata": {
+        "timeline_reasoning": "The National War College is a one-year senior military education program. The time marker indicates attendance 'after 1966', which means 1967 or later. Given the typical one-year duration of this program and the sequential nature of military career progression, the most likely start year is 1967, with completion in the same academic year."
+      }
+    },
+    {
+      "organizations": [
+        "Office of the Assistant Secretary of Defense for International Security Affairs"
+      ],
+      "roles": [
+        "officer"
+      ],
+      "time_markers": [
+        "July 1968"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "followed by assignment in July 1968 to the Office of the Assistant Secretary of Defense for International Security Affairs"
+      ],
+      "time_start": 1968,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'July 1968' clearly indicates the position started in 1968. No end date is mentioned in the supporting quote or time_markers, so time_finish is set to null as we cannot determine when this assignment ended."
+      }
+    },
+    {
+      "organizations": [
+        "United States Air Force Headquarters"
+      ],
+      "roles": [
+        "Deputy Assistant for National Security Council Matters"
+      ],
+      "time_markers": [
+        "September 1969"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 1969, he was reassigned to Headquarters U.S. Air Force in the Directorate of Plans as Deputy Assistant for National Security Council Matters."
+      ],
+      "time_start": 1969,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the position began in September 1969. However, no end date is provided in the available information, so time_finish is set to null rather than making an assumption about when this role ended."
+      }
+    },
+    {
+      "organizations": [
+        "Joint Chiefs of Staff"
+      ],
+      "roles": [
+        "Special Assistant to the Director of the Joint Staff"
+      ],
+      "time_markers": [
+        "March 1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 1970 he joined the Joint Chiefs of Staff organization and became the Special Assistant to the Director of the Joint Staff."
+      ],
+      "time_start": 1970,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'March 1970' indicates the position started in 1970. No end date is mentioned in the supporting quote or time_markers, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Nixon Administration"
+      ],
+      "roles": [
+        "Military Assistant to the President"
+      ],
+      "time_markers": [
+        "February 1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft was appointed Military Assistant to the President in February 1972"
+      ],
+      "time_start": 1972,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states Scowcroft was appointed Military Assistant to the President in February 1972, establishing 1972 as the start year. However, no end date is provided in the available information, so time_finish is set to null rather than guessing when the position ended."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Nixon Administration",
+        "Ford Administration"
+      ],
+      "roles": [
+        "Deputy Assistant to the President for National Security Affairs",
+        "Deputy National Security Advisor"
+      ],
+      "time_markers": [
+        "January 4, 1973 - November 3, 1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was reassigned as Deputy Assistant to the President for National Security Affairs in January 1973."
+      ],
+      "time_start": 1973,
+      "time_finish": 1975,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states 'January 4, 1973 - November 3, 1975', indicating the position started in 1973 and ended in 1975. This is corroborated by the supporting quote mentioning 'January 1973' as the reassignment date."
+      }
+    },
+    {
+      "organizations": [
+        "United States Air Force"
+      ],
+      "roles": [
+        "Lieutenant General"
+      ],
+      "time_markers": [
+        "promoted August 16, 1974",
+        "retired December 1, 1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was promoted to lieutenant general on August 16, 1974, and retired from active duty at that rank on December 1, 1975."
+      ],
+      "time_start": 1974,
+      "time_finish": 1975,
+      "metadata": {
+        "timeline_reasoning": "The person was promoted to Lieutenant General on August 16, 1974 (start of this rank) and retired from active duty on December 1, 1975 (end of this position). The career event spans from 1974 to 1975."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Ford Administration"
+      ],
+      "roles": [
+        "United States National Security Advisor"
+      ],
+      "time_markers": [
+        "November 3, 1975 - January 20, 1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He had, just a month earlier, during the Halloween Massacre, become the United States National Security Advisor (for him, the first time), replacing Henry Kissinger."
+      ],
+      "time_start": 1975,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states 'November 3, 1975 - January 20, 1977', providing clear start and end dates. The position began in 1975 and ended in 1977."
+      }
+    },
+    {
+      "organizations": [
+        "Kissinger Associates"
+      ],
+      "roles": [
+        "vice chairman"
+      ],
+      "time_markers": [
+        "before joining Bush administration in 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before joining the Bush administration, Scowcroft was vice chairman of Kissinger Associates."
+      ],
+      "time_start": null,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The text indicates Scowcroft was vice chairman of Kissinger Associates 'before joining the Bush administration in 1989', which establishes 1989 as the end date. However, no specific start date is provided. While we know it ended in 1989, without information about when the position began, time_start must remain null."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "George H.W. Bush Administration"
+      ],
+      "roles": [
+        "United States National Security Advisor"
+      ],
+      "time_markers": [
+        "January 20, 1989 - January 20, 1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brent Scowcroft was a United States Air Force officer, and a two-time United States National Security Advisor, first under U.S. President Gerald Ford and then under George H. W. Bush."
+      ],
+      "time_start": 1989,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states 'January 20, 1989 - January 20, 1993', which clearly indicates the position started in 1989 and ended in 1993. These dates correspond to the George H.W. Bush Administration term."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "Chair of the Intelligence Oversight Board"
+      ],
+      "time_markers": [
+        "January 20, 1993 - May 26, 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chair of the Intelligence Oversight Board: In office January 20, 1993 – May 26, 1994, President Bill Clinton"
+      ],
+      "time_start": 1993,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states 'January 20, 1993 - May 26, 1994', indicating the position started in 1993 and ended in 1994. This is corroborated by the supporting_quotes which confirm the same date range for the Chair of the Intelligence Oversight Board position."
+      }
+    },
+    {
+      "organizations": [
+        "White House",
+        "George W. Bush Administration"
+      ],
+      "roles": [
+        "Chair of the President's Intelligence Advisory Board"
+      ],
+      "time_markers": [
+        "October 5, 2001 - February 25, 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served as Chairman of the President's Foreign Intelligence Advisory Board under President George W. Bush from 2001 to 2005"
+      ],
+      "time_start": 2001,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field provides specific dates 'October 5, 2001 - February 25, 2005', which clearly indicates the position started in 2001 and ended in 2005. This is corroborated by the supporting_quotes which states 'from 2001 to 2005'."
+      }
+    },
+    {
+      "organizations": [
+        "Blue Ribbon Commission on America's Nuclear Future"
+      ],
+      "roles": [
+        "Co-Chair"
+      ],
+      "time_markers": [
+        "2010-2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was appointed Co-Chair of the Blue Ribbon Commission on America's Nuclear Future from 2010 to 2012 alongside Lee Hamilton."
+      ],
+      "time_start": 2010,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2010-2012' and supporting quote 'from 2010 to 2012' clearly indicate the position started in 2010 and ended in 2012."
+      }
+    },
+    {
+      "organizations": [
+        "The Forum for International Policy"
+      ],
+      "roles": [
+        "founder",
+        "president"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft was the founder and president of The Forum for International Policy, a think tank."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only confirms Scowcroft founded and served as president of The Forum for International Policy, but provides no temporal information about when this occurred or whether it was ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "The Scowcroft Group"
+      ],
+      "roles": [
+        "president"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also president of The Scowcroft Group, an international business consulting firm."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was also president'), indicating the position has ended, but no specific years are mentioned for when it started or finished. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Aspen Strategy Group"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was co-chair, along with Joseph Nye, of the Aspen Strategy Group."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms the co-chair position at Aspen Strategy Group but provides no temporal information. No years, time markers, or indicators of when this position started or ended are present in the provided data. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Inter-American Dialogue"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Inter-American Dialogue, Trilateral Commission, and the Council on Foreign Relations"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was a member'), indicating the position has ended, but no specific years are provided for when the membership began or concluded. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Trilateral Commission"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Inter-American Dialogue, Trilateral Commission, and the Council on Foreign Relations"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was a member'), indicating the membership has ended, but no specific years are provided for when the membership began or ended. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Inter-American Dialogue, Trilateral Commission, and the Council on Foreign Relations"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was a member'), indicating the membership has ended, but no specific years are provided for when the membership began or ended. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Center for Strategic and International Studies"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member of the Center for Strategic and International Studies and the Atlantic Council."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms the board member position at CSIS but provides no temporal information. The phrase 'and a board member' uses present tense which could suggest it's current, but without explicit time markers, dates, or additional context, I cannot determine specific years. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Atlantic Council"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member of the Center for Strategic and International Studies and the Atlantic Council."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms the person is/was a board member of the Atlantic Council but provides no temporal information. The phrase 'and a board member' could indicate either a current or past position, but without explicit time markers, dates, or additional context, no specific years can be determined."
+      }
+    },
+    {
+      "organizations": [
+        "International Republican Institute"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also a member of the board of directors of the International Republican Institute"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was also a member'), indicating the position has ended, but no specific years are provided for when the board membership started or finished. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Columbia University School of International and Public Affairs"
+      ],
+      "roles": [
+        "Advisory Board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and served on the Advisory Board for Columbia University's School of International and Public Affairs"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('served'), indicating the position has ended, but no specific years are mentioned in the provided information. Without concrete temporal data, both time_start and time_finish must be set to null following the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "U.S.-Azerbaijan Chamber of Commerce"
+      ],
+      "roles": [
+        "Honorary Council of Advisors member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft was a member of the Honorary Council of Advisors for U.S.-Azerbaijan Chamber of Commerce (USACC)."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms membership status but provides no temporal information (no dates, time markers, or context indicating when the position started or ended). Without specific years mentioned, both values must be set to null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "George H.W. Bush Administration"
+      ],
+      "roles": [
+        "Presidential Medal of Freedom recipient"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President George H. W. Bush presented him with the Presidential Medal of Freedom in 1991."
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Presidential Medal of Freedom) that occurred in a single year. Awards are typically presented on a specific date and represent a point-in-time honor rather than an ongoing position. The supporting quote clearly states the award was presented in 1991, so both time_start and time_finish are set to 1991."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1988, he received the Golden Plate Award of the American Academy of Achievement."
+      ],
+      "time_start": 1988,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1988). Awards are typically one-time recognitions received in a specific year, not ongoing positions. The supporting quote confirms this was received in 1988, so both time_start and time_finish are set to 1988."
+      }
+    },
+    {
+      "organizations": [
+        "British Crown"
+      ],
+      "roles": [
+        "Honorary Knight Commander of the Order of the British Empire (KBE)"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1993, he was created an Honorary Knight Commander of the Order of the British Empire by Queen Elizabeth II at Buckingham Palace."
+      ],
+      "time_start": 1993,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award of Honorary Knight Commander of the Order of the British Empire (KBE) was conferred in 1993. Honorary knighthoods and similar honors are permanent titles that do not have an end date - once awarded, they remain with the recipient for life. Therefore, time_start is 1993 and time_finish is null as the honor is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Intelligence and National Security Alliance"
+      ],
+      "roles": [
+        "William Oliver Baker Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Scowcroft was awarded the William Oliver Baker Award by the Intelligence and National Security Alliance."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2005). Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Estonia"
+      ],
+      "roles": [
+        "Order of the Cross of Terra Mariana, 3rd Class recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the Cross of Terra Mariana, 3rd Class (2006)"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2006) mentioned in time_markers and supporting quotes. Awards are typically conferred in a specific year and represent a point-in-time honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Merit recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of Merit of the Federal Republic of Germany (2009)"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2009) mentioned in both time_markers and supporting_quotes. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Japan"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Rising Sun recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Rising Sun (2016)"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2016) indicating when the Grand Cordon of the Order of the Rising Sun was received. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2016."
+      }
+    },
+    {
+      "organizations": [
+        "United States Department of Defense"
+      ],
+      "roles": [
+        "Department of Defense Medal for Distinguished Public Service recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Department of Defense Medal for Distinguished Public Service (2016)"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2016) in both the time_markers array and supporting quote. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2016."
+      }
+    },
+    {
+      "organizations": [
+        "George Washington University"
+      ],
+      "roles": [
+        "Doctor of Laws (LL.D) honorary degree recipient"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "District of Columbia, 1989, George Washington University, Doctor of Laws (LL.D)"
+      ],
+      "time_start": 1989,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award from George Washington University in 1989. Honorary degrees are conferred at a specific point in time (typically during a commencement ceremony) rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 1989, the year the degree was awarded."
+      }
+    },
+    {
+      "organizations": [
+        "Brigham Young University"
+      ],
+      "roles": [
+        "Doctor of Public Service (DPS) honorary degree recipient"
+      ],
+      "time_markers": [
+        "April 24, 1992"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Utah, April 24, 1992, Brigham Young University, Doctor of Public Service (DPS)"
+      ],
+      "time_start": 1992,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree awarded on a specific date (April 24, 1992). Honorary degrees are conferred at a single point in time, not held as ongoing positions. Both time_start and time_finish are set to 1992, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "College of William & Mary"
+      ],
+      "roles": [
+        "Doctor of Humane Letters (DHL) honorary degree recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Virginia, 2000, College of William & Mary, Doctor of Humane Letters (DHL)"
+      ],
+      "time_start": 2000,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2000. Honorary degrees are conferred on a specific date rather than representing an ongoing position, so both time_start and time_finish are set to the year of conferral."
+      }
+    },
+    {
+      "organizations": [
+        "Columbia University"
+      ],
+      "roles": [
+        "Doctor of Laws (LL.D) honorary degree recipient"
+      ],
+      "time_markers": [
+        "May 18, 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "New York, May 18, 2005, Columbia University, Doctor of Laws (LL.D)"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree awarded on a specific date (May 18, 2005). Honorary degrees are conferred at a single point in time, not held as ongoing positions. Both time_start and time_finish are set to 2005 as this represents a one-time award event."
+      }
+    },
+    {
+      "organizations": [
+        "Weber State University"
+      ],
+      "roles": [
+        "Doctor of Humane Letters (DHL) honorary degree recipient"
+      ],
+      "time_markers": [
+        "December 10, 2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Utah, December 10, 2010, Weber State University, Doctor of Humane Letters (DHL)"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award with a specific conferral date of December 10, 2010. Honorary degrees are one-time awards that are conferred on a specific date, not ongoing positions. Both time_start and time_finish are set to 2010 as this represents the year the award was received."
+      }
+    }
+  ]
+}

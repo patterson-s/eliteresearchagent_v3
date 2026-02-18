@@ -1,0 +1,526 @@
+{
+  "person_name": "Nafis Sadik",
+  "career_events": [
+    {
+      "organizations": [
+        "Dow Medical College"
+      ],
+      "roles": [
+        "medical student",
+        "Doctor of Medicine graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She studied medicine at and graduated with a Doctor of Medicine degree from Dow Medical College in Karachi, Pakistan."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only states that the person studied medicine at and graduated from Dow Medical College, but does not provide any specific years for when they started or completed their studies. Without temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "City Hospital, Baltimore"
+      ],
+      "roles": [
+        "intern in gynaecology and obstetrics"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduating, she went to the USA to complete an internship in gynaecology and obstetrics at City Hospital in Baltimore, Maryland"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates this internship occurred 'after graduating' but provides no specific years or dates. Without additional context about when graduation occurred or the duration of the internship, no accurate years can be determined."
+      }
+    },
+    {
+      "organizations": [
+        "Johns Hopkins University"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "finished her further education at the Johns Hopkins University."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that the person 'finished her further education at the Johns Hopkins University' without providing any specific years or time markers. While we know the education was completed, there is no information about when it started or when it finished. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Pakistan Armed Forces hospitals"
+      ],
+      "roles": [
+        "civilian doctor"
+      ],
+      "time_markers": [
+        "1954 to 1963"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She returned to Pakistan in 1954 with her husband, to become a civilian doctor in army hospitals. She worked until 1963 in women's and children's wards in Pakistan Armed Forces hospitals."
+      ],
+      "time_start": 1954,
+      "time_finish": 1963,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1954 to 1963' and the supporting quote confirms 'She returned to Pakistan in 1954' and 'worked until 1963' in Pakistan Armed Forces hospitals. This provides clear start and end years for this career position."
+      }
+    },
+    {
+      "organizations": [
+        "Government's Planning Commission"
+      ],
+      "roles": [
+        "head of the Health Section"
+      ],
+      "time_markers": [
+        "1964"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1964, Sadik was appointed head of the Health Section of the Government's Planning Commission."
+      ],
+      "time_start": 1964,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 1964, Sadik was appointed head of the Health Section' which clearly indicates the position started in 1964. However, no end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Pakistan Central Family Planning Council"
+      ],
+      "roles": [
+        "Director of Planning and Training"
+      ],
+      "time_markers": [
+        "1966"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik joined the Pakistan Central Family Planning Council in 1966 as Director of Planning and Training"
+      ],
+      "time_start": 1966,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Sadik joined this position in 1966, establishing that as the start year. However, no end date is mentioned in the provided information, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Pakistan Central Family Planning Council"
+      ],
+      "roles": [
+        "Deputy Director-General"
+      ],
+      "time_markers": [
+        "1968"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Deputy Director-General in 1968"
+      ],
+      "time_start": 1968,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates she was appointed Deputy Director-General in 1968, which establishes the start year. However, there is no information about when this position ended, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Pakistan Central Family Planning Council"
+      ],
+      "roles": [
+        "Director-General"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and Director-General in 1970."
+      ],
+      "time_start": 1970,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote 'and Director-General in 1970' indicates the person became Director-General in 1970, which is the start year. No end year is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "UN Population Fund"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik joined the UN Population Fund in 1971."
+      ],
+      "time_start": 1971,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'Sadik joined the UN Population Fund in 1971', which clearly indicates the start year as 1971. However, no end date is mentioned, and the phrase 'joined' typically indicates the beginning of employment without specifying when it ended. Therefore, time_finish is set to null as we cannot determine when this position concluded."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Population Fund"
+      ],
+      "roles": [
+        "Executive Director"
+      ],
+      "time_markers": [
+        "1987 to 2000",
+        "retired December 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "UN Secretary-General Javier Pérez de Cuéllar appointed her to succeed him, in 1987, thus becoming the first woman to head one of the United Nations' major voluntarily-funded programmes.",
+        "former executive director of the United Nations Population Fund (UNFPA) from 1987 to 2000. She retired from the post in December 2000."
+      ],
+      "time_start": 1987,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '1987 to 2000' and 'retired December 2000'. The supporting quotes confirm she was appointed in 1987 and served as executive director from 1987 to 2000, retiring in December 2000. Both start and end years are explicitly stated and consistent across all sources."
+      }
+    },
+    {
+      "organizations": [
+        "International Conference on Population and Development"
+      ],
+      "roles": [
+        "Secretary-General"
+      ],
+      "time_markers": [
+        "appointed June 1990",
+        "conference held 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 1990, the Secretary-General of the United Nations appointed Sadik Secretary-General of the International Conference on Population and Development (ICPD), 1994."
+      ],
+      "time_start": 1990,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The position of Secretary-General of the ICPD began with the appointment in June 1990 and the conference was held in 1994, which marks the natural end of this specific role tied to organizing that conference."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Adviser to the UN Secretary General",
+        "Special Envoy for HIV/AIDS in Asia"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a Pakistani physician, Special Adviser to the UN Secretary General with additional responsibilities as Special Envoy for HIV/AIDS in Asia"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or any other field. The quote only describes the roles held but provides no temporal information about when these positions started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Foundation for Human Development"
+      ],
+      "roles": [
+        "member of the Board of Governors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of the Board of Governors of the Foundation for Human Development"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote uses past tense ('was a member'), indicating the position has ended, but without concrete dates, both time_start and time_finish must be set to null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "South Asian Commission on the Asian Challenge"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a member of the South Asian Commission on the Asian Challenge"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms membership in the organization but contains no dates, time markers, or contextual clues about when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Society for International Development"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1994 to 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik was the President of the Society for International Development (SID) for the period 1994–1997."
+      ],
+      "time_start": 1994,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1994 to 1997' and the supporting quote confirms 'Sadik was the President of the Society for International Development (SID) for the period 1994–1997.' This clearly indicates the position started in 1994 and ended in 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Association of Physicians of Pakistani Descent of North America"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nafis Sadik also was a member of Association of Physicians of Pakistani Descent of North America."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms membership in the Association of Physicians of Pakistani Descent of North America but provides no temporal information about when this membership began or ended. Without any dates, time markers, or contextual clues about the duration of this position, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "German Foundation for World Population"
+      ],
+      "roles": [
+        "Advisor Board member"
+      ],
+      "time_markers": [
+        "after retirement from UNFPA"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After her retirement from the United Nations Population Fund, she served on several boards of directors and advisory panels of non-profit organizations and research institutions in the area of population control including on the Advisor Board for the German Foundation for World Population."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event occurred 'after retirement from UNFPA' but no specific years are provided. Without knowing when the person retired from UNFPA or when this advisory board position began or ended, I cannot determine accurate years. The information only establishes a relative sequence of events, not absolute dates."
+      }
+    },
+    {
+      "organizations": [
+        "Population Action International"
+      ],
+      "roles": [
+        "Emeritus Member"
+      ],
+      "time_markers": [
+        "after retirement from UNFPA"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik was an Emeritus Member of Population Action International."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates this position occurred 'after retirement from UNFPA' but no specific years are provided. The term 'Emeritus Member' typically indicates a honorary position that may be ongoing or held until death, but without concrete dates or the person's retirement year from UNFPA, I cannot determine accurate time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [
+        "Prince Mahidol Award Foundation"
+      ],
+      "roles": [
+        "Prince Mahidol Award recipient (Public Health)"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(1995) Prince Mahidol Award from the Prince Mahidol Award Foundation (Branch Public Health)"
+      ],
+      "time_start": 1995,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1995) mentioned in both the time_markers field and the supporting quote. Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 1995."
+      }
+    },
+    {
+      "organizations": [
+        "Planned Parenthood Federation of America"
+      ],
+      "roles": [
+        "Margaret Sanger Award recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(2000) Margaret Sanger Award from the Planned Parenthood Federation of America"
+      ],
+      "time_start": 2000,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2000) mentioned in both time_markers and supporting_quotes. Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 2000."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "United Nations Population Award recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(2001) United Nations Population Award"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2001) mentioned in both time_markers and supporting_quotes. Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Calderone Prize"
+      ],
+      "roles": [
+        "Calderone Prize laureate"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nafis Sadik (2001)"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2001' indicating when Nafis Sadik received the Calderone Prize. Awards are typically one-time honors received in a specific year, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "World Association of Girl Guides and Girl Scouts"
+      ],
+      "roles": [
+        "World Citizenship Award recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(2002) World Citizenship Award from the World Association of Girl Guides and Girl Scouts"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2002) mentioned in the time_markers and supporting quote. Awards are typically received at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Royal College of Obstetricians and Gynecologists"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Award from The Royal College of Obstetricians and Gynecologists"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote mentions an award from the Royal College of Obstetricians and Gynecologists, but does not include any dates, years, or time markers. Without specific temporal information, I cannot determine when this award was received."
+      }
+    },
+    {
+      "organizations": [
+        "National Wildlife Federation"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Award from the National Wildlife Federation, United States"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only mentions an award from the National Wildlife Federation but does not include any year, date, or time marker. Without specific temporal information, I cannot determine when this award was received."
+      }
+    },
+    {
+      "organizations": [
+        "American Public Health Association"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Award from American Public Health Association, Washington D.C., U.S."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific year or time information is provided in the supporting quote or career event data. The quote only mentions receiving an award from the American Public Health Association but does not indicate when this occurred."
+      }
+    }
+  ]
+}

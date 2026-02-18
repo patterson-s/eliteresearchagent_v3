@@ -1,0 +1,260 @@
+{
+  "person_name": "Amandeep Singh Gill",
+  "career_events": [
+    {
+      "organizations": [
+        "Punjab Engineering College",
+        "Panjab University"
+      ],
+      "roles": [
+        "student",
+        "B.Tech in Electronics and Electrical Communications graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Gill holds a bachelor's degree in Electronics and Electrical Communications from Panjab University, Chandigarh, India."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms that Gill holds a bachelor's degree from Panjab University, Chandigarh, but provides no specific years for when the degree program started or when it was completed. Without any temporal information, dates, or time markers in the available data, I cannot determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "King's College London"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also holds a PhD from King's College, London.",
+        "His PhD thesis is on Nuclear Learning in Multilateral Forums."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes confirm the person holds a PhD from King's College London and mention the thesis topic, but no specific years are provided for when the PhD program started or when it was completed. Without concrete temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Stanford University",
+        "Center for International Security and Cooperation"
+      ],
+      "roles": [
+        "visiting fellow"
+      ],
+      "time_markers": [
+        "2008-2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a visiting fellow at Stanford University's Center for International Security and Cooperation (CISAC) during 2008–2009."
+      ],
+      "time_start": 2008,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2008-2009' and supporting quote clearly indicate this was a visiting fellowship that spanned from 2008 to 2009. The use of 'during 2008–2009' confirms both start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Foreign Service"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "time_markers": [
+        "began 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Gill began his diplomatic career in 1992"
+      ],
+      "time_start": 1992,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'began 1992' and supporting quote clearly indicate the diplomatic career started in 1992. No end date is mentioned, and diplomatic careers typically continue for extended periods unless retirement or end is specified. Therefore, time_finish is set to null as there's no evidence the position has ended."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Embassy, Tehran, Iran"
+      ],
+      "roles": [
+        "diplomat serving in various capacities"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Gill began his diplomatic career in 1992 and served in various capacities in the Indian Embassy in Tehran, Iran"
+      ],
+      "time_start": 1992,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote states 'Gill began his diplomatic career in 1992 and served in various capacities in the Indian Embassy in Tehran, Iran.' While 1992 is clearly the start year, the text does not specify when this service in Tehran ended. The phrase 'served in various capacities' suggests a period of service but provides no end date. Being conservative as instructed, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "High Commission of India, Colombo, Sri Lanka"
+      ],
+      "roles": [
+        "diplomat serving in various capacities"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served in various capacities in the Indian Embassy in Tehran, Iran, and the High Commission of India in Colombo, Sri Lanka."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only indicates that the person 'served in various capacities' at the High Commission of India in Colombo, Sri Lanka, but does not include any dates, time periods, or temporal references that would allow determination of start or end years."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Mission to the Conference on Disarmament, Geneva, Switzerland"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also served at the Indian Mission to the Conference on Disarmament in Geneva, Switzerland"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person 'served at the Indian Mission' but provides no specific years, date ranges, or time markers. Without additional temporal information, it's impossible to determine when this diplomatic position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Indian Mission to the UN, Geneva"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Indian Mission to the UN in Geneva."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions the Indian Mission to the UN in Geneva without any temporal information, time markers, or specific years. No start or end dates can be determined from the provided information."
+      }
+    },
+    {
+      "organizations": [
+        "Disarmament and International Security Affairs (DISA) Division, New Delhi"
+      ],
+      "roles": [
+        "positions in DISA Division"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His roles in New Delhi, India included positions in the Disarmament and International Security Affairs (DISA) Division"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or any other field. The quote only indicates that the person held positions in the DISA Division in New Delhi, India, but provides no temporal information to determine when this occurred."
+      }
+    },
+    {
+      "organizations": [
+        "UN Division, New Delhi"
+      ],
+      "roles": [
+        "positions in UN Division"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His roles in New Delhi, India included positions in the Disarmament and International Security Affairs (DISA) Division and the UN Division."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote mentions positions in the UN Division in New Delhi, India, but provides no specific years, dates, or time markers that would allow determination of when this position started or ended. Without temporal information, both values must be set to null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Disarmament and International Security Affairs (DISA) Division, New Delhi"
+      ],
+      "roles": [
+        "Head of DISA Division"
+      ],
+      "time_markers": [
+        "2013 to 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also headed the DISA Division from 2013 to 2016."
+      ],
+      "time_start": 2013,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2013 to 2016' and supporting quote 'He also headed the DISA Division from 2013 to 2016' clearly indicate the position started in 2013 and ended in 2016."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UN Secretary General's Envoy on Technology"
+      ],
+      "time_markers": [
+        "since June 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "who serves as the United Nations (UN) Secretary General (SG)'s Envoy on Technology since June 2022."
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since June 2022' clearly indicates the position started in 2022. The word 'since' indicates this is an ongoing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "UN Secretary General's Advisory Body on Artificial Intelligence"
+      ],
+      "roles": [
+        "member of UN SG's Advisory Body on Artificial Intelligence"
+      ],
+      "time_markers": [
+        "since October 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also a member of the UN SG's Advisory Body on Artificial Intelligence since October 2023."
+      ],
+      "time_start": 2023,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since October 2023' clearly indicates the position started in 2023. The word 'since' indicates this is an ongoing position with no end date, so time_finish is null."
+      }
+    }
+  ]
+}

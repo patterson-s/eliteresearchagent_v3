@@ -1,0 +1,243 @@
+{
+  "person_name": "Izabella Mônica Vieira Teixeira",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Brasília"
+      ],
+      "roles": [
+        "student",
+        "BS graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was born in Brasília, and has a master's degree in energy planning and a Ph.D. in environmental planning from COPPE/UFRJ (Federal University of Rio de Janeiro).",
+        "Alma mater: University of Brasília (BS)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes confirm the person obtained a BS degree from University of Brasília, but no specific years are mentioned for when this undergraduate education started or finished. The quotes only establish that this education occurred before the master's and Ph.D. degrees from UFRJ, but without concrete dates, I cannot determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Federal University of Rio de Janeiro",
+        "COPPE/UFRJ"
+      ],
+      "roles": [
+        "graduate student",
+        "Master's degree in energy planning graduate",
+        "PhD in environmental planning graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was born in Brasília, and has a master's degree in energy planning and a Ph.D. in environmental planning from COPPE/UFRJ (Federal University of Rio de Janeiro)."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms that the person obtained a Master's degree in energy planning and a PhD in environmental planning from COPPE/UFRJ, but provides no specific years for when these degrees were started or completed. Without temporal information, I cannot determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Brazilian Ministry of Environment"
+      ],
+      "roles": [
+        "Minister of the Environment"
+      ],
+      "time_markers": [
+        "appointed May 2010",
+        "in office 30 March 2010 – 12 May 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2010 she was appointed Minister of the Environment",
+        "Minister of Environment In office 30 March 2010 – 12 May 2016"
+      ],
+      "time_start": 2010,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 30 March 2010 and ended on 12 May 2016. Both the appointment date (May 2010) and the official in-office period (30 March 2010 – 12 May 2016) confirm 2010 as the start year and 2016 as the finish year."
+      }
+    },
+    {
+      "organizations": [
+        "Brazilian Ministry of Environment"
+      ],
+      "roles": [
+        "Minister of the Environment (reappointed)"
+      ],
+      "time_markers": [
+        "January 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in January 2011 she was reappointed to the position by Dilma Rousseff, Brazil's new President."
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes a reappointment in January 2011. This marks the start of this particular term. Since this is described as a reappointment event with no end date mentioned, and no information indicates when this term ended, time_finish is set to null. The text only provides the starting point of this specific appointment."
+      }
+    },
+    {
+      "organizations": [
+        "Convention on Biological Diversity"
+      ],
+      "roles": [
+        "Brazilian representative",
+        "speaker"
+      ],
+      "time_markers": [
+        "October 2010"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2010 Teixeira made a statement on behalf of Brazil at the 10th conference on the Convention on Biological Diversity in Nagoya, Japan"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is a speaking engagement that occurred at a specific event in October 2010. Since it was a one-time speaking event at a conference rather than an ongoing position, both time_start and time_finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Climate Change Conference"
+      ],
+      "roles": [
+        "speaker"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also spoke at the 2010 United Nations Climate Change Conference in Cancún, Mexico."
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is a single speaking engagement event at the 2010 UN Climate Change Conference. The event occurred in one specific year (2010), so both start and finish are set to 2010, as this was a discrete event rather than an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "Rio+20 UN Conference on Sustainable Development"
+      ],
+      "roles": [
+        "host"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "event_hosting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At home in Brazil, she successfully hosted the Rio+20 (UN Conference on Sustainable Development)"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The Rio+20 UN Conference on Sustainable Development was a specific event that took place in 2012. As an event hosting role rather than an ongoing position, both start and finish dates are set to the same year when the conference occurred."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "World Environment Day"
+      ],
+      "roles": [
+        "host"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "event_hosting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At home in Brazil, she successfully hosted the Rio+20 (UN Conference on Sustainable Development) and the 2012 World Environment Day."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The event describes hosting specific events (Rio+20 and World Environment Day) that occurred in 2012. These are discrete events that took place in a single year, not ongoing positions. The time_marker '2012' and the supporting quote both confirm this was a one-time hosting role in 2012."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-Level Panel of Eminent Persons on the Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "appointed 24 September 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 24 September 2012, Teixeira was appointed by UN Secretary-General Ban Ki-moon to serve on the High-Level Panel of Eminent Persons on the Post-2015 Development Agenda."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment date is clearly stated as 24 September 2012, establishing time_start as 2012. However, no end date or completion date for the panel service is mentioned in the provided information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Environment Programme",
+        "Champions of the Earth"
+      ],
+      "roles": [
+        "Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is the recipient of the Lifetime Achievement Award (Champions of the Earth) in 2013.",
+        "2013 Laureate – Policy Leadership (co-winner) Izabella Teixeira"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is a Lifetime Achievement Award received in 2013. Awards are typically one-time events that occur in a specific year. The time_markers clearly indicate 2013, and the supporting quotes confirm this is when the award was received. Both time_start and time_finish are set to 2013 as this represents a single point-in-time achievement rather than an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Environment Program"
+      ],
+      "roles": [
+        "green passport project co-launcher"
+      ],
+      "time_markers": [
+        "24 May 2014"
+      ],
+      "event_type": "project_initiative",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In addition, along with the United Nations Environment Program, Teixeira launched a project called 'green passport' that promoted sustainable tourism."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '24 May 2014' indicates a specific launch date for the green passport project. Since this is a project launch event rather than an ongoing position, and no end date or duration is mentioned, both time_start and time_finish are set to 2014, representing the year the project was launched."
+      }
+    }
+  ]
+}

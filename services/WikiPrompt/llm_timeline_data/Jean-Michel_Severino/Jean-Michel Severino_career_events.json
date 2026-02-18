@@ -1,0 +1,447 @@
+{
+  "person_name": "Jean-Michel Severino",
+  "career_events": [
+    {
+      "organizations": [
+        "École nationale d'administration"
+      ],
+      "roles": [
+        "graduate"
+      ],
+      "time_markers": [
+        "1984"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1984 : École nationale d'administration"
+      ],
+      "time_start": 1984,
+      "time_finish": 1984,
+      "metadata": {
+        "timeline_reasoning": "The event indicates graduation from École nationale d'administration in 1984. Since this is a graduation event (completion of education), both start and finish are set to 1984, representing the year the degree was completed."
+      }
+    },
+    {
+      "organizations": [
+        "Institut d'Études Politiques de Paris"
+      ],
+      "roles": [
+        "graduate"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1980 : Institut d'Études Politiques de Paris"
+      ],
+      "time_start": 1980,
+      "time_finish": 1980,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1980) is mentioned in the time_markers and supporting quote. For a graduation event, this represents the completion year. Following guideline 4, when only a single year is mentioned, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Paris Dauphine University"
+      ],
+      "roles": [
+        "Master of Science in Economics graduate"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1979 : Master of Science in Economics, Paris Dauphine University"
+      ],
+      "time_start": 1979,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The event is a Master's degree graduation with a single year marker '1979'. This represents the completion/graduation year. Following guideline 4, when only a single year is mentioned for an education event, both time_start and time_finish are set to that year, as it marks the graduation date."
+      }
+    },
+    {
+      "organizations": [
+        "Ecole Supérieure de Commerce de Paris",
+        "Université Paris I Sorbonne"
+      ],
+      "roles": [
+        "graduate",
+        "Bachelor of Laws graduate"
+      ],
+      "time_markers": [
+        "1978"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1978 : Ecole Supérieure de Commerce de Paris and Bachelor of Laws (Université Paris I Sorbonne)"
+      ],
+      "time_start": 1978,
+      "time_finish": 1978,
+      "metadata": {
+        "timeline_reasoning": "Only one year (1978) is mentioned in the time_markers and supporting quote, which indicates the graduation year from both institutions. For education events where only a graduation year is provided, both time_start and time_finish are set to that year as it represents the completion/award date."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of the Economy and Finances"
+      ],
+      "roles": [
+        "Inspector of Finances"
+      ],
+      "time_markers": [
+        "1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1984 : Inspector of Finances, Ministry of the Economy and Finances, Paris"
+      ],
+      "time_start": 1984,
+      "time_finish": 1984,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1984) is mentioned in the time_markers and supporting quote. Following guideline 4, when only one year is provided without indication of duration or ongoing status, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Cooperation and Development"
+      ],
+      "roles": [
+        "Technical advisor for economic and financial affairs",
+        "Cabinet of the Minister of Cooperation and Development, Jacques Pelletier"
+      ],
+      "time_markers": [
+        "1988-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1988-1990 : Technical advisor for economic and financial affairs - Cabinet of the Minister of Cooperation and Development, Jacques Pelletier"
+      ],
+      "time_start": 1988,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1988-1990' clearly indicates a date range, with the position starting in 1988 and ending in 1990. This is confirmed by the supporting quote which uses the same format."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Cooperation and Development"
+      ],
+      "roles": [
+        "Chief of geographic coordination"
+      ],
+      "time_markers": [
+        "1990-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1990-1994 : Chief of geographic coordination - Ministère Ministry of Cooperation and Development, Paris"
+      ],
+      "time_start": 1990,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1990-1994' and supporting quote clearly indicate this position started in 1990 and ended in 1994. This is a completed position with explicit start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "French Ministry of Cooperation"
+      ],
+      "roles": [
+        "Director in charge of international development"
+      ],
+      "time_markers": [
+        "1994-1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1994-1996 : Director in charge of international development - Ministry of Cooperation and Development, Paris",
+        "He was previously Director in charge of international development at the French Ministry of Cooperation"
+      ],
+      "time_start": 1994,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1994-1996' and this is directly confirmed by the supporting quote '1994-1996 : Director in charge of international development - Ministry of Cooperation and Development, Paris'. This clearly indicates the position started in 1994 and ended in 1996."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Director for Central Europe"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1996-1997 : Director for Central Europe - World Bank, Washington"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1996-1997' and supporting quote clearly indicate this position spanned from 1996 to 1997, representing a two-year tenure as Director for Central Europe at the World Bank."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Vice President for Asia"
+      ],
+      "time_markers": [
+        "1997-2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1997-2000 : Vice-president for Asia - World Bank, Washington",
+        "then Vice President for Asia at the World Bank"
+      ],
+      "time_start": 1997,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1997-2000' clearly indicates a date range, and the supporting quote '1997-2000 : Vice-president for Asia - World Bank, Washington' confirms this person held the Vice President for Asia position at the World Bank from 1997 to 2000."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of the Economy and Finances"
+      ],
+      "roles": [
+        "General Inspector of Finances"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2000 : General Inspector of Finances - Ministry of the Economy and Finances, Paris"
+      ],
+      "time_start": 2000,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "Only one year (2000) is mentioned in the time_markers and supporting quote, which indicates when the position started. There is no information about when this position ended, and 'General Inspector of Finances' is typically a senior civil service rank that can be held indefinitely rather than a time-limited appointment. Therefore, time_finish is set to null as there's no evidence the position has ended."
+      }
+    },
+    {
+      "organizations": [
+        "Agence française de développement"
+      ],
+      "roles": [
+        "CEO",
+        "Director"
+      ],
+      "time_markers": [
+        "2001-2010",
+        "appointed 2001",
+        "renewed 2004",
+        "renewed 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served for more than nine years as the CEO of France's government agency for international development, AFD",
+        "Severino served as Director of France's international development agency - Agence française de développement (AFD). He was appointed in 2001 for a three-year term, renewed in 2004 and 2007",
+        "2001-2010 : CEO - Agence française de développement, Paris"
+      ],
+      "time_start": 2001,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "Multiple sources consistently indicate the position started in 2001 ('appointed 2001') and the time range '2001-2010' explicitly shows it ended in 2010. The supporting quote 'served for more than nine years' confirms this timeframe (2001-2010 = 9 years). The renewals in 2004 and 2007 occurred within this period."
+      }
+    },
+    {
+      "organizations": [
+        "PROPARCO"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "2001-2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of PROPARCO, Paris."
+      ],
+      "time_start": 2001,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2001-2010' clearly indicates a range from 2001 to 2010. This represents the period during which the person served as President of PROPARCO."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan appointed Severino to a High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Severino was appointed to a High-level Panel in 2006. High-level panels are typically temporary advisory bodies with finite durations, often completing their work within the same year or shortly after appointment. Since only 2006 is mentioned and no end date is specified, and given that this is a panel appointment (which are typically short-term), I'm setting both start and finish to 2006, following guideline 4 for single year mentions."
+      }
+    },
+    {
+      "organizations": [
+        "Ideas4development"
+      ],
+      "roles": [
+        "blog co-founder and contributor"
+      ],
+      "time_markers": [
+        "October 2007"
+      ],
+      "event_type": "initiative",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2007, he launched the blog Ideas4development alongside Josette Sheeran, Donald Kaberuka, Kemal Dervis, Pascal Lamy, Abdou Diouf and Supachai Panitchpakdi"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes launching a blog in October 2007. This is an initiative/co-founder role with no end date mentioned. Blog contributions and co-founder status typically continue indefinitely unless explicitly stated otherwise, so time_finish is set to null to indicate an ongoing role."
+      }
+    },
+    {
+      "organizations": [
+        "Investisseurs et Partenaires"
+      ],
+      "roles": [
+        "CEO"
+      ],
+      "time_markers": [
+        "since 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2011 he has been CEO of an investment group, Investisseurs et Partenaires (I&P)"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2011' and supporting quote 'Since 2011 he has been CEO' clearly indicate the position started in 2011. The word 'since' indicates an ongoing position with no end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Danone"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "until at least March 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Danone, Member of the Board of Directors",
+        "Severino was a close ally of Emmanuel Faber in moving Danone toward a greater concern with environmental and social priorities as against immediately commercial ones: a project that resulted in the ouster of Faber by activist shareholders in March 2021."
+      ],
+      "time_start": null,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates the position lasted 'until at least March 2021', and the supporting quote mentions Faber's ouster by activist shareholders in March 2021, which likely ended Severino's board membership as a close ally. However, no start date is provided in the available information, so time_start remains null. The position clearly ended in 2021."
+      }
+    },
+    {
+      "organizations": [
+        "EBI SA Groupe Ecobank"
+      ],
+      "roles": [
+        "Chairman of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "EBI SA Groupe Ecobank, Chairman of the Board of Directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the position and organization but contains no dates, time markers, or context that would indicate when this chairmanship began or ended. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Orange S.A."
+      ],
+      "roles": [
+        "Independent Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Orange S.A., Independent Member of the Board of Directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the position and organization but contains no dates, time markers, or contextual clues about when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "PhiTrust Impact Investors"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "PhiTrust Impact Investors, Member of the Board of Directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the position and organization but contains no dates, time markers, or contextual clues about when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Fondation Grameen Crédit Agricole"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Fondation Grameen Crédit Agricole, Member of the Board of Directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the organization and role but contains no dates, time markers, or context that would indicate when this board membership started or ended. Without specific year information, both time_start and time_finish must be set to null."
+      }
+    }
+  ]
+}

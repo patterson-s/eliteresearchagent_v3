@@ -1,0 +1,195 @@
+{
+  "person_name": "Fulbert Géro Amoussouga",
+  "career_events": [
+    {
+      "organizations": [
+        "Université d'Abomey-Calavi"
+      ],
+      "roles": [
+        "Professeur titulaire de sciences économiques"
+      ],
+      "specializations": [
+        "économie du développement",
+        "politique monétaire"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Professeur titulaire de sciences économiques, spécialiste en économie du développement et politique monétaire"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The text only describes the position title (Professeur titulaire) and specializations, but contains no dates, time markers, or contextual clues about when this position started or ended. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Conseil d'Analyse Économique du Bénin"
+      ],
+      "roles": [
+        "Président"
+      ],
+      "time_markers": [
+        "2006 à octobre 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "il est président du Conseil d'Analyse Économique du Bénin de 2006 à octobre 2013"
+      ],
+      "time_start": 2006,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2006 à octobre 2013' clearly indicates the position started in 2006 and ended in October 2013. Both start and end years are explicitly stated."
+      }
+    },
+    {
+      "organizations": [
+        "Gouvernement du Bénin",
+        "Présidence de la République du Bénin"
+      ],
+      "roles": [
+        "Ministre à la Présidence de la République chargé de la Coordination des Politiques de mise en œuvre des Objectifs du Millénaire pour le Développement (OMD) et des Objectifs de Développement Durable (ODD)"
+      ],
+      "time_markers": [
+        "octobre 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "il est nommé au sein du gouvernement béninois au poste de Ministre à la Présidence de la République chargé de la Coordination des Politiques de mise en œuvre des Objectifs du Millénaire pour le Développement (OMD) et des Objectifs de Développement Durable (ODD)"
+      ],
+      "time_start": 2013,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'octobre 2013' as the appointment date. The supporting quote uses 'est nommé' (is appointed) which indicates the start of the position. There is no information about when this position ended, so time_finish is set to null as we cannot determine if or when the position concluded."
+      }
+    },
+    {
+      "organizations": [
+        "Gouvernement du Bénin"
+      ],
+      "roles": [
+        "Ministre d'État chargé de la Coordination des Politiques de mise en œuvre des Objectifs de Développement Durable (ODD) et des Grands-Travaux"
+      ],
+      "time_markers": [
+        "juillet 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "En juillet 2015, il est nommé Ministre d'État chargé de la Coordination des Politiques de mise en œuvre des Objectifs de Développement Durable (ODD) et des Grands-Travaux"
+      ],
+      "time_start": 2015,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'juillet 2015' and supporting quote indicate the position started in July 2015. The text uses 'il est nommé' (he is appointed) without any indication of when the position ended, suggesting it may be ongoing or the end date is unknown. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Université d'Abomey-Calavi",
+        "Faculté de sciences Économiques et de Gestion"
+      ],
+      "roles": [
+        "Doyen de la Faculté"
+      ],
+      "time_markers": [
+        "1995 à 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Il est doyen de la Faculté de sciences Économiques et de Gestion de l'université d'Abomey Calavi (Bénin) de 1995 à 2010"
+      ],
+      "time_start": 1995,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1995 à 2010' and supporting quote clearly indicate the position as Dean started in 1995 and ended in 2010. The French phrase 'de 1995 à 2010' explicitly means 'from 1995 to 2010'."
+      }
+    },
+    {
+      "organizations": [
+        "Conseil Africain et Malgache pour l'Enseignement Supérieur (CAMES)"
+      ],
+      "roles": [
+        "Membre"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Il est membre du Conseil Africain Malgache pour l'Enseignement Supérieur (CAMES)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('Il est membre' - 'He is a member'), indicating this is a current position, but no specific start year is provided in the available information. While time_finish should be null for an ongoing position, time_start cannot be determined without additional temporal information."
+      }
+    },
+    {
+      "organizations": [
+        "Nations Unies"
+      ],
+      "roles": [
+        "Membre du panel de haut niveau pour l'agenda de développement post-2015"
+      ],
+      "time_markers": [
+        "juillet 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "En juillet 2012 il est nommé par le secrétaire général des Nations unies, membre du panel de haut niveau pour l'agenda de développement post 2015"
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in July 2012 as stated in the time_marker and supporting quote. No end date is mentioned for this UN high-level panel position, so time_finish is set to null as we cannot determine when the role ended."
+      }
+    },
+    {
+      "organizations": [
+        "Organisation mondiale du commerce (OMC)",
+        "Université d'Abomey-Calavi"
+      ],
+      "roles": [
+        "Titulaire de la chaire de l'OMC"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Il est le titulaire de la chaire de l'Organisation mondiale du commerce (OMC) logée au sein de l'Université d'Abomey-Calavi du Bénin"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('Il est le titulaire' - 'He is the holder'), indicating this is a current position, but no specific start year is mentioned in the provided information. While time_finish should be null for an ongoing position, time_start cannot be determined without additional temporal information."
+      }
+    }
+  ],
+  "publications": [
+    {
+      "title": "Les Facteurs de performance de l'entreprise",
+      "co_authors": [
+        "Mavor Michel Agbodan"
+      ],
+      "publisher": "John Libbey Eurotext",
+      "date": "30 avril 1995",
+      "pages": 243,
+      "isbn": "978-2742000784"
+    },
+    {
+      "title": "La contribution de la RSE aux objectifs d'un développement durable de l'ONU. Cadre d'analyse et propositions pour les pouvoirs publics des « pays les moins avancés »",
+      "co_authors": [
+        "Marielle Audrey Payaud",
+        "Alain-Charles Martinet"
+      ],
+      "journal": "Revue française de gestion",
+      "volume": 245,
+      "number": 8,
+      "date": "2014",
+      "pages": "133-158"
+    }
+  ]
+}

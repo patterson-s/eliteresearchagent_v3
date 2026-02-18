@@ -1,0 +1,647 @@
+{
+  "person_name": "Mary Chinery-Hesse",
+  "career_events": [
+    {
+      "organizations": [
+        "Wesley Girls' Senior High School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She had her secondary education at the Wesley Girls' Senior High School in Cape Coast."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that the person attended Wesley Girls' Senior High School for secondary education, but provides no specific years, dates, or time markers that would allow determination of when this education started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "University of Ghana"
+      ],
+      "roles": [
+        "student",
+        "BA (Hons) in Sociology and Economics graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also holds a BA (Hons) in Sociology and Economics... from the University of Ghana"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only confirms that the person holds a BA (Hons) degree from the University of Ghana, but provides no temporal information about when they attended or graduated. Without additional context or time markers, I cannot determine the start or finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Trinity College Dublin"
+      ],
+      "roles": [
+        "postgraduate student in Development Economics"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she did postgraduate training in Development Economics at Trinity College Dublin."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person did postgraduate training in Development Economics at Trinity College Dublin, but no specific years or time markers are provided. Without additional context about when this education occurred, I cannot determine accurate start or finish dates."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank Institute"
+      ],
+      "roles": [
+        "Fellow of the Institute"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the World Bank Institute in Washington D.C., she was inscribed as a Fellow of the Institute."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that she was inscribed as a Fellow of the Institute at the World Bank Institute, but provides no temporal information such as years, dates, or time markers. Without any specific time references, I cannot determine when this fellowship started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Finance and Economic Planning"
+      ],
+      "roles": [
+        "principal secretary"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her early career, Mary Chinery-Hesse was a principal secretary at the Ministry of Finance and Economic Planning"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates this was 'in her early career' without providing specific years. While this gives relative timing in her career trajectory, no actual dates are mentioned that would allow determination of start or end years."
+      }
+    },
+    {
+      "organizations": [
+        "National Economic Planning Council"
+      ],
+      "roles": [
+        "secretary"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her early career, Mary Chinery-Hesse was... secretary of the National Economic Planning Council."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates this was part of 'her early career' without providing specific years. The phrase 'early career' is too vague to assign accurate dates, so both values are set to null following the conservative approach."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "UNDP"
+      ],
+      "roles": [
+        "first African woman Resident Coordinator of the United Nations System",
+        "Resident Representative of UNDP to Sierra Leone, Tanzania, Seychelles, and Uganda"
+      ],
+      "time_markers": [
+        "joined 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She joined the UN in 1981, where she held the appointment of the first African woman Resident Coordinator of the United Nations System and Resident Representative of UNDP to many countries, including Sierra Leone, Tanzania, the Seychelles, and Uganda."
+      ],
+      "time_start": 1981,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The text states 'She joined the UN in 1981' and describes positions held after joining, but provides no end date. The phrase 'where she held' uses past tense but doesn't specify when these appointments ended. Since we only have a confirmed start year (1981) and no information about when her UN career or these specific positions concluded, time_finish should be null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Head of Consultative Committee on Programme and Operational Questions (CCPOQ)"
+      ],
+      "time_markers": [
+        "1993 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She headed the Consultative Committee on Programme and Operational Questions (CCPOQ) of the United Nations from 1993 to 1998"
+      ],
+      "time_start": 1993,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1993 to 1998' and the supporting quote confirms 'from 1993 to 1998', providing clear start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "Commonwealth"
+      ],
+      "roles": [
+        "member of Commonwealth Expert Group of Eminent Persons on Structural Adjustment and Women"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Commonwealth Expert Group of Eminent Persons on Structural Adjustment and Women, and was instrumental in the published report, Engendering Adjustment."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote. The quote only references participation in a Commonwealth Expert Group and involvement in publishing a report called 'Engendering Adjustment,' but provides no temporal information about when this occurred."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "member of Council of African Advisers"
+      ],
+      "time_markers": [
+        "1992 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She belonged to the Council of African Advisers of the World Bank between 1992 and 1998."
+      ],
+      "time_start": 1992,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1992 to 1998' and the supporting quote confirms 'between 1992 and 1998', clearly indicating the start year as 1992 and end year as 1998."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Chair of High-Level Panel of Eminent Persons on Review of Progress in the Implementation of the Programme for the Least Developed Countries"
+      ],
+      "time_markers": [
+        "1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the 1990s, she chaired the High-Level Panel of Eminent Persons on Review of Progress in the Implementation of the Programme for the Least Developed Countries."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1990s' indicates the decade but does not provide specific years. The supporting quote confirms this occurred 'in the 1990s' but gives no precise start or end dates. Without more specific information, I cannot determine exact years for when this chairmanship began or ended within that decade."
+      }
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "member of Eminent Persons' Advisory Panel"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of the Eminent Persons' Advisory Panel of the African Union"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only confirms membership in the panel but provides no temporal information about when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Zedillo Commission (Distinguished High-Level Panel of Eminent Persons on Financing for Development)"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served on the Zedillo Commission, more formally known as the Distinguished High-Level Panel of Eminent Persons on Financing for Development."
+      ],
+      "time_start": 2000,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The Zedillo Commission (High-Level Panel on Financing for Development) was established by UN Secretary-General Kofi Annan in late 2000 and submitted its final report in June 2001. This was a time-bound commission with a specific mandate that concluded with the report delivery."
+      }
+    },
+    {
+      "organizations": [
+        "International Labour Organization"
+      ],
+      "roles": [
+        "first woman Deputy Director-General",
+        "Under-Secretary-General rank (first African woman)"
+      ],
+      "time_markers": [
+        "appointed 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1989, she was appointed as the first woman Deputy Director-General of the International Labour Organization in Geneva, Switzerland.",
+        "She was also the first woman to attain the rank of Under-Secretary-General of the United Nations in the history of the international organisation."
+      ],
+      "time_start": 1989,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The career event clearly states appointment in 1989 ('appointed 1989' in time_markers and 'In 1989, she was appointed' in supporting quotes). However, no end date is provided for this position. Without information about when she left the Deputy Director-General role, time_finish should be set to null rather than assumed."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Ghana"
+      ],
+      "roles": [
+        "advisor to President John Kufour"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She served as an advisor to John Kufour, the former President of Ghana."
+      ],
+      "time_start": 2001,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "John Kufuor served as President of Ghana from January 7, 2001 to January 7, 2009. Since the role is 'advisor to President John Kufour,' the advisory position would have occurred during his presidential term. Without more specific information about when during his presidency this person served as advisor, the most accurate representation is the full span of Kufuor's presidency."
+      }
+    },
+    {
+      "organizations": [
+        "National Development Planning Commission"
+      ],
+      "roles": [
+        "vice chairman"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was the vice chairman of the National Development Planning Commission."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was the vice chairman'), indicating the position has ended, but no specific years are mentioned in the provided information. Without concrete temporal data, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Centre for Policy Analysis"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has served on several boards, including those at the Centre for Policy Analysis"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense 'has served', indicating the position occurred at some point in the past, but no specific years are mentioned. The phrase suggests it may have ended, but without concrete dates, both time_start and time_finish should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "UN High Commissioner for Human Rights"
+      ],
+      "roles": [
+        "board member of Voluntary Fund for Technical Cooperation"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Voluntary Fund for Technical Cooperation of the UN High Commissioner for Human Rights."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only mentions the organization and role but contains no dates, time markers, or contextual clues about when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Public Utilities Regulatory Commission"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also a Commissioner at the Public Utilities Regulatory Commission"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was also a Commissioner'), indicating the position has ended, but no specific years are mentioned in the provided information. Without concrete temporal data, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Commission on HIV/AIDS and Governance in Africa"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and at the Commission on HIV/AIDS and Governance in Africa."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms the person served as Commissioner at the Commission on HIV/AIDS and Governance in Africa, but provides no temporal information such as years, dates, or time markers. Without specific time indicators, I cannot determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Ghana (John Kufuor administration)"
+      ],
+      "roles": [
+        "Chair of Chinery-Hesse Committee on Article 71 officer holders' benefits"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was commissioned by the erstwhile Government of former President John Kufour to determine the end-of-service benefits and emoluments of Article 71 officer holders."
+      ],
+      "time_start": 2001,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "John Kufuor served as President of Ghana from January 7, 2001 to January 7, 2009. The supporting quote indicates this was a commission by 'the erstwhile Government of former President John Kufour,' meaning it occurred during his administration. Without more specific dates for when the committee was formed or completed its work, the most accurate timeframe is the full span of the Kufuor administration (2001-2009)."
+      }
+    },
+    {
+      "organizations": [
+        "University of Ghana"
+      ],
+      "roles": [
+        "Chancellor (first woman)"
+      ],
+      "time_markers": [
+        "appointed to succeed Kofi Annan",
+        "assumed office 1 August 2018",
+        "first term 2018-2023",
+        "reappointed July 2023",
+        "second term 1 August 2023 to 31 July 2028"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Chancellor of the University of Ghana succeeding Kofi Annan, former UN Secretary-General.",
+        "She assumed this position on 1 August 2018 and served for the first 5-year term. She was reappointed in July 2023 and is currently serving a second term which commenced on 1 August 2023 and would conclude 31 July 2028."
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started on 1 August 2018 as clearly stated. The person is currently serving a second term that runs until 31 July 2028, meaning the position is ongoing. Since the role is current/active, time_finish should be null rather than 2028."
+      }
+    },
+    {
+      "organizations": [
+        "Kofi Annan International Peacekeeping Training Centre"
+      ],
+      "roles": [
+        "Chair of Goodwill Ambassadors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She serves as the Chair of the Goodwill Ambassadors of the Kofi Annan International Peacekeeping Training Centre"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense 'serves', indicating this is a current/ongoing position. However, no specific start year is provided in the available information. Following the guidelines to be conservative when uncertain, time_start is set to null. Since the position appears to be ongoing (present tense), time_finish is set to null to indicate it is current."
+      }
+    },
+    {
+      "organizations": [
+        "Centre for Regional Integration in Africa"
+      ],
+      "roles": [
+        "Chair of the Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and is also the Chair of the Board of the Centre for Regional Integration in Africa."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is also the Chair'), indicating this is a current position, but no specific start year is provided in the available information. Since time_start cannot be determined and the position appears ongoing, time_finish is set to null as per guideline 3."
+      }
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "member of Panel of the Wise (consultative body for West Africa)"
+      ],
+      "time_markers": [
+        "2010 to 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2010 to 2013, she was a member of the Panel of the Wise, a consultative body of the African Union for West Africa"
+      ],
+      "time_start": 2010,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2010 to 2013' and the supporting quote confirms 'From 2010 to 2013, she was a member of the Panel of the Wise'. This clearly indicates the position started in 2010 and ended in 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Zenith Bank, Ghana"
+      ],
+      "roles": [
+        "board chairman"
+      ],
+      "time_markers": [
+        "2010 to 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the board chairman for Zenith Bank, Ghana."
+      ],
+      "time_start": 2010,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2010 to 2013', indicating a clear start year of 2010 and end year of 2013 for the board chairman position at Zenith Bank, Ghana."
+      }
+    },
+    {
+      "organizations": [
+        "Komla Dumor Foundation"
+      ],
+      "roles": [
+        "Chair of Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Chinery-Hesse To Chair Board Of Trustees For Komla Dumor Foundation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates an announcement or appointment to the position ('To Chair Board Of Trustees') but does not provide any specific year information about when this appointment began or ended. Without temporal markers or dates in the available information, I cannot determine accurate time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations-Ghana"
+      ],
+      "roles": [
+        "founder/launcher of CFR-Ghana Memoirs Project Fund"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chinery-Hesse launched the Council on Foreign Relations-Ghana (CFR-Ghana) Memoirs Project Fund."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that Chinery-Hesse 'launched' the CFR-Ghana Memoirs Project Fund, but no specific year or time period is provided. Without additional temporal information, I cannot determine when this launch occurred or whether the role is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Ghana"
+      ],
+      "roles": [
+        "Order of the Star of Ghana recipient"
+      ],
+      "time_markers": [
+        "under John Kufour's administration"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chinery-Hesse received the highest national award in Ghana the Order of the Star of Ghana under John Kufour's administration."
+      ],
+      "time_start": 2001,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "John Kufuor served as President of Ghana from January 7, 2001 to January 7, 2009. Since the award was received 'under John Kufour's administration,' it occurred during this period. For awards given during an administration, the time span reflects when it could have been received, though the actual award was likely given in a single year within this range."
+      }
+    },
+    {
+      "organizations": [
+        "Gusi Peace Prize Foundation"
+      ],
+      "roles": [
+        "Gusi Peace Prize recipient for International Diplomacy and Humanitarianism"
+      ],
+      "time_markers": [
+        "24 November 2010",
+        "Manila, Philippines"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also awarded the Gusi Peace Prize for International Diplomacy and Humanitarianism in Manila, Philippines, on 24 November 2010."
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '24 November 2010'. Awards are typically one-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2010, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "University of Ghana"
+      ],
+      "roles": [
+        "Honorary Doctor of Law degree recipient (first female graduate to receive this honor)"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1991, the University of Ghana bestowed an Honorary Doctor of Law degree upon Mrs. Chinery-Hesse, making her the first female graduate of the University of Ghana to receive this prestigious honor."
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award event that occurred in a single year (1991). Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 1991."
+      }
+    },
+    {
+      "organizations": [
+        "University of London"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "November 2021"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2021, she was awarded an Honorary Doctorate by the University of London for her contributions to public service."
+      ],
+      "time_start": 2021,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award given in November 2021. Awards are typically one-time events that occur in a specific year rather than ongoing positions. Both time_start and time_finish are set to 2021 as this represents when the award was conferred."
+      }
+    },
+    {
+      "organizations": [
+        "African Academy of Sciences"
+      ],
+      "roles": [
+        "Honorary Fellow"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mary Akuokor Chinery-Hesse, FAAS, OSG",
+        "Fellow of the African Academy of Sciences"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes only confirm that Mary Akuokor Chinery-Hesse is a Fellow of the African Academy of Sciences (FAAS designation), but no specific years are mentioned for when this fellowship was awarded or if it has an end date. Fellowship awards are typically ongoing once granted, but without temporal information, both time_start and time_finish must be set to null."
+      }
+    }
+  ]
+}

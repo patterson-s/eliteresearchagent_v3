@@ -1,0 +1,353 @@
+{
+  "person_name": "Robert G. Greenhill",
+  "career_events": [
+    {
+      "organizations": [
+        "McKinsey & Company"
+      ],
+      "roles": [
+        "consultant"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Greenhill began his career at McKinsey & Company in 1987."
+      ],
+      "time_start": 1987,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'Greenhill began his career at McKinsey & Company in 1987,' which clearly indicates the start year as 1987. However, no end date is mentioned, and the phrase 'began his career' suggests this was the starting point but doesn't specify when it ended. Without information about when this position concluded, time_finish should be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Bombardier Inc."
+      ],
+      "roles": [
+        "Vice President Strategic Initiatives"
+      ],
+      "time_markers": [
+        "1995",
+        "1995-2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He then joined Bombardier Inc. in 1995, and as vice president Strategic Initiatives, was recognised as Canada's Top 40 under 40 in 1998."
+      ],
+      "time_start": 1995,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array contains '1995-2001' which explicitly indicates the duration of this position. The supporting quote confirms he 'joined Bombardier Inc. in 1995' and held the VP Strategic Initiatives role during this period. The end year of 2001 is clearly specified in the time range marker."
+      }
+    },
+    {
+      "organizations": [
+        "Canada's Top 40 Under 40"
+      ],
+      "roles": [
+        "honoree"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as vice president Strategic Initiatives, was recognised as Canada's Top 40 under 40 in 1998."
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "This is a one-time award/recognition ('Canada's Top 40 Under 40') that was received in 1998. Awards of this nature are typically given for a specific year rather than being ongoing positions, so both time_start and time_finish are set to 1998."
+      }
+    },
+    {
+      "organizations": [
+        "Bombardier Inc."
+      ],
+      "roles": [
+        "President of Bombardier's International Group"
+      ],
+      "time_markers": [
+        "2001",
+        "2001-2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2001, he became president of Bombardier's International Group and held that role until 2004."
+      ],
+      "time_start": 2001,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'In 2001, he became president of Bombardier's International Group and held that role until 2004.' This clearly indicates the position started in 2001 and ended in 2004. The time_markers array also confirms this with '2001-2004'."
+      }
+    },
+    {
+      "organizations": [
+        "Banff Forum"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2002, he co-founded the Banff Forum, one of Canada's preeminent public policy forums"
+      ],
+      "time_start": 2002,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes co-founding the Banff Forum in 2002. This marks the start of involvement with the organization. There is no information indicating when this role ended, and co-founder roles typically continue indefinitely unless explicitly stated otherwise. Therefore, time_finish is set to null to indicate an ongoing or unspecified end date."
+      }
+    },
+    {
+      "organizations": [
+        "International Development Research Centre"
+      ],
+      "roles": [
+        "Senior Visiting Executive"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2004, Greenhill joined the International Development Research Centre as Senior Visiting Executive, producing a critical account of Canada's global engagement 'Making A Difference?'."
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2004) is mentioned in the time_markers and supporting quote. The quote states 'In 2004, Greenhill joined the International Development Research Centre as Senior Visiting Executive' with no indication of duration or end date. Following guideline 4, when only a single year is mentioned, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Canadian International Development Agency"
+      ],
+      "roles": [
+        "President",
+        "Deputy Minister for International Cooperation"
+      ],
+      "time_markers": [
+        "2005",
+        "2005-2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Greenhill was appointed president of the Canadian International Development Agency (CIDA), and Deputy Minister for International Cooperation during the 27th Canadian Ministry."
+      ],
+      "time_start": 2005,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array contains '2005-2008' which clearly indicates a range from 2005 to 2008. The supporting quote confirms the appointment occurred 'In 2005', and the range marker '2005-2008' indicates when this position ended. This represents a complete tenure period for the roles of President of CIDA and Deputy Minister for International Cooperation."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan named Greenhill to the High-level Panel on United Nations Systemwide Coherence."
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Greenhill was named to the High-level Panel in 2006. High-level panels are typically temporary bodies formed for a specific purpose and duration, usually completing their work within the same year or shortly after formation. Since only 2006 is mentioned and no end date is provided, and given the temporary nature of such panels, both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Managing Director",
+        "Chief Business Officer"
+      ],
+      "time_markers": [
+        "2008",
+        "2008-2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2008, Greenhill joined the Geneva-based World Economic Forum (WEF) as Managing Director and Chief Business Officer."
+      ],
+      "time_start": 2008,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array contains '2008-2014' which explicitly indicates the duration of this position. The supporting quote confirms 2008 as the start year ('In 2008, Greenhill joined...'). The range 2008-2014 provides both clear start and end dates for this role at the World Economic Forum."
+      }
+    },
+    {
+      "organizations": [
+        "Global Canada"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, Greenhill returned to Montreal to found Global Canada, a multistakeholder initiative committed to improving Canada's global impact."
+      ],
+      "time_start": 2014,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote states 'In 2014, Greenhill returned to Montreal to found Global Canada.' This indicates the founding year as 2014. Since there is no mention of when this role ended or any indication it has concluded, and founder roles typically continue unless otherwise stated, time_finish is set to null to indicate the position may be ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "McGill University",
+        "Institute for the Study of International Development"
+      ],
+      "roles": [
+        "Professor of Practice"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is currently Professor of Practice at the Institute for the Study of International Development, McGill University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position is described as 'current' or ongoing, which means time_finish should be null. However, no specific start year is provided in the time_markers or supporting quotes. While we know the position is active, we cannot determine when it began, so time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "King Baudouin Foundation"
+      ],
+      "roles": [
+        "Board of Directors member (KBF-Canada)"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "member of the Board of Directors of the King Baudouin Foundation (KBF)-Canada"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is provided in the time_markers or supporting_quotes. While we know the position is active, we cannot determine when it began, so time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "Banff Forum"
+      ],
+      "roles": [
+        "Advisory Board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and of the Advisory Board of the Banff Forum."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is provided in the supporting quote or time_markers. Without additional context about when this Advisory Board membership began, time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Alberta"
+      ],
+      "roles": [
+        "student",
+        "BA in Political Science graduate",
+        "Student Union President"
+      ],
+      "time_markers": [
+        "1984"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Greenhill has a BA in political science from the University of Alberta (1984), where he was twice the university's Student Union president, being the youngest ever at 20 years old"
+      ],
+      "time_start": 1984,
+      "time_finish": 1984,
+      "metadata": {
+        "timeline_reasoning": "The year 1984 is explicitly stated as when the BA in Political Science was obtained (graduation year). While the person served as Student Union President twice and was 20 years old at the time, no separate start date is provided. The single year marker 1984 represents the completion/end of this educational period, so both time_start and time_finish are set to 1984 to indicate the education event concluded in that year."
+      }
+    },
+    {
+      "organizations": [
+        "London School of Economics"
+      ],
+      "roles": [
+        "student",
+        "MA in International History graduate"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has an MA in international history from the London School of Economics (1986)"
+      ],
+      "time_start": null,
+      "time_finish": 1986,
+      "metadata": {
+        "timeline_reasoning": "The year 1986 is associated with receiving an MA degree (graduation year), which represents the end of the educational program. The start year is not specified in the available information, so it is set to null rather than guessing when the MA program began."
+      }
+    },
+    {
+      "organizations": [
+        "INSEAD"
+      ],
+      "roles": [
+        "student",
+        "MBA graduate"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and an MBA from INSEAD (1987)."
+      ],
+      "time_start": 1986,
+      "time_finish": 1987,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates an MBA graduation from INSEAD in 1987. INSEAD's MBA program is typically a 1-year program, so the start year would be 1986. The time_finish is set to 1987, the graduation year explicitly mentioned."
+      }
+    }
+  ]
+}

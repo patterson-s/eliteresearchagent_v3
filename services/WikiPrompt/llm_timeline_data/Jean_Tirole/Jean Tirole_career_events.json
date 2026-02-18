@@ -1,0 +1,1000 @@
+{
+  "person_name": "Jean Tirole",
+  "career_events": [
+    {
+      "organizations": [
+        "École Polytechnique"
+      ],
+      "roles": [
+        "engineering degree recipient"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tirole received engineering degrees from the École Polytechnique in 1976"
+      ],
+      "time_start": 1976,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'Tirole received engineering degrees from the École Polytechnique in 1976'. Since this refers to receiving a degree (a completion event), and only one year is mentioned, both time_start and time_finish are set to 1976, representing the year the degree was awarded."
+      }
+    },
+    {
+      "organizations": [
+        "Université Paris Dauphine"
+      ],
+      "roles": [
+        "DEA degree recipient"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he received a DEA degree in 1976"
+      ],
+      "time_start": 1976,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "A DEA degree is a specific academic credential that is awarded upon completion in a single year. The supporting quote 'he received a DEA degree in 1976' indicates this was a completed event in 1976, not an ongoing program. Therefore, both start and finish are set to 1976."
+      }
+    },
+    {
+      "organizations": [
+        "École nationale des ponts et chaussées"
+      ],
+      "roles": [
+        "engineering degree recipient"
+      ],
+      "time_markers": [
+        "1978"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from the École nationale des ponts et chaussées in 1978"
+      ],
+      "time_start": 1978,
+      "time_finish": 1978,
+      "metadata": {
+        "timeline_reasoning": "The event describes receiving an engineering degree from École nationale des ponts et chaussées in 1978. Since this is a degree completion event (not a multi-year enrollment period), both time_start and time_finish are set to 1978, the year the degree was awarded."
+      }
+    },
+    {
+      "organizations": [
+        "Université Paris Dauphine"
+      ],
+      "roles": [
+        "Doctorat de troisième cycle in decision mathematics recipient"
+      ],
+      "time_markers": [
+        "1978"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Doctorat de troisième cycle in decision mathematics in 1978"
+      ],
+      "time_start": 1978,
+      "time_finish": 1978,
+      "metadata": {
+        "timeline_reasoning": "This is a doctoral degree completion event. The year 1978 represents when the degree was received/awarded. Since this is a single point-in-time achievement rather than an ongoing position, both time_start and time_finish are set to 1978."
+      }
+    },
+    {
+      "organizations": [
+        "Corps of Bridges, Waters and Forests"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "after 1978"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was appointed a member of the elite Corps of Bridges, Waters and Forests"
+      ],
+      "time_start": 1979,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'after 1978' indicates the appointment occurred sometime following 1978, so the earliest possible year would be 1979. Since this is an appointment to an elite corps with no end date mentioned, and the context suggests this is a career position rather than a temporary role, time_finish is set to null as the position appears to be ongoing or no end date is specified."
+      }
+    },
+    {
+      "organizations": [
+        "Massachusetts Institute of Technology"
+      ],
+      "roles": [
+        "Ph.D. in economics recipient"
+      ],
+      "time_markers": [
+        "1981"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He received a Ph.D. in economics from the Massachusetts Institute of Technology in 1981, writing a thesis titled Essays in economic theory under the supervision of Eric Maskin"
+      ],
+      "time_start": null,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The event describes receiving a Ph.D. in 1981, which is the completion year. While Ph.D. programs typically span several years, only the graduation year is explicitly stated. The time_start (when the program began) cannot be determined from the available information, so it is set to null. The time_finish is 1981, when the degree was awarded."
+      }
+    },
+    {
+      "organizations": [
+        "École nationale des ponts et chaussées"
+      ],
+      "roles": [
+        "researcher"
+      ],
+      "time_markers": [
+        "1981-1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After receiving his doctorate from MIT in 1981, he worked as a researcher at the École nationale des ponts et chaussées until 1984"
+      ],
+      "time_start": 1981,
+      "time_finish": 1984,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1981-1984' and supporting quote clearly indicate the position started in 1981 (after receiving his doctorate from MIT) and ended in 1984 ('until 1984'). This is a completed position with definite start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Massachusetts Institute of Technology"
+      ],
+      "roles": [
+        "professor of economics"
+      ],
+      "time_markers": [
+        "1984-1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1984–1991, he was a professor of economics at MIT"
+      ],
+      "time_start": 1984,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1984-1991' and supporting quote 'From 1984–1991, he was a professor of economics at MIT' clearly indicate the position started in 1984 and ended in 1991."
+      }
+    },
+    {
+      "organizations": [
+        "Sloan Foundation"
+      ],
+      "roles": [
+        "Sloan Research Fellow"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has also been a Sloan Research Fellow (1985)"
+      ],
+      "time_start": 1985,
+      "time_finish": 1985,
+      "metadata": {
+        "timeline_reasoning": "Sloan Research Fellowships are typically 2-year awards, but only the year 1985 is explicitly mentioned in the supporting quote. Following guideline 4, when only a single year is mentioned for an award, both time_start and time_finish should be set to that year. Without additional information confirming the end date, the conservative approach is to use the documented year for both fields."
+      }
+    },
+    {
+      "organizations": [
+        "Econometric Society"
+      ],
+      "roles": [
+        "fellow"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a fellow of the Econometric Society in 1986"
+      ],
+      "time_start": 1986,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is a fellowship award from the Econometric Society in 1986. Fellowships are typically honorary titles that, once awarded, remain active indefinitely (the person remains a 'fellow' for life unless revoked). Since only the award year 1986 is mentioned and there's no indication of an end date, time_start is set to 1986 and time_finish is null to indicate the ongoing nature of this honor."
+      }
+    },
+    {
+      "organizations": [
+        "Guggenheim Foundation"
+      ],
+      "roles": [
+        "Guggenheim Fellow"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Guggenheim Fellow (1988)"
+      ],
+      "time_start": 1988,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "Guggenheim Fellowships are typically awarded for a specific fellowship period (usually one year). The time marker '1988' indicates when the fellowship was awarded. Since only a single year is mentioned and this is an award/fellowship with a defined period rather than an ongoing position, both time_start and time_finish are set to 1988."
+      }
+    },
+    {
+      "organizations": [
+        "Université libre de Bruxelles"
+      ],
+      "roles": [
+        "Doctorate honoris causa recipient"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctorates honoris causa from the Université libre de Bruxelles in 1989"
+      ],
+      "time_start": 1989,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 1989. Awards are typically conferred on a specific date/year rather than being ongoing positions. Since only 1989 is mentioned and this is a one-time honor, both time_start and time_finish are set to 1989."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "foreign honorary member"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a foreign honorary member of the American Academy of Arts and Sciences (1993)"
+      ],
+      "time_start": 1993,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is an award/honorary membership granted in 1993. Honorary memberships in prestigious academies like the American Academy of Arts and Sciences are typically lifetime appointments without an end date, so time_finish is set to null to indicate it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "American Economic Association"
+      ],
+      "roles": [
+        "foreign honorary member"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "of the American Economic Association (1993)"
+      ],
+      "time_start": 1993,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The year 1993 marks when the foreign honorary member award/status was received from the American Economic Association. Honorary memberships are typically lifetime distinctions that do not have an end date, so time_finish is set to null to indicate this is an ongoing honor."
+      }
+    },
+    {
+      "organizations": [
+        "Yrjö Jahnsson Foundation",
+        "European Economic Association"
+      ],
+      "roles": [
+        "Yrjö Jahnsson Award recipient"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Yrjö Jahnsson Award of the Yrjö Jahnsson Foundation and the European Economic Association in 1993"
+      ],
+      "time_start": 1993,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1993) mentioned. Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 1993."
+      }
+    },
+    {
+      "organizations": [
+        "École Polytechnique"
+      ],
+      "roles": [
+        "professor of economics"
+      ],
+      "time_markers": [
+        "1994-1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1994 to 1996 he was a professor of economics at the École Polytechnique"
+      ],
+      "time_start": 1994,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1994-1996' and supporting quote 'From 1994 to 1996 he was a professor of economics at the École Polytechnique' clearly indicate the position started in 1994 and ended in 1996."
+      }
+    },
+    {
+      "organizations": [
+        "École des hautes études en sciences sociales"
+      ],
+      "roles": [
+        "professor 'cumulant'"
+      ],
+      "time_markers": [
+        "since 1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "has been a professor 'cumulant' at the École des hautes études en sciences sociales since 1995"
+      ],
+      "time_start": 1995,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 1995' clearly indicates the position started in 1995. The word 'since' implies the position is ongoing from 1995 to present, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Florida"
+      ],
+      "roles": [
+        "Public Utility Research Center Distinguished Service Award recipient"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Public Utility Research Center Distinguished Service Award (University of Florida) in 1997"
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1997). Awards are typically one-time recognitions received in a specific year, not ongoing positions. Therefore, both time_start and time_finish are set to 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Econometric Society"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was president of the Econometric Society in 1998"
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'He was president of the Econometric Society in 1998', indicating a specific year. Presidential positions in academic societies are typically one-year terms, and since only 1998 is mentioned with no indication of an ongoing role, both start and finish are set to 1998."
+      }
+    },
+    {
+      "organizations": [
+        "John von Neumann Award"
+      ],
+      "roles": [
+        "John von Neumann Award recipient"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "John von Neumann Award (1998)"
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1998). Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 1998."
+      }
+    },
+    {
+      "organizations": [
+        "European Economic Association"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "of the European Economic Association in 2001"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2001) is mentioned in the time_markers and supporting quote. The role of 'president' of an association is typically a term-limited position lasting one year or a specific term. Since no end date or range is provided, and following guideline 4, both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Chevalier de la Légion d'honneur"
+      ],
+      "roles": [
+        "Chevalier"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he is a Chevalier de la Légion d'honneur since 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'he is a Chevalier de la Légion d'honneur since 2007', indicating the award was received in 2007. The word 'since' and present tense 'is' suggest this is an ongoing honor that does not expire, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "French CNRS"
+      ],
+      "roles": [
+        "Gold Medal recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Gold Medal (French: médaille d'or) of the French CNRS in 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Gold Medal from French CNRS) with a single year mentioned (2007). Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "City of Toulouse"
+      ],
+      "roles": [
+        "Gold Medal recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Gold Medal of the city of Toulouse in 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2007). Awards are typically one-time honors received in a specific year, so both time_start and time_finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "London Business School"
+      ],
+      "roles": [
+        "Doctorate honoris causa recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the London Business School and the University of Montreal in 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2007. Awards are typically conferred at a specific point in time rather than spanning a duration. The time_marker clearly indicates 2007, and the supporting quote confirms this timing. Both time_start and time_finish are set to 2007 as this represents a single-year event."
+      }
+    },
+    {
+      "organizations": [
+        "University of Montreal"
+      ],
+      "roles": [
+        "Doctorate honoris causa recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the London Business School and the University of Montreal in 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award, which is a one-time honor conferred in a specific year. The time_marker clearly indicates 2007, and the supporting quote confirms this. Awards of this type don't have a duration - they are received in a single moment/ceremony, so both start and finish are set to the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Conseil d'Analyse Économique"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "since 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Conseil d'Analyse Économique since 2008"
+      ],
+      "time_start": 2008,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 2008' indicates the position started in 2008 and is ongoing. The word 'since' clearly denotes a continuing position with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "BBVA Foundation"
+      ],
+      "roles": [
+        "Frontiers of Knowledge Award recipient in Economics, Finance and Management"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The inaugural BBVA Foundation Frontiers of Knowledge Award in the Economics, Finance and Management category in 2008"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2008). Awards are typically one-time recognitions that occur in a specific year. The supporting quote confirms this was 'the inaugural BBVA Foundation Frontiers of Knowledge Award' received 'in 2008', indicating both the start and finish occurred in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Prix du Cercle d'Oc"
+      ],
+      "roles": [
+        "recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Prix du Cercle d'Oc in 2008"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2008). Awards are typically received at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "International Association for Energy Economics"
+      ],
+      "roles": [
+        "Outstanding Contributions to the Profession Award recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Outstanding Contributions to the Profession Award (International Association for Energy Economics) in 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award received in 2009. Awards are typically one-time recognitions that occur in a specific year rather than ongoing positions. Since only 2009 is mentioned and this is a discrete award event, both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Ordre national du Mérite"
+      ],
+      "roles": [
+        "Officer"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "an Officer in the Ordre national du Mérite since 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'an Officer in the Ordre national du Mérite since 2010', indicating the award was received in 2010. The word 'since' implies this is an ongoing honor that continues to the present, so time_finish is null. Honorary titles and awards like this are typically held for life once conferred."
+      }
+    },
+    {
+      "organizations": [
+        "Prix Claude Levi-Strauss"
+      ],
+      "roles": [
+        "recipient"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The 'Prix Claude Levi-Strauss' in 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2010). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Chicago Mercantile Exchange",
+        "Mathematical Sciences Research Institute"
+      ],
+      "roles": [
+        "CME-MSRI prize in Innovative Quantitative Innovations in Finance recipient"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Chicago Mercantile Exchange – Mathematical Sciences Research Institute (CME-MSRI) prize in Innovative Quantitative Innovations in Finance in 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2010). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Tilburg University"
+      ],
+      "roles": [
+        "Tjalling Koopmans Asset Award recipient"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Tjalling Koopmans Asset Award (Tilburg University) in 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2010). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Society for the Advancement of Economic Theory"
+      ],
+      "roles": [
+        "Economic Theory Fellow"
+      ],
+      "time_markers": [
+        "since 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "an Economic Theory Fellow (Society for the Advancement of Economic Theory) since 2011"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2011' and supporting quote indicate the fellowship began in 2011 and is ongoing (no end date mentioned). The word 'since' clearly indicates a continuing status."
+      }
+    },
+    {
+      "organizations": [
+        "Académie des Sciences morales et politiques"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "since 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tirole has been a member of the Académie des Sciences morales et politiques since 2011"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2011' and supporting quote indicate that Tirole became a member in 2011 and the position is ongoing (the word 'since' implies continuation to the present)."
+      }
+    },
+    {
+      "organizations": [
+        "University of Mannheim"
+      ],
+      "roles": [
+        "Doctorate honoris causa recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the University of Mannheim in 2011"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2011. Awards are typically conferred at a specific point in time rather than spanning a duration. Since only one year (2011) is mentioned in the time_markers and supporting quote, both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Athens University of Economics and Business"
+      ],
+      "roles": [
+        "Doctorate honoris causa recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Athens University of Economics and Business and the University of Rome Tor Vergata in 2012"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2012. Awards are typically conferred at a specific point in time rather than spanning a duration. The time_marker clearly indicates 2012, and the supporting quote confirms this timing. Both time_start and time_finish are set to 2012 as this represents a single event."
+      }
+    },
+    {
+      "organizations": [
+        "University of Rome Tor Vergata"
+      ],
+      "roles": [
+        "Doctorate honoris causa recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Athens University of Economics and Business and the University of Rome Tor Vergata in 2012"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2012. Awards are typically conferred at a specific point in time rather than spanning a duration. The time_marker clearly indicates 2012, and the supporting quote confirms this timing. Following guideline 4, since only a single year is mentioned for this award event, both time_start and time_finish are set to 2012."
+      }
+    },
+    {
+      "organizations": [
+        "Conseil stratégique de la recherché"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "since 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Conseil stratégique de la recherché since 2013"
+      ],
+      "time_start": 2013,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 2013' clearly indicates the position started in 2013 and is ongoing, as 'since' denotes a continuing state from that year to the present."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Society of Edinburgh"
+      ],
+      "roles": [
+        "Honorary Fellow"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2013 Tirole was elected an Honorary Fellow of the Royal Society of Edinburgh"
+      ],
+      "time_start": 2013,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is an honorary fellowship awarded in 2013. Honorary fellowships are typically lifetime honors that do not have an end date, so time_finish is set to null while time_start is 2013 when the honor was conferred."
+      }
+    },
+    {
+      "organizations": [
+        "University of Lausanne"
+      ],
+      "roles": [
+        "Doctorate honoris causa recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the University of Lausanne in 2013"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award from the University of Lausanne in 2013. Awards are typically conferred at a specific point in time rather than spanning a duration. The single year 2013 is mentioned in time_markers and supporting quotes, so both time_start and time_finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "roles": [
+        "Nobel Memorial Prize in Economic Sciences laureate"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, he received the Nobel Memorial Prize in Economic Sciences for his analysis of market power and regulation"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is a Nobel Prize award, which is a one-time honor conferred in a specific year. The time_marker '2014' and supporting quote clearly indicate the award was received in 2014. Nobel Prizes are not ongoing positions but rather permanent recognitions awarded in a single year, so both start and finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Erwin Plein Nemmers Prize"
+      ],
+      "roles": [
+        "Erwin Plein Nemmers Prize in Economics recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Erwin Plein Nemmers Prize in Economics (2014)"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2014) mentioned in both time_markers and supporting_quotes. Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Toulouse 1 University Capitole",
+        "Toulouse School of Economics"
+      ],
+      "roles": [
+        "professor of economics",
+        "chairman of the board of Jean-Jacques Laffont Foundation",
+        "scientific director of Industrial Economics Institute (IDEI)",
+        "Chair of the Board"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "is a French economist who is currently a professor of economics at Toulouse 1 Capitole University",
+        "Tirole is chairman of the board of the Jean-Jacques Laffont Foundation at the Toulouse School of Economics, and scientific director of the Industrial Economics Institute (IDEI) at Toulouse 1 University Capitole",
+        "Chair of the Board of the Toulouse School of Economics"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_markers indicate 'current' and supporting quotes use 'currently' and 'is', confirming these are ongoing positions. However, no specific start year is provided in the career event data. While time_finish should be null for current positions, time_start cannot be determined from the available information without additional context about when these roles began."
+      }
+    },
+    {
+      "organizations": [
+        "Massachusetts Institute of Technology"
+      ],
+      "roles": [
+        "visiting professor"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a visiting professor at MIT"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is provided in the time_markers or supporting quotes. While we know the position is active, we cannot determine when it began without additional information."
+      }
+    },
+    {
+      "organizations": [
+        "Corps of Bridges, Waters and Forests"
+      ],
+      "roles": [
+        "Engineer General"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is Engineer General of the Corps of Bridges, Waters and Forests"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' meaning the position is ongoing, so time_finish should be null. However, no specific year is provided for when this position started. Without a concrete start year in the supporting quotes or time_markers, time_start must also be null despite knowing the position is current."
+      }
+    }
+  ]
+}

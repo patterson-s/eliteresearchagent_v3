@@ -1,0 +1,396 @@
+{
+  "person_name": "Shaukat Aziz",
+  "career_events": [
+    {
+      "organizations": [
+        "Gordon College of Rawalpindi"
+      ],
+      "roles": [
+        "student",
+        "BS in Economics graduate"
+      ],
+      "time_markers": [
+        "1965-1967"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "ascended to attend the Gordon College of Rawalpindi, Punjab province in 1965. Aziz obtained a BS degree in Economics in 1967 from Gordan College"
+      ],
+      "time_start": 1965,
+      "time_finish": 1967,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1965-1967' and supporting quote clearly indicate that the person attended Gordon College starting in 1965 and obtained their BS degree in Economics in 1967, marking the end of this educational period."
+      }
+    },
+    {
+      "organizations": [
+        "Institute of Business Administration (IBA) Karachi"
+      ],
+      "roles": [
+        "student",
+        "MBA in Business Administration graduate"
+      ],
+      "time_markers": [
+        "1967-1969"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "moved back to Karachi the same year to enroll in a master's programme. Aziz attended the master's programme of the Institute of Business Administration (IBA) in Karachi and obtained MBA in business administration in 1969."
+      ],
+      "time_start": 1967,
+      "time_finish": 1969,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1967-1969' clearly indicates a two-year period, and the supporting quote confirms that the person 'obtained MBA in business administration in 1969', establishing 1969 as the completion year. The range 1967-1969 represents the full duration of the MBA programme at IBA Karachi."
+      }
+    },
+    {
+      "organizations": [
+        "Citibank Pakistan"
+      ],
+      "roles": [
+        "credit officer"
+      ],
+      "time_markers": [
+        "1969"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Initially, Aziz joined the corporate branch of Citibank Pakistan as its credit officer in 1969."
+      ],
+      "time_start": 1969,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "Only one year (1969) is mentioned as when Aziz joined Citibank Pakistan as credit officer. The word 'Initially' suggests this was the start of a position, but no end date is provided. Following guideline 4, when only a single year is mentioned for a position start, I would normally set both to that year, but the context indicates this is clearly a start date ('joined...in 1969') rather than a complete tenure in a single year. Since no end date is specified and we cannot determine when this position ended, time_finish should be null."
+      }
+    },
+    {
+      "organizations": [
+        "Citibank"
+      ],
+      "roles": [
+        "director of Asia/Pacific global finance operations"
+      ],
+      "time_markers": [
+        "1970s-1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At Citibank, Aziz served as the corporate director of Asia Pacific global finance operations and had been notable for financing and managing funds on behalf of Citibank"
+      ],
+      "time_start": 1970,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1970s-1990s' indicates a span from the 1970s through the 1990s. Using the earliest year of the 1970s (1970) as time_start and the latest year of the 1990s (1999) as time_finish provides the most accurate representation of this multi-decade career position at Citibank."
+      }
+    },
+    {
+      "organizations": [
+        "Citibank",
+        "Citicorp"
+      ],
+      "roles": [
+        "Corporate Planning Officer (CPO)",
+        "Chief Financial Officer of Citicorp"
+      ],
+      "time_markers": [
+        "1980s-1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the U.S., Aziz held numerous positions in Citibank across several divisions including Corporate and Investment Banking (CIB), Corporate Planning Officer (CPO), Chief Financial Officer of Citicorp"
+      ],
+      "time_start": 1980,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1980s-1990s' indicates these positions were held during a span covering both decades. Using the start of the 1980s (1980) and end of the 1990s (1999) provides the most accurate range for when these multiple roles at Citibank/Citicorp were held. The quote indicates these were 'numerous positions' suggesting an extended period rather than a single year."
+      }
+    },
+    {
+      "organizations": [
+        "Citibank Singapore"
+      ],
+      "roles": [
+        "managing director"
+      ],
+      "time_markers": [
+        "1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Aziz held numerous positions in Citibank across several divisions including...managing director of Citibank Singapore"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1990s' indicates a decade-long period (1990-1999) but does not specify when within that decade the position started or ended. Without more precise information about the exact years, setting both values to null is the most conservative and accurate approach."
+      }
+    },
+    {
+      "organizations": [
+        "Saudi American Bank",
+        "Citicorp Islamic Bank"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has been a board member of Citibank subsidiaries, including Saudi American Bank, Citicorp Islamic Bank, and of several non-profit organizations."
+      ],
+      "time_start": 1990,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1990s' indicates the decade when this board membership occurred. Since no more specific years are provided and the quote uses past tense ('has been'), this suggests a completed position during that decade. Using 1990-1999 represents the full decade span of the 1990s."
+      }
+    },
+    {
+      "organizations": [
+        "Citi Private Bank"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "before 1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Shaukat Aziz had been a president of Citi Private Bank in New York before returning to Pakistan in 1999."
+      ],
+      "time_start": null,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The quote states Shaukat Aziz was president of Citi Private Bank 'before returning to Pakistan in 1999', which clearly indicates the position ended in 1999. However, no information is provided about when the position started, so time_start must be null. The time_marker 'before 1999' confirms the end date but doesn't specify a start date."
+      }
+    },
+    {
+      "organizations": [
+        "Citibank"
+      ],
+      "roles": [
+        "executive vice-president"
+      ],
+      "time_markers": [
+        "1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "became executive vice-president of Citibank in 1999"
+      ],
+      "time_start": 1999,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person 'became executive vice-president of Citibank in 1999', which clearly marks 1999 as the start year. There is no information about when this position ended, so time_finish is set to null as the end date cannot be determined from the available information."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Pakistan",
+        "Finance Ministry"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "6 November 1999 - 15 November 2007"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he served as the finance minister of Pakistan from 6 November 1999 to 15 November 2007",
+        "Aziz reportedly returned with Musharraf in November 1999 and took charge of the Finance ministry as its Finance Minister"
+      ],
+      "time_start": 1999,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 6 November 1999 and ended on 15 November 2007. Both supporting quotes confirm this timeframe, with one explicitly stating 'from 6 November 1999 to 15 November 2007' and another confirming he 'returned with Musharraf in November 1999 and took charge of the Finance ministry.' The start year is 1999 and the finish year is 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Pakistan"
+      ],
+      "roles": [
+        "chair of Economic Coordination Committee of the Cabinet",
+        "chair of Cabinet Committee on Investment",
+        "chair of executive committee of the National Economic Council",
+        "chair of Cabinet Committee on Privatization"
+      ],
+      "time_markers": [
+        "1999-2007"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As Minister of Finance Aziz also headed the Economic Coordination Committee of the Cabinet, the Cabinet Committee on Investment, the executive committee of the National Economic Council, and the Cabinet Committee on Privatization."
+      ],
+      "time_start": 1999,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1999-2007' as the period for these roles. The supporting quote states these positions were held 'As Minister of Finance,' and the time range 1999-2007 corresponds to Shaukat Aziz's tenure as Finance Minister of Pakistan, during which he chaired these various cabinet committees."
+      }
+    },
+    {
+      "organizations": [
+        "National Assembly of Pakistan"
+      ],
+      "roles": [
+        "Member of National Assembly",
+        "representative of constituency NA-59 (Attock-III)"
+      ],
+      "time_markers": [
+        "20 August 2004 - 15 November 2007"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the National Assembly of Pakistan In office 20 August 2004 – 15 November 2007",
+        "Constituency NA-59 (Attock-III)"
+      ],
+      "time_start": 2004,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '20 August 2004 - 15 November 2007' as the period of service. The start year is 2004 and the end year is 2007. This is confirmed by the supporting quote 'In office 20 August 2004 – 15 November 2007'."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Pakistan"
+      ],
+      "roles": [
+        "Prime Minister of Pakistan"
+      ],
+      "time_markers": [
+        "28 August 2004 - 15 November 2007"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served as the 15th prime minister of Pakistan from 28 August 2004 to 15 November 2007",
+        "15th Prime Minister of Pakistan In office 28 August 2004 – 15 November 2007"
+      ],
+      "time_start": 2004,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position started on 28 August 2004 and ended on 15 November 2007. Therefore, time_start is 2004 and time_finish is 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Pakistan Muslim League (Q)"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2002-2007"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Other political affiliations PML(Q) (2002–2007)"
+      ],
+      "time_start": 2002,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2002-2007' clearly indicates a defined period of political affiliation with PML(Q). The supporting quote 'Other political affiliations PML(Q) (2002–2007)' confirms this timeframe, showing the membership started in 2002 and ended in 2007."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "co-chair of Secretary-General's High Level Panel on UN System-wide Coherence"
+      ],
+      "time_markers": [
+        "during premiership 2004-2007"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Aziz co-chaired the Secretary-General's High Level Panel on the United Nations System-wide Coherence in the areas of development, humanitarian assistance and the environment."
+      ],
+      "time_start": 2004,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states 'during premiership 2004-2007', which provides clear temporal boundaries for when this person served as co-chair of the UN panel. The role was held during their tenure as premier from 2004 to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Millennium & Copthorne Hotels plc"
+      ],
+      "roles": [
+        "board member or advisory board member"
+      ],
+      "time_markers": [
+        "post-2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He serves on a number of boards and advisory boards including Millennium & Copthorne Hotels plc."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'post-2007' indicates the position started sometime after 2007, but no specific start year is provided. The supporting quote uses present tense ('serves'), suggesting the position may be ongoing, but without a clear current date reference or specific years, both time_start and time_finish should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "The Blackstone Group"
+      ],
+      "roles": [
+        "board member or advisory board member"
+      ],
+      "time_markers": [
+        "post-2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He serves on a number of boards and advisory boards including...The Blackstone Group."
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'post-2007' indicates the position started after 2007, so 2007 is the earliest reasonable start year. The supporting quote uses present tense ('serves'), indicating this is an ongoing position, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Louise Blouin Foundation"
+      ],
+      "roles": [
+        "delegate at Global Creative Leadership Summit"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2008, Aziz participated in the Global Creative Leadership Summit, organised by the Louise Blouin Foundation. As a delegate, he delivered a keynote speech for the panel entitled 'Economic Crisis, Economics of Change: Credit, Commodities, and Trade.'"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is a speaking engagement that occurred at a specific event (Global Creative Leadership Summit) in 2008. Speaking engagements are typically single-occurrence events, not ongoing positions. The supporting quote confirms this was a one-time participation where the delegate delivered a keynote speech in 2008."
+      }
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "person_name": "Josette Sheeran",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Colorado at Boulder"
+      ],
+      "roles": [
+        "student",
+        "Bachelor of Arts graduate"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She earned a Bachelor of Arts from the University of Colorado at Boulder in 1976."
+      ],
+      "time_start": null,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "The event describes earning a Bachelor of Arts degree in 1976, which is a graduation year (completion date). While we know the degree was completed in 1976, the start year of the undergraduate studies is not specified. A typical BA takes 4 years, which would suggest 1972-1976, but without explicit confirmation, time_start should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "New York News World"
+      ],
+      "roles": [
+        "journalist",
+        "White House correspondent"
+      ],
+      "time_markers": [
+        "1976",
+        "until 1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran got her start in journalism in 1976 with the New York News World",
+        "She served in a number of capacities for News World, eventually becoming their White House correspondent."
+      ],
+      "time_start": 1976,
+      "time_finish": 1982,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'got her start in journalism in 1976 with the New York News World', establishing 1976 as the start year. The time_marker 'until 1982' indicates the position ended in 1982. The phrase 'until 1982' is a clear endpoint marker for this career position."
+      }
+    },
+    {
+      "organizations": [
+        "The Washington Times"
+      ],
+      "roles": [
+        "features editor",
+        "managing editor"
+      ],
+      "time_markers": [
+        "1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1982, she moved to News World's new sister paper, The Washington Times. Originally a features editor, she was eventually appointed managing editor."
+      ],
+      "time_start": 1982,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote indicates she moved to The Washington Times in 1982 and held two roles there (features editor, then managing editor), but no end date is mentioned. Since we only know when the position started and have no information about when it ended, time_finish should be null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Pulitzer Prize"
+      ],
+      "roles": [
+        "juror"
+      ],
+      "time_markers": [
+        "served twice"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has twice served as a Pulitzer Prize juror."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates the person served as a Pulitzer Prize juror twice, but no specific years are mentioned in the time_markers or supporting quotes. The phrase 'served twice' indicates multiple separate instances of service, but without concrete dates, both time_start and time_finish must be null."
+      }
+    },
+    {
+      "organizations": [
+        "Empower America"
+      ],
+      "roles": [
+        "President",
+        "Chief Executive Officer"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran also served as President and Chief Executive Officer of Empower America, where she developed its agenda of trade policy, technology policy, education reform, and tax reform"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('served', 'developed') indicating the position has ended, but no specific years are mentioned in the provided information. Without concrete dates, I cannot determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Starpoint Solutions"
+      ],
+      "roles": [
+        "managing director"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before joining USTR, Sheeran was managing director of Starpoint Solutions, a Wall Street technology firm that works with Fortune 500 clients."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates this position was held 'before joining USTR' but provides no specific years or dates. Without additional context about when the person joined USTR, no accurate time range can be determined."
+      }
+    },
+    {
+      "organizations": [
+        "Office of the U.S. Trade Representative"
+      ],
+      "roles": [
+        "Deputy United States Trade Representative"
+      ],
+      "time_markers": [
+        "2001-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She served as Ambassador and Deputy U.S. Trade Representative under President George Bush, covering all Asia, Africa and Intellectual Property, Technology and Agriculture from 2001-2005.",
+        "Prior to her tenure as Under Secretary, Sheeran served as Deputy United States Trade Representative in the Office of the U.S. Trade Representative (USTR)."
+      ],
+      "time_start": 2001,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2001-2005' clearly indicates a date range, and the supporting quote explicitly states 'from 2001-2005' for this position as Deputy U.S. Trade Representative under President George Bush. This is a completed position with definitive start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "United States Department of State"
+      ],
+      "roles": [
+        "Under Secretary of State for Economic, Business, and Agricultural Affairs"
+      ],
+      "time_markers": [
+        "August 23, 2005",
+        "April 4, 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office August 23, 2005 – April 4, 2007",
+        "She served in the United States Department of State as Under Secretary of State for Secretary of State Condoleezza Rice covering Economic Growth, Energy, Technology, Agriculture and the Environment, with the rank of Ambassador."
+      ],
+      "time_start": 2005,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on August 23, 2005 and ended on April 4, 2007. The supporting quote 'In office August 23, 2005 – April 4, 2007' confirms these are the start and end dates of the position."
+      }
+    },
+    {
+      "organizations": [
+        "Group of Eight (G8)"
+      ],
+      "roles": [
+        "Foreign Affairs Sous-Sherpa on behalf of the President"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran also served as the Foreign Affairs Sous-Sherpa on behalf of the President of the United States at the Group of Eight (G8) Summit."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was a position held at some point in the past ('served as'), but no specific years or time markers are provided. The G8 Summit occurs annually, but without additional context about which summit(s) or what time period is being referenced, I cannot determine accurate start and finish years. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank",
+        "Inter-American Development Bank",
+        "African Development Bank",
+        "Asian Development Bank",
+        "European Bank for Reconstruction and Development"
+      ],
+      "roles": [
+        "Alternative Governor"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She represented the United States at a wide variety of high-level bilateral and multilateral meetings, serving as Alternative Governor for the World Bank; the Inter-American Development Bank; the African Development Bank; the Asian Development Bank; and the European Bank for Reconstruction and Development."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the career event data. The supporting quote only describes the role and organizations but provides no temporal information about when this position started or ended. Without additional context or time markers, it's not possible to determine the timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "Overseas Private Investment Corporation"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Congress also confirmed her as a Member of the Board of Directors for the Overseas Private Investment Corporation."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that Congress confirmed her as a Member of the Board of Directors for OPIC, but provides no specific years or time markers indicating when this confirmation occurred or when the position ended. Without additional temporal information, I cannot determine accurate start or end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Millennium Challenge Corporation"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has served on the boards of OPIC, and the Millennium Challenge Corporation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('has served') indicating the position has ended, but no specific years are mentioned for when the board membership at Millennium Challenge Corporation started or finished. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "UNESCO"
+      ],
+      "roles": [
+        "US Representative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "US Representative to UNESCO"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role title 'US Representative to UNESCO' but contains no dates, time markers, or contextual clues about when this position was held. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Asia-Pacific Economic Cooperation"
+      ],
+      "roles": [
+        "lead U.S. representative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as the lead U.S. representative to the Asia-Pacific Economic Cooperation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only confirms the role and organization but contains no temporal information to determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "OECD"
+      ],
+      "roles": [
+        "lead U.S. representative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as the lead U.S. representative to the Asia-Pacific Economic Cooperation and the OECD."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only describes the role without providing temporal information about when this position was held."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations High Level Panel on System-Wide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was named by former UN Secretary General Kofi Annan along with Prime Ministers Luisa Dias Diogo, Prime Minister of Mozambique; Jens Stoltenberg, Prime Minister of Norway; and Shaukat Aziz, Prime Minister of Pakistan, to the High Level Panel on System-Wide Coherence."
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The UN High Level Panel on System-Wide Coherence was established by UN Secretary General Kofi Annan in 2006 and completed its work the same year, delivering its report in November 2006. Kofi Annan's term ended in December 2006, which aligns with the panel being formed during his tenure as stated in the quote."
+      }
+    },
+    {
+      "organizations": [
+        "World Food Programme"
+      ],
+      "roles": [
+        "Executive Director"
+      ],
+      "time_markers": [
+        "April 4, 2007",
+        "April 5, 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Executive Director of the World Food Programme In office April 4, 2007 – April 5, 2012",
+        "She was the eleventh Executive Director of the UN World Food Programme (WFP), appointed by United Nations Secretary-General"
+      ],
+      "time_start": 2007,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on April 4, 2007 and ended on April 5, 2012. The supporting quote confirms this was a completed term as Executive Director of the World Food Programme, with specific start and end dates provided."
+      }
+    },
+    {
+      "organizations": [
+        "UN High Level Committee on Management"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "two terms"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ms. Sheeran chaired the UN High Level Committee on Management for two terms, leading more than 40 UN entities in a series of historic reforms"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The text only mentions 'two terms' without specifying the actual years when Ms. Sheeran served as chair. While we know the duration pattern (two terms), there are no specific years, dates, or temporal references that would allow us to determine when this position started or ended. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Vice Chairman"
+      ],
+      "time_markers": [
+        "announced January 2012",
+        "assumed 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2012, Sheeran announced that she would assume the role of Vice Chairman of the World Economic Forum upon completing her term at WFP in 2012.",
+        "Sheeran is former Vice Chair of the World Economic Forum."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position was announced in January 2012 and assumed in 2012, establishing a clear start year. The quote 'Sheeran is former Vice Chair' indicates the position has ended, but no specific end year is provided in the available information. Following the conservative guideline, time_finish is set to null since the exact end year cannot be determined."
+      }
+    },
+    {
+      "organizations": [
+        "Harvard Kennedy School Belfer Center"
+      ],
+      "roles": [
+        "Fisher Fellow"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a Fisher Fellow at the Harvard Kennedy School Belfer Center in 2013."
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'She was a Fisher Fellow at the Harvard Kennedy School Belfer Center in 2013.' Only a single year (2013) is mentioned, and fellowships are typically time-limited positions. Following guideline 4, when only a single year is mentioned, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Asia Society"
+      ],
+      "roles": [
+        "seventh president and CEO"
+      ],
+      "time_markers": [
+        "2013",
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran served as the seventh president and CEO of Asia Society from 2013 to 2020."
+      ],
+      "time_start": 2013,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'served as the seventh president and CEO of Asia Society from 2013 to 2020', clearly indicating a start year of 2013 and an end year of 2020. The use of past tense 'served' and the phrase 'from...to' confirms this was a completed position with definite start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Envoy for Haiti"
+      ],
+      "time_markers": [
+        "appointed June 20, 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran also served as the UN Special Envoy to Haiti, appointed on June 20, 2017, representing UN Secretary General António Guterres"
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment date is explicitly stated as June 20, 2017, which provides the start year. There is no mention of when this position ended, and the text uses 'served' which could indicate either a completed or ongoing role. Without explicit information about the end date, time_finish should be set to null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "McCain Institute"
+      ],
+      "roles": [
+        "Executive Director"
+      ],
+      "time_markers": [
+        "March 14, 2021",
+        "May 2, 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Executive Director of the McCain Institute In office March 14, 2021 – May 2, 2022"
+      ],
+      "time_start": 2021,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on March 14, 2021 and ended on May 2, 2022. This is confirmed by the supporting quote showing 'In office March 14, 2021 – May 2, 2022'. Therefore, time_start is 2021 and time_finish is 2022."
+      }
+    },
+    {
+      "organizations": [
+        "Canoo"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "appointed July 26, 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On July 26, 2021 she was appointed President of Canoo (NASDAQ: GOEV) an electric vehicle startup based in Los Angeles"
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started on July 26, 2021 as explicitly stated in the appointment date. There is no information indicating when or if this position ended, suggesting it may be ongoing, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Firefly Global Group"
+      ],
+      "roles": [
+        "founder",
+        "CEO"
+      ],
+      "time_markers": [
+        "currently"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She currently serves as founder and CEO of Firefly Global Group, a geopolitical and business consulting firm"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates the position is current/ongoing based on the time_marker 'currently' and the supporting quote. However, no specific start year is provided in the available information. Following the conservative approach, time_start is set to null since we cannot determine when the position began. time_finish is set to null because the position is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Capital Group"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of Capital Group funds, which manages more than $2.5 trillion in global investments"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is mentioned in the supporting quotes or other fields. Without a concrete year reference, time_start must also be null despite knowing the position is active."
+      }
+    },
+    {
+      "organizations": [
+        "Vestergaard International"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...Vestergaard International, which has delivered 1 billion high tech nets to prevent deaths from malaria"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is provided in the supporting quote or time_markers. The quote only confirms the board membership exists but provides no temporal information about when it began. Following the conservative approach, time_start is set to null due to lack of specific year information."
+      }
+    },
+    {
+      "organizations": [
+        "Lifestraw"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...Lifestraw, a pioneer in access to safe water"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is provided in the supporting quote or time_markers. Without a concrete year mentioned, time_start must also be null despite knowing the position is active."
+      }
+    },
+    {
+      "organizations": [
+        "Sceye"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...Sceye, the world's first stationary stratospheric vessel"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is provided in the supporting quotes or time_markers. While we know the position is active, we cannot determine when it began, so time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "Business Council for International Understanding"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...the Business Council for International Understanding"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' which means the position is ongoing, so time_finish should be null. However, no specific start year is provided in the supporting quotes or time_markers. While we know the position is active, without a concrete start date, time_start must also be null to remain conservative and accurate."
+      }
+    },
+    {
+      "organizations": [
+        "Alliance for a Green Revolution in Africa (AGRA)"
+      ],
+      "roles": [
+        "Board of Directors member",
+        "co-chair of the Finance & Human Resources Committee"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also serves on the Board of Directors, and as co-chair of the Finance & Human Resources Committee, of the Alliance for a Green Revolution in Africa (AGRA)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'current' and the supporting quote uses present tense ('serves'), confirming this is an ongoing position. Therefore time_finish should be null. However, no specific start year is provided in the available information, so time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran is a member of the Council on Foreign Relations."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only states that Sheeran 'is a member' of the Council on Foreign Relations, using present tense to indicate current membership. However, no specific years are mentioned for when the membership began or ended. Since the position appears to be ongoing (present tense 'is'), time_finish would be null, but without any date information for when membership started, time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "30th most powerful woman in the world"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, Forbes named her the world's 30th most powerful woman"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award/recognition event from Forbes for a specific year (2011). Annual rankings like 'most powerful woman' are point-in-time recognitions that apply to a single year, not ongoing positions. Therefore, both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Foreign Policy"
+      ],
+      "roles": [
+        "top 100 global 'Twitterati'"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Foreign Policy listed her among its top 100 global 'Twitterati'."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific year is mentioned in the supporting quote or any other field. The quote only states that Foreign Policy listed her among its top 100 global 'Twitterati' but provides no temporal information. Without additional context about when this recognition occurred, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Michigan State University"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she has been awarded numerous honorary doctorate degrees, including from Michigan State University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that an honorary doctorate was awarded at some point ('has been awarded'), but provides no specific year or time period. Without additional temporal information, I cannot determine when this award was received."
+      }
+    },
+    {
+      "organizations": [
+        "University of Colorado"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she has been awarded numerous honorary doctorate degrees, including from Michigan State University and the University of Colorado."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that an honorary doctorate was awarded by the University of Colorado, but no specific year or time period is mentioned. The phrase 'has been awarded' suggests a past event, but without concrete temporal information, I cannot determine the actual year. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Nigata International Food Award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was awarded Japan's Nigata International Food Award"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific year information is provided in the career event data. The supporting quote only confirms the award was received but does not mention when. Without temporal markers or dates, I cannot determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Government of France"
+      ],
+      "roles": [
+        "Commandeur de l'Ordre du Mérite Agricole"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commandeur de l'Ordre du Mérite Agricole by the government of France"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the award title and granting organization but contains no dates, years, or time markers. Awards like the Commandeur de l'Ordre du Mérite Agricole are typically conferred at a specific point in time, but without any date information in the provided data, I cannot determine when this occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Brazil"
+      ],
+      "roles": [
+        "Grand Official Order of the 'Rio Branco' recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brazil's highest civilian award, the Grand Official Order of the 'Rio Branco,'"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the award name but contains no year or date markers. Awards are typically received at a specific point in time, but without any temporal context, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "HuffPost"
+      ],
+      "roles": [
+        "'Game Changer' award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the 'Game Changer' award by HuffPost."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific year information is provided in the supporting quote or career event data. The quote only mentions receiving the 'Game Changer' award from HuffPost without any temporal context. Following the conservative approach, both time_start and time_finish are set to null."
+      }
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "person_name": "Enrique Iglesias",
+  "birth_year": 1975,
+  "full_name": "Enrique Miguel Iglesias Preysler",
+  "career_events": [
+    {
+      "organizations": [
+        "Gulliver Preparatory School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "high school"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias attended Gulliver Preparatory School, a private high school in Miami, where he developed an interest in writing songs."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes attending high school at Gulliver Preparatory School, but no specific years are mentioned in the supporting quotes or time_markers. While 'high school' typically spans 4 years, without additional context about the person's birth year or graduation year, I cannot determine the specific start and end years. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "University of Miami"
+      ],
+      "roles": [
+        "student",
+        "business major"
+      ],
+      "time_markers": [
+        "after high school",
+        "dropped out after a year"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduating from high school he attended the University of Miami in Coral Gables, Florida, where he studied business but dropped out after a year to pursue a recording career."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event only provides relative time markers ('after high school' and 'dropped out after a year') without any specific years mentioned. Without knowing the person's high school graduation year or any other absolute date reference, it's impossible to determine the actual years of attendance at the University of Miami. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Fonovisa"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was signed by Mexican record label Fonovisa and temporarily moved to Canada to record his first album.",
+        "He started his recording career in the mid-1990s on the Mexican label Fonovisa"
+      ],
+      "time_start": 1995,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_markers indicate 1995 as the start year when he was signed by Fonovisa and began his recording career. The supporting quotes confirm this was when he 'started his recording career in the mid-1990s' and 'was signed by Mexican record label Fonovisa.' There is no information indicating when this relationship ended, so time_finish is set to null as we cannot determine the end date."
+      }
+    },
+    {
+      "organizations": [
+        "Grammy Awards"
+      ],
+      "roles": [
+        "Best Latin Pop Performance winner"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The album went on to win Iglesias the Grammy Award for Best Latin Pop Performance."
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "This is a Grammy Award win, which is a one-time event that occurred in 1997. Awards are received in a specific year and do not have an ongoing duration, so both time_start and time_finish are set to 1997."
+      }
+    },
+    {
+      "organizations": [
+        "American Music Awards"
+      ],
+      "roles": [
+        "Favorite Latin Artist nominee"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Along with his father and Luís Miguel, Iglesias was nominated for an American Music Award in the first-ever awarded category of Favorite Latin Artist. Iglesias lost out to his father"
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "This is a nomination for an award in a specific year (1997). Award nominations are point-in-time events that occur in a single year, not ongoing positions. The time_marker clearly indicates 1997, and the supporting quote confirms this was a one-time nomination event."
+      }
+    },
+    {
+      "organizations": [
+        "American Music Awards"
+      ],
+      "roles": [
+        "Favorite Latin Artist winner"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He won the American Music Award for Favorite Latin Artist for a second time, this time winning against Ricky Martin and Chayanne."
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred in a single year (1998). Awards are typically one-time events rather than ongoing positions, so both time_start and time_finish are set to 1998."
+      }
+    },
+    {
+      "organizations": [
+        "Interscope Records",
+        "Universal Music Group"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "1999-2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He signed a multi-album deal with Universal Music Group for US$68 million with Interscope Records releasing a string of hit English albums",
+        "In 2010, Iglesias parted with Interscope Records"
+      ],
+      "time_start": 1999,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1999-2010', and this is corroborated by the supporting quote 'In 2010, Iglesias parted with Interscope Records', which confirms 2010 as the end year. The range indicates the artist was signed with Interscope Records/Universal Music Group from 1999 until parting ways in 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Super Bowl XXXIV"
+      ],
+      "roles": [
+        "halftime show performer"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "performance",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2000, Iglesias performed at the Super Bowl XXXIV halftime show with Christina Aguilera, Phil Collins and Toni Braxton."
+      ],
+      "time_start": 2000,
+      "time_finish": 2000,
+      "metadata": {
+        "timeline_reasoning": "This is a one-time performance event at Super Bowl XXXIV halftime show in 2000. Since it's a single performance rather than an ongoing position, both time_start and time_finish are set to 2000."
+      }
+    },
+    {
+      "organizations": [
+        "World Music Awards"
+      ],
+      "roles": [
+        "Best-Selling Pop Male Artist winner",
+        "European Male Artist winner"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2001, for the release of his second English studio album Escape, he received awards for Best-Selling Pop Male Artist and European Male Artist at the World Music Awards."
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred in a single year (2001). Awards are typically one-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Latin Grammy Awards"
+      ],
+      "roles": [
+        "Best Pop Vocal Album winner"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The album went on to win the Latin Grammy Award for Best Pop Vocal Album."
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2002'. Awards are typically given for a specific year and represent a point-in-time achievement rather than an ongoing position. Therefore, both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Once Upon a Time in Mexico"
+      ],
+      "roles": [
+        "actor (Lorenzo)"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "acting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias starred alongside Antonio Banderas, Salma Hayek, and Johnny Depp in the Robert Rodriguez film Once Upon a Time in Mexico, in which he played the well-spoken gun-wielding Lorenzo."
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is a film acting role in 'Once Upon a Time in Mexico' with a single year marker of 2003. Film roles are discrete events that occur in a specific year (the release year), so both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Two and a Half Men"
+      ],
+      "roles": [
+        "guest actor"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "acting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2007, he had a guest appearance in the TV comedy Two and a Half Men as a carpenter/handyman."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states this was a guest appearance in 2007. Guest appearances are typically single episodes or brief appearances that occur within a specific year rather than spanning multiple years. Since only 2007 is mentioned and the role is described as a 'guest appearance' (a temporary, limited engagement), both start and finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "How I Met Your Mother"
+      ],
+      "roles": [
+        "guest actor (Gael)"
+      ],
+      "time_markers": [
+        "2007",
+        "season 3"
+      ],
+      "event_type": "acting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also guest-starred as Gael, an Argentinean guitar playing/surfer/massage therapist love interest of Robin in season 3 of the TV show How I Met Your Mother."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The role was a guest appearance in season 3 of How I Met Your Mother, which aired in 2007. Guest starring roles are typically brief appearances within a single season/year, so both start and finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "UEFA Euro 2008"
+      ],
+      "roles": [
+        "official song performer"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "performance",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias's song 'Can You Hear Me' was chosen as the official song of the UEFA Euro 2008 football tournament.",
+        "He performed the song live at the 29 June 2008 final in Vienna, Austria."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This was a one-time performance event at UEFA Euro 2008. The supporting quotes confirm the song was chosen for the 2008 tournament and performed at the final on June 29, 2008. Since this is a specific event rather than an ongoing position, both start and finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "World Music Awards"
+      ],
+      "roles": [
+        "World's Best Selling Latin Performer winner",
+        "World's Best Selling Spanish Artist winner"
+      ],
+      "time_markers": [
+        "9 November 2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias was the winner of two World Music Awards in the categories of 'World's Best Selling Latin Performer' and 'World's Best Selling Spanish Artist' at the ceremony held in Monaco on 9 November 2008."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred on a specific date (9 November 2008). Awards are typically one-time achievements rather than ongoing positions, so both time_start and time_finish are set to 2008, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Republic Records",
+        "Universal Music Group"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "2010-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, Iglesias parted with Interscope Records and signed with another Universal Music Group label, Republic Records where he released two successful bilingual albums Euphoria and Sex and Love."
+      ],
+      "time_start": 2010,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2010-2015' and the supporting quote confirms that in 2010, Iglesias signed with Republic Records. The end year of 2015 marks the conclusion of this specific period during which he released the two mentioned albums under this label."
+      }
+    },
+    {
+      "organizations": [
+        "Billboard Music Awards"
+      ],
+      "roles": [
+        "Top Latin Album winner"
+      ],
+      "time_markers": [
+        "2010-2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Euphoria won the Billboard Music Award for Top Latin Album"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2010-2011' indicates a range, but since this is an award event (a single occurrence rather than an ongoing position), and Billboard Music Awards are annual ceremonies that honor achievements from the previous year, the award was most likely won in 2011 for the album's performance during the 2010-2011 period. Awards are typically received in a single year, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Billboard Latin Music Awards"
+      ],
+      "roles": [
+        "Latin Album of the Year winner",
+        "Latin Pop Album of the Year winner"
+      ],
+      "time_markers": [
+        "2010-2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Billboard Latin Awards for Latin Album of the Year and Latin Pop Album of the Year"
+      ],
+      "time_start": 2010,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2010-2011' indicates a range during which the awards were won. Since these are discrete award events (not ongoing positions), the range likely represents awards won in 2010 and 2011, making 2010 the start year and 2011 the finish year of this award-winning period."
+      }
+    },
+    {
+      "organizations": [
+        "Latin Grammy Awards"
+      ],
+      "roles": [
+        "Album of the Year nominee"
+      ],
+      "time_markers": [
+        "2010-2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was nominated for the Latin Grammy Award for Album of the Year."
+      ],
+      "time_start": 2010,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2010-2011' indicates a range spanning these two years. For an award nomination (a discrete event rather than an ongoing position), this likely represents the eligibility/nomination period. Since the exact year within this range cannot be determined from the available information, using the full range (2010-2011) is the most accurate representation of when this nomination occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Latin Grammy Awards"
+      ],
+      "roles": [
+        "Song of the Year winner"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The song won three Latin Grammy awards including Song of the Year."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2014'. Awards are typically given for a specific year and represent a point-in-time achievement rather than an ongoing position. Therefore, both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Sony Music",
+        "Sony Music Latin",
+        "RCA Records"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "2015-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2015, he parted ways with Universal Music Group after being there for over a decade. He signed with Sony Music and his subsequent albums were to be released two more bilingual albums Final (Vol. 1) and Final (Vol. 2) with Sony Music Latin in Spanish and RCA Records in English."
+      ],
+      "time_start": 2015,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2015-present' clearly indicates the position started in 2015 and is ongoing. The supporting quote confirms 'In 2015, he parted ways with Universal Music Group' and 'signed with Sony Music', establishing 2015 as the start year. The 'present' indicator means the position is still active, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Billboard"
+      ],
+      "roles": [
+        "14th most successful male dance club artist of all time"
+      ],
+      "time_markers": [
+        "December 2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2016, Billboard magazine named him the 14th most successful and top male dance club artist of all time."
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is a recognition/ranking award announced in December 2016. It represents a point-in-time achievement rather than an ongoing position. The award acknowledges cumulative success 'of all time' up to that point, but the award itself was given in 2016."
+      }
+    },
+    {
+      "organizations": [
+        "Billboard Latin Music Awards"
+      ],
+      "roles": [
+        "Top Latin Artist of All Time"
+      ],
+      "time_markers": [
+        "October 2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in October 2022 he was honored with the Top Latin Artist of All Time at the Latin Billboard Awards."
+      ],
+      "time_start": 2022,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "This is a one-time award honor given in October 2022. Awards are typically single events rather than ongoing positions, so both time_start and time_finish are set to 2022, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Music for Relief"
+      ],
+      "roles": [
+        "Download to Donate for Haiti co-producer"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, Iglesias was included in the project Download to Donate, run by Music for Relief, an organization started by American rock band Linkin Park. He co-produced Download to Donate for Haiti, a charity album for the 2010 Haiti earthquake"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The event is specifically tied to the 2010 Haiti earthquake relief effort. The supporting quote clearly states 'In 2010, Iglesias was included in the project' and he 'co-produced Download to Donate for Haiti, a charity album for the 2010 Haiti earthquake.' This was a one-time philanthropic project for a specific disaster, not an ongoing position, so both start and finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Save the Children"
+      ],
+      "roles": [
+        "partner",
+        "HEART T-shirt campaign organizer"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2015, Iglesias partnered with Save the Children to launch a heart T-shirt campaign."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (2015) is mentioned in relation to this specific campaign event. The supporting quote indicates this was when Iglesias 'partnered with Save the Children to launch a heart T-shirt campaign,' suggesting a discrete campaign launch in 2015. With no indication of duration or ongoing status, both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "MTV Europe Music Awards"
+      ],
+      "roles": [
+        "Best Spanish Act winner"
+      ],
+      "time_markers": [
+        "2010",
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Listed in MTV Europe Music Award winners table for 2010 and 2014"
+      ],
+      "time_start": 2010,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The event represents two separate award wins at MTV Europe Music Awards in 2010 and 2014. The time_start is set to the first award year (2010) and time_finish to the last award year (2014), capturing the span during which these awards were received."
+      }
+    }
+  ]
+}

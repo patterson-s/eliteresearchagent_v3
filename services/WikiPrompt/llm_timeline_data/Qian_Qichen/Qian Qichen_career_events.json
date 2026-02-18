@@ -1,0 +1,476 @@
+{
+  "person_name": "Qian Qichen",
+  "career_events": [
+    {
+      "organizations": [
+        "Chinese Communist Party"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "joined 1942"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He secretly joined the Chinese Communist Party in 1942 at the age of 14."
+      ],
+      "time_start": 1942,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The person joined the Chinese Communist Party in 1942. Party membership typically continues unless explicitly stated otherwise (resignation, expulsion, or death). Since there is no information indicating the membership ended, time_finish is set to null to indicate ongoing membership."
+      }
+    },
+    {
+      "organizations": [
+        "Utopia University High School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "1942 to 1945"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1942 to 1945, Qian attended the Utopia University High School in Shanghai."
+      ],
+      "time_start": 1942,
+      "time_finish": 1945,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1942 to 1945' and the supporting quote confirms 'From 1942 to 1945, Qian attended the Utopia University High School in Shanghai.' This clearly indicates the student role started in 1942 and ended in 1945."
+      }
+    },
+    {
+      "organizations": [
+        "Ta Kung Pao"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "1945 to 1949"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1945 to 1949 he worked at the Ta Kung Pao newspaper."
+      ],
+      "time_start": 1945,
+      "time_finish": 1949,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1945 to 1949' and the supporting quote confirms 'From 1945 to 1949 he worked at the Ta Kung Pao newspaper.' This clearly indicates the position started in 1945 and ended in 1949."
+      }
+    },
+    {
+      "organizations": [
+        "Communist Youth League",
+        "Shanghai municipal districts (Xuhui, Changning, Yangpu)"
+      ],
+      "roles": [
+        "Party Committee member",
+        "Secretary of Communist Youth League Committees"
+      ],
+      "time_markers": [
+        "after 1949"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the establishment of the People's Republic of China in 1949, he was member of the Party Committee and Secretary of the Communist Youth League Committees of the Xuhui, Changning, and Yangpu districts of Shanghai."
+      ],
+      "time_start": 1949,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position explicitly started 'after 1949' following the establishment of the PRC. Since 'after 1949' most likely means late 1949 or shortly thereafter, 1949 is the most accurate start year. No end date is provided in the available information, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Komsomol Central School, Moscow"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "1954 to 1955"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Qian left for the Soviet Union and studied at the Komsomol Central School in Moscow from 1954 to 1955."
+      ],
+      "time_start": 1954,
+      "time_finish": 1955,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1954 to 1955' and the supporting quote confirms 'studied at the Komsomol Central School in Moscow from 1954 to 1955.' This clearly indicates the education period started in 1954 and ended in 1955."
+      }
+    },
+    {
+      "organizations": [
+        "Chinese Embassy in Moscow"
+      ],
+      "roles": [
+        "Second Secretary",
+        "Counsellor"
+      ],
+      "time_markers": [
+        "1955 to 1963"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1955 to 1963, he worked as a diplomat in Moscow. He successively served as Second Secretary in the Chinese Embassy... and Counsellor in the Chinese Embassy."
+      ],
+      "time_start": 1955,
+      "time_finish": 1963,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array explicitly states '1955 to 1963', and the supporting quote confirms 'From 1955 to 1963, he worked as a diplomat in Moscow.' This clearly indicates the person held diplomatic positions at the Chinese Embassy in Moscow from 1955 through 1963, progressing from Second Secretary to Counsellor during this period."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Higher Education"
+      ],
+      "roles": [
+        "Director of Department of Overseas Chinese Students",
+        "Deputy Director General of the Foreign Department"
+      ],
+      "time_markers": [
+        "1955 to 1963"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He successively served as... Director of Department of Overseas Chinese Students and Deputy Director General of the Foreign Department of the Ministry of Higher Education"
+      ],
+      "time_start": 1955,
+      "time_finish": 1963,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states '1955 to 1963', indicating the period during which the person held these positions at the Ministry of Higher Education. The supporting quote confirms these were successive roles held during this timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "May Seventh Cadre School"
+      ],
+      "roles": [
+        "forced laborer"
+      ],
+      "time_markers": [
+        "1966 to 1972"
+      ],
+      "event_type": "persecution",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During the Cultural Revolution, Qian was persecuted and sent to perform hard labour at a May Seventh Cadre School from 1966 to 1972."
+      ],
+      "time_start": 1966,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1966 to 1972' and the supporting quote confirms 'from 1966 to 1972', providing clear start and end years for this persecution period during the Cultural Revolution."
+      }
+    },
+    {
+      "organizations": [
+        "Chinese Embassy in Guinea"
+      ],
+      "roles": [
+        "Ambassador to Guinea"
+      ],
+      "time_markers": [
+        "1974–76"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After his political rehabilitation, he served as Ambassador to Guinea (1974–76)"
+      ],
+      "time_start": 1974,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1974–76' clearly indicates the position started in 1974 and ended in 1976. This is corroborated by the supporting quote which states 'Ambassador to Guinea (1974–76)', providing high confidence in these exact years."
+      }
+    },
+    {
+      "organizations": [
+        "Chinese Embassy in Guinea-Bissau"
+      ],
+      "roles": [
+        "Ambassador to Guinea-Bissau"
+      ],
+      "time_markers": [
+        "1974–75"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and concurrently Ambassador to Guinea-Bissau (1974–75)."
+      ],
+      "time_start": 1974,
+      "time_finish": 1975,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1974–75' clearly indicates the position started in 1974 and ended in 1975. This is further supported by the quote 'Ambassador to Guinea-Bissau (1974–75)' which explicitly provides the date range for this ambassadorial role."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of the Information Department",
+        "first spokesperson"
+      ],
+      "time_markers": [
+        "1977 to 1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "While serving as Director of the Information Department of the Foreign Ministry from 1977 to 1982, he proposed establishing a spokesperson system and became the first spokesperson of the Ministry."
+      ],
+      "time_start": 1977,
+      "time_finish": 1982,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array explicitly states '1977 to 1982', and the supporting quote confirms this person served as Director of the Information Department of the Foreign Ministry 'from 1977 to 1982'. This provides clear start and end years for the position."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Vice-Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1982 to 1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was vice-minister of foreign affairs from 1982 to 1988"
+      ],
+      "time_start": 1982,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1982 to 1988' and supporting quote 'was vice-minister of foreign affairs from 1982 to 1988' clearly indicate the position started in 1982 and ended in 1988."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "April 1988 to March 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "China's Foreign Minister from April 1988 to March 1998",
+        "Qian became Foreign Minister in April 1988."
+      ],
+      "time_start": 1988,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state 'April 1988 to March 1998', indicating the position started in 1988 and ended in 1998. This is corroborated by supporting quotes confirming the same timeframe for the Foreign Minister role."
+      }
+    },
+    {
+      "organizations": [
+        "CCP Central Committee"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "12th to 15th Central Committee"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Qian was a member of the 12th to 15th CCP Central Committee."
+      ],
+      "time_start": 1982,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The 12th CCP Central Committee was elected in 1982 and the 15th concluded in 2002. Each Central Committee typically serves a 5-year term: 12th (1982-1987), 13th (1987-1992), 14th (1992-1997), 15th (1997-2002). Since Qian was a member from the 12th through 15th, the service period spans from 1982 to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "CCP Politburo"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "1992 to 2002",
+        "14th and 15th Politburo"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served as Chinese Communist Party (CCP) Politburo member from 1992 to 2002",
+        "He was a member of the 14th and 15th CCP Politburo."
+      ],
+      "time_start": 1992,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'He served as Chinese Communist Party (CCP) Politburo member from 1992 to 2002', providing clear start and end years. This is corroborated by the time_marker '1992 to 2002' and the reference to serving in the 14th and 15th Politburo, which aligns with this timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "State Council"
+      ],
+      "roles": [
+        "Vice Premier"
+      ],
+      "time_markers": [
+        "March 1993 to March 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and as Vice Premier from March 1993 to March 2003",
+        "He was Vice Premier of the State Council, under Premiers Li Peng and Zhu Rongji, from 1993 until his retirement in 2003."
+      ],
+      "time_start": 1993,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state 'March 1993 to March 2003' and this is corroborated by supporting quotes mentioning 'from March 1993 to March 2003' and 'from 1993 until his retirement in 2003'. The position has a definite end date, so time_finish is set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "State Council (7th)"
+      ],
+      "roles": [
+        "State Councilor"
+      ],
+      "time_markers": [
+        "added during 7th State Council"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "State Councilors... Qian Qichen P (added)"
+      ],
+      "time_start": 1988,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The 7th State Council of the People's Republic of China served from April 1988 to March 1993. Qian Qichen was added as a State Councilor during this term, so the position started in 1988 and ended in 1993 when the 7th State Council's term concluded."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Mongolia"
+      ],
+      "roles": [
+        "Order of the Polar Star recipient"
+      ],
+      "time_markers": [
+        "November 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2005, Qian was awarded the Order of the Polar Star, the highest civilian award of Mongolia, for his contributions to China–Mongolia relations."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred at a specific point in time (November 2005). Awards are typically conferred on a single date rather than representing an ongoing position, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "British Foreign Office"
+      ],
+      "roles": [
+        "diplomatic counterpart"
+      ],
+      "time_markers": [
+        "July 1989"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "his meeting with then British Foreign Secretary John Major in July 1989 was the first such contact."
+      ],
+      "time_start": 1989,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The event is described as a specific meeting that occurred in July 1989. This is a single diplomatic event rather than an ongoing position, so both time_start and time_finish are set to 1989."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UN General Assembly attendee"
+      ],
+      "time_markers": [
+        "October 1989"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 1989, Qian engaged in low-profile outreach when he attended the annual UN General Assembly in New York"
+      ],
+      "time_start": 1989,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The event is specifically dated to 'October 1989' in the time_markers, and the supporting quote confirms this was a single attendance event at the UN General Assembly in that month. This is a one-time diplomatic event rather than an ongoing position, so both start and finish are set to 1989."
+      }
+    },
+    {
+      "organizations": [
+        "ASEAN"
+      ],
+      "roles": [
+        "first Chinese diplomat to attend ASEAN Foreign Ministers Meeting"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the first Chinese diplomat to attend an ASEAN event, going to the 1991 ASEAN Foreign Ministers Meeting in Malaysia."
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "This is a single diplomatic event (attending a meeting) that occurred in 1991, not an ongoing position. The event happened at a specific point in time, so both start and finish are set to the same year."
+      }
+    },
+    {
+      "organizations": [
+        "North Korea"
+      ],
+      "roles": [
+        "diplomatic envoy"
+      ],
+      "time_markers": [
+        "1992"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1992, he was tasked with traveling to Pyongyang, North Korea to inform Kim Il Sung that China would be establishing formal diplomatic relations with South Korea."
+      ],
+      "time_start": 1992,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The event describes a specific diplomatic mission in 1992. The supporting quote indicates 'he was tasked with traveling to Pyongyang' in that year, suggesting a discrete event rather than an ongoing position. Since this was a single diplomatic envoy assignment with no indication of duration beyond 1992, both time_start and time_finish are set to 1992."
+      }
+    }
+  ]
+}

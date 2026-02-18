@@ -1,0 +1,596 @@
+{
+  "person_name": "Nikolai Astrup",
+  "career_events": [
+    {
+      "organizations": [
+        "Institut Le Rosey"
+      ],
+      "roles": [
+        "student"
+      ],
+      "degrees_earned": [
+        "International General Certificate of Secondary Education"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup graduated from Institut Le Rosey with an International General Certificate of Secondary Education (1995)"
+      ],
+      "time_start": null,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "The year 1995 is explicitly stated as the graduation year with the IGCSE degree. This represents the end of the educational period at Institut Le Rosey. The start year is not provided in the available information, so it is set to null rather than guessing."
+      }
+    },
+    {
+      "organizations": [
+        "Berg Upper Secondary School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "degrees_earned": [
+        "International Baccalaureate"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from Berg Upper Secondary School with an International Baccalaureate (1997)"
+      ],
+      "time_start": null,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The year 1997 appears to be when the International Baccalaureate degree was earned (graduation year), as indicated by the supporting quote. For upper secondary school education, the start year is not provided. While IB programs typically last 2 years (suggesting a 1995 start), without explicit confirmation, time_start should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "London School of Economics and Political Science"
+      ],
+      "roles": [
+        "student"
+      ],
+      "degrees_earned": [
+        "bachelor's degree in International Relations",
+        "master's degree in European Politics and Governance"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He holds a master's degree in European Politics and Governance and a bachelor's degree in International Relations, both from the London School of Economics and Political Science (LSE)."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The text only confirms the person holds these degrees from LSE but provides no temporal information about when they attended or graduated. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Arkwright"
+      ],
+      "roles": [
+        "management consultant"
+      ],
+      "time_markers": [
+        "2000 until 2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup worked in management consulting at Arkwright from 2000 until 2002."
+      ],
+      "time_start": 2000,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2000 until 2002' and supporting quote clearly indicate the position started in 2000 and ended in 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Minerva"
+      ],
+      "roles": [
+        "editor"
+      ],
+      "time_markers": [
+        "2001 and 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2001 and 2008 he was the editor of the conservative periodical Minerva."
+      ],
+      "time_start": 2001,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'Between 2001 and 2008 he was the editor', indicating the position started in 2001 and ended in 2008. The use of past tense 'was' confirms this is a completed position, not ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party parliamentary group"
+      ],
+      "roles": [
+        "political adviser"
+      ],
+      "time_markers": [
+        "2008 until 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup worked as political adviser for the Conservative Party parliamentary group... from 2008 until 2009."
+      ],
+      "time_start": 2008,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2008 until 2009', indicating the position started in 2008 and ended in 2009. This is confirmed by the supporting quote which uses the same phrasing 'from 2008 until 2009'."
+      }
+    },
+    {
+      "organizations": [
+        "Oslo city government"
+      ],
+      "roles": [
+        "political adviser to the Governing Mayor of Oslo Erling Lae"
+      ],
+      "time_markers": [
+        "2008 until 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "political adviser to the Governing Mayor of Oslo Erling Lae from 2008 until 2009."
+      ],
+      "time_start": 2008,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '2008 until 2009', indicating the position started in 2008 and ended in 2009. This is confirmed by the supporting quote which uses the same phrasing 'from 2008 until 2009.'"
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament (Storting)"
+      ],
+      "roles": [
+        "Member of Parliament for Oslo constituency"
+      ],
+      "time_markers": [
+        "elected 2009",
+        "assumed office 1 October 2009",
+        "incumbent"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was elected Member of Parliament in 2009",
+        "Member of the Norwegian Parliament Incumbent Assumed office 1 October 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started in 2009 as indicated by 'elected 2009' and 'assumed office 1 October 2009'. The time_markers include 'incumbent' and the supporting quote states 'Incumbent Assumed office 1 October 2009', which clearly indicates this is an ongoing position with no end date."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament - Standing Committee on Energy and the Environment"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "2009 to 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup sat on the Standing Committee on Energy and the Environment from 2009 to 2015"
+      ],
+      "time_start": 2009,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '2009 to 2015' and the supporting quote confirms 'Astrup sat on the Standing Committee on Energy and the Environment from 2009 to 2015'. This clearly indicates the position started in 2009 and ended in 2015."
+      }
+    },
+    {
+      "organizations": [
+        "Pactum AS"
+      ],
+      "roles": [
+        "Member of the Board"
+      ],
+      "time_markers": [
+        "2010–2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Pactum AS, Member of the Board (2010–2015)"
+      ],
+      "time_start": 2010,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2010–2015' clearly indicates the position started in 2010 and ended in 2015. This is confirmed by the supporting quote 'Pactum AS, Member of the Board (2010–2015)' which uses the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "JEF Norway"
+      ],
+      "roles": [
+        "European of the Year award recipient"
+      ],
+      "time_markers": [
+        "March 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 2011, Astrup was named the 'European of the Year' by the JEF Norway."
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award event that occurred at a specific point in time (March 2011). Awards are typically one-time recognitions rather than ongoing positions, so both time_start and time_finish are set to 2011, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party in Oslo"
+      ],
+      "roles": [
+        "Leader"
+      ],
+      "time_markers": [
+        "28 January 2012",
+        "27 January 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "leader of the Conservative Party in Oslo in 2012",
+        "Leader of the Oslo Conservatives In office 28 January 2012 – 27 January 2018"
+      ],
+      "time_start": 2012,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 28 January 2012 and ended on 27 January 2018. The supporting quote 'In office 28 January 2012 – 27 January 2018' confirms these are the exact start and end dates for the leadership role."
+      }
+    },
+    {
+      "organizations": [
+        "European Movement in Norway"
+      ],
+      "roles": [
+        "Vice-President"
+      ],
+      "time_markers": [
+        "2012–2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "European Movement in Norway, Vice-President (2012–2013)"
+      ],
+      "time_start": 2012,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2012–2013' clearly indicates the position started in 2012 and ended in 2013. This is confirmed by the supporting quote which shows the same date range in parentheses."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party Parliamentary Group"
+      ],
+      "roles": [
+        "deputy leader"
+      ],
+      "time_markers": [
+        "2013",
+        "2017",
+        "until January 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed as deputy leader of the Conservative Party Parliamentary Group, and he was re-appointed to this position after the 2017 election. He held this position until his government appointment in January 2018."
+      ],
+      "time_start": 2013,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states Astrup was appointed deputy leader in 2013, was re-appointed after the 2017 election, and held the position 'until his government appointment in January 2018.' This indicates the role started in 2013 and ended in 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament - Standing Committee on Transport and Communication"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "2016 to 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from 2016 to 2017 he chaired the Standing Committee on Transport and Communication"
+      ],
+      "time_start": 2016,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2016 to 2017' and supporting quote 'from 2016 to 2017 he chaired the Standing Committee on Transport and Communication' clearly indicate the position started in 2016 and ended in 2017."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament - Standing Committee on Finance"
+      ],
+      "roles": [
+        "chair",
+        "Conservative Party spokesperson on finance"
+      ],
+      "time_markers": [
+        "after 2017 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the election in 2017 he was appointed chair of the Standing Committee on Finance and is the Conservative's spokesperson on issues relating to these issues."
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started 'after the election in 2017', which means it began in 2017. The text uses present tense ('is the Conservative's spokesperson'), indicating the position is ongoing with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Government"
+      ],
+      "roles": [
+        "Minister of International Development"
+      ],
+      "time_markers": [
+        "17 January 2018",
+        "22 January 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed minister of international development, the first person to hold the post in five years.",
+        "Minister of International Development In office 17 January 2018 – 22 January 2019"
+      ],
+      "time_start": 2018,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 17 January 2018 and ended on 22 January 2019. This is confirmed by the supporting quote 'In office 17 January 2018 – 22 January 2019', showing a completed term from 2018 to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations High-level Panel on Digital Cooperation"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed by United Nations Secretary General António Guterres in 2018 to the High-level Panel on Digital Cooperation, co-chaired by Melinda Gates and Jack Ma."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Astrup was appointed to the UN High-level Panel on Digital Cooperation in 2018. High-level panels are typically temporary advisory bodies with specific mandates that conclude within a year or two. Since only 2018 is mentioned and no ongoing status is indicated, and given that this type of panel typically completes its work within a defined timeframe, I'm setting both start and finish to 2018, representing the appointment year and likely completion within that same period or shortly after."
+      }
+    },
+    {
+      "organizations": [
+        "Asian Infrastructure Investment Bank"
+      ],
+      "roles": [
+        "Ex-Officio Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "2018–2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Asian Infrastructure Investment Bank (AIIB), Ex-Officio Member of the Board of Governors (2018–2019)"
+      ],
+      "time_start": 2018,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2018–2019' clearly indicates a defined period with a start year of 2018 and end year of 2019. This is confirmed by the supporting quote which shows the same date range in parentheses."
+      }
+    },
+    {
+      "organizations": [
+        "Multilateral Investment Guarantee Agency",
+        "World Bank Group"
+      ],
+      "roles": [
+        "Ex-Officio Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "2018-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Multilateral Investment Guarantee Agency (MIGA), World Bank Group, Ex-Officio Member of the Board of Governors (2018-2019)"
+      ],
+      "time_start": 2018,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly indicates '2018-2019' and the supporting quote confirms this exact date range for the position as Ex-Officio Member of the Board of Governors at MIGA, World Bank Group. This represents a completed term from 2018 to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Ex-Officio Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "2018-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "World Bank, Ex-Officio Member of the Board of Governors (2018-2019)"
+      ],
+      "time_start": 2018,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2018-2019' clearly indicates a date range, with the position starting in 2018 and ending in 2019. This is confirmed by the supporting quote which uses the same format."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Government"
+      ],
+      "roles": [
+        "Minister of Digitalisation"
+      ],
+      "time_markers": [
+        "22 January 2019",
+        "24 January 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed minister of digitalisation, the first of its kind.",
+        "Minister of Digitalisation In office 22 January 2019 – 24 January 2020"
+      ],
+      "time_start": 2019,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 22 January 2019 and ended on 24 January 2020. This is confirmed by the supporting quote 'Minister of Digitalisation In office 22 January 2019 – 24 January 2020', which shows a completed term of office."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Government"
+      ],
+      "roles": [
+        "Minister of Local Government"
+      ],
+      "time_markers": [
+        "24 January 2020",
+        "14 October 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served as Minister of Local Government from 2020 to 2021.",
+        "Minister of Local Government In office 24 January 2020 – 14 October 2021"
+      ],
+      "time_start": 2020,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 24 January 2020 and ended on 14 October 2021. Both supporting quotes confirm this timeframe, with one explicitly stating 'from 2020 to 2021' and the other providing the exact dates 'In office 24 January 2020 – 14 October 2021'."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "spokesperson for energy and environmental policy"
+      ],
+      "time_markers": [
+        "after 2021 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following the cabinet's defeat at the 2021 election, he was appointed spokesperson for energy and environmental policy."
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position began 'after 2021 election' which means it started in 2021. No end date is mentioned in the text, and the phrasing 'was appointed' without any indication of when it ended suggests this may be an ongoing or recent position. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Organisation for Economic Co-operation and Development - Development Assistance Committee"
+      ],
+      "roles": [
+        "candidate for chair"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "candidacy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2022, Astrup was Norway's candidate to succeed Susanna Moorehead as chair of the Organisation for Economic Co-operation and Development's Development Assistance Committee. In the final vote, he lost to Carsten Staur"
+      ],
+      "time_start": 2022,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "This is a candidacy event that occurred in 2022. The supporting quote indicates that in 2022, Astrup was a candidate and lost in the final vote, meaning the candidacy began and ended within that same year. Since this is a completed candidacy (he lost the election), both start and finish are set to 2022."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "financial spokesperson"
+      ],
+      "time_markers": [
+        "following 2025 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He became the party's financial spokesperson following the 2025 election."
+      ],
+      "time_start": 2025,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position began 'following the 2025 election', which indicates it started in 2025. There is no information suggesting the position has ended, so time_finish is set to null to indicate it is ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "candidate for party leader"
+      ],
+      "time_markers": [
+        "announced October 2025",
+        "withdrawn November 2025"
+      ],
+      "event_type": "candidacy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He officially announced his candidacy in October, stating that the party 'needs to find back to itself'.",
+        "He withdrew his candidacy the next month and endorsed Ine Eriksen Søreide."
+      ],
+      "time_start": 2025,
+      "time_finish": 2025,
+      "metadata": {
+        "timeline_reasoning": "The candidacy was announced in October 2025 and withdrawn in November 2025, making both the start and end year 2025. This was a short-term candidacy that began and ended within the same calendar year."
+      }
+    }
+  ]
+}

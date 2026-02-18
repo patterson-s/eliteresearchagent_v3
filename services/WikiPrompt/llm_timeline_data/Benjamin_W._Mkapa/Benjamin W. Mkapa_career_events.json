@@ -1,0 +1,535 @@
+{
+  "person_name": "Benjamin William Mkapa",
+  "career_events": [
+    {
+      "organizations": [
+        "Makerere University"
+      ],
+      "roles": [
+        "student",
+        "Bachelor of Arts in English graduate"
+      ],
+      "time_markers": [
+        "1962"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He graduated from Makerere University in Uganda in 1962 with a Bachelor of Arts in English."
+      ],
+      "time_start": null,
+      "time_finish": 1962,
+      "metadata": {
+        "timeline_reasoning": "The event describes graduation from Makerere University in 1962 with a Bachelor of Arts in English. The year 1962 is clearly the graduation/completion year (time_finish). While a typical BA program lasts 3-4 years, no start date is explicitly mentioned in the provided information, so time_start is set to null to remain conservative."
+      }
+    },
+    {
+      "organizations": [
+        "Columbia University"
+      ],
+      "roles": [
+        "student",
+        "Master's degree in International Affairs graduate"
+      ],
+      "time_markers": [
+        "1963"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He went on to study at Columbia University the following year, and earned a master's degree in International Affairs."
+      ],
+      "time_start": 1963,
+      "time_finish": 1963,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 1963, and the supporting quote mentions earning a master's degree, which is a completion event. Since a master's degree in International Affairs typically takes 1-2 years and only one year (1963) is provided, this likely represents the graduation/completion year. Without additional information about when studies began, the most conservative approach is to mark both start and finish as 1963, representing the year the degree was earned."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "administrative officer"
+      ],
+      "time_markers": [
+        "early career"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Previous posts include being an administrative officer in Dodoma"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The only temporal information available is 'early career' and 'Previous posts', which indicates this position is in the past but provides no specific years. Without additional context about the person's career timeline or birth year, it's impossible to determine accurate dates. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1977-1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the Minister of Foreign Affairs from 1977 to 1980"
+      ],
+      "time_start": 1977,
+      "time_finish": 1980,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1977-1980' and supporting quote 'He was the Minister of Foreign Affairs from 1977 to 1980' clearly indicate the position started in 1977 and ended in 1980."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "head of Tanzanian mission to Canada"
+      ],
+      "time_markers": [
+        "1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mkapa was the head of the Tanzanian mission to Canada in 1982"
+      ],
+      "time_start": 1982,
+      "time_finish": 1982,
+      "metadata": {
+        "timeline_reasoning": "Only a single year (1982) is mentioned in the time_markers and supporting quote. Following guideline 4, when only one year is specified, both time_start and time_finish should be set to that year, as we cannot determine if the position extended beyond 1982."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "head of Tanzanian mission to the United States",
+        "Ambassador of Tanzania to the United States"
+      ],
+      "time_markers": [
+        "1983-1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mkapa was the head of the Tanzanian mission to Canada in 1982 and to the United States in 1983–84."
+      ],
+      "time_start": 1983,
+      "time_finish": 1984,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1983-1984' and supporting quote explicitly state that Mkapa was head of the Tanzanian mission to the United States in 1983–84, indicating the position started in 1983 and ended in 1984."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1984-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the Minister of Foreign Affairs from 1977 to 1980 and again from 1984 to 1990"
+      ],
+      "time_start": 1984,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1984-1990', and the supporting quote confirms 'from 1984 to 1990' for this specific term as Minister of Foreign Affairs. This is the second term mentioned in the quote (the first being 1977-1980), and the event correctly captures the 1984-1990 period."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "Minister for Information and Broadcasting"
+      ],
+      "time_markers": [
+        "1990-1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister for Information and Broadcasting In office 1990–1992"
+      ],
+      "time_start": 1990,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1990-1992' and supporting quote 'In office 1990–1992' clearly indicate the position started in 1990 and ended in 1992."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "Minister for Science, Technology and Higher Education"
+      ],
+      "time_markers": [
+        "1992-1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister for Science, Technology and Higher Education In office 1992–1995"
+      ],
+      "time_start": 1992,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1992-1995' and supporting quote 'In office 1992–1995' clearly indicate the position started in 1992 and ended in 1995."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "President of Tanzania"
+      ],
+      "time_markers": [
+        "23 November 1995 – 21 December 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "3rd President of Tanzania In office 23 November 1995 – 21 December 2005",
+        "In 1995, Mkapa was elected as president based on a popular anti-corruption campaign and the strong support of former president Julius Nyerere."
+      ],
+      "time_start": 1995,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '23 November 1995 – 21 December 2005' as the period of service. The start year is 1995 (when Mkapa was elected and took office) and the end year is 2005 (when his term concluded)."
+      }
+    },
+    {
+      "organizations": [
+        "Chama Cha Mapinduzi"
+      ],
+      "roles": [
+        "National Chairman"
+      ],
+      "time_markers": [
+        "1996-2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was Chairman of the Revolutionary State Political Party (Chama Cha Mapinduzi, CCM).",
+        "National Chairman of Chama Cha Mapinduzi 1996–2007"
+      ],
+      "time_start": 1996,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1996-2007' clearly indicates a date range, and this is corroborated by the supporting quote 'National Chairman of Chama Cha Mapinduzi 1996–2007' which explicitly states the same years. The position started in 1996 and ended in 2007."
+      }
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "member of Panel of Eminent African Personalities"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2007, Mkapa was part of the African Union's Panel of Eminent African Personalities, who were deployed to Kenya to resolve political violence that had broken out due to disputed election results."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that in 2007, Mkapa was part of the Panel and they were deployed to Kenya for a specific mission related to post-election violence. This appears to be a specific event/mission in 2007 rather than an ongoing position. With only one year mentioned and the context suggesting a specific deployment, both time_start and time_finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Aga Khan University"
+      ],
+      "roles": [
+        "trustee"
+      ],
+      "time_markers": [
+        "2007-2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mkapa served as a trustee of the Aga Khan University from 2007 to 2012."
+      ],
+      "time_start": 2007,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2007-2012' and supporting quote 'served as a trustee of the Aga Khan University from 2007 to 2012' clearly indicate the position started in 2007 and ended in 2012."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Kenya"
+      ],
+      "roles": [
+        "Chief of the Order of the Golden Heart of Kenya"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the Golden Heart of Kenya (Chief) Kenya 2005"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2005) in both the time_markers array and supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Jane Goodall Institute"
+      ],
+      "roles": [
+        "Jane Goodall Global Leadership Award recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2007: Jane Goodall Global Leadership Award"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2007'. Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Tanzania"
+      ],
+      "roles": [
+        "Order of Mwalimu Julius Kambarage Nyerere recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Mwalimu Julius Kambarage Nyerere Tanzania 2011"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2011) indicating when the honor was received. Awards are typically conferred at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Sōka University"
+      ],
+      "roles": [
+        "honorary degree recipient"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sōka University Japan Honorary degree 1998"
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award from Sōka University in 1998. Honorary degrees are conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 1998, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Morehouse College"
+      ],
+      "roles": [
+        "honorary degree recipient"
+      ],
+      "time_markers": [
+        "1999"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Morehouse College United States Honorary degree 1999"
+      ],
+      "time_start": 1999,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award event with a single year marker of 1999. Honorary degrees are conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 1999."
+      }
+    },
+    {
+      "organizations": [
+        "Open University of Tanzania"
+      ],
+      "roles": [
+        "honorary degree recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Open University of Tanzania Tanzania Honorary degree 2003"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award from 2003. Awards and honorary degrees are typically conferred at a specific point in time rather than representing an ongoing position. Since only the single year 2003 is mentioned, both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "National University of Lesotho"
+      ],
+      "roles": [
+        "Doctor of Law (honorary) recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "National University of Lesotho Lesotho Doctor of Law 2005"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award with a single year marker of 2005. Honorary degrees are conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Kenyatta University"
+      ],
+      "roles": [
+        "Doctor of Education (honorary) recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kenyatta University Kenya Doctor of Education 2005"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2005. Awards are typically conferred on a specific date/year rather than spanning a period, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "University of Dar es Salaam"
+      ],
+      "roles": [
+        "honorary degree recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Dar es Salaam Tanzania Honorary degree 2006"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2006. Awards are typically conferred on a specific date rather than representing an ongoing position, so both time_start and time_finish are set to the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Newcastle University"
+      ],
+      "roles": [
+        "Doctor of Civil Law (honorary) recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Newcastle University United Kingdom Doctor of Civil Law 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2007. Honorary degrees are conferred on a specific date rather than representing an ongoing position, so both time_start and time_finish are set to the year of conferral."
+      }
+    },
+    {
+      "organizations": [
+        "University of Cape Coast"
+      ],
+      "roles": [
+        "Doctor of Letters (honorary) recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Cape Coast Ghana Doctor of Letters 2008"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award from 2008. Awards are typically conferred at a specific point in time rather than spanning a duration. The single year 2008 is mentioned in time_markers and supporting quotes, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Makerere University"
+      ],
+      "roles": [
+        "Doctor of Law (honorary) recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Makerere University Uganda Doctor of Law 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award from Makerere University in 2009. Awards and honorary degrees are typically conferred at a specific point in time rather than representing an ongoing position. Since only the year 2009 is mentioned and this is a one-time conferral event, both time_start and time_finish are set to 2009."
+      }
+    }
+  ]
+}

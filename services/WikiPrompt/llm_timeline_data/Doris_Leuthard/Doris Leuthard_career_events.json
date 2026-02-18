@@ -1,0 +1,291 @@
+{
+  "person_name": "Doris Leuthard",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Zurich"
+      ],
+      "roles": [
+        "law student",
+        "law graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Alma mater: University of Zurich"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the career event data. The supporting quote only confirms the University of Zurich as the alma mater without providing any dates for when the law studies began or ended. Without temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Swiss National Council",
+        "Canton of Aargau"
+      ],
+      "roles": [
+        "Member of the Swiss National Council"
+      ],
+      "time_markers": [
+        "1999 to 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Leuthard was a member of the Swiss National Council from 1999 to 2006 for the canton of Aargau."
+      ],
+      "time_start": 1999,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1999 to 2006' and supporting quote explicitly state that Leuthard was a member of the Swiss National Council from 1999 to 2006, providing clear start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "Christian Democratic People's Party"
+      ],
+      "roles": [
+        "Party President"
+      ],
+      "time_markers": [
+        "2004 to 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She presided over the Christian Democratic People's Party from 2004 to 2006."
+      ],
+      "time_start": 2004,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2004 to 2006' and supporting quote 'She presided over the Christian Democratic People's Party from 2004 to 2006' clearly indicate the position started in 2004 and ended in 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Swiss Federal Council"
+      ],
+      "roles": [
+        "Member of the Swiss Federal Council",
+        "109th Federal Councillor",
+        "fifth woman elected to the Federal Council"
+      ],
+      "time_markers": [
+        "elected 14 June 2006",
+        "in office 1 August 2006 to 31 December 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following the resignation of Joseph Deiss from the Swiss Federal Council, Leuthard was elected as his successor on 14 June 2006. She received 133 out of 234 valid votes to become the 109th Federal Councillor.",
+        "Member of the Swiss Federal Council In office 1 August 2006 – 31 December 2018"
+      ],
+      "time_start": 2006,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state 'in office 1 August 2006 to 31 December 2018'. The supporting quote confirms 'In office 1 August 2006 – 31 December 2018'. The position started in 2006 and ended in 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Department of Economic Affairs"
+      ],
+      "roles": [
+        "Head of the Department of Economic Affairs"
+      ],
+      "time_markers": [
+        "1 August 2006 to 31 October 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1 August 2006 until 31 October 2010, she was head of the Federal Department of Economic Affairs.",
+        "Head of the Department of Economic Affairs In office 1 August 2006 – 31 October 2010"
+      ],
+      "time_start": 2006,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position started on 1 August 2006 and ended on 31 October 2010. Therefore, time_start is 2006 and time_finish is 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "Vice President of Switzerland"
+      ],
+      "time_markers": [
+        "1 January 2009 to 31 December 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For the calendar year 2009, Leuthard was elected Vice President of the Swiss Confederation",
+        "Vice President of Switzerland In office 1 January 2009 – 31 December 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position was held from 1 January 2009 to 31 December 2009, meaning both start and end occurred within the same calendar year 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "President of Switzerland",
+        "President of the Swiss Confederation",
+        "third woman to hold the post"
+      ],
+      "time_markers": [
+        "1 January 2010 to 31 December 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was elected President of the Confederation for 2010 and 2017.",
+        "She became the third woman to hold the post, after Ruth Dreifuss (1999) and Micheline Calmy-Rey (2007).",
+        "President of Switzerland In office 1 January 2010 – 31 December 2010"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '1 January 2010 to 31 December 2010' and this is confirmed by the supporting quote 'President of Switzerland In office 1 January 2010 – 31 December 2010'. The position started and ended within the same year, 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Federal Department of Environment, Transport, Energy and Communications"
+      ],
+      "roles": [
+        "Head of the Department of Environment, Transport, Energy and Communications"
+      ],
+      "time_markers": [
+        "1 November 2010 to 31 December 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 1 November 2010 she became head of the Federal Department of Environment, Transport, Energy and Communications, succeeding Moritz Leuenberger.",
+        "Head of the Department of Environment, Transport, Energy and Communications In office 1 November 2010 – 31 December 2018"
+      ],
+      "time_start": 2010,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '1 November 2010 to 31 December 2018', and this is corroborated by both supporting quotes which specify the same date range. The position started in 2010 and ended in 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "Vice President of Switzerland"
+      ],
+      "time_markers": [
+        "1 January 2016 to 31 December 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Vice President of Switzerland In office 1 January 2016 – 31 December 2016"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '1 January 2016 to 31 December 2016', indicating the position started and ended within the same year, 2016. This is confirmed by the supporting quote showing the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "President of Switzerland",
+        "President of the Swiss Confederation"
+      ],
+      "time_markers": [
+        "1 January 2017 to 31 December 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was elected President of the Confederation for 2010 and 2017.",
+        "President of Switzerland In office 1 January 2017 – 31 December 2017"
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '1 January 2017 to 31 December 2017' and the supporting quote confirms 'In office 1 January 2017 – 31 December 2017'. This was a single-year term as President of Switzerland in 2017."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on Digital Cooperation"
+      ],
+      "roles": [
+        "member of the High-level Panel on Digital Cooperation"
+      ],
+      "time_markers": [
+        "appointed 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her capacity as minister, she was appointed by United Nations Secretary General António Guterres in 2018 to the High-level Panel on Digital Cooperation, co-chaired by Melinda Gates and Jack Ma."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The person was appointed to the High-level Panel on Digital Cooperation in 2018. High-level panels are typically temporary advisory bodies with specific mandates that conclude within a year or two. The UN High-level Panel on Digital Cooperation specifically delivered its report in June 2019, indicating the panel's work concluded. However, since only the appointment year 2018 is explicitly stated in the source material and no end date is provided, I'm setting both start and finish to 2018 to remain conservative with the available information."
+      }
+    },
+    {
+      "organizations": [
+        "Kofi Annan Foundation"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "as of 19 December 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As of 19 December 2019 she is a member of the board of the Kofi Annan Foundation"
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'As of 19 December 2019' indicates that the person became a board member by that date, so time_start is 2019. There is no indication that the position has ended, so time_finish is null, indicating an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "Stadler Rail"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "as of 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As of 19 December 2019 she is a member of the board of the Kofi Annan Foundation and Stadler Rail."
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'As of 19 December 2019' indicates the person became a board member on that date. Since there is no mention of an end date and the phrasing suggests this was current information at the time of writing, time_finish is set to null to indicate an ongoing position."
+      }
+    }
+  ]
+}

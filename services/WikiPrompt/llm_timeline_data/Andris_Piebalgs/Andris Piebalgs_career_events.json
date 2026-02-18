@@ -1,0 +1,461 @@
+{
+  "person_name": "Andris Piebalgs",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Latvia"
+      ],
+      "roles": [
+        "student",
+        "graduate in Physics"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Piebalgs is a graduate in Physics from the University of Latvia."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that Piebalgs graduated in Physics from the University of Latvia, but provides no specific years for when the studies began or when graduation occurred. Without additional temporal information, I cannot determine accurate start or finish dates."
+      }
+    },
+    {
+      "organizations": [
+        "1st Secondary School of Valmiera"
+      ],
+      "roles": [
+        "teacher",
+        "headmaster"
+      ],
+      "time_markers": [
+        "1980-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Earlier in his career, while Latvia was still part of the Soviet Union, Andris Piebalgs worked as a teacher and was the headmaster of the 1st Secondary School of Valmiera (1980–1990)."
+      ],
+      "time_start": 1980,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1980-1990' and supporting quote explicitly state that Andris Piebalgs worked as a teacher and headmaster at the 1st Secondary School of Valmiera from 1980 to 1990. This is a clear date range indicating the position started in 1980 and ended in 1990."
+      }
+    },
+    {
+      "organizations": [
+        "Communist Party of Soviet Union"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "from 1979",
+        "before 1991"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of Communist Party of Soviet Union from 1979."
+      ],
+      "time_start": 1979,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states membership began 'from 1979'. The time marker 'before 1991' combined with the historical context that the Communist Party of Soviet Union ceased to exist in 1991 when the USSR dissolved, indicates the membership ended in 1991. This is a definitive end date for this organization."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Education (Latvia)"
+      ],
+      "roles": [
+        "director of the department"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "He also served as director of the department in the Ministry of Education in Latvia."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('served as director') indicating the position has ended, but no specific years or time markers are provided in the career event data. Without concrete temporal information, I cannot determine accurate start or end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Latvia"
+      ],
+      "roles": [
+        "Minister of Education"
+      ],
+      "time_markers": [
+        "appointed 7 May 1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government"
+      ],
+      "time_start": 1990,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment date is clearly stated as 7 May 1990, establishing 1990 as time_start. However, no end date or duration information is provided in the career event data, so time_finish is set to null as we cannot determine when this ministerial position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Latvian Parliament"
+      ],
+      "roles": [
+        "Member of Parliament"
+      ],
+      "time_markers": [
+        "elected 1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1993, Andris Piebalgs won a seat in the Latvian Parliament"
+      ],
+      "time_start": 1993,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates Andris Piebalgs was elected to the Latvian Parliament in 1993, which establishes the start year. However, no end date is provided in the time_markers or supporting quotes, and there's no indication that this position has ended. Without information about when the parliamentary term concluded or when he left this position, time_finish should be set to null rather than assumed."
+      }
+    },
+    {
+      "organizations": [
+        "Latvian Parliament"
+      ],
+      "roles": [
+        "chairman of the budget and finance committee"
+      ],
+      "time_markers": [
+        "1993-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served as the chairman of the budget and finance committee until 1994."
+      ],
+      "time_start": 1993,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1993-1994' and the supporting quote confirms the position lasted 'until 1994', indicating a clear start year of 1993 and end year of 1994."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Latvia"
+      ],
+      "roles": [
+        "Minister of Finance",
+        "deputy prime minister"
+      ],
+      "time_markers": [
+        "September 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 1994, he became Latvia's Minister of Finance and deputy prime minister."
+      ],
+      "time_start": 1994,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'September 1994' indicates the position started in 1994. No end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Latvia"
+      ],
+      "roles": [
+        "Ambassador of Latvia to Estonia"
+      ],
+      "time_markers": [
+        "1995-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1995 until 2003, he worked in the Latvian Diplomatic service. Andris Piebalgs first served as the ambassador of Latvia in Estonia (1995–1997)"
+      ],
+      "time_start": 1995,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1995-1997' and the supporting quote confirms 'ambassador of Latvia in Estonia (1995–1997)', clearly indicating the position started in 1995 and ended in 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Latvia"
+      ],
+      "roles": [
+        "Latvian Ambassador to the EU"
+      ],
+      "time_markers": [
+        "1997-2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1997 he became the Latvian Ambassador to the EU."
+      ],
+      "time_start": 1997,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1997-2003' clearly indicates a range from 1997 to 2003. The supporting quote confirms 1997 as the start year ('In 1997 he became the Latvian Ambassador to the EU'), and the range format indicates the position ended in 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs of Latvia"
+      ],
+      "roles": [
+        "Deputy Secretary of State for EU affairs"
+      ],
+      "time_markers": [
+        "2003-2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia."
+      ],
+      "time_start": 2003,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2003-2004' and supporting quote 'From 2003 to 2004' clearly indicate the position started in 2003 and ended in 2004."
+      }
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "European Commissioner for Energy"
+      ],
+      "time_markers": [
+        "22 November 2004 - 9 February 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2004 and 2009 he served as Commissioner for Energy.",
+        "During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy."
+      ],
+      "time_start": 2004,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The time_marker provides precise dates '22 November 2004 - 9 February 2010', indicating the position started in 2004 and ended in 2010. This is corroborated by supporting quotes mentioning service 'Between 2004 and 2009' and starting 'in November 2004'. The end date of February 2010 extends into 2010, so time_finish is set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "European Commissioner for Development"
+      ],
+      "time_markers": [
+        "9 February 2010 - 1 November 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Andris Piebalgs (born 17 September 1957) is a Latvian politician and diplomat who served as European Commissioner for Development at the European Commission from 2010 until 2014."
+      ],
+      "time_start": 2010,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '9 February 2010 - 1 November 2014', indicating the position started in 2010 and ended in 2014. This is corroborated by the supporting quote which confirms he 'served as European Commissioner for Development at the European Commission from 2010 until 2014.'"
+      }
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "Acting Commissioner for Financial Programming and the Budget"
+      ],
+      "time_markers": [
+        "19 April 2014 - 25 May 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was twice appointed Acting Commissioner for Financial Programming and the Budget in Janusz Lewandowski's stead, from 19 April 2014 – 25 May 2014"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly indicates the position was held from 19 April 2014 to 25 May 2014. Both the start and end dates fall within the same year, 2014."
+      }
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "Acting Commissioner for Financial Programming and the Budget"
+      ],
+      "time_markers": [
+        "1 July 2014 - 16 July 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from 1 July 2014 – 16 July 2014 after he took up his seat."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly indicates the position was held from 1 July 2014 to 16 July 2014. Both the start and end dates fall within the same year, 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Unity party"
+      ],
+      "roles": [
+        "leader"
+      ],
+      "time_markers": [
+        "4 June 2016 - 19 August 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 4 June 2016 and 19 August 2017, he served as the leader of the Unity party."
+      ],
+      "time_start": 2016,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states '4 June 2016 - 19 August 2017', indicating the position started in 2016 and ended in 2017. The supporting quote confirms this was a completed term with defined start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2012-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2012 to 2013, Piebalgs served – alongside Ellen Johnson Sirleaf, David Cameron and others – on the High-level Panel on Post-2015 Development Agenda, an advisory board established by United Nations Secretary-General Ban Ki-moon"
+      ],
+      "time_start": 2012,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2012-2013' and supporting quote 'From 2012 to 2013, Piebalgs served' clearly indicate the position started in 2012 and ended in 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Friends of Europe"
+      ],
+      "roles": [
+        "member of the board of trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Friends of Europe, member of the board of trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only mentions the organization and role without any dates, time markers, or context that would indicate when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Friends of the Global Fund"
+      ],
+      "roles": [
+        "member of the board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Friends of the Global Fund, member of the board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only mentions the organization and role without any dates, time markers, or context that would indicate when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "The Economist"
+      ],
+      "roles": [
+        "Eurocrat of the Year recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In recognition of his leadership in European energy policy, The Economist magazine honoured him with the title 'Eurocrat of the Year' in 2007."
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2007). Awards are typically one-time recognitions given in a specific year, not ongoing positions. The supporting quote confirms this was honored 'in 2007', indicating both the start and finish occur in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Regional Chamber of Commerce in Katowice"
+      ],
+      "roles": [
+        "Diamond Prize recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2009, Andris Piebalgs received the 'Diamond Prize' from the Regional Chamber of Commerce in Katowice (Poland) for his work in developing a cohesive European Energy Policy"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2009). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Energy Efficiency Global Forum"
+      ],
+      "roles": [
+        "Energy Efficiency Visionary Awards recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2009, the Energy Efficiency Global Forum presented him the Energy Efficiency Visionary Awards for his 'outstanding contributions to the advancement of energy efficiency'."
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2009). Awards are typically one-time recognitions presented in a specific year, so both time_start and time_finish are set to 2009."
+      }
+    }
+  ]
+}

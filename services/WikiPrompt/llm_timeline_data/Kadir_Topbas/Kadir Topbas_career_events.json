@@ -1,0 +1,397 @@
+{
+  "person_name": "Kadir Topbaş",
+  "career_events": [
+    {
+      "organizations": [
+        "Marmara University"
+      ],
+      "roles": [
+        "student",
+        "theology degree graduate"
+      ],
+      "time_markers": [
+        "1972"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He earned a PhD in architectural history from Istanbul University following his education of theology at Marmara University in 1972"
+      ],
+      "time_start": null,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "The quote indicates that the theology education at Marmara University was completed in 1972 (graduation year). However, no start date is provided. Since 1972 represents the completion/graduation year rather than a single point in time, it should be set as time_finish, while time_start remains null due to lack of information about when the studies began."
+      }
+    },
+    {
+      "organizations": [
+        "Mimar Sinan University"
+      ],
+      "roles": [
+        "student",
+        "architecture degree graduate"
+      ],
+      "time_markers": [
+        "1974"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and architecture at Mimar Sinan University in 1974"
+      ],
+      "time_start": null,
+      "time_finish": 1974,
+      "metadata": {
+        "timeline_reasoning": "The year 1974 refers to graduation ('architecture degree graduate' role and 'architecture at Mimar Sinan University in 1974'). This is the completion year of the education. Without additional information about when the studies began, time_start should be null. The time_finish is 1974 when the degree was completed."
+      }
+    },
+    {
+      "organizations": [
+        "Istanbul University"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD in architectural history graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He earned a PhD in architectural history from Istanbul University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person earned a PhD from Istanbul University, but provides no specific years for when they started or completed the program. Without temporal information, both values must be set to null."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "preacher"
+      ],
+      "location": "Edirne",
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "After working as preacher in Edirne, teacher and freelance architect in İstanbul"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person worked as a preacher in Edirne before working as a teacher and architect in Istanbul, but provides no specific years or dates for when this position started or ended. Without additional temporal information, I cannot determine accurate time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "teacher"
+      ],
+      "location": "Istanbul",
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "After working as preacher in Edirne, teacher and freelance architect in İstanbul"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was a teaching position in Istanbul that occurred at some point in the person's career sequence (after working as a preacher in Edirne), but no specific years or dates are provided. Without concrete temporal information, I cannot accurately determine the start or end years for this position."
+      }
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "freelance architect"
+      ],
+      "location": "Istanbul",
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "After working as preacher in Edirne, teacher and freelance architect in İstanbul"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person worked as a freelance architect in Istanbul at some point after working as a preacher in Edirne and as a teacher, but no specific years or time markers are provided to determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "advisor to Mayor Recep Tayyip Erdoğan for restoration and decoration of palaces and historical buildings"
+      ],
+      "time_markers": [
+        "1994-1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he served between 1994 and 1998, as advisor to then-mayor of Istanbul Recep Tayyip Erdoğan for the restoration and decoration of palaces and other historical buildings in Istanbul"
+      ],
+      "time_start": 1994,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1994-1998' and the supporting quote confirms 'he served between 1994 and 1998' as advisor to Mayor Erdoğan. This clearly indicates the position started in 1994 and ended in 1998."
+      }
+    },
+    {
+      "organizations": [
+        "Saray Muhallebicisi"
+      ],
+      "roles": [
+        "owner"
+      ],
+      "event_type": "business",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş was also the owner of the Turkish cuisine restaurant chain, Saray Muhallebicisi"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was also the owner'), indicating the ownership has ended, but no specific years are provided for when the ownership began or ended. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "Milli Selamet Partisi (MSP)",
+        "National Salvation Party"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş entered politics as member of the religious oriented Milli Selamet Partisi (MSP)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or event data. The quote only states that Topbaş 'entered politics as member' of MSP, but provides no temporal information about when this occurred or how long the membership lasted. Without additional context or time markers, I cannot determine accurate start or finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Milli Selamet Partisi (MSP)"
+      ],
+      "roles": [
+        "parliamentary candidate for Artvin province"
+      ],
+      "time_markers": [
+        "1977"
+      ],
+      "event_type": "political_campaign",
+      "outcome": "unsuccessful",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş ran twice for the deputy of Artvin province in the parliament, first in 1977 from the MSP and then in 1987 from Refah Partisi (RP) without success"
+      ],
+      "time_start": 1977,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The event is a parliamentary campaign for the 1977 elections. Political campaigns are typically short-term events that conclude with the election, so both start and finish are set to 1977, the year the campaign occurred and ended with an unsuccessful outcome."
+      }
+    },
+    {
+      "organizations": [
+        "Refah Partisi (RP)",
+        "Welfare Party"
+      ],
+      "roles": [
+        "parliamentary candidate for Artvin province"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "political_campaign",
+      "outcome": "unsuccessful",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş ran twice for the deputy of Artvin province in the parliament, first in 1977 from the MSP and then in 1987 from Refah Partisi (RP) without success"
+      ],
+      "time_start": 1987,
+      "time_finish": 1987,
+      "metadata": {
+        "timeline_reasoning": "The event is a political campaign for parliamentary candidacy in 1987. Since this is a campaign event (not an elected position), it occurred during the election year of 1987. The supporting quote confirms 'in 1987 from Refah Partisi' and the outcome was 'unsuccessful', indicating the campaign concluded in that same year."
+      }
+    },
+    {
+      "organizations": [
+        "Fazilet Partisi (FP)",
+        "Virtue Party",
+        "Beyoğlu Municipality"
+      ],
+      "roles": [
+        "Mayor of Beyoğlu"
+      ],
+      "time_markers": [
+        "18 April 1999 - 28 March 2004"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1999, he was elected mayor of Beyoğlu district from the Fazilet Partisi (FP)",
+        "Mayor of Beyoğlu In office 18 April 1999 – 28 March 2004"
+      ],
+      "time_start": 1999,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '18 April 1999 - 28 March 2004' as the period of service as Mayor of Beyoğlu. This is corroborated by the supporting quote 'Mayor of Beyoğlu In office 18 April 1999 – 28 March 2004'. The position started in 1999 and ended in 2004."
+      }
+    },
+    {
+      "organizations": [
+        "Adalet ve Kalkınma Partisi (AKP)",
+        "Justice and Development Party",
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "Mayor of Istanbul"
+      ],
+      "time_markers": [
+        "28 March 2004 - 22 September 2017"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the 2004 regional elections, Kadir Topbaş ran for the post of mayor of İstanbul from the Adalet ve Kalkınma Partisi (AKP) and won on 28 March 2004",
+        "Mayor of Istanbul In office 28 March 2004 – 22 September 2017"
+      ],
+      "time_start": 2004,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '28 March 2004 - 22 September 2017' and this is corroborated by supporting quotes indicating the position started on 28 March 2004 and ended on 22 September 2017. The position is not ongoing as there is a definite end date."
+      }
+    },
+    {
+      "organizations": [
+        "United Cities and Local Governments"
+      ],
+      "roles": [
+        "co-president"
+      ],
+      "time_markers": [
+        "November 2007"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He became co-president of United Cities and Local Governments in November 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'November 2007' and supporting quote indicate the position started in 2007. No end date is mentioned, suggesting the position may be ongoing or the end date is unknown, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Mayor"
+      ],
+      "roles": [
+        "longlisted candidate"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was longlisted for the 2008 World Mayor award"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2008'. The supporting quote indicates the person was longlisted for the 2008 World Mayor award, which is a specific award cycle that occurred in 2008. Award nominations/longlistings are typically point-in-time events rather than ongoing positions, so both start and finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "Mayor of Istanbul (re-elected)"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kadir Topbaş was re-elected as the mayor of İstanbul metropolitan area in 2009 Turkish general local elections"
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates Kadir Topbaş was re-elected as Mayor of Istanbul in 2009. This marks the start of his new term in 2009. Since this is a re-election event and there's no information about when this particular term ended, time_finish is set to null. The event only captures the beginning of this term, not its conclusion."
+      }
+    },
+    {
+      "organizations": [
+        "Union of Municipalities of Turkey"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş was appointed President of the Union of Municipalities of Turkey in 2009"
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'Topbaş was appointed President of the Union of Municipalities of Turkey in 2009', which clearly indicates the start year as 2009. There is no information about when this position ended, so time_finish is set to null as the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Government of South Korea"
+      ],
+      "roles": [
+        "Order of Cultural Merit recipient"
+      ],
+      "time_markers": [
+        "12 September 2014"
+      ],
+      "location": "Seoul",
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Cultural Merit South Korea 12 September 2014 Seoul"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '12 September 2014'. Awards are typically one-time honors received on a specific date rather than ongoing positions. Therefore, both time_start and time_finish are set to 2014, the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "Mayor of Istanbul (resigned)"
+      ],
+      "time_markers": [
+        "22 September 2017"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He resigned as the mayor of Istanbul metropolitan area on 22 September 2017, without revealing a particular political reason"
+      ],
+      "time_start": null,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '22 September 2017' clearly indicates when the position ended (resignation date). However, no information is provided about when the position started, so time_start must be null. We only have certainty about the finish year."
+      }
+    }
+  ]
+}

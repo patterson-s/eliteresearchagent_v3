@@ -1,0 +1,1064 @@
+{
+  "person_name": "Paul Polman",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Groningen"
+      ],
+      "roles": [
+        "student",
+        "BBA/BA graduate"
+      ],
+      "time_markers": [
+        "1977"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Instead, he studied at the University of Groningen, graduating with a BBA/BA in 1977."
+      ],
+      "time_start": null,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The event describes graduation with a BBA/BA in 1977, which is clearly the end date of the educational period. The start date is not mentioned in the available information, so it should be set to null rather than guessed."
+      }
+    },
+    {
+      "organizations": [
+        "University of Cincinnati"
+      ],
+      "roles": [
+        "student",
+        "MA in Economics graduate",
+        "MBA in Finance and International Marketing graduate"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He completed his MA in Economics and MBA in Finance and International Marketing in 1979 at University of Cincinnati."
+      ],
+      "time_start": null,
+      "time_finish": 1979,
+      "metadata": {
+        "timeline_reasoning": "The event describes completing two graduate degrees (MA in Economics and MBA) in 1979. The year 1979 represents the graduation/completion date (time_finish). The start date is not specified in the available information, so time_start is set to null rather than guessing when the graduate studies began."
+      }
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "cost analyst"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman worked for Procter & Gamble for 27 years, starting in 1979 as a cost analyst"
+      ],
+      "time_start": 1979,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states Polman started at Procter & Gamble in 1979 as a cost analyst and worked there for 27 years total. 1979 + 27 years = 2006, which would be when his tenure at P&G ended."
+      }
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "managing director of P&G U.K."
+      ],
+      "time_markers": [
+        "1995 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "becoming managing director of P&G U.K. from 1995 to 1998"
+      ],
+      "time_start": 1995,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1995 to 1998' and the supporting quote confirms this person was 'managing director of P&G U.K. from 1995 to 1998'. This provides clear start and end years for the position."
+      }
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "president of global fabric care"
+      ],
+      "time_markers": [
+        "1998 to 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "president of global fabric care from 1998 to 2001"
+      ],
+      "time_start": 1998,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1998 to 2001' and the supporting quote confirms 'president of global fabric care from 1998 to 2001', clearly indicating the position started in 1998 and ended in 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "group president for Europe"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and group president for Europe in 2001."
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "Only one year (2001) is mentioned in the time_markers and supporting quote, which indicates when the person became group president for Europe. There is no information about when this position ended, so time_finish is set to null following the guideline that a single year mention represents the start date without a known end date."
+      }
+    },
+    {
+      "organizations": [
+        "Nestlé"
+      ],
+      "roles": [
+        "chief financial officer"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman then joined Nestlé in 2006 as chief financial officer"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Polman 'joined Nestlé in 2006 as chief financial officer', which clearly establishes 2006 as the start year. However, no end date is mentioned in the provided information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "Nestlé"
+      ],
+      "roles": [
+        "vice president and head of the Americas"
+      ],
+      "time_markers": [
+        "February 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and in February 2008 became vice president and head of the Americas."
+      ],
+      "time_start": 2008,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person 'became vice president and head of the Americas' in February 2008, establishing 2008 as the start year. There is no information about when this position ended, so time_finish is set to null as the end date cannot be determined from the available information."
+      }
+    },
+    {
+      "organizations": [
+        "Unilever"
+      ],
+      "roles": [
+        "chief executive officer"
+      ],
+      "time_markers": [
+        "1 January 2009",
+        "2009 to 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 1 January 2009, Polman succeeded Patrick Cescau as chief executive officer of Unilever.",
+        "While he was the CEO of Unilever from 2009 to 2019",
+        "In November 2018, Polman announced he was stepping down as chief executive officer of Unilever at the end of 2018"
+      ],
+      "time_start": 2009,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The position started on 1 January 2009 as explicitly stated. While one quote mentions '2009 to 2019', another quote specifies that Polman announced in November 2018 he was stepping down 'at the end of 2018', indicating the position ended in 2018, not 2019. The more specific announcement about stepping down at the end of 2018 takes precedence over the rounded '2009 to 2019' timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "Unilever"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "2009 to 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman served on the board of Unilever from 2009 to 2019."
+      ],
+      "time_start": 2009,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2009 to 2019' and supporting quote 'Polman served on the board of Unilever from 2009 to 2019' clearly indicate the position started in 2009 and ended in 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Imagine World"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "July 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2019, Polman announced the formation of a new group - Imagine World - to help combat poverty and climate change.",
+        "In 2019 Polman, alongside Jeff Seabright, former Chief Sustainability Officer (C.S.O.) of Unilever, co-founded a new venture named Imagine"
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'July 2019' and supporting quotes clearly indicate the co-founder position started in 2019. There is no information suggesting the position has ended, so time_finish is set to null indicating it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Systemiq"
+      ],
+      "roles": [
+        "board member",
+        "major shareholder"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Imagine World was acquired by Systemiq in 2022 of which Polman remains a board member as well as major shareholder."
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote indicates that Imagine World was acquired by Systemiq in 2022, and Polman 'remains' a board member and major shareholder, using present tense. This suggests the positions started in 2022 and are ongoing, so time_finish should be null."
+      }
+    },
+    {
+      "organizations": [
+        "TPG Rise"
+      ],
+      "roles": [
+        "Founders Board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman sits on the Founders Board of TPG Rise, a $7 billion social-impact fund, alongside Bono and Jeffrey Skoll."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('sits on'), suggesting this is a current position, but no specific start year is provided. Without a definite start date in the available information, both values should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "EQT Future"
+      ],
+      "roles": [
+        "founding Co-Chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman is also founding Co-Chair of EQT Future, a €3 billion long-hold impact fund, alongside Jacob Wallenberg."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The quote indicates this is a founding Co-Chair position at EQT Future, but no specific years are mentioned in the time_markers or supporting_quotes. The use of 'is' suggests the position may be current/ongoing, but without a concrete start year, both values should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "World Business Council for Sustainable Development"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman is a former chair of the World Business Council for Sustainable Development"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this is a 'former' position, confirming it has ended, but no specific years are provided in the time_markers or supporting quotes. Without concrete temporal information, I cannot determine the start or end years."
+      }
+    },
+    {
+      "organizations": [
+        "Consumer Goods Forum"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and sat on the board of directors of the Consumer Goods Forum, leading its sustainability efforts."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote uses past tense ('sat on the board'), indicating the position has ended, but without concrete dates, both time_start and time_finish must be set to null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "UN Global Compact"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also a member of board of the UN Global Compact."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is also a member'), suggesting this is a current position, but no specific start year is provided. The time_markers array is empty, and there are no dates mentioned in the supporting quote. While the position appears to be ongoing (which would suggest time_finish: null), without any information about when it started, time_start must also be null."
+      }
+    },
+    {
+      "organizations": [
+        "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the invitation of the UN Secretary General Ban Ki-moon, Polman served as one of the 27 members of the UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quotes or time_markers. The UN High Level Panel on the Post-2015 Development Agenda was a specific initiative, but without explicit dates in the provided information, I cannot determine when Polman's service began or ended. Being conservative as instructed, I'm setting both values to null rather than making assumptions."
+      }
+    },
+    {
+      "organizations": [
+        "Global Commission on the Economy and Climate"
+      ],
+      "roles": [
+        "International Council member",
+        "co-chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the invitation of former Mexican President, Felipe Calderón, Polman served on the International Council of the Global Commission on the Economy and Climate.",
+        "Polman is co-chair of the Global Commission for the Economy and Climate, with Nicholas Stern and Ngozi Okonjo-Iweala."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quotes indicate Polman served on the International Council and is/was co-chair, but provide no temporal information. Felipe Calderón's presidency ended in 2012, which could suggest a start date around or after that time, but this would be speculative. The use of 'is co-chair' in the second quote suggests the position may be ongoing, but without concrete dates, both values should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Dutch Sustainable Growth Coalition"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman co-founded the Dutch Sustainable Growth Coalition, led by former Dutch prime minister Jan Peter Balkenende."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers are provided, and the supporting quote only mentions that Polman co-founded the Dutch Sustainable Growth Coalition without specifying when this occurred. Without any temporal information in the available data, I cannot determine accurate start or finish years."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "International Business Council member",
+        "co-chair"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a member of the World Economic Forum International Business Council",
+        "He was co-chair of the World Economic Forum 2012."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes two distinct roles: (1) membership in the International Business Council with no time markers (present tense 'is a member' suggests ongoing), and (2) co-chair role specifically for 2012. Since these are separate positions with different timeframes combined in one event, and the membership role has no clear start date while the co-chair role was specific to 2012, it's most accurate to set both to null rather than assign 2012 to what appears to be an ongoing membership."
+      }
+    },
+    {
+      "organizations": [
+        "One Young World"
+      ],
+      "roles": [
+        "counsellor"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a counsellor of One Young World"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('He is a counsellor'), suggesting this is a current position. However, no specific start year is provided in the time_markers or supporting quotes. While the position appears to be ongoing (which would warrant time_finish: null), without any temporal information to establish when it began, time_start must also be null. Being conservative as instructed, I cannot infer years without explicit evidence."
+      }
+    },
+    {
+      "organizations": [
+        "Leverhulme Trust"
+      ],
+      "roles": [
+        "trustee"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and trustee of the Leverhulme Trust."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote 'and trustee of the Leverhulme Trust' contains no dates or time indicators. Without specific years mentioned, both time_start and time_finish must be set to null following the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "B-20"
+      ],
+      "roles": [
+        "Food Security Taskforce co-chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman was co-chair of the B-20 Food Security Taskforce."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or years are mentioned in the supporting quotes or time_markers array. The quote only confirms the role and organization but provides no temporal information about when this position was held."
+      }
+    },
+    {
+      "organizations": [
+        "Dow"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He formerly served on the boards of Dow and Alcon."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses 'formerly served', indicating this is a past position that has ended. However, no specific years are mentioned in the time_markers or supporting_quotes that would allow determination of when the board membership started or ended. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Alcon"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He formerly served on the boards of Dow and Alcon."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('formerly served'), indicating the board position has ended, but no specific years are provided in the time_markers or supporting quotes. Without concrete temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "IESE Business School"
+      ],
+      "roles": [
+        "International Advisory Board member"
+      ],
+      "time_markers": [
+        "since 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has been a member of IESE's International Advisory Board (IAB) since 2015."
+      ],
+      "time_start": 2015,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2015' and supporting quote 'has been a member...since 2015' clearly indicate the position started in 2015. The word 'since' implies the position is ongoing/current, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Kilimanjaro Blind Trust"
+      ],
+      "roles": [
+        "president",
+        "founder"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is president of the Kilimanjaro Blind Trust, a foundation he created alongside fellow climber Erik Weihenmayer"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote only indicates he 'is president' (present tense, suggesting ongoing) and that he 'created' the foundation, but provides no temporal information about when this occurred. Without concrete date information, both values should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Perkins International Advisory Board"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and chair of the Perkins International Advisory Board."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote uses present tense ('chair of') which suggests it may be current, but without explicit temporal markers or context indicating when the position started or whether it's ongoing, both values should be set to null following the conservative approach."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "SDG Advocate"
+      ],
+      "time_markers": [
+        "2016",
+        "2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2016 Polman was selected by former UN secretary-general Ban Ki-moon to be an SDG Advocate",
+        "He was again appointed in 2019 by the current Secretary-General António Guterres."
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started in 2016 when Polman was first selected as SDG Advocate by Ban Ki-moon. He was reappointed in 2019 by António Guterres, indicating the role continued beyond the initial appointment. Since there is no mention of an end date and the reappointment suggests ongoing involvement, time_finish is set to null to indicate the position may still be current or no end date is specified."
+      }
+    },
+    {
+      "organizations": [
+        "The B Team"
+      ],
+      "roles": [
+        "member",
+        "chair"
+      ],
+      "time_markers": [
+        "August 2018 to September 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a member of The B Team, chairing the group from August 2018 to September 2021."
+      ],
+      "time_start": 2018,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states 'August 2018 to September 2021' for the chair role. While the person is described as 'a member' (which could be ongoing), the specific timeframe given refers to the chairing period from 2018 to 2021. The position has a defined end date, so time_finish is set to 2021."
+      }
+    },
+    {
+      "organizations": [
+        "University of Oxford",
+        "Saїd Business School"
+      ],
+      "roles": [
+        "Chair of the Board"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019 Polman was appointed as Chair of the Board for University of Oxford, Saїd Business School."
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In 2019 Polman was appointed as Chair of the Board' which indicates the position started in 2019. There is no mention of an end date or any indication that the position has concluded, suggesting it is ongoing. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Wall Street Journal/CNBC"
+      ],
+      "roles": [
+        "European Business Leader of the Year recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "European Business Leader of the year by Wall Street Journal/CNBC (2003)"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2003) mentioned in both the time_markers array and supporting quote. Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Investor Magazine"
+      ],
+      "roles": [
+        "CEO of the year recipient"
+      ],
+      "time_markers": [
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Investor Magazine CEO of the year (2010,2011,2012)"
+      ],
+      "time_start": 2010,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The award was received in three specific years: 2010, 2011, and 2012. The time_start is 2010 (first year received) and time_finish is 2012 (last year received), representing the span during which this recurring award was obtained."
+      }
+    },
+    {
+      "organizations": [
+        "Responsible Capitalism"
+      ],
+      "roles": [
+        "Award for Responsible Capitalism recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Award for Responsible Capitalism (2012)"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2012). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2012."
+      }
+    },
+    {
+      "organizations": [
+        "INSEAD"
+      ],
+      "roles": [
+        "Business Leader for the World Award recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "INSEAD Business Leader for the World Award (2012)"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2012). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2012."
+      }
+    },
+    {
+      "organizations": [
+        "WWF"
+      ],
+      "roles": [
+        "Duke of Edinburgh Conservation Medal recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "WWF's Duke of Edinburgh Conservation Medal (2013)"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2013) indicating when the Duke of Edinburgh Conservation Medal was received. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [
+        "University of Groningen"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [
+        "June 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2014 Polman received his honorary doctorate during the 400th anniversary of the University of Groningen."
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in June 2014. Awards are typically one-time events that occur in a specific year. Since the event happened in June 2014, both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Rainforest Alliance"
+      ],
+      "roles": [
+        "Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rainforest Alliance Lifetime Achievement Award (2014)"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is a Lifetime Achievement Award with a single year marker of 2014. Awards are typically received at a specific point in time rather than being ongoing positions. Both time_start and time_finish are set to 2014 to indicate the award was received in that year."
+      }
+    },
+    {
+      "organizations": [
+        "Synergos"
+      ],
+      "roles": [
+        "David Rockefeller Bridging Leadership award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "David Rockefeller Bridging Leadership award - Synergos (2014)"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2014). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Business School Lausanne"
+      ],
+      "roles": [
+        "Doctor Honoris Causa recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor Honoris Causa of Business School Lausanne (2014)"
+      ],
+      "time_start": 2014,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award (Doctor Honoris Causa) received in 2014. Awards are typically conferred at a specific point in time rather than being ongoing positions. The single year 2014 is mentioned in both time_markers and the supporting quote, indicating this is when the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "Oslo Business for Peace Award"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Oslo Business for Peace Award (2015)"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2015). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Environment Programme"
+      ],
+      "roles": [
+        "Champions of the Earth Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Lifetime Achievement Award (Champions of the Earth) in 2015."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is a lifetime achievement award received in 2015. Awards are typically one-time events that occur in a specific year. Since only 2015 is mentioned and this is an award receipt (not an ongoing position), both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "France"
+      ],
+      "roles": [
+        "Chevalier de la Légion d'honneur recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chevalier de la Légion d'honneur (2016)"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award (Chevalier de la Légion d'honneur) received in 2016. Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2016, the year the honor was received."
+      }
+    },
+    {
+      "organizations": [
+        "Singapore Government"
+      ],
+      "roles": [
+        "Public Service Star - Distinguished Friends of Singapore recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Singapore Government Public Service Star - Distinguished Friends of Singapore (2016)"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2016). Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 2016, representing the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Enactus"
+      ],
+      "roles": [
+        "Entrepreneurial Spirit Award recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Enactus Entrepreneurial Spirit Award (2017)"
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2017). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2017."
+      }
+    },
+    {
+      "organizations": [
+        "United Kingdom"
+      ],
+      "roles": [
+        "Honorary Knight Commander of the Order of the British Empire"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Knight Commander of the Order of the British Empire (2018)"
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary knighthood award received in 2018. Awards and honors are typically conferred at a specific point in time and remain as permanent titles/distinctions rather than positions with end dates. Therefore, time_start is 2018 (when the honor was bestowed) and time_finish is null as the honor continues indefinitely."
+      }
+    },
+    {
+      "organizations": [
+        "George Mason University"
+      ],
+      "roles": [
+        "honorary doctorate recipient",
+        "commencement speaker"
+      ],
+      "time_markers": [
+        "May 2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2018, Polman received an honorary doctorate from George Mason University. As the day's commencement speaker"
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The event is an honorary doctorate award and commencement speech that occurred in May 2018. This is a one-time event that happened in a specific month and year, so both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Treaties of Nijmegen"
+      ],
+      "roles": [
+        "Medal recipient"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Treaties of Nijmegen Medal (2018)"
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2018) mentioned in both time_markers and supporting_quotes. Awards are typically received in a specific year rather than spanning multiple years, so both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "University of Bath"
+      ],
+      "roles": [
+        "Doctorate of Laws recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "14 honorary doctorates, including a Doctorate of Laws from the University of Bath."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific year information is provided in the time_markers or supporting_quotes. The quote only mentions that the person received a Doctorate of Laws from the University of Bath as part of 14 honorary doctorates, but does not indicate when this award was received. Without temporal information, both fields should be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Academy of International Business"
+      ],
+      "roles": [
+        "The International Executive of the Year Award recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Academy of International Business (AIB) The International Executive of the Year Award (2023)"
+      ],
+      "time_start": 2023,
+      "time_finish": 2023,
+      "metadata": {
+        "timeline_reasoning": "This is an award received in 2023. Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2023."
+      }
+    }
+  ]
+}

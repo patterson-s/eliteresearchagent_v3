@@ -1,0 +1,1043 @@
+{
+  "person_name": "Queen Rania Al Abdullah (Rania Al-Yassin)",
+  "career_events": [
+    {
+      "organizations": [
+        "New English School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "location": "Kuwait",
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania attended the New English School in Kuwait"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or any other field. The quote only states 'Rania attended the New English School in Kuwait' without providing any temporal information about when this attendance occurred."
+      }
+    },
+    {
+      "organizations": [
+        "American University in Cairo"
+      ],
+      "roles": [
+        "student",
+        "Business Administration degree graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "subsequently earned a degree in business administration from the American University in Cairo"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person 'subsequently earned a degree in business administration from the American University in Cairo' without providing any specific years or time markers. The word 'subsequently' indicates this occurred after some other event, but without additional context or dates, no specific years can be determined. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Citibank"
+      ],
+      "roles": [
+        "marketing position"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following her graduation, she worked briefly in marketing for Citibank"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates this was a brief position 'following her graduation' but no specific years are provided. The phrase 'worked briefly' suggests it was a short-term position that has ended, but without graduation year or employment dates, no accurate years can be determined."
+      }
+    },
+    {
+      "organizations": [
+        "Apple Inc."
+      ],
+      "roles": [
+        "employee"
+      ],
+      "location": "Amman, Jordan",
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "followed by a job with Apple Inc. in Amman, Jordan"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that this position followed a previous job, but provides no specific years or time markers to determine when the Apple Inc. position started or ended. Without additional temporal information, I cannot accurately determine the time_start or time_finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Hashemite Kingdom of Jordan"
+      ],
+      "roles": [
+        "Queen Consort"
+      ],
+      "time_markers": [
+        "married June 10, 1993",
+        "tenure began February 7, 1999",
+        "proclaimed March 22, 1999"
+      ],
+      "event_type": "royal_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 10 June 1993, they were married at Zahran Palace",
+        "Abdullah ascended the throne on 7 February 1999, and proclaimed Rania queen on 22 March 1999"
+      ],
+      "time_start": 1999,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The role of Queen Consort officially began when Rania was proclaimed queen on March 22, 1999, following Abdullah's ascension to the throne on February 7, 1999. The marriage in 1993 preceded the royal position but the actual Queen Consort role started in 1999. Since there is no indication that this position has ended, time_finish is set to null, indicating it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Jordan River Foundation"
+      ],
+      "roles": [
+        "founder",
+        "establisher"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Queen Rania's first venture was the establishment of the Jordan River Foundation (JRF) in 1995"
+      ],
+      "time_start": 1995,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event marks the founding/establishment of the Jordan River Foundation in 1995. As a founder, this role typically continues indefinitely unless explicitly stated otherwise. No end date is mentioned in the supporting quotes or time markers, suggesting this is an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "UNICEF"
+      ],
+      "roles": [
+        "Global Leadership Initiative member"
+      ],
+      "time_markers": [
+        "November 2000"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2000, in recognition of her commitment to the cause of children and youth, the United Nations Children's Fund (UNICEF) invited Rania to join its Global Leadership Initiative"
+      ],
+      "time_start": 2000,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In November 2000' when Rania was invited to join UNICEF's Global Leadership Initiative. This indicates the start year is 2000. There is no information about when this membership ended, and such international appointments are often ongoing unless explicitly stated otherwise, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Queen Rania Al Abdullah Center for Educational Technology"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "June 6, 2001"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania also established The Queen Rania Al Abdullah Center for Educational Technology on 6 June 2001"
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The organization was founded on June 6, 2001, which establishes 2001 as the time_start. Since this is an organizational founding event and there is no information indicating when the founder's role ended or that the organization closed, time_finish is set to null, indicating the role may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "International Youth Foundation"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "location": "Baltimore, Maryland, USA",
+      "time_markers": [
+        "early 2002"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In early 2002 Rania joined the board of directors of the International Youth Foundation"
+      ],
+      "time_start": 2002,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'early 2002' and supporting quote clearly indicate the board appointment began in 2002. There is no information about when this position ended, and board positions typically continue until resignation or removal, so time_finish is set to null indicating the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Foundation Board member"
+      ],
+      "time_markers": [
+        "September 2002"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2002, Rania became a member of the World Economic Forum (WEF) Foundation Board"
+      ],
+      "time_start": 2002,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In September 2002, Rania became a member of the World Economic Forum (WEF) Foundation Board', establishing 2002 as the start year. There is no information indicating when this board membership ended, and board positions are typically ongoing unless otherwise stated, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Al-Aman Fund for the Future of Orphans"
+      ],
+      "roles": [
+        "founder",
+        "initiator"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania initiated the Al-Aman Fund for the Future of Orphans in 2003"
+      ],
+      "time_start": 2003,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes the founding/initiation of an organization in 2003. As a founder, this role typically continues ongoing unless explicitly stated otherwise. Only the founding year is mentioned with no end date indicated, so time_start is 2003 and time_finish is null to reflect the ongoing nature of the founder role."
+      }
+    },
+    {
+      "organizations": [
+        "Foundation for International Community Assistance (FINCA)"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "September 2003"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2003, Rania accepted an invitation to join the board of directors of the Foundation for International Community Assistance (FINCA)"
+      ],
+      "time_start": 2003,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states that in September 2003, Rania joined the board of directors of FINCA. This establishes 2003 as the start year. There is no information provided about when this board membership ended, and no indicators that it has concluded, so time_finish is set to null indicating the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Forum of Young Global Leaders"
+      ],
+      "roles": [
+        "Foundation Board member",
+        "Nominations and Selection Committee chairperson"
+      ],
+      "time_markers": [
+        "July 2004"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also on the Foundation Board of the Forum of Young Global Leaders (YGL) and has been the chairperson for the Nominations and Selection Committee since July 2004"
+      ],
+      "time_start": 2004,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'has been the chairperson for the Nominations and Selection Committee since July 2004', with 'since' and present perfect tense 'has been' indicating an ongoing position that started in 2004 and continues to the present. No end date is mentioned for either role."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Education Jordan",
+        "Royal Court"
+      ],
+      "roles": [
+        "co-founder of Queen Rania Award for Excellence in Education"
+      ],
+      "time_markers": [
+        "July 2005"
+      ],
+      "event_type": "initiative_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2005 in partnership with the Ministry of Education, the King and Queen launched an annual teachers' award"
+      ],
+      "time_start": 2005,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award was founded/launched in July 2005 as indicated by the time_marker and supporting quote. Since this is an annual award that was established as an ongoing initiative (not a one-time event), and there is no indication of when it ended, time_finish is set to null to indicate it continues beyond the founding year."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Health Awareness Society"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Rania established the Royal Health Awareness Society (RHAS)"
+      ],
+      "time_start": 2005,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event marks the founding of the Royal Health Awareness Society in 2005. As this is an organizational founding where the person is listed as 'founder', and there is no indication of when this role ended, time_start is set to 2005 and time_finish is set to null to indicate the role may be ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Foundation"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "September 2006"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2006, Rania also joined the United Nations Foundation board of directors"
+      ],
+      "time_start": 2006,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'September 2006' indicates when Rania joined the United Nations Foundation board of directors. Since there is no mention of when this position ended, and board appointments typically continue until resignation or removal, time_finish is set to null indicating an ongoing or unspecified end date."
+      }
+    },
+    {
+      "organizations": [
+        "UNICEF"
+      ],
+      "roles": [
+        "Eminent Advocate for Children"
+      ],
+      "time_markers": [
+        "January 2007"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2007, Rania was named UNICEF's first Eminent Advocate for Children"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in January 2007 as clearly stated in the time_markers and supporting quote. This is an advocacy position with UNICEF that typically continues indefinitely unless explicitly ended. No end date is mentioned, and such honorary titles are generally ongoing, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Children's Museum Jordan"
+      ],
+      "roles": [
+        "chairperson"
+      ],
+      "time_markers": [
+        "opened May 2007"
+      ],
+      "event_type": "organizational_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Queen is chairperson of Jordan's first interactive children's museum, which opened in May 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The museum opened in May 2007, and the Queen is described as chairperson using present tense ('is chairperson'), indicating the role began around the museum's opening and continues to the present. No end date is mentioned, so time_finish is set to null to indicate an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "Madrasati Initiative"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "April 2008"
+      ],
+      "event_type": "initiative_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In April 2008, the Queen launched 'Madrasati' ('My School'), a public-private initiative aimed at refurbishing 500 of Jordan's public schools"
+      ],
+      "time_start": 2008,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The initiative was founded in April 2008 as indicated by the time_marker and supporting quote. There is no information about when this initiative ended, and founding an initiative typically represents an ongoing commitment unless otherwise stated, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Girls' Education Initiative (UNGEI)"
+      ],
+      "roles": [
+        "Honorary Global Chair"
+      ],
+      "time_markers": [
+        "August 2009"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In August 2009, Rania became Honorary Global Chair of the United Nations Girls' Education Initiative (UNGEI)"
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'August 2009' indicates the position started in 2009. There is no information about when this role ended, and honorary chairs typically continue indefinitely unless explicitly stated otherwise, so time_finish is set to null indicating an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "Global Campaign for Education"
+      ],
+      "roles": [
+        "Honorary Chairperson for Global Action Week"
+      ],
+      "time_markers": [
+        "April 2009"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For their Global Action Week in April 2009, the Global Campaign for Education named Rania their honorary chairperson"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The role is 'Honorary Chairperson for Global Action Week' which is a specific event-based appointment. The time marker 'April 2009' indicates this was for the Global Action Week event in 2009. Since Global Action Week is an annual campaign event (not an ongoing position), the appointment would have been for that specific week/event in 2009, making both start and finish 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Queen Rania Teacher Academy"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "June 2009"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Queen Rania Teacher Academy, which was launched in June 2009, provides professional development programs for current and new teachers"
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The organization was founded/launched in June 2009. As this is an organizational founding event rather than a term-limited position, and there is no indication the organization has closed or the founder role has ended, time_finish is set to null to indicate it is ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "1GOAL: Education for All"
+      ],
+      "roles": [
+        "co-founder",
+        "global co-chair"
+      ],
+      "time_markers": [
+        "August 20, 2009"
+      ],
+      "event_type": "campaign_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 20 August 2009, Rania co-founded and led the launch of the '1GOAL: Education for All' campaign",
+        "In August 2009, Rania was named co-founder and global co-chair of 1GOAL"
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The career event shows a founding date of August 20, 2009, when Rania co-founded and became global co-chair of 1GOAL: Education for All. This is a founding/leadership position with no end date mentioned in the provided information, suggesting it may be ongoing or the end date is unknown. Therefore, time_start is set to 2009 and time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Queen Rania Children's Hospital"
+      ],
+      "roles": [
+        "founder/patron"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, the first specialized medical building for children was built in Jordan, Queen Rania Children's Hospital"
+      ],
+      "time_start": 2011,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The hospital was founded/built in 2011 as stated in the supporting quote. For a founder/patron role of an institution, the relationship typically continues ongoing unless otherwise specified. Since there is no indication the patronage ended, time_finish is set to null to indicate this is likely a continuing role."
+      }
+    },
+    {
+      "organizations": [
+        "Earthshot Prize Council"
+      ],
+      "roles": [
+        "council member"
+      ],
+      "time_markers": [
+        "October 2020"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2020, Rania was named as a member of the Earthshot Prize Council, an initiative of Prince William"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in October 2020 as stated in the time_markers and supporting quote. Since this is a council membership appointment with no end date mentioned, and the event_type is 'appointment' rather than a completed term, the position appears to be ongoing. Therefore, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "board of trustees member"
+      ],
+      "time_markers": [
+        "as of 2024"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As of 2024, she is a member of the board of trustees of the World Economic Forum"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'as of 2024' indicates the person holds this position in 2024, but does not specify when the appointment began. The position appears to be ongoing (time_finish would be null), but without information about the start date, time_start must also be null. We only know the position was active as of 2024, not when it commenced."
+      }
+    },
+    {
+      "organizations": [
+        "International Osteoporosis Foundation"
+      ],
+      "roles": [
+        "Life Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001: Life Achievement Award of International Osteoporosis Foundation, Italy"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "This is a Life Achievement Award received in 2001. Awards are typically one-time events that occur in a specific year. Since only 2001 is mentioned and this is an award (not an ongoing position), both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "Municipality of Milan"
+      ],
+      "roles": [
+        "Ambrogino D'Oro Award recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002: Ambrogino D'Oro Award from the Municipality of Milan, Italy"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2002). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Pio Manzù International Research Centre"
+      ],
+      "roles": [
+        "Gold Medal of the President of the Italian Republic recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002: Gold Medal of the President of the Italian Republic from Pio Manzù International Research Centre, Italy"
+      ],
+      "time_start": 2002,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2002) explicitly stated in both the time_markers field and the supporting quote. Awards are typically one-time honors received in a specific year, so both time_start and time_finish are set to 2002."
+      }
+    },
+    {
+      "organizations": [
+        "Deutscher Medienpreis"
+      ],
+      "roles": [
+        "German Media Award recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2003: German Media Award from Deutscher Medienpreis, Germany"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2003) mentioned in both time_markers and supporting_quotes. Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2005: Golden Plate Award, Academy of Achievement, USA"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2005) mentioned in both time_markers and supporting_quotes. Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Sesame Workshop"
+      ],
+      "roles": [
+        "Sesame Workshop Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2005: Sesame Workshop Award from Sesame Workshop, USA"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2005). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Seeds of Peace"
+      ],
+      "roles": [
+        "John Wallach Humanitarian Award and PeaceMaker Award recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2007: John Wallach Humanitarian Award and PeaceMaker Award from the non-profit Seeds of Peace, USA"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2007) mentioned in both time_markers and supporting_quotes. Awards are typically received at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 2007."
+      }
+    },
+    {
+      "organizations": [
+        "YouTube"
+      ],
+      "roles": [
+        "YouTube Visionary Award recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008: First ever YouTube Visionary Award"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2008). Awards are typically one-time recognitions received in a specific year, not ongoing positions. The supporting quote 'First ever YouTube Visionary Award' confirms this was a discrete event in 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Council of Europe"
+      ],
+      "roles": [
+        "North-South Prize recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009: North-South Prize by the North-South Prize, Portugal"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2009) mentioned in both time_markers and supporting_quotes. Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "FIFA"
+      ],
+      "roles": [
+        "FIFA Presidential Award recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009: FIFA Presidential Award, Switzerland"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2009) mentioned in both time_markers and supporting_quotes. Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "The New York Times"
+      ],
+      "roles": [
+        "Best Seller list - children's books"
+      ],
+      "time_markers": [
+        "May 2010"
+      ],
+      "event_type": "publication_achievement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2010, the book went to the top of the New York Times Best Seller list for children's books"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "The event describes a book reaching the top of the New York Times Best Seller list in May 2010. This is a specific achievement that occurred at a point in time rather than an ongoing position. Since only May 2010 is mentioned and this represents when the book achieved bestseller status, both time_start and time_finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "ranked among world's 100 most powerful women"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "recognition",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011: Forbes magazine ranked Rania as one of the world's 100 most powerful women"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is a recognition event for a specific year's ranking. Forbes' '100 most powerful women' is an annual list published for that particular year. The event occurred in 2011, so both time_start and time_finish are set to 2011, as this represents a point-in-time achievement rather than an ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "Atlantic Council"
+      ],
+      "roles": [
+        "Global Citizen Award recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2013: Atlantic Council's Global Citizen Awards, USA"
+      ],
+      "time_start": 2013,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2013' mentioned in both the time_markers array and the supporting quote. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Walther Rathenau Institut"
+      ],
+      "roles": [
+        "Walther Rathenau Award recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2015: Walther Rathenau Award from Walther Rathenau Institut, Germany"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2015) mentioned in both time_markers and supporting_quotes. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "Zayed Award for Human Fraternity"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2022: Zayed Award for Human Fraternity 2022"
+      ],
+      "time_start": 2022,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2022' mentioned in both the time_markers array and supporting quote. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 2022."
+      }
+    },
+    {
+      "organizations": [
+        "University of Exeter"
+      ],
+      "roles": [
+        "Honorary Doctorate in Law (LLD) recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Honorary Doctorate in Law (LLD) from the University of Exeter, UK"
+      ],
+      "time_start": 2001,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "An honorary doctorate is a one-time award conferred in a specific year, not an ongoing position. The supporting quote clearly indicates this degree was awarded in 2001, so both time_start and time_finish are set to 2001."
+      }
+    },
+    {
+      "organizations": [
+        "University of Jordan"
+      ],
+      "roles": [
+        "Honorary Doctorate in Educational Sciences recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Honorary Doctorate Degree in Educational Sciences from the University of Jordan"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "An honorary doctorate is a one-time award conferred in a specific year rather than an ongoing position. The supporting quote clearly indicates this degree was awarded in 2008, so both time_start and time_finish are set to 2008 to mark the year of conferral."
+      }
+    },
+    {
+      "organizations": [
+        "University of Malaya"
+      ],
+      "roles": [
+        "Honorary Doctorate in International Relations recipient"
+      ],
+      "location": "Malaysia",
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Honorary Doctorate in International Relations from the University of Malaya, Malaysia"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate degree awarded in 2008. Honorary degrees are conferred at a specific point in time rather than representing an ongoing position. The single year 2008 is clearly stated in both the time_markers and supporting quote, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "University of Sapienza"
+      ],
+      "roles": [
+        "Honorary Doctorate in Science Development and International Cooperation recipient"
+      ],
+      "location": "Italy",
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2015 Honorary Doctorate in 'Science Development and International Cooperation' from the University of Sapienza, Italy"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2015. Honorary degrees are conferred on a specific date rather than representing an ongoing position, so both start and finish are set to the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Arab Open University"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "event_type": "organizational_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania is co-chair of the Arab Open University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is co-chair'), suggesting this is a current position, but no specific start year is provided in the career event data. Without temporal information, I cannot determine when the role began. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "INJAZ Al-Arab"
+      ],
+      "roles": [
+        "regional ambassador"
+      ],
+      "event_type": "ambassadorial_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her capacity as regional ambassador of INJAZ Al-Arab, Rania has taught classes and engaged in dialogue with young people"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote uses present perfect tense ('has taught') which indicates past activity but doesn't specify when it started or whether it's ongoing. Without concrete temporal information, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "GAVI Alliance"
+      ],
+      "roles": [
+        "Every Child Council member"
+      ],
+      "event_type": "council_membership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania was a member of the Every Child Council for the GAVI Alliance"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote uses past tense ('was a member'), indicating the role has ended, but no dates are given to determine when it started or finished."
+      }
+    },
+    {
+      "organizations": [
+        "International Center for Research on Women (ICRW)"
+      ],
+      "roles": [
+        "Honorary Member of International Advisory Council"
+      ],
+      "event_type": "advisory_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania was an Honorary Member of the International Advisory Council for the International Center for Research on Women (ICRW)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The past tense 'was' suggests the role has ended, but without concrete dates, both time_start and time_finish must be set to null following the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Operation Smile"
+      ],
+      "roles": [
+        "Honorary Chairperson of Jordanian Chapter"
+      ],
+      "event_type": "honorary_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was Honorary Chairperson of the Jordanian Chapter of Operation Smile"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses past tense ('was'), indicating the position has ended, but no specific years are provided for when it started or finished. Without concrete temporal information, both values should remain null rather than guessing."
+      }
+    }
+  ]
+}

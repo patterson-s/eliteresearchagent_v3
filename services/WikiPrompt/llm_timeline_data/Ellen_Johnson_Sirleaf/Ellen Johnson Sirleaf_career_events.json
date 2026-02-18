@@ -1,0 +1,1039 @@
+{
+  "person_name": "Ellen Johnson Sirleaf",
+  "career_events": [
+    {
+      "organizations": [
+        "Madison Business College"
+      ],
+      "roles": [
+        "student",
+        "Associate degree in Accounting graduate"
+      ],
+      "time_markers": [
+        "1961"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She traveled with her husband to the United States in 1961 to continue her education and earned an associate degree in Accounting at Madison Business College, in Madison, Wisconsin."
+      ],
+      "time_start": 1961,
+      "time_finish": 1961,
+      "metadata": {
+        "timeline_reasoning": "Only one year (1961) is mentioned in the time_markers and supporting quote. The quote indicates she 'traveled to the United States in 1961 to continue her education and earned an associate degree,' suggesting 1961 is when this educational event occurred. Since an associate degree typically takes 2 years but we only have one specific year mentioned, and the phrasing suggests the degree was earned (completed) in connection with 1961, I'm setting both start and finish to 1961 per guideline 4."
+      }
+    },
+    {
+      "organizations": [
+        "University of Colorado Boulder"
+      ],
+      "roles": [
+        "student",
+        "BA in Economics graduate"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1970, she earned a BA in economics from the Economics Institute of the University of Colorado Boulder"
+      ],
+      "time_start": null,
+      "time_finish": 1970,
+      "metadata": {
+        "timeline_reasoning": "The event describes earning a BA degree in 1970, which is a graduation/completion year. For a typical 4-year undergraduate program, the start would be around 1966-1967, but since no explicit start date is provided and we should be conservative, time_start is set to null. The time_finish is confidently set to 1970 as this is when the degree was earned and the education concluded."
+      }
+    },
+    {
+      "organizations": [
+        "Harvard Kennedy School",
+        "Harvard University"
+      ],
+      "roles": [
+        "graduate student",
+        "Master of Public Administration graduate"
+      ],
+      "time_markers": [
+        "1969 to 1971"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf studied economics and public policy at Harvard Kennedy School from 1969 to 1971, earning a Master of Public Administration."
+      ],
+      "time_start": 1969,
+      "time_finish": 1971,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly states '1969 to 1971' and the supporting quote confirms 'studied economics and public policy at Harvard Kennedy School from 1969 to 1971, earning a Master of Public Administration.' This clearly indicates the education period started in 1969 and ended in 1971."
+      }
+    },
+    {
+      "organizations": [
+        "Liberian Government under William Tolbert"
+      ],
+      "roles": [
+        "Assistant Minister of Finance"
+      ],
+      "time_markers": [
+        "1972 to 1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf served as Assistant Minister from 1972 to 1973 in the Tolbert administration. She resigned after a disagreement about government spending."
+      ],
+      "time_start": 1972,
+      "time_finish": 1973,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1972 to 1973' and the supporting quote confirms 'Sirleaf served as Assistant Minister from 1972 to 1973', providing clear start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "Liberian Government under William Tolbert"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "1979 to April 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Subsequently, she was appointed as Minister of Finance a few years later, serving from 1979 to April 1980."
+      ],
+      "time_start": 1979,
+      "time_finish": 1980,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1979 to April 1980' and supporting quote clearly indicate the position started in 1979 and ended in April 1980. Both start and end years are explicitly stated."
+      }
+    },
+    {
+      "organizations": [
+        "Liberian Bank for Development and Investment"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "April 1980 to November 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf initially accepted a post in the new government as the President of the Liberian Bank for Development and Investment. She fled the country in November 1980 after publicly criticising Doe"
+      ],
+      "time_start": 1980,
+      "time_finish": 1980,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states 'April 1980 to November 1980', indicating both the start and end occurred within the same year, 1980. The supporting quote confirms she fled in November 1980, marking the end of this position."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1980-1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf initially moved to Washington, D.C., and worked for the World Bank."
+      ],
+      "time_start": 1980,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly provides '1980-1981' as the timeframe for this World Bank position. This indicates the position started in 1980 and ended in 1981."
+      }
+    },
+    {
+      "organizations": [
+        "Citibank"
+      ],
+      "roles": [
+        "Vice President of the African Regional Office"
+      ],
+      "time_markers": [
+        "1981 to 1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981, she moved to Nairobi, Kenya to serve as Vice President of the African Regional Office of Citibank. She resigned from Citibank in 1985 following her involvement at the 1985 general election in Liberia."
+      ],
+      "time_start": 1981,
+      "time_finish": 1985,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1981 to 1985' and the supporting quote confirms she 'moved to Nairobi, Kenya to serve as Vice President' in 1981 and 'resigned from Citibank in 1985'. This provides clear start and end dates for the position."
+      }
+    },
+    {
+      "organizations": [
+        "Equator Bank"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She went to work for Equator Bank, a subsidiary of HSBC."
+      ],
+      "time_start": 1985,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "Only one year (1985) is mentioned in the time_markers, which indicates when she went to work for Equator Bank. There is no information about when this position ended, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Liberian Government under Amos Sawyer"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 1990–1990 President Amos Sawyer"
+      ],
+      "time_start": 1990,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote 'In office 1990–1990' explicitly indicates both the start and end year as 1990, suggesting this was a position held within the same calendar year. This is corroborated by the time_marker '1990'."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Development Programme"
+      ],
+      "roles": [
+        "director of Regional Bureau for Africa",
+        "assistant administrator and assistant secretary general"
+      ],
+      "time_markers": [
+        "1992 to 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1992, Sirleaf was appointed as the director of the United Nations Development Programme's Regional Bureau for Africa at the rank of assistant administrator and assistant secretary general (ASG).",
+        "She resigned from this role in 1997 in order to run for the presidency of Liberia."
+      ],
+      "time_start": 1992,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_markers explicitly state '1992 to 1997', and this is corroborated by the supporting quotes which indicate appointment in 1992 and resignation in 1997. The evidence is clear and consistent across all sources."
+      }
+    },
+    {
+      "organizations": [
+        "Organization of African Unity"
+      ],
+      "roles": [
+        "investigator of Rwandan genocide"
+      ],
+      "time_markers": [
+        "1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During her time at the UN, she was one of the seven internationally eminent persons designated in 1999 by the Organization of African Unity to investigate the Rwandan genocide"
+      ],
+      "time_start": 1999,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person was 'designated in 1999' to investigate the Rwandan genocide. This appears to be a specific investigative assignment rather than an ongoing position. Since only one year (1999) is mentioned and this was an investigation (typically a time-bound task), both time_start and time_finish are set to 1999, indicating the assignment occurred in that year."
+      }
+    },
+    {
+      "organizations": [
+        "Inter-Congolese Dialogue"
+      ],
+      "roles": [
+        "Commission Chair"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "one of the five Commission Chairs for the Inter-Congolese Dialogue"
+      ],
+      "time_start": 1998,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'late 1990s' typically refers to 1997-1999. The Inter-Congolese Dialogue was a peace process that formally began in 1999, though preparatory work occurred in 1998. Given the 'late 1990s' marker and the nature of commission chairs being appointed for specific dialogue sessions, I estimate this position spanned 1998-1999. However, this is a conservative estimate based on limited information."
+      }
+    },
+    {
+      "organizations": [
+        "UNIFEM"
+      ],
+      "roles": [
+        "international expert on conflict and women"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "one of the two international experts selected by UNIFEM to investigate and report on the effect of conflict on women and women's roles in peace building"
+      ],
+      "time_start": 1997,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'late 1990s' typically refers to 1997-1999. Given this was a specific expert investigation/report assignment for UNIFEM rather than an ongoing position, it likely had a defined timeframe within this period. Setting the range to cover the late 1990s period."
+      }
+    },
+    {
+      "organizations": [
+        "Open Society Initiative for West Africa"
+      ],
+      "roles": [
+        "initial Chairperson"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was the initial Chairperson of the Open Society Initiative for West Africa (OSIWA)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that she was the 'initial Chairperson' of OSIWA, but provides no specific years or time markers for when this position started or ended. Without additional temporal information, I cannot determine accurate dates."
+      }
+    },
+    {
+      "organizations": [
+        "Ghana Institute of Management and Public Administration"
+      ],
+      "roles": [
+        "visiting Professor of Governance"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a visiting Professor of Governance at the Ghana Institute of Management and Public Administration (GIMPA)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only confirms the position title and organization but contains no temporal information to determine when this visiting professorship began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Liberian Action Party"
+      ],
+      "roles": [
+        "Vice Presidential candidate"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "While working at Citibank, Sirleaf returned to Liberia in 1985 to run for Vice President under Jackson Doe on the ticket of the Liberian Action Party in the 1985 elections."
+      ],
+      "time_start": 1985,
+      "time_finish": 1985,
+      "metadata": {
+        "timeline_reasoning": "This is a political campaign event for the 1985 elections. The supporting quote indicates Sirleaf 'returned to Liberia in 1985 to run for Vice President' in the 1985 elections. Political campaigns are time-bound events that conclude with the election, so both start and finish are set to 1985, the year the campaign and election occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "presidential candidate"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She ran as the presidential candidate for the Unity Party and placed second in a controversial election, getting just under 10% of the vote to Charles Taylor's 75%"
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_marker explicitly indicates '1997', and the supporting quote describes a completed presidential campaign ('ran as the presidential candidate' and 'placed second in a controversial election'). Presidential campaigns are discrete events that occur within a single election year, so both start and finish are set to 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Governance Reform Commission"
+      ],
+      "roles": [
+        "head"
+      ],
+      "time_markers": [
+        "post-Second Liberian Civil War, pre-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ultimately, Gyude Bryant, a political neutral, was chosen as chairman, while Sirleaf served as head of the Governance Reform Commission."
+      ],
+      "time_start": 2003,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The Second Liberian Civil War ended in 2003 with the Accra Comprehensive Peace Agreement, which established a transitional government under Gyude Bryant. The time marker 'post-Second Liberian Civil War, pre-2005' indicates this position was held during the transitional period between the war's end (2003) and the 2005 elections. This transitional government period ran from 2003-2005, making these the most accurate bounds for this role."
+      }
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "presidential candidate",
+        "President-elect of Liberia"
+      ],
+      "time_markers": [
+        "2005",
+        "declared winner 23 November 2005"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf stood for president as the candidate of the Unity Party in the 2005 general election.",
+        "On 23 November 2005, Sirleaf was declared the winner of the Liberian election and confirmed as the country's next president and the first woman to be elected as president of an African country."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The career event describes a presidential campaign and election that occurred in 2005. Sirleaf stood as a candidate in the 2005 general election and was declared winner on November 23, 2005, becoming President-elect. Both the campaign and election victory happened within the same year (2005), so both time_start and time_finish are set to 2005. This represents the campaign period and election outcome, not her subsequent presidency."
+      }
+    },
+    {
+      "organizations": [
+        "Republic of Liberia"
+      ],
+      "roles": [
+        "24th President of Liberia"
+      ],
+      "time_markers": [
+        "16 January 2006 to 22 January 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Her inauguration took place on 16 January 2006.",
+        "Ellen Eugenia Johnson Sirleaf (born 29 October 1938) is a Liberian politician who served as the 24th president of Liberia from 2006 to 2018."
+      ],
+      "time_start": 2006,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly state '16 January 2006 to 22 January 2018', indicating the position started in 2006 and ended in 2018. This is corroborated by the supporting quotes which mention the inauguration on 16 January 2006 and service as president 'from 2006 to 2018'."
+      }
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "presidential candidate",
+        "re-elected President"
+      ],
+      "time_markers": [
+        "2011",
+        "inaugurated 16 January 2012"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2010, Sirleaf announced that she would run for a second term in office in the 2011 presidential election",
+        "She took the presidential oath for her second presidency on 16 January 2012."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes a presidential campaign in 2011 that resulted in re-election, with inauguration on 16 January 2012. The actual second term as President started in 2012 with the inauguration. No end date is specified for this term, so time_finish is set to null as the position appears ongoing based on the information provided."
+      }
+    },
+    {
+      "organizations": [
+        "Economic Community of West African States"
+      ],
+      "roles": [
+        "Chair of ECOWAS"
+      ],
+      "time_markers": [
+        "June 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2016, Sirleaf was elected as the Chair of the Economic Community of West African States, making her the first woman to hold the position since it was created."
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'In June 2016, Sirleaf was elected as the Chair of the Economic Community of West African States.' This indicates the position started in 2016. There is no information about when the position ended, so time_finish is set to null as we cannot determine if or when it concluded."
+      }
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "expelled member"
+      ],
+      "time_markers": [
+        "13 January 2018"
+      ],
+      "event_type": "political_separation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the late evening hours of 13 January 2018, she along with some officials of the Unity Party were expelled by the National Executive Committee of the party, for failing to support Unity Party presidential candidate"
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The expulsion from Unity Party occurred on a specific date: 13 January 2018. This is a single-day event where the person's membership ended, so both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Ellen Johnson Sirleaf Presidential Center for Women and Development"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2018, Sirleaf founded the Ellen Johnson Sirleaf Presidential Center for Women and Development, which aims 'to be a catalyst for change across Africa, by helping unleash its most abundant untapped power – its women'."
+      ],
+      "time_start": 2018,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes founding an organization in 2018. A founder role typically continues ongoing unless there's evidence of it ending. Since no end date is mentioned and the supporting quote describes the center's ongoing mission, this appears to be a current position. Therefore, time_start is 2018 and time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "WHO Goodwill Ambassador for the health workforce"
+      ],
+      "time_markers": [
+        "2019 to 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Director-General of the World Health Organization Tedros Adhanom appointed Sirleaf as the WHO Goodwill Ambassador for the health workforce.",
+        "Amid the COVID-19 pandemic in 2020, she stepped down from this post to serve as co-chair"
+      ],
+      "time_start": 2019,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes clearly indicate Sirleaf was appointed as WHO Goodwill Ambassador in 2019 and stepped down from this post in 2020. The time_marker '2019 to 2020' confirms this timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "co-chair of WHO's Independent Panel for Pandemic Preparedness and Response"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Amid the COVID-19 pandemic in 2020, she stepped down from this post to serve as co-chair (alongside Helen Clark) of the WHO's Independent Panel for Pandemic Preparedness and Response (IPPR)."
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates she 'stepped down from this post to serve as co-chair' in 2020, establishing 2020 as the start year. No end date is mentioned in the provided information, and there's no indication the role has concluded, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "U.S. International Development Finance Corporation"
+      ],
+      "roles": [
+        "Development Advisory Council member"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Also in 2020, she was appointed to the Development Advisory Council of the U.S. International Development Finance Corporation."
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'in 2020, she was appointed to the Development Advisory Council,' indicating the position started in 2020. There is no mention of when the position ended, and advisory council positions are typically ongoing unless otherwise stated, so time_finish is set to null to indicate the position may still be current."
+      }
+    },
+    {
+      "organizations": [
+        "Africa Europe Foundation"
+      ],
+      "roles": [
+        "Member of the High-Level Group of Personalities on Africa-Europe Relations"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2020' clearly indicates the position started in 2020 and is ongoing. The word 'since' signals a continuing role with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Brenthurst Foundation"
+      ],
+      "roles": [
+        "Member of the Advisory Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brenthurst Foundation, Member of the Advisory Board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the organization and role but contains no dates, time markers, or context that would indicate when this advisory board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Mastercard Foundation"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mastercard Foundation, Member of the Board of Directors (since 2020)"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2020' clearly indicates the position started in 2020 and is ongoing. The word 'since' signals a continuing role with no end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Council of Women World Leaders"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf is a member of the Council of Women World Leaders, an international network of current and former women presidents and prime ministers"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Sirleaf is a member of the Council of Women World Leaders, which is described as a network of current and former women presidents and prime ministers. However, no specific years are mentioned for when this membership began or ended. The use of 'is' suggests it may be current, but without concrete dates or additional context, I cannot determine accurate time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Elders organization member list includes Ellen Johnson Sirleaf"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or event data. The quote only confirms membership in The Elders organization but provides no temporal information about when this membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Roosevelt Institute"
+      ],
+      "roles": [
+        "Freedom of Speech Award recipient"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the 1988 Roosevelt Institute Freedom of Speech Award"
+      ],
+      "time_start": 1988,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1988) mentioned in both the time_markers array and the supporting quote. Awards are typically one-time events that occur in a specific year, so both time_start and time_finish are set to 1988."
+      }
+    },
+    {
+      "organizations": [
+        "Order of Mono (Togo)"
+      ],
+      "roles": [
+        "Commander"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1996 Commander of the Order of Mono"
+      ],
+      "time_start": 1996,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Commander of the Order of Mono) with a single year mentioned (1996). Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 1996, representing the year the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "Search for Common Ground"
+      ],
+      "roles": [
+        "Common Ground Award recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Common Ground Award recipient, Search for Common Ground"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2006'. Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "The Hunger Project"
+      ],
+      "roles": [
+        "Africa Prize for Leadership for the Sustainable End of Hunger Laureate"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Laureate of the Africa Prize for Leadership for the Sustainable End of Hunger, The Hunger Project"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an award (laureate designation) given in 2006. Awards are typically one-time honors received in a specific year rather than ongoing positions. Since only 2006 is mentioned and this represents when the award was received, both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Marquette University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Awarded Honorary Doctor of Laws from Marquette University"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2006. Awards are typically conferred on a specific date/year rather than being ongoing positions, so both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "United States Government"
+      ],
+      "roles": [
+        "Presidential Medal of Freedom recipient"
+      ],
+      "time_markers": [
+        "5 November 2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2007 Presidential Medal of Freedom, the highest civilian award given by the United States, awarded to Sirleaf by U.S. President George W. Bush on 5 November 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '5 November 2007'. Awards are typically one-time honors received on a specific date, not ongoing positions. Both time_start and time_finish should be set to 2007, the year the Presidential Medal of Freedom was awarded."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Golden Plate Award of the American Academy of Achievement"
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2008) mentioned in both the time_markers array and the supporting quote. Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Indiana University",
+        "Dartmouth College",
+        "Brown University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Awarded Honorary Doctor of Laws degree from Indiana University, Dartmouth College; and Brown University."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an award event where honorary degrees were awarded in 2008. Awards are typically conferred at a specific point in time rather than over a duration. Since only the year 2008 is mentioned and honorary degrees are one-time recognitions, both time_start and time_finish should be set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "EITI (Extractive Industries Transparency Initiative)"
+      ],
+      "roles": [
+        "EITI Award recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009 Awarded the EITI Award for 'the rapid progress the country has made towards implementation of the EITI'"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2009). Awards are typically one-time recognitions that occur in a specific year rather than ongoing positions. The supporting quote confirms the award was given in 2009, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "University of Tampa"
+      ],
+      "roles": [
+        "Honorary Doctor of Humane Letters recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009 Awarded Honorary Doctor of Humane Letters degree from the University of Tampa"
+      ],
+      "time_start": 2009,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award with a specific year of 2009 mentioned in both time_markers and supporting_quotes. Awards are typically conferred at a single point in time rather than being ongoing positions, so both time_start and time_finish are set to 2009."
+      }
+    },
+    {
+      "organizations": [
+        "Yale University",
+        "Rutgers University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2010 Awarded Honorary Doctor of Laws degree from Yale University and Rutgers, The State University of New Jersey"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award event with a specific year of 2010 mentioned in both time_markers and supporting_quotes. Honorary degrees are awarded at a specific point in time (not ongoing positions), so both time_start and time_finish should be set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "The African Editor's Union"
+      ],
+      "roles": [
+        "Friend of the Media in Africa Award recipient"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2010 Friend of the Media in Africa Award from The African Editor's Union"
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2010) mentioned in both the time_markers array and the supporting quote. Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2010."
+      }
+    },
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Awarded Honorary Doctor of Laws degree from Harvard University"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2011. Awards are typically conferred on a specific date/year rather than being ongoing positions, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Nobel Foundation"
+      ],
+      "roles": [
+        "Nobel Peace Prize laureate"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Nobel Peace Prize",
+        "In 2011, Sirleaf was jointly awarded the Nobel Peace Prize with Leymah Gbowee of Liberia and Tawakkol Karman of Yemen. The three women were recognized 'for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work.'"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is a Nobel Peace Prize award, which is a one-time honor given in a specific year. The award was received in 2011 as clearly stated in both the time_markers and supporting quotes. Nobel Prizes are not ongoing positions but rather permanent recognitions awarded in a single year, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Government of India"
+      ],
+      "roles": [
+        "Indira Gandhi Prize for Peace, Disarmament and Development recipient"
+      ],
+      "time_markers": [
+        "2012",
+        "conferred 12 September 2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2012 Indira Gandhi Prize for Peace, Disarmament and Development",
+        "Sirleaf was conferred the Indira Gandhi Prize by Indian President Pranab Mukherjee on 12 September 2013."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an award event. The award is explicitly identified as the '2012 Indira Gandhi Prize', indicating 2012 is the year the award was given for. While the physical conferral ceremony occurred on 12 September 2013, the award itself is designated as 2012. For awards, both time_start and time_finish should be set to the award year since awards are point-in-time honors, not ongoing positions."
+      }
+    },
+    {
+      "organizations": [
+        "Mo Ibrahim Foundation"
+      ],
+      "roles": [
+        "Ibrahim Prize for Achievement in African Leadership recipient"
+      ],
+      "time_markers": [
+        "2018 (for 2017)"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2018 Won the 2017 version of the Ibrahim Prize for Achievement in African Leadership"
+      ],
+      "time_start": 2017,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "This is an award event. The supporting quote indicates it was 'the 2017 version' of the Ibrahim Prize, meaning the award was for achievements in 2017. Although it was announced/won in 2018, the award itself corresponds to the year 2017. For awards, both time_start and time_finish should reflect the year the award represents, which is 2017."
+      }
+    }
+  ]
+}

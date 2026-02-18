@@ -1,0 +1,855 @@
+{
+  "person_name": "Ngozi Okonjo-Iweala",
+  "career_events": [
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "student",
+        "BA in Economics graduate"
+      ],
+      "time_markers": [
+        "1973-1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1973 she moved to the United States to study at Harvard University and graduated magna cum laude with an AB in economics in 1976."
+      ],
+      "time_start": 1973,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1973-1976' clearly indicates a range, and the supporting quote confirms that the person moved to the United States in 1973 to study at Harvard and graduated in 1976. This represents the complete duration of the undergraduate education period."
+      }
+    },
+    {
+      "organizations": [
+        "Massachusetts Institute of Technology"
+      ],
+      "roles": [
+        "graduate student",
+        "MA in city planning",
+        "PhD in regional economics and development"
+      ],
+      "time_markers": [
+        "1978 MA",
+        "1981 PhD"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She earned a master's degree in city planning in 1978 and obtained her PhD in regional economics and development in 1981 from the Massachusetts Institute of Technology"
+      ],
+      "time_start": 1978,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The person earned an MA in 1978 and completed their PhD in 1981 at MIT. The graduate student period spans from the start of the MA program (1978) through the completion of the PhD (1981). Using 1978 as time_start represents when they began as a graduate student, and 1981 as time_finish represents when they completed their final degree."
+      }
+    },
+    {
+      "organizations": [
+        "American Association of University Women"
+      ],
+      "roles": [
+        "International Fellowship recipient"
+      ],
+      "time_markers": [
+        "during doctoral studies"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She received an international fellowship from the American Association of University Women (AAUW), which supported her doctoral studies."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates the fellowship was received 'during doctoral studies' but no specific years are provided. Without additional context about when the doctoral studies occurred, it's impossible to determine accurate start and finish years. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "development economist"
+      ],
+      "time_markers": [
+        "25-year career"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala had a 25-year career at the World Bank in Washington, D.C., as a development economist"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "While we know the career lasted 25 years at the World Bank, no specific start or end years are provided in the available information. Without additional context about when this career began or ended, I cannot determine the actual years. Being conservative as instructed, both values should be null."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Managing Director, Operations"
+      ],
+      "time_markers": [
+        "2007-2011",
+        "returned December 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "rose to the No. 2 position of Managing Director, Operations",
+        "She returned to the World Bank as a Managing Director in December 2007."
+      ],
+      "time_start": 2007,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '2007-2011' as the period for this position, and this is corroborated by the supporting quote stating 'She returned to the World Bank as a Managing Director in December 2007.' The end year of 2011 is explicitly provided in the time range."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Nigeria"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "15 July 2003 – 21 June 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 15 July 2003 – 21 June 2006, President Olusegun Obasanjo"
+      ],
+      "time_start": 2003,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '15 July 2003 – 21 June 2006', showing the position started in 2003 and ended in 2006. This is confirmed by the supporting quote stating 'In office 15 July 2003 – 21 June 2006'."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Nigeria"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "21 June 2006 – 30 August 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 21 June 2006 – 30 August 2006, President Olusegun Obasanjo"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states '21 June 2006 – 30 August 2006', indicating both the start and end dates occurred within the same year, 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Euromoney"
+      ],
+      "roles": [
+        "Global Finance Minister of the Year recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Euromoney named her Global Finance Minister of the Year."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2005). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Nigeria"
+      ],
+      "roles": [
+        "Minister of Finance",
+        "Coordinating Minister for the Economy"
+      ],
+      "time_markers": [
+        "17 August 2011 – 29 May 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, Okonjo-Iweala was re-appointed as Minister of Finance in Nigeria with the expanded portfolio of the Coordinating Minister for the Economy by President Goodluck Jonathan."
+      ],
+      "time_start": 2011,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly provides the date range '17 August 2011 – 29 May 2015', indicating the position started in 2011 and ended in 2015. This is corroborated by the supporting quote mentioning re-appointment in 2011."
+      }
+    },
+    {
+      "organizations": [
+        "Commission on Growth and Development"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2006-2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala served on the Commission on Growth and Development (2006–2009), led by Nobel Prize winner Professor Michael Spence."
+      ],
+      "time_start": 2006,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2006-2009' clearly indicates a date range, and the supporting quote confirms 'served on the Commission on Growth and Development (2006–2009)', explicitly stating both start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "International Monetary Fund"
+      ],
+      "roles": [
+        "Member of the International Monetary and Finance Committee"
+      ],
+      "time_markers": [
+        "2003-2006",
+        "2011-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of the International Monetary and Finance Committee of the IMF (2003–2006 and 2011–2015)"
+      ],
+      "time_start": 2003,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The person held this position during two separate periods: 2003-2006 and 2011-2015. The time_start is the beginning of the first period (2003) and time_finish is the end of the second period (2015), representing the overall span of service in this role."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Member of Secretary-General's High-Level Panel on the Post-2015 Development Agenda"
+      ],
+      "time_markers": [
+        "2012-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the United Nations' Secretary-General's High-Level Panel on the Post-2015 Development Agenda (2012–2013)"
+      ],
+      "time_start": 2012,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2012-2013' and supporting quote '(2012–2013)' clearly indicate this panel membership ran from 2012 to 2013. This is a completed, time-bound position with explicit start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "candidate for President"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, she was a candidate for President of the World Bank, running against former Colombian finance minister Jose Antonio Ocampo and Dartmouth College President Jim Yong Kim"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The event describes being a candidate for President of the World Bank in 2012. A candidacy is a time-bound event that occurs within a specific period (the selection process), not an ongoing position. Since only 2012 is mentioned and candidacies are typically completed within the same year they begin, both time_start and time_finish are set to 2012."
+      }
+    },
+    {
+      "organizations": [
+        "Global Commission on the Economy and Climate"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "since 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2014, she has been co-chairing the Global Commission for the Economy and Climate, with Nicholas Stern and Paul Polman."
+      ],
+      "time_start": 2014,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2014' and supporting quote 'Since 2014, she has been co-chairing' clearly indicate the position started in 2014. The use of 'since' and present perfect tense 'has been co-chairing' indicates this is an ongoing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "International Commission on Financing Global Education Opportunity"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2015-2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala became a member of the International Commission on Financing Global Education Opportunity (2015–2016), chaired by Gordon Brown"
+      ],
+      "time_start": 2015,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2015-2016' and supporting quote explicitly state that Okonjo-Iweala was a member of this commission from 2015 to 2016, indicating a clear start year of 2015 and end year of 2016."
+      }
+    },
+    {
+      "organizations": [
+        "GAVI (Global Alliance for Vaccines and Immunization)"
+      ],
+      "roles": [
+        "Chair of the Board"
+      ],
+      "time_markers": [
+        "2016-2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also served as Chair of the Board of Gavi, the Vaccine Alliance (2016–2020)."
+      ],
+      "time_start": 2016,
+      "time_finish": 2020,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2016-2020' and supporting quote explicitly state the position was held from 2016 to 2020, indicating a completed term with clear start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "Lazard"
+      ],
+      "roles": [
+        "Senior Advisor"
+      ],
+      "time_markers": [
+        "since 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lazard, Senior Advisor (since 2015)"
+      ],
+      "time_start": 2015,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2015' indicates the position started in 2015 and is ongoing. The word 'since' clearly denotes a continuing position with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Standard Chartered"
+      ],
+      "roles": [
+        "Independent Non-executive Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2017"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Standard Chartered, Independent Non-executive Member of the Board of Directors (since 2017)"
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2017' clearly indicates the position started in 2017. The word 'since' indicates an ongoing position that continues to the present, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Twitter"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "2018 - February 2021"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also previously sat on the Twitter Board of Directors, and stepped down in February 2021 in connection with her appointment as director-general of the World Trade Organization."
+      ],
+      "time_start": 2018,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states '2018 - February 2021', indicating the board position started in 2018 and ended in February 2021. The supporting quote confirms she 'stepped down in February 2021', so time_finish is 2021."
+      }
+    },
+    {
+      "organizations": [
+        "UNESCO"
+      ],
+      "roles": [
+        "member of International Commission on the Futures of Education"
+      ],
+      "time_markers": [
+        "since 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2019, Okonjo-Iweala has been part of UNESCO's International Commission on the Futures of Education"
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2019' and supporting quote 'Since 2019, Okonjo-Iweala has been part of UNESCO's International Commission' clearly indicate the position started in 2019. The word 'since' implies the position is ongoing with no end date mentioned, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "elected fellow"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Okonjo-Iweala was elected to the American Academy of Arts and Sciences."
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is an election to fellowship in the American Academy of Arts and Sciences in 2019. Fellowship in such prestigious academies is typically a lifetime honor that does not expire, so time_start is 2019 when elected, and time_finish is null as it remains ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "Carnegie Endowment for International Peace"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "time_markers": [
+        "since 2019"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Carnegie Endowment for International Peace, Member of the Board of Trustees (since 2019)"
+      ],
+      "time_start": 2019,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2019' clearly indicates the position started in 2019. The word 'since' indicates an ongoing position that continues to the present, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Danone"
+      ],
+      "roles": [
+        "Member of the Mission Committee"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Danone, Member of the Mission Committee (since 2020)"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2020' clearly indicates the position started in 2020 and is ongoing. The word 'since' signals a continuing role with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "special envoy for COVID-19 economic impact"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Also in 2020, she was appointed by the African Union (AU) as special envoy to solicit international support to help the continent deal with the economic impact of the COVID-19 pandemic"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the appointment occurred 'in 2020'. There is no mention of when this special envoy role ended, and such positions related to COVID-19 economic impact could be ongoing or have an indefinite term. Following the guideline to be conservative and set time_finish to null when the position appears to be ongoing or no end date is specified."
+      }
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "COVID-19 Special Envoy"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as World Health Organization COVID-19 Special Envoy."
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "Only one year (2020) is mentioned in the time_markers, which likely indicates when the position started. The supporting quote uses present tense ('as well as') suggesting this is a current position. Without explicit information about when the role ended, time_finish should be set to null to indicate the position may be ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "World Trade Organization"
+      ],
+      "roles": [
+        "Director-General"
+      ],
+      "time_markers": [
+        "1 March 2021 - present",
+        "reappointed November 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She began her career as Director General of the WTO on 1 March 2021.",
+        "In November 2024, she was reappointed to serve her second term as the director-general of the World Trade Organization (WTO)."
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started on 1 March 2021 as clearly stated in the supporting quotes. The time_markers indicate 'present' and mention a reappointment in November 2024 for a second term, confirming the position is ongoing. Therefore, time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "G20 High Level Independent Panel"
+      ],
+      "roles": [
+        "co-chair on pandemic preparedness financing"
+      ],
+      "time_markers": [
+        "early 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In early 2021, Okonjo-Iweala was appointed co-chair, alongside Tharman Shanmugaratnam and Lawrence Summers, of the G20 High Level Independent Panel (HLIP) on financing the global commons for pandemic preparedness and response"
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the appointment occurred 'in early 2021'. There is no information indicating when this position ended, and panel/committee positions are often ongoing or have unspecified end dates. Therefore, time_start is set to 2021 and time_finish is set to null as there is no evidence of when the role concluded."
+      }
+    },
+    {
+      "organizations": [
+        "COVAX Facility"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2021"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was one of the founders of the COVAX Facility, designed to get affordable vaccines to Low and Middle-Income Countries."
+      ],
+      "time_start": 2021,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "Only one year (2021) is mentioned in the time_markers. The role is 'founder' which typically refers to a specific point in time when an organization was established, rather than an ongoing position. Following guideline 4, when a single year is mentioned, both time_start and time_finish are set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "Multilateral Leaders Task Force on COVID-19"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "July 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2021, she joined the Multilateral Leaders Task Force on COVID-19 Vaccines, Therapeutics, and Diagnostics for Developing Countries"
+      ],
+      "time_start": 2021,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates she joined in July 2021, establishing 2021 as the start year. There is no information indicating when this position ended, and no language suggesting it was a brief or completed role, so time_finish is set to null to indicate it may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Group of Thirty (G30)"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "January 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2022, Okonjo-Iweala joined The Group of thirty (G30), an independent body of distinguished policymakers from around the world."
+      ],
+      "time_start": 2022,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Okonjo-Iweala joined the G30 in January 2022. There is no mention of an end date or that the membership has concluded, suggesting this is an ongoing position. Therefore, time_start is 2022 and time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Brookings Institution"
+      ],
+      "roles": [
+        "non-resident distinguished fellow with Africa Growth Initiative"
+      ],
+      "time_markers": [
+        "ongoing"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala serves at the Brookings Institution as a non-resident distinguished fellow with the Africa Growth Initiative in their Global Economy and Development Program."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker indicates 'ongoing' which means the position is current, so time_finish should be null. However, no specific start year is provided in the time_markers or supporting quotes. Without a concrete year mentioned, time_start must also be null despite knowing the position is active."
+      }
+    },
+    {
+      "organizations": [
+        "NOI-Polls"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "established"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala is the founder of Nigeria's first indigenous opinion-research organization, NOI-Polls."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that Okonjo-Iweala founded NOI-Polls, but provides no specific year or time period for when this occurred. The time_marker 'established' confirms a founding event but without temporal information. Without concrete date information, both values should remain null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Centre for the Study of the Economies of Africa (C-SEA)"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "established"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also founded the Centre for the Study of the Economies of Africa (C-SEA), a development research think-tank based in Abuja"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that C-SEA was founded/established, but no specific year is mentioned in the provided information. The time_marker 'established' confirms this is a founding event, but without a date reference, I cannot determine when this occurred. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "TIME Magazine"
+      ],
+      "roles": [
+        "European Heroes Award recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2004 – TIME's European Heroes Award"
+      ],
+      "time_start": 2004,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2004). Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2004."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2022 – Golden Plate Award, American Academy of Achievement"
+      ],
+      "time_start": 2022,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '2022' mentioned in both the time_markers array and the supporting quote. Awards are typically one-time recognitions that occur in a specific year, so both time_start and time_finish are set to 2022."
+      }
+    },
+    {
+      "organizations": [
+        "Carnegie Corporation of New York"
+      ],
+      "roles": [
+        "Great Immigrant Award recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2023 – Honored with the Carnegie Corporation of New York's Great Immigrant Award."
+      ],
+      "time_start": 2023,
+      "time_finish": 2023,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2023). Awards are typically one-time honors received in a specific year rather than ongoing positions, so both time_start and time_finish are set to 2023."
+      }
+    },
+    {
+      "organizations": [
+        "Nigeria"
+      ],
+      "roles": [
+        "Grand Commander of the Order of the Niger (GCON) recipient"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also the recipient of Nigeria's second highest national honor Grand Commander of the Order of the Niger (GCON, 2022)"
+      ],
+      "time_start": 2022,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (GCON) that was received in 2022. Awards are typically conferred at a specific point in time rather than being ongoing positions. The time_marker clearly indicates 2022 as the year of receipt, so both time_start and time_finish are set to 2022."
+      }
+    },
+    {
+      "organizations": [
+        "Brown University"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown University (2006)"
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award from Brown University in 2006. Awards are typically conferred at a specific point in time rather than spanning multiple years. Since only one year (2006) is mentioned and this is a one-time honor, both time_start and time_finish are set to 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Yale University"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yale University (2015)"
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award from Yale University in 2015. Awards are typically conferred at a specific point in time rather than spanning multiple years. Since only one year (2015) is mentioned and this is a one-time honor, both time_start and time_finish are set to 2015."
+      }
+    },
+    {
+      "organizations": [
+        "University of Oxford"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "June 2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2024, Okonjo-Iweala received an honorary degree from the University of Oxford."
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in June 2024. Awards are typically one-time events that occur in a specific year rather than ongoing positions. Both time_start and time_finish are set to 2024 as this represents when the award was conferred."
+      }
+    }
+  ]
+}

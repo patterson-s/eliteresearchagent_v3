@@ -1,0 +1,635 @@
+{
+  "person_name": "Gunilla Carlsson",
+  "career_events": [
+    {
+      "organizations": [
+        "Moderate Youth League"
+      ],
+      "roles": [
+        "chairperson of district in Skåne county"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was at one time chairperson of the Moderate Youth League district in that county."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses the phrase 'at one time' which indicates this position occurred in the past, but no specific years or dates are provided. Without concrete temporal information, I cannot determine when this chairperson role began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Moderate Youth League"
+      ],
+      "roles": [
+        "vice chairman"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the Battle of Lycksele, when current party leader Fredrik Reinfeldt was elected chairman of the Youth League, Carlsson was elected vice chairman."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote mentions that Carlsson was elected vice chairman at the 'Battle of Lycksele' when Fredrik Reinfeldt became chairman, but no specific year is provided in the career event data. Without additional context about when this election occurred, I cannot determine accurate start or end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "Moderate Party"
+      ],
+      "roles": [
+        "party office staff"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After working as an auditor, Carlsson joined the Moderate Party office in 1994."
+      ],
+      "time_start": 1994,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Carlsson 'joined the Moderate Party office in 1994', which clearly establishes 1994 as the start year. However, no end date is mentioned in the available information, so time_finish is set to null as we cannot determine when this position ended."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "Member of the European Parliament"
+      ],
+      "time_markers": [
+        "1995-2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1995, she was elected to the European Parliament and served until 2002."
+      ],
+      "time_start": 1995,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1995-2002' and supporting quote clearly indicate the position started in 1995 and ended in 2002. The quote states 'she was elected to the European Parliament and served until 2002', confirming both the start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "Committee on Economic and Monetary Affairs and Industrial Policy"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "1995-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In parliament, she served on the Committee on Economic and Monetary Affairs and Industrial Policy (1995-1999)"
+      ],
+      "time_start": 1995,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1995-1999' clearly indicates a range from 1995 to 1999, and the supporting quote confirms she 'served on the Committee on Economic and Monetary Affairs and Industrial Policy (1995-1999)', providing explicit start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "1999-2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "on the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy (1999-2002)"
+      ],
+      "time_start": 1999,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1999-2002' clearly indicates a date range, and the supporting quote confirms this person served on the committee from 1999 to 2002. This is a completed position with definite start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "European Economic Area Joint Parliamentary Committee"
+      ],
+      "roles": [
+        "vice-chair of delegation"
+      ],
+      "time_markers": [
+        "1995-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she was vice-chair of the parliament's delegation to the European Economic Area Joint Parliamentary Committee (EEA) from 1995 until 1997."
+      ],
+      "time_start": 1995,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1995-1997' and supporting quote explicitly state the position was held 'from 1995 until 1997', providing clear start and end years for this role."
+      }
+    },
+    {
+      "organizations": [
+        "Moderate Party"
+      ],
+      "roles": [
+        "Second Deputy Chairperson"
+      ],
+      "time_markers": [
+        "1999-2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1999, she was elected vice chairman of the Moderate Party.",
+        "Second Deputy Chairperson of the Moderate Party 1999–2003"
+      ],
+      "time_start": 1999,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '1999-2003' and this is corroborated by the supporting quote 'Second Deputy Chairperson of the Moderate Party 1999–2003', clearly indicating the position started in 1999 and ended in 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Swedish Riksdag"
+      ],
+      "roles": [
+        "Member of the Riksdag"
+      ],
+      "time_markers": [
+        "30 September 2002 - 5 October 2006",
+        "continued until 17 September 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the 2002 national elections, Carlsson was elected to the Riksdag for Stockholm.",
+        "Member of the Riksdag In office 30 September 2002 – 5 October 2006",
+        "member of the Swedish Riksdag from 2002 to 2013"
+      ],
+      "time_start": 2002,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The career event shows clear start and end dates. The position began on 30 September 2002 (confirmed by election in 2002 and office start date) and ended on 17 September 2013 (as indicated by 'continued until 17 September 2013' and 'member of the Swedish Riksdag from 2002 to 2013'). The intermediate date of 5 October 2006 appears to mark the end of one term, but the position continued until 2013."
+      }
+    },
+    {
+      "organizations": [
+        "Moderate Party"
+      ],
+      "roles": [
+        "First Deputy Chairperson"
+      ],
+      "time_markers": [
+        "2003-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "deputy chairman of her party from 2003 to 2015",
+        "First Deputy Chairperson of the Moderate Party 2003–2015"
+      ],
+      "time_start": 2003,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '2003-2015', and both supporting quotes confirm this timeframe: 'deputy chairman of her party from 2003 to 2015' and 'First Deputy Chairperson of the Moderate Party 2003–2015'. This is a completed position with definitive start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "Swedish Government"
+      ],
+      "roles": [
+        "Minister for International Development Cooperation"
+      ],
+      "time_markers": [
+        "6 October 2006 - 17 September 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She served as Minister for International Development Cooperation from 2006 to 2013",
+        "Minister for International Development Cooperation In office 6 October 2006 – 17 September 2013"
+      ],
+      "time_start": 2006,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly states '6 October 2006 - 17 September 2013', and this is corroborated by supporting quotes indicating the position was held 'from 2006 to 2013' and 'In office 6 October 2006 – 17 September 2013'. The start year is 2006 and the end year is 2013."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank Group",
+        "High Level Advisory Council on Women's Economic Empowerment"
+      ],
+      "roles": [
+        "council member"
+      ],
+      "time_markers": [
+        "from 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2007, Carlsson was a member of the World Bank Group's High Level Advisory Council on Women's Economic Empowerment"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'from 2007' and supporting quote clearly indicate the position started in 2007. No end date is mentioned, and the phrasing 'from 2007' suggests an ongoing or unspecified end date, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Commission on Climate Change and Development"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "established 2007",
+        "final report 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her capacity as minister, Carlsson also chaired the Stockholm-based Commission on Climate Change and Development (CCCD), a body made up of 13 international experts and established by the Swedish government in 2007"
+      ],
+      "time_start": 2007,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The commission was established in 2007 and produced its final report in 2009, indicating the chair position began in 2007 and concluded in 2009 when the commission completed its work."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2012-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her final year as minister from 2012 until 2013, Carlsson served – alongside Ellen Johnson Sirleaf, David Cameron and others – on the High-level Panel on Post-2015 Development Agenda"
+      ],
+      "time_start": 2012,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'from 2012 until 2013' for the panel service, and the time_markers field confirms '2012-2013'. This clearly indicates the position started in 2012 and ended in 2013."
+      }
+    },
+    {
+      "organizations": [
+        "African Development Bank",
+        "High Level Panel on Fragile States"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2013-2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following her resignation, Carlsson served alongside Tertius Zongo and Callisto Madavo on the African Development Bank's three-member High Level Panel on Fragile States between 2013 and 2014"
+      ],
+      "time_start": 2013,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2013-2014' and supporting quote 'between 2013 and 2014' clearly indicate this panel membership started in 2013 and ended in 2014."
+      }
+    },
+    {
+      "organizations": [
+        "UNAIDS",
+        "Lancet Commission on Defeating AIDS"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "2013-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2013 and 2015, she was a member of the UNAIDS–Lancet Commission on Defeating AIDS"
+      ],
+      "time_start": 2013,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote explicitly states 'Between 2013 and 2015, she was a member of the UNAIDS–Lancet Commission on Defeating AIDS', clearly indicating the position started in 2013 and ended in 2015. The time_marker '2013-2015' confirms this range."
+      }
+    },
+    {
+      "organizations": [
+        "NGS Group AB"
+      ],
+      "roles": [
+        "Independent Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "NGS Group AB, Independent Member of the Board of Directors (since 2015)"
+      ],
+      "time_start": 2015,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2015' clearly indicates the position started in 2015 and is ongoing. The word 'since' denotes a continuing state from 2015 to present, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "IFS AB"
+      ],
+      "roles": [
+        "Independent Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "2015-2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "IFS AB, Independent Member of the Board of Directors (2015-2016)"
+      ],
+      "time_start": 2015,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2015-2016' and supporting quote clearly indicate this position started in 2015 and ended in 2016. This is a completed position with defined start and end years."
+      }
+    },
+    {
+      "organizations": [
+        "UNAIDS",
+        "United Nations"
+      ],
+      "roles": [
+        "Deputy Executive Director, Management and Governance",
+        "Assistant Secretary-General of the United Nations"
+      ],
+      "time_markers": [
+        "appointed 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2017, United Nations Secretary-General António Guterres appointed Carlsson as the UNAIDS deputy executive director, management and governance, and Assistant Secretary-General of the United Nation."
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states 'In 2017, United Nations Secretary-General António Guterres appointed Carlsson' to these positions. The appointment year is 2017, and there is no indication of when or if this position ended, suggesting it may be ongoing or the end date is not specified in the available information."
+      }
+    },
+    {
+      "organizations": [
+        "Tundra Fonder"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tundra Fonder, Member of the Board of Directors (since 2017)"
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2017' clearly indicates the position started in 2017 and is ongoing. The word 'since' denotes a continuing state from 2017 to present, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations System Staff College"
+      ],
+      "roles": [
+        "Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "since 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "United Nations System Staff College (UNSSC), Member of the Board of Governors (since 2017)"
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2017' clearly indicates the position started in 2017 and is ongoing. The word 'since' signals a continuing role with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "Internationella Engelska Skolan"
+      ],
+      "roles": [
+        "Member of the Board"
+      ],
+      "time_markers": [
+        "2017-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Internationella Engelska Skolan (IES), Member of the Board (2017-2019)"
+      ],
+      "time_start": 2017,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2017-2019' and supporting quote clearly indicate this board membership started in 2017 and ended in 2019. The hyphenated format shows a completed term with defined start and end dates."
+      }
+    },
+    {
+      "organizations": [
+        "UNAIDS"
+      ],
+      "roles": [
+        "Executive Director ad interim"
+      ],
+      "time_markers": [
+        "May 2019 - August 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following Michel Sidibé's resignation, she briefly served as executive director ad interim from May until August 2019."
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'May 2019 - August 2019' clearly indicates both the start and end occurred within 2019. The supporting quote confirms this was a brief interim position that ended in August 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Africa Europe Foundation",
+        "High-Level Group of Personalities on Africa-Europe Relations"
+      ],
+      "roles": [
+        "member of High-Level Group",
+        "co-chair of Strategy Group on Health"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020), co-chair of the Strategy Group on Health"
+      ],
+      "time_start": 2020,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 2020' clearly indicates the position started in 2020. The word 'since' implies the position is ongoing/current, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Swedish International Development Cooperation Agency",
+        "Government of Sweden"
+      ],
+      "roles": [
+        "Chair of the Governing Board"
+      ],
+      "time_markers": [
+        "appointed 29 June 2023",
+        "took up position 1 July 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 29 June 2023, the Government of Sweden appointed Carlsson as the new Chair of the Governing Board of the Swedish International Development Cooperation Agency (SIDA). She formally took up the position on 1 July 2023."
+      ],
+      "time_start": 2023,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started on 1 July 2023 as indicated in the time_markers. There is no mention of an end date, suggesting this is an ongoing position, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Annexin Pharmaceuticals"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Annexin Pharmaceuticals, Member of the Board of Directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the position and organization but contains no dates, time markers, or contextual clues about when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "European Council on Foreign Relations"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "European Council on Foreign Relations (ECFR), Member"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms membership in the European Council on Foreign Relations without any dates, time markers, or context that would indicate when this membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "GAVI Alliance"
+      ],
+      "roles": [
+        "Member of the Board",
+        "Member of the Governance Committee"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "GAVI Alliance, Member of the Board and of the Governance Committee"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time information is provided in the career event data. The supporting quote only mentions the organization and roles without any dates, time markers, or temporal context. Without specific years or time indicators, I cannot determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Global Fund to Fight AIDS, Tuberculosis and Malaria"
+      ],
+      "roles": [
+        "Non-voting Member of the Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Global Fund to Fight AIDS, Tuberculosis and Malaria, Non-voting Member of the Board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only mentions the organization and role without any dates, time markers, or context that would indicate when this board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Center for Global Development"
+      ],
+      "roles": [
+        "Member of the European Advisory Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Center for Global Development, Member of the European Advisory Group"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only mentions the organization and role without any dates, time markers, or context that would indicate when this position started or ended."
+      }
+    }
+  ]
+}

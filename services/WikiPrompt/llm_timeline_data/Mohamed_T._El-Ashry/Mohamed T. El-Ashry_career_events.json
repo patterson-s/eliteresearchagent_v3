@@ -1,0 +1,421 @@
+{
+  "person_name": "Mohamed T. El-Ashry",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Cairo"
+      ],
+      "roles": [
+        "student",
+        "Bachelor of Science graduate"
+      ],
+      "time_markers": [
+        "1959"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohamed T. El-Ashry obtained his Bachelor of Science degree in 1959 from the University of Cairo"
+      ],
+      "time_start": null,
+      "time_finish": 1959,
+      "metadata": {
+        "timeline_reasoning": "The event describes obtaining a Bachelor of Science degree in 1959. This year represents the graduation/completion date (time_finish). A typical undergraduate degree takes 4 years, which would suggest a start around 1955, but without explicit confirmation of the start date, time_start should remain null per the conservative guideline. The year 1959 is clearly the end point when the degree was obtained."
+      }
+    },
+    {
+      "organizations": [
+        "University of Illinois"
+      ],
+      "roles": [
+        "student",
+        "Master of Science graduate"
+      ],
+      "time_markers": [
+        "1963"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Master of Science in 1963 from the University of Illinois"
+      ],
+      "time_start": null,
+      "time_finish": 1963,
+      "metadata": {
+        "timeline_reasoning": "The event describes receiving a Master of Science degree in 1963. This year represents the completion/graduation date (time_finish). The start date of the master's program is not specified in the available information, so time_start is set to null rather than guessing a typical program duration."
+      }
+    },
+    {
+      "organizations": [
+        "University of Illinois"
+      ],
+      "roles": [
+        "PhD student",
+        "Doctor of Philosophy in Geology graduate"
+      ],
+      "time_markers": [
+        "1966"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor of Philosophy in Geology, in 1966, from the University of Illinois"
+      ],
+      "time_start": null,
+      "time_finish": 1966,
+      "metadata": {
+        "timeline_reasoning": "The event describes receiving a PhD degree in 1966. This is a graduation/completion event. While PhD programs typically take several years, only the completion year (1966) is explicitly stated. The time_start would be when the PhD program began, which is not mentioned in the available information. Therefore, time_finish is set to 1966 (when the degree was awarded) and time_start is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Cairo University"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only confirms that El-Ashry was a lecturer and researcher at Cairo University but contains no temporal information to determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Pan-American-U.A.R. Oil Company"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University, Pan-American-U.A.R. Oil Company"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or any other field. The quote only states that El-Ashry was a lecturer and researcher at these organizations, but provides no temporal information to determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Wilkes University"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University, Pan-American-U.A.R. Oil Company, Wilkes University"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the supporting quote or career event data. The quote only lists Wilkes University as one of several institutions where El-Ashry worked, without any temporal information to determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Environmental Defense Fund"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University, Pan-American-U.A.R. Oil Company, Wilkes University, and the Environmental Defense Fund"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote lists multiple organizations including Environmental Defense Fund but provides no specific years or time markers for when El-Ashry worked there. Without temporal information, I cannot determine the start or end dates for this position."
+      }
+    },
+    {
+      "organizations": [
+        "World Resources Institute"
+      ],
+      "roles": [
+        "Senior Vice President"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he became a Senior Vice President of the World Resources Institute (WRI)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only indicates that the person 'became a Senior Vice President of the World Resources Institute' but provides no specific year or time marker for when this occurred or ended. Without additional temporal information, I cannot determine accurate start or finish years."
+      }
+    },
+    {
+      "organizations": [
+        "Tennessee Valley Authority"
+      ],
+      "roles": [
+        "Director of Environmental Quality"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as the Director of Environmental Quality with the Tennessee Valley Authority (TVA)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only confirms the position title and organization but contains no temporal information to determine when this role started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Chief Environmental Advisor"
+      ],
+      "time_markers": [
+        "1991-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He later joined World Bank where he held the position of Chief Environmental Advisor (1991–1993)"
+      ],
+      "time_start": 1991,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1991-1993' and supporting quote explicitly state the position was held from 1991 to 1993, providing clear start and end years for this role."
+      }
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Chief Environmental Advisor to the President"
+      ],
+      "time_markers": [
+        "1993-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chief Environmental Advisor to the President (1993–1994)"
+      ],
+      "time_start": 1993,
+      "time_finish": 1994,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1993-1994' and supporting quote 'Chief Environmental Advisor to the President (1993–1994)' clearly indicate the position started in 1993 and ended in 1994."
+      }
+    },
+    {
+      "organizations": [
+        "Global Environment Facility"
+      ],
+      "roles": [
+        "Chief Executive Officer",
+        "Chairman"
+      ],
+      "time_markers": [
+        "1994-2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohamed T. El-Ashry was the first Chief Executive Officer and Chairman of the Global Environment Facility (GEF)",
+        "he became the CEO and Chairman of the organisation for eleven years (1991-2002)"
+      ],
+      "notes": "Wikipedia shows conflicting dates (1991-2002 vs 1994-2003). Lead paragraph and World Bank timeline suggest 1994-2003 is correct. He held World Bank CEO role 1994-2003 per source [4], and was 'first CEO' of GEF which was established 1994.",
+      "time_start": 1994,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field shows '1994-2003' and the notes explicitly state that '1994-2003 is correct' after evaluating conflicting sources. The notes also confirm he held the CEO role 1994-2003 per source [4] and that GEF was established in 1994, making him the first CEO from that year. While supporting quotes show conflicting dates (1991-2002), the analysis in the notes resolves this discrepancy in favor of 1994-2003."
+      }
+    },
+    {
+      "organizations": [
+        "UN Foundation"
+      ],
+      "roles": [
+        "Senior Fellow"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "subsequently a Senior Fellow with the UN Foundation",
+        "and a Senior Fellow with the UN Foundation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes only indicate that the person was 'subsequently' a Senior Fellow with the UN Foundation, but no specific years are mentioned. The word 'subsequently' suggests this occurred after some other event, but without additional context or time markers, no accurate years can be determined. Following the conservative approach, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Geological Society of America"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was elected a Fellow of the Geological Society of America"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event indicates El-Ashry was elected as a Fellow of the Geological Society of America, but no specific year is mentioned in the supporting quote or other fields. Fellowship in professional societies is typically an ongoing honor once awarded, but without a specific election year, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "American Association for the Advancement of Science"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Fellow of the American Association for the Advancement of Science"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The career event indicates a Fellow award from AAAS, but no specific years are mentioned in the supporting quote or other fields. AAAS Fellowships are typically lifetime honors that remain current once awarded, but without a specific year of award mentioned, both time_start and time_finish should be null per the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Third World Academy of Sciences"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Fellow of the Third World Academy of Sciences in 1990"
+      ],
+      "time_start": 1990,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is a Fellowship award from 1990. Fellowships are typically honorary titles that, once awarded, continue indefinitely rather than having an end date. The supporting quote indicates the person became a Fellow in 1990, but there's no indication this status ended, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "African Academy of Sciences"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Fellow of the African Academy of Sciences in 2001"
+      ],
+      "time_start": 2001,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is a Fellowship award from 2001. Fellowships are typically honorary titles that, once awarded, continue indefinitely unless explicitly revoked. The supporting quote 'a Fellow of the African Academy of Sciences in 2001' indicates when the fellowship was awarded, but there is no indication it has ended. Therefore, time_start is 2001 and time_finish is null to reflect the ongoing nature of this honor."
+      }
+    },
+    {
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "since 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a member of the American Academy of Arts and Sciences since 2012 advising on renewable energy"
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2012' clearly indicates the membership began in 2012 and is ongoing. The word 'since' denotes a continuing state from that year to the present, so time_finish should be null to reflect the current/active status of this membership."
+      }
+    },
+    {
+      "organizations": [
+        "World Wide Fund for Nature"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member World Wide Fund for Nature"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms the person is/was a board member of World Wide Fund for Nature, but provides no temporal information such as years, dates, or time markers to determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Resources for the Future"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member World Wide Fund for Nature, Resources for the Future"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that the person is/was a board member of Resources for the Future, but provides no specific years, dates, or time markers to determine when this position started or ended. Without additional temporal information, I cannot accurately determine the time_start or time_finish values."
+      }
+    },
+    {
+      "organizations": [
+        "Renewable Energy Policy Network for the 21st Century"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member World Wide Fund for Nature, Resources for the Future, and Renewable Energy Policy Network for the 21st Century"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only mentions that the person is/was a board member of the Renewable Energy Policy Network for the 21st Century, but provides no specific years or time markers to determine when this position started or ended. Without additional temporal information, I cannot accurately determine the time_start or time_finish years."
+      }
+    }
+  ]
+}

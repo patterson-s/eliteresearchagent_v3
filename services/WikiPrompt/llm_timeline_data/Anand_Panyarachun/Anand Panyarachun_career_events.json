@@ -1,0 +1,695 @@
+{
+  "person_name": "Anand Panyarachun",
+  "career_events": [
+    {
+      "organizations": [
+        "Dulwich College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand attended Dulwich College"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only confirms attendance at Dulwich College without providing any temporal information about when this education occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Trinity College, Cambridge"
+      ],
+      "roles": [
+        "law student",
+        "graduate with honours"
+      ],
+      "time_markers": [
+        "1955"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "later read law at Trinity College, Cambridge, graduating with honours in 1955"
+      ],
+      "time_start": null,
+      "time_finish": 1955,
+      "metadata": {
+        "timeline_reasoning": "The quote states the person graduated with honours in 1955, which is clearly the end date of their law studies. However, no start date is provided. While we could estimate a typical law degree duration, the guidelines emphasize being conservative when uncertain, so time_start is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to the United Nations"
+      ],
+      "time_markers": [
+        "1964-1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand spent 23 years in the foreign service, serving at times as the Ambassador of Thailand to the United Nations"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1964-1976' represents the entire 23-year foreign service career, not specifically the UN Ambassador role. The supporting quote states he served 'at times' as UN Ambassador during this period, but doesn't specify which years within 1964-1976 he held this particular position. Without precise dates for the UN ambassadorship specifically, both values should be null."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to Canada"
+      ],
+      "time_markers": [
+        "1967-1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador of Thailand to Canada 1967 – 1972"
+      ],
+      "time_start": 1967,
+      "time_finish": 1972,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1967-1972' and supporting quote 'Ambassador of Thailand to Canada 1967 – 1972' clearly indicate the position started in 1967 and ended in 1972."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to the United States"
+      ],
+      "time_markers": [
+        "1972-1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador of Thailand to the United States 1972 – 1976"
+      ],
+      "time_start": 1972,
+      "time_finish": 1976,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1972-1976' and the supporting quote confirms 'Ambassador of Thailand to the United States 1972 – 1976', providing an explicit start year of 1972 and end year of 1976 for this ambassadorial position."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs, Thailand"
+      ],
+      "roles": [
+        "Permanent Secretary for Foreign Affairs"
+      ],
+      "time_markers": [
+        "12 August 1975 - 11 March 1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 1976 he was appointed Permanent Secretary of the foreign ministry, and played a leading role in ensuring the US military withdrawal from Thailand"
+      ],
+      "time_start": 1975,
+      "time_finish": 1977,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field provides an explicit date range '12 August 1975 - 11 March 1977', indicating the position started in 1975 and ended in 1977. While the supporting quote mentions 'January 1976' as an appointment date, this appears to be either an error or refers to a different event, as the more precise time_markers data shows the position began in August 1975."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to West Germany"
+      ],
+      "time_markers": [
+        "1979-1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador of Thailand to West Germany 1979 – 1984"
+      ],
+      "time_start": 1979,
+      "time_finish": 1984,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1979-1984' and supporting quote 'Ambassador of Thailand to West Germany 1979 – 1984' clearly indicate the position started in 1979 and ended in 1984."
+      }
+    },
+    {
+      "organizations": [
+        "Saha-Union Group"
+      ],
+      "roles": [
+        "Vice-Chairman"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in 1979 left the public sector for the private. He became the Vice-Chairman of the Saha-Union Group in 1979"
+      ],
+      "time_start": 1979,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person became Vice-Chairman of Saha-Union Group in 1979, which establishes the start year. There is no information about when this position ended, so time_finish is set to null as the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Siam Commercial Bank"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "since 1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has been a Director of Siam Commercial Bank since 1984"
+      ],
+      "time_start": 1984,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'since 1984' indicates the position started in 1984 and is ongoing. The word 'since' implies continuation from that point to the present, so time_finish is null to indicate the position is still current."
+      }
+    },
+    {
+      "organizations": [
+        "Saha-Union Group"
+      ],
+      "roles": [
+        "Chairman of the Board of Directors"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Chairman of the Board of Directors in 1991"
+      ],
+      "time_start": 1991,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates the person became Chairman of the Board of Directors in 1991. Since only the start year is mentioned with no indication of when this position ended, time_finish is set to null, suggesting the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Thai Government"
+      ],
+      "roles": [
+        "Prime Minister of Thailand (interim, first term)"
+      ],
+      "time_markers": [
+        "2 March 1991 - 23 March 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 2 March 1991 – 23 March 1992",
+        "the NPKC appointed Anand as interim prime minister"
+      ],
+      "time_start": 1991,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 2 March 1991 and ended on 23 March 1992. Both the start year (1991) and finish year (1992) are explicitly stated in the date range."
+      }
+    },
+    {
+      "organizations": [
+        "Royal Thai Government"
+      ],
+      "roles": [
+        "Prime Minister of Thailand (interim, second term)"
+      ],
+      "time_markers": [
+        "10 June 1992 - 22 September 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 10 June 1992 – 22 September 1992",
+        "On 10 June 1992, Arthit surprised the country by recommending Anand's name instead of Somboon's to the king"
+      ],
+      "time_start": 1992,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '10 June 1992 - 22 September 1992', showing both the start and end dates occurred within the same year, 1992. This is confirmed by the supporting quotes which reference the same dates."
+      }
+    },
+    {
+      "organizations": [
+        "Saha-Union Group"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "after 1992 elections",
+        "resigned 2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand rejoined the Saha-Union Group as chairman after the general elections of 1992",
+        "He resigned from Saha-Union Group in 2002"
+      ],
+      "time_start": 1992,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The supporting quotes clearly indicate Anand rejoined as chairman 'after the general elections of 1992' (making 1992 the start year) and 'resigned from Saha-Union Group in 2002' (making 2002 the end year). Both dates are explicitly stated with high confidence."
+      }
+    },
+    {
+      "organizations": [
+        "Constitution Drafting Assembly of Thailand"
+      ],
+      "roles": [
+        "elected member",
+        "Chairman of the Drafting Committee"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1996, Anand was elected as a member of the Constitution Drafting Assembly and was appointed Chairman of the Drafting Committee"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The Constitution Drafting Assembly of Thailand was convened in 1996 and completed its work with the promulgation of the 1997 Constitution. Since Anand was elected in 1996 and served as Chairman of the Drafting Committee, his role would have ended when the constitution was finalized in 1997."
+      }
+    },
+    {
+      "organizations": [
+        "UNICEF"
+      ],
+      "roles": [
+        "Ambassador for Thailand"
+      ],
+      "time_markers": [
+        "since 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand served as UNICEF Ambassador for Thailand since 1996"
+      ],
+      "time_start": 1996,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time marker 'since 1996' indicates the position started in 1996 and is ongoing. The word 'since' implies continuation from that point forward with no end date mentioned."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Chair of High-Level Panel on Threats, Challenges and Change"
+      ],
+      "time_markers": [
+        "November 2003 - December 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During November 2003 and December 2004, Anand was requested by then United Nations Secretary-General Kofi Annan to chair the High-Level Panel on Threats, Challenges and Change"
+      ],
+      "time_start": 2003,
+      "time_finish": 2004,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly states 'November 2003 - December 2004', and this is corroborated by the supporting quote which specifies 'During November 2003 and December 2004'. The position started in 2003 and ended in 2004."
+      }
+    },
+    {
+      "organizations": [
+        "National Reconciliation Commission (Thailand)"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "from March 2005",
+        "submitted report 5 June 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From March 2005, Anand served as chairman of the National Reconciliation Commission (NRC)",
+        "Anand finally submitted the NRC's recommendations on 5 June 2006"
+      ],
+      "time_start": 2005,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The position clearly started in March 2005 as stated in 'from March 2005' and ended when the final report was submitted on 5 June 2006. Both time markers provide explicit years for the start and end of this chairmanship role."
+      }
+    },
+    {
+      "organizations": [
+        "Trilateral Commission"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand is a member of the Trilateral Commission"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only states that Anand is a member of the Trilateral Commission, using present tense ('is'), which suggests an ongoing position. However, no specific start year is provided in the available information. Without a concrete start date, both time_start and time_finish should be set to null following the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "American International Group (AIG)"
+      ],
+      "roles": [
+        "International Advisory Board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the International Advisory Board of American International Group (AIG)"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote only confirms membership on AIG's International Advisory Board but provides no temporal information such as start date, end date, or time markers indicating when this position was held or whether it is current."
+      }
+    },
+    {
+      "organizations": [
+        "Carlyle Group"
+      ],
+      "roles": [
+        "member",
+        "advisory board member for Asia-Pacific"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand is a member of the Carlyle Group and sits on the Carlyle Group's advisory board for Asia-Pacific"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote uses present tense ('is a member' and 'sits on'), indicating this is likely a current/ongoing position. However, no specific start year is provided in the available information. Without a concrete start date, both time_start and time_finish should be null following the conservative approach guideline."
+      }
+    },
+    {
+      "organizations": [
+        "Ramon Magsaysay Award Foundation"
+      ],
+      "roles": [
+        "Ramon Magsaysay Award recipient for Government Service"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand received a Ramon Magsaysay Award for Government Service in 1997"
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1997). Awards are typically received at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Cordon (Special Class) of the Most Exalted Order of the White Elephant"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1991 - Knight Grand Cordon (Special Class) of the Most Exalted Order of the White Elephant"
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor event with a single year (1991) mentioned in both time_markers and supporting_quotes. Awards are typically conferred on a specific date and represent a point-in-time event rather than an ongoing position. Therefore, both time_start and time_finish are set to 1991."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Cordon (Special Class) of The Most Noble Order of the Crown of Thailand"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1988 - Knight Grand Cordon (Special Class) of The Most Noble Order of the Crown of Thailand"
+      ],
+      "time_start": 1988,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor event with a single year marker (1988). Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 1988, representing the year the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Cross (First Class) of the Most Admirable Order of the Direkgunabhorn"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2003 - Knight Grand Cross (First Class) of the Most Admirable Order of the Direkgunabhorn"
+      ],
+      "time_start": 2003,
+      "time_finish": 2003,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor event with a single year (2003) mentioned in both time_markers and supporting_quotes. Awards are typically conferred on a specific date/year rather than being ongoing positions, so both time_start and time_finish are set to 2003."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Commander (Second Class, higher grade) of the Most Illustrious Order of Chula Chom Klao"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1991 - Knight Grand Commander (Second Class, higher grade) of the Most Illustrious Order of Chula Chom Klao"
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor event with a single year marker (1991). Awards are typically conferred on a specific date and represent a permanent honor rather than an ongoing position, so both time_start and time_finish are set to 1991."
+      }
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "King Rama IX Royal Cypher Medal (Third Class)"
+      ],
+      "time_markers": [
+        "1967"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1967 - King Rama IX Royal Cypher Medal (Third Class)"
+      ],
+      "time_start": 1967,
+      "time_finish": 1967,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (1967) mentioned in the time_markers and supporting quote. Awards are typically conferred at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 1967."
+      }
+    },
+    {
+      "organizations": [
+        "Italian Republic"
+      ],
+      "roles": [
+        "Commander of the Order of Merit of the Italian Republic (Third Class)"
+      ],
+      "time_markers": [
+        "1961"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1961 - Commander of the Order of Merit of the Italian Republic (Third Class)"
+      ],
+      "time_start": 1961,
+      "time_finish": 1961,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor event with a single year marker '1961'. Awards are typically conferred at a specific point in time rather than representing an ongoing position. Therefore, both time_start and time_finish are set to 1961, representing the year the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "Republic of Korea"
+      ],
+      "roles": [
+        "Order of Diplomatic Service Merit Grand Gwanghwa Medal (First Class)"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1970 - Order of Diplomatic Service Merit Grand Gwanghwa Medal (First Class), Republic of Korea"
+      ],
+      "time_start": 1970,
+      "time_finish": 1970,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (1970) mentioned in the time_markers and supporting quote. Awards are typically conferred at a specific point in time rather than spanning multiple years, so both time_start and time_finish are set to 1970."
+      }
+    },
+    {
+      "organizations": [
+        "Indonesia"
+      ],
+      "roles": [
+        "Star of Merit 1st Class"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1971 - Star of Merit 1st Class, Indonesia"
+      ],
+      "time_start": 1971,
+      "time_finish": 1971,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1971). Awards are typically conferred at a specific point in time rather than spanning multiple years. Following guideline 4, both time_start and time_finish are set to 1971."
+      }
+    },
+    {
+      "organizations": [
+        "Belgium"
+      ],
+      "roles": [
+        "Grand Officer of the Order of the Crown (Second Class)"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1990 - Grand Officer of the Order of the Crown (Second Class), Belgium"
+      ],
+      "time_start": 1990,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor event with a single year marker (1990) in both the time_markers array and supporting quote. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 1990."
+      }
+    },
+    {
+      "organizations": [
+        "Japan"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Rising Sun"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1991 - Grand Cordon of the Order of the Rising Sun, Japan"
+      ],
+      "time_start": 1991,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1991) in the time_markers array and supporting quote. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 1991."
+      }
+    },
+    {
+      "organizations": [
+        "United Kingdom"
+      ],
+      "roles": [
+        "Honorary Knight Commander of the Civil Division of the Most Excellent Order of the British Empire (KBE)"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1996 - Honorary Knight Commander of the Civil Division of the Most Excellent Order of the British Empire (KBE), United Kingdom"
+      ],
+      "time_start": 1996,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary knighthood award (KBE) which is a one-time honor conferred in a specific year. The time_marker '1996' and supporting quote clearly indicate this award was given in 1996. Awards of this type are not positions with duration but rather honors received at a specific point in time, so both time_start and time_finish are set to 1996."
+      }
+    },
+    {
+      "organizations": [
+        "Sweden"
+      ],
+      "roles": [
+        "Commander Grand Cross of the Royal Order of the Polar Star"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2007 - Commander Grand Cross of the Royal Order of the Polar Star, Sweden"
+      ],
+      "time_start": 2007,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2007) in both the time_markers array and supporting quote. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2007."
+      }
+    }
+  ]
+}

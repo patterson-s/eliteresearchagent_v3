@@ -1,0 +1,667 @@
+{
+  "person_name": "Jens Stoltenberg",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Oslo"
+      ],
+      "roles": [
+        "student",
+        "Cand.oecon. in economics graduate"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "graduating in 1987 with the cand.oecon. degree in economics"
+      ],
+      "time_start": null,
+      "time_finish": 1987,
+      "metadata": {
+        "timeline_reasoning": "The event describes graduating in 1987 with a cand.oecon. degree in economics from the University of Oslo. The year 1987 is clearly the completion/finish year of this educational program. However, no start year is provided in the available information, so time_start is set to null rather than guessing when the studies began."
+      }
+    },
+    {
+      "organizations": [
+        "Arbeiderbladet"
+      ],
+      "roles": [
+        "journalist"
+      ],
+      "time_markers": [
+        "1979-1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1979 to 1981, Stoltenberg was a journalist for Arbeiderbladet"
+      ],
+      "time_start": 1979,
+      "time_finish": 1981,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1979-1981' and supporting quote 'From 1979 to 1981, Stoltenberg was a journalist for Arbeiderbladet' clearly indicate the position started in 1979 and ended in 1981."
+      }
+    },
+    {
+      "organizations": [
+        "Workers' Youth League"
+      ],
+      "roles": [
+        "leader"
+      ],
+      "time_markers": [
+        "1985-1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1985 to 1989, he was the leader of the Workers' Youth League"
+      ],
+      "time_start": 1985,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1985-1989' and supporting quote 'From 1985 to 1989, he was the leader of the Workers' Youth League' clearly indicate the position started in 1985 and ended in 1989."
+      }
+    },
+    {
+      "organizations": [
+        "Statistics Norway"
+      ],
+      "roles": [
+        "executive officer"
+      ],
+      "time_markers": [
+        "1989-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1989 to 1990, he worked as an executive officer for Statistics Norway"
+      ],
+      "time_start": 1989,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1989-1990' and supporting quote 'From 1989 to 1990' clearly indicate the position started in 1989 and ended in 1990."
+      }
+    },
+    {
+      "organizations": [
+        "University of Oslo"
+      ],
+      "roles": [
+        "hourly paid instructor"
+      ],
+      "time_markers": [
+        "1989-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also worked part-time as an hourly paid instructor at the University of Oslo during this period"
+      ],
+      "time_start": 1989,
+      "time_finish": 1990,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1989-1990' clearly indicates a range from 1989 to 1990. The supporting quote confirms this was a part-time position 'during this period', which aligns with the specified timeframe."
+      }
+    },
+    {
+      "organizations": [
+        "Labour Party",
+        "Oslo chapter"
+      ],
+      "roles": [
+        "leader"
+      ],
+      "time_markers": [
+        "1990-1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 1990 and 1992, he was leader of the Oslo chapter of the Labour Party"
+      ],
+      "time_start": 1990,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1990-1992' and supporting quote 'Between 1990 and 1992, he was leader of the Oslo chapter of the Labour Party' clearly indicate the position started in 1990 and ended in 1992."
+      }
+    },
+    {
+      "organizations": [
+        "Ministry of the Environment"
+      ],
+      "roles": [
+        "State Secretary"
+      ],
+      "time_markers": [
+        "1990-1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg was State Secretary in the Ministry of the Environment from 1990 to 1991"
+      ],
+      "time_start": 1990,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1990-1991' and supporting quote 'from 1990 to 1991' clearly indicate the position started in 1990 and ended in 1991."
+      }
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament (Storting)"
+      ],
+      "roles": [
+        "Member of Parliament"
+      ],
+      "time_markers": [
+        "1993-2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was first elected to Parliament in 1993",
+        "In office 1 October 1993 – 30 September 2017"
+      ],
+      "time_start": 1993,
+      "time_finish": 2017,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1993-2017', and this is corroborated by supporting quotes stating 'first elected to Parliament in 1993' and 'In office 1 October 1993 – 30 September 2017'. The position has ended, so time_finish is set to 2017."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of Industry and Energy"
+      ],
+      "time_markers": [
+        "1993-1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the Minister of Industry from 1993 to 1996",
+        "In office 7 October 1993 – 25 October 1996"
+      ],
+      "time_start": 1993,
+      "time_finish": 1996,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1993-1996', and this is corroborated by supporting quotes stating 'from 1993 to 1996' and the specific dates 'In office 7 October 1993 – 25 October 1996'. Both sources consistently confirm the position started in 1993 and ended in 1996."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg became Minister of Finance",
+        "In office 25 October 1996 – 17 October 1997"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field shows '1996-1997' and the supporting quote confirms specific dates 'In office 25 October 1996 – 17 October 1997'. The position started in 1996 and ended in 1997."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "17 March 2000 - 19 October 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg's first cabinet governed Norway from 17 March 2000 to 19 October 2001"
+      ],
+      "time_start": 2000,
+      "time_finish": 2001,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states '17 March 2000 - 19 October 2001', indicating the position started in 2000 and ended in 2001. This is confirmed by the supporting quote mentioning the cabinet governed 'from 17 March 2000 to 19 October 2001'."
+      }
+    },
+    {
+      "organizations": [
+        "Labour Party"
+      ],
+      "roles": [
+        "Leader of the Labour Party"
+      ],
+      "time_markers": [
+        "10 November 2002 - 14 June 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2002, Stoltenberg was unanimously elected new leader at the party's congress",
+        "In office 10 November 2002 – 14 June 2014"
+      ],
+      "time_start": 2002,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '10 November 2002 - 14 June 2014', and this is corroborated by supporting quotes mentioning 'In November 2002, Stoltenberg was unanimously elected new leader' and 'In office 10 November 2002 – 14 June 2014'. The position started in 2002 and ended in 2014."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "17 October 2005 - 16 October 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg's second cabinet governed Norway from 17 October 2005 to 16 October 2013"
+      ],
+      "time_start": 2005,
+      "time_finish": 2013,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on 17 October 2005 and ended on 16 October 2013. Both start and end years are explicitly stated and confirmed by the supporting quote."
+      }
+    },
+    {
+      "organizations": [
+        "Global Alliance for Vaccines and Immunization (GAVI)"
+      ],
+      "roles": [
+        "board director"
+      ],
+      "time_markers": [
+        "2002-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg was a board director of the Global Alliance for Vaccines and Immunization (GAVI) from 2002 to 2005"
+      ],
+      "time_start": 2002,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2002-2005' and supporting quote explicitly state that Stoltenberg was a board director of GAVI 'from 2002 to 2005', clearly indicating the start year as 2002 and end year as 2005."
+      }
+    },
+    {
+      "organizations": [
+        "GAVI"
+      ],
+      "roles": [
+        "Children's Health Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was awarded the Children's Health Award in 2005"
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2005). Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Foundation"
+      ],
+      "roles": [
+        "Champion of Global Change Award recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, Stoltenberg received the United Nations Foundation's Champion of Global Change Award"
+      ],
+      "time_start": 2011,
+      "time_finish": 2011,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2011). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2011."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Envoy on Climate Change"
+      ],
+      "time_markers": [
+        "December 2013",
+        "2013-2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2013, he was appointed by the United Nations as a Special Envoy on Climate Change",
+        "In 2013, Stoltenberg served as a UN special envoy on climate change"
+      ],
+      "time_start": 2013,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred in December 2013 as stated in the supporting quote. The time_marker '2013-2014' indicates the position ended in 2014, and the quote 'In 2013, Stoltenberg served as a UN special envoy' uses past tense suggesting a completed term rather than ongoing position."
+      }
+    },
+    {
+      "organizations": [
+        "NATO"
+      ],
+      "roles": [
+        "Secretary General of NATO"
+      ],
+      "time_markers": [
+        "1 October 2014 - 1 October 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "appointed Stoltenberg as designated successor...as the 13th Secretary General of NATO...effective from 1 October 2014",
+        "In office 1 October 2014 – 1 October 2024"
+      ],
+      "time_start": 2014,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position started on 1 October 2014 and ended on 1 October 2024. Both dates are explicitly stated with high confidence."
+      }
+    },
+    {
+      "organizations": [
+        "United States"
+      ],
+      "roles": [
+        "Presidential Medal of Freedom recipient"
+      ],
+      "time_markers": [
+        "9 July 2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 9 July 2024, Stoltenberg was awarded the Presidential Medal of Freedom"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific date of '9 July 2024'. Awards are typically one-time honors received on a specific date, not ongoing positions. Therefore, both time_start and time_finish are set to 2024, the year the Presidential Medal of Freedom was awarded."
+      }
+    },
+    {
+      "organizations": [
+        "Spain"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of Isabella the Catholic"
+      ],
+      "time_markers": [
+        "30 July 2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 30 July 2024, King Felipe VI of Spain appointed Stoltenberg Knight Grand Cross of the Order of Civil Merit"
+      ],
+      "time_start": 2024,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award was conferred on 30 July 2024. Awards and honors of this type (Knight Grand Cross) are typically permanent distinctions that do not have an end date, so time_finish is set to null while time_start is 2024 when the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "Munich Security Conference"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "announced 8 October 2024",
+        "assuming role February 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 8 October 2024, it was announced that Stoltenberg would be the next Chairman of the Munich Security Conference (MSC) and would assume his role in February 2025"
+      ],
+      "time_start": 2025,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position starts in February 2025 as explicitly stated in the time_markers and supporting quote. There is no end date mentioned, indicating this is an ongoing/current position, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Bilderberg Group"
+      ],
+      "roles": [
+        "Chairman of the Steering Committee"
+      ],
+      "time_markers": [
+        "8 November 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 8 November 2024 Stoltenberg was appointed Chairman of the Steering Committee of the Bilderberg Group"
+      ],
+      "time_start": 2024,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment occurred on 8 November 2024. Since this is an appointment to a position with no end date mentioned, and the language indicates this is when he 'was appointed' (suggesting the beginning of the role), time_start is 2024. The position appears to be ongoing with no indication of when it ended, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "4 February 2025 - present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 4 February 2025...Stoltenberg succeeded Trygve Slagsvold Vedum...as Norway's Minister of Finance",
+        "Assumed office 4 February 2025"
+      ],
+      "time_start": 2025,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The position started on 4 February 2025 as clearly stated in both time_markers and supporting_quotes. The time_marker indicates 'present' and the position is described as ongoing, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Norway"
+      ],
+      "roles": [
+        "King Harald V's Jubilee Medal 1991–2016 recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Norway: King Harald V's Jubilee Medal 1991–2016 (2016)"
+      ],
+      "time_start": 2016,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "This is a jubilee medal commemorating King Harald V's 25th anniversary (1991-2016). The medal was awarded in 2016, which is a single-point-in-time award event. The '1991-2016' refers to the period being commemorated, not the duration of holding the award. The time_marker '2016' and supporting quote confirm the award was received in 2016."
+      }
+    },
+    {
+      "organizations": [
+        "Belgium"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of Leopold recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Belgium: Grand Cordon of the Order of Leopold (2024)"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2024) indicating when the Grand Cordon of the Order of Leopold was received. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2024."
+      }
+    },
+    {
+      "organizations": [
+        "Estonia"
+      ],
+      "roles": [
+        "Member 1st Class of the Order of the Cross of Terra Mariana"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Estonia: Member 1st Class of the Order of the Cross of Terra Mariana (2019)"
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year (2019) mentioned in time_markers and supporting quote. Awards are typically conferred on a specific date/year and represent a point-in-time honor rather than an ongoing position. Therefore, both time_start and time_finish are set to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Finland"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the Lion of Finland recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Finland: Grand Cross of the Order of the Lion of Finland (2024)"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an award (Grand Cross of the Order of the Lion of Finland) received in 2024. Awards are typically conferred at a specific point in time rather than being ongoing positions. The single year marker '2024' indicates when the award was received, so both time_start and time_finish are set to 2024."
+      }
+    },
+    {
+      "organizations": [
+        "Germany"
+      ],
+      "roles": [
+        "Grand Cross 1st Class of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: Grand Cross 1st Class of the Order of Merit of the Federal Republic of Germany (2024)"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2024) indicating when the honor was received. Awards are typically conferred at a specific point in time rather than being ongoing positions, so both time_start and time_finish are set to 2024."
+      }
+    },
+    {
+      "organizations": [
+        "Lithuania"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Vytautas the Great recipient"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lithuania: Grand Cross of the Order of Vytautas the Great (2019)"
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2019) indicating when the Grand Cross of the Order of Vytautas the Great was received. Awards are typically conferred at a specific point in time rather than representing an ongoing position, so both time_start and time_finish are set to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Netherlands"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of Orange-Nassau"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Netherlands: Knight Grand Cross of the Order of Orange-Nassau (2024)"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Knight Grand Cross of the Order of Orange-Nassau) conferred in 2024. Awards are typically granted at a specific point in time rather than being ongoing positions. The single year 2024 in time_markers and supporting quote indicates when the honor was bestowed, so both time_start and time_finish are set to 2024."
+      }
+    },
+    {
+      "organizations": [
+        "US Department of Defense"
+      ],
+      "roles": [
+        "Medal for Distinguished Public Service recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Department of Defense Medal for Distinguished Public Service (2024)"
+      ],
+      "time_start": 2024,
+      "time_finish": 2024,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (2024) in both the time_markers array and supporting quote. Awards are typically one-time recognitions given in a specific year, so both time_start and time_finish are set to 2024."
+      }
+    }
+  ]
+}

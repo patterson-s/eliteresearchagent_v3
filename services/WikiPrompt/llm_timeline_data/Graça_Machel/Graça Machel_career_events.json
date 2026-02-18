@@ -1,0 +1,1067 @@
+{
+  "person_name": "Graça Machel",
+  "career_events": [
+    {
+      "organizations": [
+        "FRELIMO",
+        "Mozambican Liberation Front"
+      ],
+      "roles": [
+        "member",
+        "schoolteacher"
+      ],
+      "time_markers": [
+        "1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Simbine returned to Portuguese East Africa in 1973, joining the Mozambican Liberation Front (FRELIMO) and working as a schoolteacher."
+      ],
+      "time_start": 1973,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates that Simbine joined FRELIMO and began working as a schoolteacher in 1973. This marks the clear start date. However, there is no information provided about when this position ended, so time_finish is set to null rather than assuming it ended in the same year."
+      }
+    },
+    {
+      "organizations": [
+        "Government of Mozambique"
+      ],
+      "roles": [
+        "Minister of Education and Culture"
+      ],
+      "time_markers": [
+        "25 June 1975",
+        "1975-1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following Mozambique's independence in 1975, Simbine was appointed Mozambican's first Minister of Education and Culture on 25 June 1975.",
+        "During her tenure, the number of students enrolled in primary and secondary schools rose from about 40 per cent of all school-aged children to over 90 per cent for males and 75 per cent for females."
+      ],
+      "time_start": 1975,
+      "time_finish": 1989,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array contains '1975-1989' which clearly indicates the duration of this position. This is corroborated by the supporting quote stating the appointment occurred on '25 June 1975' (start year: 1975). The range '1975-1989' provides the end year of 1989."
+      }
+    },
+    {
+      "organizations": [
+        "Mozambique"
+      ],
+      "roles": [
+        "First Lady of Mozambique"
+      ],
+      "time_markers": [
+        "11 November 1975 – 19 October 1986"
+      ],
+      "event_type": "ceremonial_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is the only woman in modern history to have served as First Lady of two countries: South Africa and Mozambique.",
+        "She is the widow of former President of Mozambique Samora Machel (1975–1986)"
+      ],
+      "time_start": 1975,
+      "time_finish": 1986,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field explicitly states '11 November 1975 – 19 October 1986', indicating the position started in 1975 and ended in 1986. This is corroborated by the supporting quote mentioning she is the widow of former President Samora Machel who served from 1975-1986, confirming these as the years she served as First Lady of Mozambique."
+      }
+    },
+    {
+      "organizations": [
+        "Africa Prize"
+      ],
+      "roles": [
+        "recipient"
+      ],
+      "time_markers": [
+        "1992"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Graça Machel received the 1992 Africa Prize, awarded annually to an individual who has contributed to the goal of eliminating hunger in Africa by the year 2000."
+      ],
+      "time_start": 1992,
+      "time_finish": 1992,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1992). Awards are typically received in a specific year rather than being ongoing positions. The supporting quote confirms 'received the 1992 Africa Prize', indicating this was a one-time recognition in 1992."
+      }
+    },
+    {
+      "organizations": [
+        "Forum for African Women Educationalists"
+      ],
+      "roles": [
+        "co-founder",
+        "board member"
+      ],
+      "time_markers": [
+        "since 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Forum for African Women Educationalists (FAWE), co-founder and former member of the board (since 1992)"
+      ],
+      "time_start": 1992,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The phrase 'since 1992' indicates the involvement began in 1992. The role is described as 'former member of the board' but also 'co-founder', and the 'since 1992' marker suggests ongoing involvement from that year. Since there's no end date specified and the time marker uses 'since', time_finish is set to null to indicate the position may still be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Foundation for Community Development"
+      ],
+      "roles": [
+        "founder",
+        "president"
+      ],
+      "time_markers": [
+        "since 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Foundation for Community Development (FDC), founder and president (since 1994)"
+      ],
+      "time_start": 1994,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 1994' clearly indicates the position started in 1994. The word 'since' implies the position is ongoing from 1994 to the present, so time_finish is set to null to indicate it is still current."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Nansen Medal recipient"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Machel received the 1995 Nansen Medal from the United Nations in recognition of her longstanding humanitarian work, particularly on behalf of refugee children."
+      ],
+      "time_start": 1995,
+      "time_finish": 1995,
+      "metadata": {
+        "timeline_reasoning": "This is an award event (Nansen Medal) with a specific year mentioned (1995). Awards are typically received in a single year rather than being ongoing positions. The supporting quote confirms 'received the 1995 Nansen Medal', indicating this was a one-time recognition event in 1995."
+      }
+    },
+    {
+      "organizations": [
+        "Order of the British Empire"
+      ],
+      "roles": [
+        "Honorary Dame Commander"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1997, Machel was honored with the Dame Commander of the Order of the British Empire by Queen Elizabeth II for her contributions and services in the field of human rights protection."
+      ],
+      "time_start": 1997,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary award/title (Dame Commander of the Order of the British Empire) conferred in 1997. Honorary titles and awards are typically permanent once bestowed and do not have an end date, so time_finish is set to null while time_start is 1997 when the honor was received."
+      }
+    },
+    {
+      "organizations": [
+        "Order of Isabella the Catholic"
+      ],
+      "roles": [
+        "Dame Grand Cross"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Dame Grand Cross of the Order of Isabella the Catholic (GYC), 1997 (Spain)."
+      ],
+      "time_start": 1997,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "This is an award/honor (Dame Grand Cross) conferred in 1997. Awards and honors are typically permanent distinctions that do not have an end date, so time_start is set to 1997 when it was received, and time_finish is null as the honor continues indefinitely."
+      }
+    },
+    {
+      "organizations": [
+        "New England Circle"
+      ],
+      "roles": [
+        "Global Citizen Award recipient"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the same year, she received the Global Citizen Award of the New England Circle."
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker '1997' mentioned. The supporting quote confirms 'In the same year, she received the Global Citizen Award' indicating this was a one-time award received in 1997. Awards are typically point-in-time events, so both time_start and time_finish are set to the same year."
+      }
+    },
+    {
+      "organizations": [
+        "InterAction"
+      ],
+      "roles": [
+        "Humanitarian Award recipient"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "InterAction's Humanitarian Award, 1997."
+      ],
+      "time_start": 1997,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year marker (1997). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 1997."
+      }
+    },
+    {
+      "organizations": [
+        "South Africa"
+      ],
+      "roles": [
+        "First Lady of South Africa"
+      ],
+      "time_markers": [
+        "18 July 1998 – 14 June 1999"
+      ],
+      "event_type": "ceremonial_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Graça Machel Mandela married her second husband, Nelson Mandela, in Johannesburg on 18 July 1998, Mandela's 80th birthday. At the time, Mandela was serving as the first post-apartheid president of South Africa."
+      ],
+      "time_start": 1998,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly indicates '18 July 1998 – 14 June 1999', showing she served as First Lady of South Africa from 1998 to 1999. This aligns with her marriage to Nelson Mandela on 18 July 1998 and corresponds to the remainder of his presidential term, which ended in June 1999."
+      }
+    },
+    {
+      "organizations": [
+        "Council of Europe",
+        "North-South Centre"
+      ],
+      "roles": [
+        "North–South Prize recipient"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Machel was one of the two winners of the 1998 North–South Prize awarded by the North-South Centre of the Council of Europe."
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1998). Awards are typically one-time recognitions given in a specific year, not ongoing positions. The supporting quote confirms Machel was 'one of the two winners of the 1998 North–South Prize,' indicating this was a discrete event in 1998."
+      }
+    },
+    {
+      "organizations": [
+        "Princess of Asturias Awards"
+      ],
+      "roles": [
+        "Princess of Asturias Award (International Cooperation) recipient"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Princess of Asturias Award (International Cooperation), 1998 (Spain)."
+      ],
+      "time_start": 1998,
+      "time_finish": 1998,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (1998). Awards are typically received in a specific year rather than being ongoing positions, so both time_start and time_finish are set to 1998."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Foundation"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "1998–2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "United Nations Foundation, member of the board (1998–2007)"
+      ],
+      "time_start": 1998,
+      "time_finish": 2007,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1998–2007' clearly indicates the start year as 1998 and end year as 2007. This is confirmed by the supporting quote which states the same date range for the board membership at United Nations Foundation."
+      }
+    },
+    {
+      "organizations": [
+        "University of Cape Town"
+      ],
+      "roles": [
+        "Chancellor"
+      ],
+      "time_markers": [
+        "1999 – 31 January 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Machel was chancellor of the University of Cape Town from 1999 to 2019.",
+        "She was chancellor of the University of Cape Town between 1999 and 2019."
+      ],
+      "time_start": 1999,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate '1999 – 31 January 2019', and both supporting quotes confirm the position started in 1999 and ended in 2019. The specific end date of January 31, 2019 confirms the position concluded in 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Principle Capital Group"
+      ],
+      "roles": [
+        "non-executive board member"
+      ],
+      "time_markers": [
+        "since 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Principle Capital Group, non-executive member of the board of directors (since 2004)"
+      ],
+      "time_start": 2004,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2004' clearly indicates the position started in 2004. The word 'since' implies the position is ongoing/current, so time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "World's Children's Prize"
+      ],
+      "roles": [
+        "recipient (with Nelson Mandela)"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "World's Children's Prize (together with Nelson Mandela), 2005."
+      ],
+      "time_start": 2005,
+      "time_finish": 2005,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2005). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2005."
+      }
+    },
+    {
+      "organizations": [
+        "University of Massachusetts"
+      ],
+      "roles": [
+        "Honorary Doctor of Humane Letters recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Humane Letters (Hon. DHL) from the University of Massachusetts, 2006 (USA)."
+      ],
+      "time_start": 2006,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary degree award, which is a one-time event that occurred in 2006. Honorary degrees are conferred on a specific date rather than representing an ongoing position, so both start and finish are set to the same year."
+      }
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "co-founder",
+        "Deputy Chair"
+      ],
+      "time_markers": [
+        "founded 18 July 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 18 July 2007 in Johannesburg, South Africa, Nelson Mandela, Graça Machel, and Desmond Tutu convened The Elders.",
+        "Deputy Chairs: Ban Ki-moon, Graça Machel"
+      ],
+      "time_start": 2007,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The organization was founded on 18 July 2007, which marks the start of the co-founder role. The Deputy Chair position is listed in present tense without an end date, suggesting it is ongoing. Therefore, time_start is 2007 and time_finish is null to indicate the position is current."
+      }
+    },
+    {
+      "organizations": [
+        "PME African Infrastructure Opportunities"
+      ],
+      "roles": [
+        "independent non-executive board member"
+      ],
+      "time_markers": [
+        "2007–2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "PME African Infrastructure Opportunities, senior advisor (since 2014), independent non-executive member of the board of directors (2007–2014)"
+      ],
+      "time_start": 2007,
+      "time_finish": 2014,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2007–2014' clearly indicates the duration of the 'independent non-executive board member' role at PME African Infrastructure Opportunities. The supporting quote confirms this timeframe specifically for the board member position, which ended in 2014 when the person transitioned to a senior advisor role."
+      }
+    },
+    {
+      "organizations": [
+        "ACCORD"
+      ],
+      "roles": [
+        "chairwoman of the board of trustees"
+      ],
+      "time_markers": [
+        "since 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "ACCORD, chairwoman of the board of trustees (since 2008)",
+        "Graça Machel elected chair of ACCORD Board of Trustees ACCORD, press release 18 December 2008."
+      ],
+      "time_start": 2008,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2008' and supporting quote confirming election on '18 December 2008' clearly indicate the position started in 2008. The word 'since' indicates an ongoing position with no end date mentioned, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "High-Level Taskforce on Innovative International Financing for Health Systems"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2008-2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2008 until 2009, she was a member of the High-Level Taskforce on Innovative International Financing for Health Systems, co-chaired by Gordon Brown and Robert Zoellick."
+      ],
+      "time_start": 2008,
+      "time_finish": 2009,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2008-2009' and supporting quote 'From 2008 until 2009' clearly indicate the position started in 2008 and ended in 2009."
+      }
+    },
+    {
+      "organizations": [
+        "University of Stellenbosch"
+      ],
+      "roles": [
+        "Doctor of Philosophy honoris causa recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor of Philosophy honoris causa (DPhil h.c.) from the University of Stellenbosch, 2008 (South Africa)."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2008. Awards and honorary degrees are typically conferred at a specific point in time rather than representing an ongoing position. The single year 2008 is mentioned in both the time_markers and supporting quote, indicating this is when the honor was bestowed."
+      }
+    },
+    {
+      "organizations": [
+        "University of Barcelona"
+      ],
+      "roles": [
+        "Doctor honoris causa recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor honoris causa (Dr. h.c.) by University of Barcelona, 2008 (Spain)."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2008. Awards are typically conferred at a specific point in time rather than spanning a duration. Following guideline 4, when only a single year is mentioned for an award event, both time_start and time_finish should be set to that year."
+      }
+    },
+    {
+      "organizations": [
+        "University of Évora"
+      ],
+      "roles": [
+        "Doctor honoris causa recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor honoris causa (Dr. h.c.) by University of Évora, 2008 (Portugal)."
+      ],
+      "time_start": 2008,
+      "time_finish": 2008,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award conferred in 2008. Awards are typically one-time events that occur in a specific year. Since only 2008 is mentioned and this is not an ongoing position but rather a recognition/honor received at a specific point in time, both time_start and time_finish are set to 2008."
+      }
+    },
+    {
+      "organizations": [
+        "Commonwealth of Nations"
+      ],
+      "roles": [
+        "Eminent Persons Group member"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2009, Machel was appointed to the Commonwealth of Nations' Eminent Persons Group."
+      ],
+      "time_start": 2009,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates Machel was appointed to the Eminent Persons Group in 2009, establishing that as the start year. There is no information about when this position ended, and no indicators that it was a brief or completed appointment, so time_finish is set to null to reflect an ongoing or unspecified end date."
+      }
+    },
+    {
+      "organizations": [
+        "World's Children's Prize"
+      ],
+      "roles": [
+        "Decade Child Rights Hero recipient (with Nelson Mandela)"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Decade Child Rights Hero (together with Nelson Mandela) by 7.1 million children through a Global Vote, organized as part of the educational World's Children's Prize Program, 2010."
+      ],
+      "time_start": 2010,
+      "time_finish": 2010,
+      "metadata": {
+        "timeline_reasoning": "This is a one-time award ('Decade Child Rights Hero') given in 2010. Awards are typically received in a specific year rather than being ongoing positions. The time_marker clearly indicates 2010, and the supporting quote confirms this was when the Global Vote occurred and the award was given."
+      }
+    },
+    {
+      "organizations": [
+        "School of Oriental and African Studies",
+        "University of London"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was named president of the School of Oriental and African Studies at the University of London in 2012."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote states 'She was named president... in 2012', indicating the position started in 2012. There is no information about when the position ended, and no language suggesting it was a brief or completed appointment, so time_finish is set to null to indicate the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "The Partnership for Maternal, Newborn & Child Health"
+      ],
+      "roles": [
+        "Chair"
+      ],
+      "time_markers": [
+        "2013-2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She served as the Chair of The Partnership for Maternal, Newborn & Child Health (PMNCH) from 2013-2018."
+      ],
+      "time_start": 2013,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2013-2018' and supporting quote explicitly state she served as Chair from 2013 to 2018, providing clear start and end years for this position."
+      }
+    },
+    {
+      "organizations": [
+        "PME African Infrastructure Opportunities"
+      ],
+      "roles": [
+        "senior advisor"
+      ],
+      "time_markers": [
+        "since 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "PME African Infrastructure Opportunities, senior advisor (since 2014), independent non-executive member of the board of directors (2007–2014)"
+      ],
+      "time_start": 2014,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker 'since 2014' and supporting quote clearly indicate the senior advisor role began in 2014. The word 'since' indicates this is an ongoing position with no end date, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "Trinity College Dublin"
+      ],
+      "roles": [
+        "Doctor in Laws honoris causa recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor in Laws honoris causa (LL.D. h.c.) by Trinity College Dublin, 2015 (Ireland)."
+      ],
+      "time_start": 2015,
+      "time_finish": 2015,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award conferred in 2015. Honorary degrees are awarded at a specific point in time rather than representing an ongoing position. Both time_start and time_finish are set to 2015 as this represents when the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "Every Woman Every Child"
+      ],
+      "roles": [
+        "High-level Advisory Group member"
+      ],
+      "time_markers": [
+        "January 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2016, she was also appointed by United Nations Secretary-General Ban Ki-moon to the High-level Advisory Group for Every Woman Every Child."
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote clearly states the appointment occurred in January 2016, establishing that as the start year. There is no information indicating when this advisory group membership ended, and no explicit statement that it has concluded. Following the guideline that ongoing/current positions should have time_finish set to null, and being conservative about uncertain information, time_finish is set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Sustainable Development Goals Advocate"
+      ],
+      "time_markers": [
+        "17 January 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 17 January 2016, she was appointed as a Sustainable Development Goals Advocate alongside 16 others, all appointed by Secretary-General of the United Nations"
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The appointment date of 17 January 2016 clearly establishes 2016 as the start year. There is no information indicating when this position ended, and advocate positions like this are typically ongoing unless otherwise stated. Therefore, time_finish is set to null to indicate the position may still be current."
+      }
+    },
+    {
+      "organizations": [
+        "African Leadership University"
+      ],
+      "roles": [
+        "Chancellor"
+      ],
+      "time_markers": [
+        "2016-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2016, Machel was named chancellor of the African Leadership University, a role that she still holds today."
+      ],
+      "time_start": 2016,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '2016-present' and supporting quote 'In 2016, Machel was named chancellor of the African Leadership University, a role that she still holds today' clearly indicate the position started in 2016 and is ongoing, so time_finish is null."
+      }
+    },
+    {
+      "organizations": [
+        "British Academy"
+      ],
+      "roles": [
+        "Honorary Fellow"
+      ],
+      "time_markers": [
+        "July 2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2017, Machel was elected an Honorary Fellow of the British Academy (HonFBA), the United Kingdom's national academy for the humanities and social sciences."
+      ],
+      "time_start": 2017,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is an Honorary Fellowship awarded in July 2017. Honorary fellowships are typically lifetime honors that do not expire, so time_start is 2017 when the award was received, and time_finish is null as it remains ongoing."
+      }
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "Gold Medal recipient"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2018, she was awarded by the World Health Organization for her contributions to the health and well-being of women, children and adolescents.",
+        "World Health Organization Gold Medal, 2018 (WHO)."
+      ],
+      "time_start": 2018,
+      "time_finish": 2018,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a specific year (2018) mentioned in both time_markers and supporting quotes. Awards are typically one-time events that occur in a single year, so both time_start and time_finish are set to 2018."
+      }
+    },
+    {
+      "organizations": [
+        "Leiden University"
+      ],
+      "roles": [
+        "Doctor honoris causa recipient"
+      ],
+      "time_markers": [
+        "2021"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor honoris causa (Dr. h.c.) by Leiden University, 2021 (Netherlands)."
+      ],
+      "time_start": 2021,
+      "time_finish": 2021,
+      "metadata": {
+        "timeline_reasoning": "This is an honorary doctorate award received in 2021. Awards are typically conferred at a specific point in time rather than spanning a duration. Since only 2021 is mentioned and this is a one-time honor, both time_start and time_finish are set to 2021."
+      }
+    },
+    {
+      "organizations": [
+        "Africa Progress Panel"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Graça Machel is a member of the Africa Progress Panel (APP), a group of ten distinguished individuals who advocate at the highest levels for equitable and sustainable development in Africa."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote only confirms membership status without temporal information. Without additional context about when this membership began or ended, both values should remain null."
+      }
+    },
+    {
+      "organizations": [
+        "African Child Policy Forum"
+      ],
+      "roles": [
+        "chairwoman of the international board of trustees"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "African Child Policy Forum (ACPF), chairwoman of the international board of trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote only confirms the position title and organization but contains no dates, years, or temporal indicators (such as 'current', 'former', 'since', etc.). Without any temporal context, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Association of European Parliamentarians with Africa"
+      ],
+      "roles": [
+        "chair of the Eminent Advisory Board"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Association of European Parliamentarians with Africa (AWEPA), chair of the Eminent Advisory Board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or dates are present in the career event data. The supporting quote only mentions the organization and role without any temporal information. Without specific years mentioned, I cannot determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Mo Ibrahim Foundation"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mo Ibrahim Foundation, member of the board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote only confirms the role and organization but contains no dates or time indicators. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Nelson Mandela Children's Hospital"
+      ],
+      "roles": [
+        "chairwoman of the board of trustees"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nelson Mandela Children's Hospital, chairwoman of the board of trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are provided in the career event data. The supporting quote only confirms the position and organization but contains no temporal information. Without specific years mentioned, I cannot determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Synergos"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Synergos, member of the board of directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers are provided in the career event data, and the supporting quote 'Synergos, member of the board of directors' contains no temporal information. There is no indication whether this is a current or past position, nor any specific years mentioned. Following the conservative approach, both time_start and time_finish are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "VillageReach"
+      ],
+      "roles": [
+        "honorary chairwoman of the board of directors"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "VillageReach, honorary chairwoman of the board of directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or temporal information are provided in the career event data. The supporting quote only mentions the organization and role without any dates or time references. Without specific years mentioned, I cannot determine when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Whatana Investment Group"
+      ],
+      "roles": [
+        "chairwoman of the board of directors"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Whatana Investment Group, chairwoman of the board of directors"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No time markers or date information are present in the career event data. The supporting quote only confirms the position and organization but contains no temporal information. Without specific years mentioned, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Girls Not Brides: The Global Partnership to End Child Marriage"
+      ],
+      "roles": [
+        "founding contributor"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Machel has been particularly involved in The Elders' work on child marriage, including the founding of Girls Not Brides: The Global Partnership to End Child Marriage."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers or supporting_quotes. The quote only indicates that Machel was involved in 'the founding' of Girls Not Brides, but does not provide any dates. Without additional context about when Girls Not Brides was founded or when Machel's involvement began or ended, I cannot determine accurate years. Being conservative as instructed, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "expert author for Impact of Armed Conflict on Children report"
+      ],
+      "time_markers": [
+        "following ministry retirement"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following her retirement from the Mozambique ministry, Machel was appointed as the expert in charge of producing the groundbreaking United Nations report on the impact of armed conflict on children."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event is described as occurring 'following her retirement from the Mozambique ministry,' but no specific years are provided in the time_markers or supporting quotes. Without additional context about when Machel retired from the ministry or when the UN report was produced, I cannot determine accurate years. Being conservative as instructed, I'm setting both values to null rather than guessing."
+      }
+    },
+    {
+      "organizations": [
+        "International Crisis Group"
+      ],
+      "roles": [
+        "former board of trustees member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "International Crisis Group (ICG), former member of the board of trustees"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The role is described as 'former board of trustees member' which indicates the position has ended, but no specific years are provided in the time_markers or supporting quotes. Without concrete temporal information, I cannot determine accurate start or end dates."
+      }
+    },
+    {
+      "organizations": [
+        "CARE"
+      ],
+      "roles": [
+        "major award recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Major award from CARE as result-longstanding work on behalf of children."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the time_markers array or supporting quotes. The quote only indicates this was a major award from CARE for longstanding work on behalf of children, but provides no temporal information to determine when the award was received."
+      }
+    },
+    {
+      "organizations": [
+        "University of Lisbon"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She attended Methodist mission schools before gaining a scholarship to the University of Lisbon in Portugal, where she studied German and first became involved in independence issues."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The supporting quote indicates she attended the University of Lisbon after Methodist mission schools and gained a scholarship to study there, but no specific years are mentioned in the time_markers array or the quote. Without concrete temporal information, I cannot determine when this education period began or ended."
+      }
+    }
+  ]
+}
