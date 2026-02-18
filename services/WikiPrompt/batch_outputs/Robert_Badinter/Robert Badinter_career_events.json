@@ -1,0 +1,311 @@
+{
+  "person_name": "Robert Badinter",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Paris",
+        "Paris Law Faculty"
+      ],
+      "roles": [
+        "law student",
+        "LLB graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter graduated in law from Paris Law Faculty of the University of Paris."
+      ]
+    },
+    {
+      "organizations": [
+        "Columbia University"
+      ],
+      "roles": [
+        "graduate student",
+        "MA recipient"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He then went to the United States to continue his studies at Columbia University in New York City, where he got his MA."
+      ]
+    },
+    {
+      "organizations": [
+        "the Sorbonne"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "until 1954"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He continued his studies again at the Sorbonne until 1954."
+      ]
+    },
+    {
+      "organizations": [
+        "Henri Torrès law practice"
+      ],
+      "roles": [
+        "lawyer"
+      ],
+      "time_markers": [
+        "1951"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter started his career in Paris in 1951, as a lawyer working with Henri Torrès."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Sorbonne"
+      ],
+      "roles": [
+        "professor",
+        "Emeritus professor"
+      ],
+      "time_markers": [
+        "appointed 1965",
+        "until 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1965, Badinter was appointed a professor at University of Sorbonne. He continued as an Emeritus professor until 1996."
+      ]
+    },
+    {
+      "organizations": [
+        "Badinter, Bredin et partenaires",
+        "Bredin Prat"
+      ],
+      "roles": [
+        "co-founder",
+        "practicing lawyer"
+      ],
+      "time_markers": [
+        "founded 1965",
+        "practiced until 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1965, along with Jean-Denis Bredin, he founded the law firm Badinter, Bredin et partenaires, (now Bredin Prat) where he practised law until 1981."
+      ]
+    },
+    {
+      "organizations": [
+        "French Government",
+        "Ministry of Justice"
+      ],
+      "roles": [
+        "Minister of Justice"
+      ],
+      "time_markers": [
+        "23 June 1981 - 19 February 1986"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981, François Mitterrand, a self-professed opponent of the death penalty, was elected president and Badinter was appointed as Minister of Justice.",
+        "He remained a minister until February 1986."
+      ]
+    },
+    {
+      "organizations": [
+        "French Constitutional Council"
+      ],
+      "roles": [
+        "President of the Constitutional Council"
+      ],
+      "time_markers": [
+        "4 March 1986 - 4 March 1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From March 1986 to March 1995, he was president of the French Constitutional Council."
+      ]
+    },
+    {
+      "organizations": [
+        "French Senate"
+      ],
+      "roles": [
+        "Senator for Hauts-de-Seine"
+      ],
+      "time_markers": [
+        "24 September 1995 - 30 September 2011",
+        "elected 1995",
+        "reelected 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1995 to 2011, he served as a senator, representing the Hauts-de-Seine département.",
+        "Senator for Hauts-de-Seine: 1995–2011. Elected in 1995, reelected in 2004."
+      ]
+    },
+    {
+      "organizations": [
+        "Council of Ministers of the European Community",
+        "Arbitration Commission of the Peace Conference on Yugoslavia"
+      ],
+      "roles": [
+        "commission member",
+        "president of the commission"
+      ],
+      "time_markers": [
+        "appointed 1991",
+        "1991-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1991, Badinter was appointed by the Council of Ministers of the European Community as a member of the Arbitration Commission of the Peace Conference on Yugoslavia. He was elected as president of the commission by the four other members"
+      ]
+    },
+    {
+      "organizations": [
+        "Court of Conciliation and Arbitration",
+        "Organization for Security and Co-operation in Europe (OSCE)"
+      ],
+      "roles": [
+        "first president of the Court"
+      ],
+      "time_markers": [
+        "1995-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter was the first president of the Court of Conciliation and Arbitration of the Organization for Security and Co-operation in Europe (OSCE) following its creation in 1995; he served in that position until 2013."
+      ]
+    },
+    {
+      "organizations": [
+        "American Philosophical Society"
+      ],
+      "roles": [
+        "elected member"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter was elected to the American Philosophical Society in 2009."
+      ]
+    },
+    {
+      "organizations": [
+        "World Justice Project"
+      ],
+      "roles": [
+        "Honorary Co-Chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Badinter served as an Honorary Co-Chair for the World Justice Project."
+      ]
+    },
+    {
+      "organizations": [
+        "International Commission Against the Death Penalty"
+      ],
+      "roles": [
+        "honorary member"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As a longstanding activist for the abolition of the death penalty, Robert Badinter was appointed an honorary member of the International Commission Against the Death Penalty."
+      ]
+    },
+    {
+      "organizations": [
+        "Czech Republic"
+      ],
+      "roles": [
+        "Order of Tomáš Garrigue Masaryk recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He nevertheless received foreign decorations, notably the Order of Tomáš Garrigue Masaryk (Czech Republic) in 2001."
+      ]
+    },
+    {
+      "organizations": [
+        "North Macedonia"
+      ],
+      "roles": [
+        "Order 8-September recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Order 8-September (North Macedonia) in 2006."
+      ]
+    },
+    {
+      "organizations": [
+        "World Macedonian Congress"
+      ],
+      "roles": [
+        "honorary title 'Macedonian Senator'"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For that judgement implying that Republic of Macedonia could unconditionally be admitted to International Organizations he was awarded with the title 'Macedonian Senator' by the World Macedonian Congress in 2004."
+      ]
+    },
+    {
+      "organizations": [
+        "Death Penalty Focus"
+      ],
+      "roles": [
+        "International Abolition Award recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was awarded the International Abolition Award by Death Penalty Focus in 2023."
+      ]
+    },
+    {
+      "organizations": [
+        "Socialist Party (France)"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Political party: Socialist Party"
+      ]
+    }
+  ]
+}

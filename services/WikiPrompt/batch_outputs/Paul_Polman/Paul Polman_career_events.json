@@ -1,0 +1,809 @@
+{
+  "person_name": "Paul Polman",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Groningen"
+      ],
+      "roles": [
+        "student",
+        "BBA/BA graduate"
+      ],
+      "time_markers": [
+        "1977"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Instead, he studied at the University of Groningen, graduating with a BBA/BA in 1977."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Cincinnati"
+      ],
+      "roles": [
+        "student",
+        "MA in Economics graduate",
+        "MBA in Finance and International Marketing graduate"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He completed his MA in Economics and MBA in Finance and International Marketing in 1979 at University of Cincinnati."
+      ]
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "cost analyst"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman worked for Procter & Gamble for 27 years, starting in 1979 as a cost analyst"
+      ]
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "managing director of P&G U.K."
+      ],
+      "time_markers": [
+        "1995 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "becoming managing director of P&G U.K. from 1995 to 1998"
+      ]
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "president of global fabric care"
+      ],
+      "time_markers": [
+        "1998 to 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "president of global fabric care from 1998 to 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "Procter & Gamble"
+      ],
+      "roles": [
+        "group president for Europe"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and group president for Europe in 2001."
+      ]
+    },
+    {
+      "organizations": [
+        "Nestlé"
+      ],
+      "roles": [
+        "chief financial officer"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman then joined Nestlé in 2006 as chief financial officer"
+      ]
+    },
+    {
+      "organizations": [
+        "Nestlé"
+      ],
+      "roles": [
+        "vice president and head of the Americas"
+      ],
+      "time_markers": [
+        "February 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and in February 2008 became vice president and head of the Americas."
+      ]
+    },
+    {
+      "organizations": [
+        "Unilever"
+      ],
+      "roles": [
+        "chief executive officer"
+      ],
+      "time_markers": [
+        "1 January 2009",
+        "2009 to 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 1 January 2009, Polman succeeded Patrick Cescau as chief executive officer of Unilever.",
+        "While he was the CEO of Unilever from 2009 to 2019",
+        "In November 2018, Polman announced he was stepping down as chief executive officer of Unilever at the end of 2018"
+      ]
+    },
+    {
+      "organizations": [
+        "Unilever"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "2009 to 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman served on the board of Unilever from 2009 to 2019."
+      ]
+    },
+    {
+      "organizations": [
+        "Imagine World"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "July 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2019, Polman announced the formation of a new group - Imagine World - to help combat poverty and climate change.",
+        "In 2019 Polman, alongside Jeff Seabright, former Chief Sustainability Officer (C.S.O.) of Unilever, co-founded a new venture named Imagine"
+      ]
+    },
+    {
+      "organizations": [
+        "Systemiq"
+      ],
+      "roles": [
+        "board member",
+        "major shareholder"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Imagine World was acquired by Systemiq in 2022 of which Polman remains a board member as well as major shareholder."
+      ]
+    },
+    {
+      "organizations": [
+        "TPG Rise"
+      ],
+      "roles": [
+        "Founders Board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman sits on the Founders Board of TPG Rise, a $7 billion social-impact fund, alongside Bono and Jeffrey Skoll."
+      ]
+    },
+    {
+      "organizations": [
+        "EQT Future"
+      ],
+      "roles": [
+        "founding Co-Chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman is also founding Co-Chair of EQT Future, a €3 billion long-hold impact fund, alongside Jacob Wallenberg."
+      ]
+    },
+    {
+      "organizations": [
+        "World Business Council for Sustainable Development"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman is a former chair of the World Business Council for Sustainable Development"
+      ]
+    },
+    {
+      "organizations": [
+        "Consumer Goods Forum"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and sat on the board of directors of the Consumer Goods Forum, leading its sustainability efforts."
+      ]
+    },
+    {
+      "organizations": [
+        "UN Global Compact"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also a member of board of the UN Global Compact."
+      ]
+    },
+    {
+      "organizations": [
+        "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the invitation of the UN Secretary General Ban Ki-moon, Polman served as one of the 27 members of the UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda."
+      ]
+    },
+    {
+      "organizations": [
+        "Global Commission on the Economy and Climate"
+      ],
+      "roles": [
+        "International Council member",
+        "co-chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the invitation of former Mexican President, Felipe Calderón, Polman served on the International Council of the Global Commission on the Economy and Climate.",
+        "Polman is co-chair of the Global Commission for the Economy and Climate, with Nicholas Stern and Ngozi Okonjo-Iweala."
+      ]
+    },
+    {
+      "organizations": [
+        "Dutch Sustainable Growth Coalition"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman co-founded the Dutch Sustainable Growth Coalition, led by former Dutch prime minister Jan Peter Balkenende."
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "International Business Council member",
+        "co-chair"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a member of the World Economic Forum International Business Council",
+        "He was co-chair of the World Economic Forum 2012."
+      ]
+    },
+    {
+      "organizations": [
+        "One Young World"
+      ],
+      "roles": [
+        "counsellor"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a counsellor of One Young World"
+      ]
+    },
+    {
+      "organizations": [
+        "Leverhulme Trust"
+      ],
+      "roles": [
+        "trustee"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and trustee of the Leverhulme Trust."
+      ]
+    },
+    {
+      "organizations": [
+        "B-20"
+      ],
+      "roles": [
+        "Food Security Taskforce co-chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Polman was co-chair of the B-20 Food Security Taskforce."
+      ]
+    },
+    {
+      "organizations": [
+        "Dow"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He formerly served on the boards of Dow and Alcon."
+      ]
+    },
+    {
+      "organizations": [
+        "Alcon"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He formerly served on the boards of Dow and Alcon."
+      ]
+    },
+    {
+      "organizations": [
+        "IESE Business School"
+      ],
+      "roles": [
+        "International Advisory Board member"
+      ],
+      "time_markers": [
+        "since 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has been a member of IESE's International Advisory Board (IAB) since 2015."
+      ]
+    },
+    {
+      "organizations": [
+        "Kilimanjaro Blind Trust"
+      ],
+      "roles": [
+        "president",
+        "founder"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is president of the Kilimanjaro Blind Trust, a foundation he created alongside fellow climber Erik Weihenmayer"
+      ]
+    },
+    {
+      "organizations": [
+        "Perkins International Advisory Board"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and chair of the Perkins International Advisory Board."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "SDG Advocate"
+      ],
+      "time_markers": [
+        "2016",
+        "2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2016 Polman was selected by former UN secretary-general Ban Ki-moon to be an SDG Advocate",
+        "He was again appointed in 2019 by the current Secretary-General António Guterres."
+      ]
+    },
+    {
+      "organizations": [
+        "The B Team"
+      ],
+      "roles": [
+        "member",
+        "chair"
+      ],
+      "time_markers": [
+        "August 2018 to September 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a member of The B Team, chairing the group from August 2018 to September 2021."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Oxford",
+        "Saїd Business School"
+      ],
+      "roles": [
+        "Chair of the Board"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019 Polman was appointed as Chair of the Board for University of Oxford, Saїd Business School."
+      ]
+    },
+    {
+      "organizations": [
+        "Wall Street Journal/CNBC"
+      ],
+      "roles": [
+        "European Business Leader of the Year recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "European Business Leader of the year by Wall Street Journal/CNBC (2003)"
+      ]
+    },
+    {
+      "organizations": [
+        "Investor Magazine"
+      ],
+      "roles": [
+        "CEO of the year recipient"
+      ],
+      "time_markers": [
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Investor Magazine CEO of the year (2010,2011,2012)"
+      ]
+    },
+    {
+      "organizations": [
+        "Responsible Capitalism"
+      ],
+      "roles": [
+        "Award for Responsible Capitalism recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Award for Responsible Capitalism (2012)"
+      ]
+    },
+    {
+      "organizations": [
+        "INSEAD"
+      ],
+      "roles": [
+        "Business Leader for the World Award recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "INSEAD Business Leader for the World Award (2012)"
+      ]
+    },
+    {
+      "organizations": [
+        "WWF"
+      ],
+      "roles": [
+        "Duke of Edinburgh Conservation Medal recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "WWF's Duke of Edinburgh Conservation Medal (2013)"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Groningen"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [
+        "June 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2014 Polman received his honorary doctorate during the 400th anniversary of the University of Groningen."
+      ]
+    },
+    {
+      "organizations": [
+        "Rainforest Alliance"
+      ],
+      "roles": [
+        "Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rainforest Alliance Lifetime Achievement Award (2014)"
+      ]
+    },
+    {
+      "organizations": [
+        "Synergos"
+      ],
+      "roles": [
+        "David Rockefeller Bridging Leadership award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "David Rockefeller Bridging Leadership award - Synergos (2014)"
+      ]
+    },
+    {
+      "organizations": [
+        "Business School Lausanne"
+      ],
+      "roles": [
+        "Doctor Honoris Causa recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor Honoris Causa of Business School Lausanne (2014)"
+      ]
+    },
+    {
+      "organizations": [
+        "Oslo Business for Peace Award"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Oslo Business for Peace Award (2015)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Environment Programme"
+      ],
+      "roles": [
+        "Champions of the Earth Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Lifetime Achievement Award (Champions of the Earth) in 2015."
+      ]
+    },
+    {
+      "organizations": [
+        "France"
+      ],
+      "roles": [
+        "Chevalier de la Légion d'honneur recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chevalier de la Légion d'honneur (2016)"
+      ]
+    },
+    {
+      "organizations": [
+        "Singapore Government"
+      ],
+      "roles": [
+        "Public Service Star - Distinguished Friends of Singapore recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Singapore Government Public Service Star - Distinguished Friends of Singapore (2016)"
+      ]
+    },
+    {
+      "organizations": [
+        "Enactus"
+      ],
+      "roles": [
+        "Entrepreneurial Spirit Award recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Enactus Entrepreneurial Spirit Award (2017)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Kingdom"
+      ],
+      "roles": [
+        "Honorary Knight Commander of the Order of the British Empire"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Knight Commander of the Order of the British Empire (2018)"
+      ]
+    },
+    {
+      "organizations": [
+        "George Mason University"
+      ],
+      "roles": [
+        "honorary doctorate recipient",
+        "commencement speaker"
+      ],
+      "time_markers": [
+        "May 2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2018, Polman received an honorary doctorate from George Mason University. As the day's commencement speaker"
+      ]
+    },
+    {
+      "organizations": [
+        "Treaties of Nijmegen"
+      ],
+      "roles": [
+        "Medal recipient"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Treaties of Nijmegen Medal (2018)"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Bath"
+      ],
+      "roles": [
+        "Doctorate of Laws recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "14 honorary doctorates, including a Doctorate of Laws from the University of Bath."
+      ]
+    },
+    {
+      "organizations": [
+        "Academy of International Business"
+      ],
+      "roles": [
+        "The International Executive of the Year Award recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Academy of International Business (AIB) The International Executive of the Year Award (2023)"
+      ]
+    }
+  ]
+}

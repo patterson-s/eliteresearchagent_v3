@@ -1,0 +1,366 @@
+{
+  "person_name": "Qian Qichen",
+  "career_events": [
+    {
+      "organizations": [
+        "Chinese Communist Party"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "joined 1942"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He secretly joined the Chinese Communist Party in 1942 at the age of 14."
+      ]
+    },
+    {
+      "organizations": [
+        "Utopia University High School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "1942 to 1945"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1942 to 1945, Qian attended the Utopia University High School in Shanghai."
+      ]
+    },
+    {
+      "organizations": [
+        "Ta Kung Pao"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "1945 to 1949"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1945 to 1949 he worked at the Ta Kung Pao newspaper."
+      ]
+    },
+    {
+      "organizations": [
+        "Communist Youth League",
+        "Shanghai municipal districts (Xuhui, Changning, Yangpu)"
+      ],
+      "roles": [
+        "Party Committee member",
+        "Secretary of Communist Youth League Committees"
+      ],
+      "time_markers": [
+        "after 1949"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the establishment of the People's Republic of China in 1949, he was member of the Party Committee and Secretary of the Communist Youth League Committees of the Xuhui, Changning, and Yangpu districts of Shanghai."
+      ]
+    },
+    {
+      "organizations": [
+        "Komsomol Central School, Moscow"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "1954 to 1955"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Qian left for the Soviet Union and studied at the Komsomol Central School in Moscow from 1954 to 1955."
+      ]
+    },
+    {
+      "organizations": [
+        "Chinese Embassy in Moscow"
+      ],
+      "roles": [
+        "Second Secretary",
+        "Counsellor"
+      ],
+      "time_markers": [
+        "1955 to 1963"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1955 to 1963, he worked as a diplomat in Moscow. He successively served as Second Secretary in the Chinese Embassy... and Counsellor in the Chinese Embassy."
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Higher Education"
+      ],
+      "roles": [
+        "Director of Department of Overseas Chinese Students",
+        "Deputy Director General of the Foreign Department"
+      ],
+      "time_markers": [
+        "1955 to 1963"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He successively served as... Director of Department of Overseas Chinese Students and Deputy Director General of the Foreign Department of the Ministry of Higher Education"
+      ]
+    },
+    {
+      "organizations": [
+        "May Seventh Cadre School"
+      ],
+      "roles": [
+        "forced laborer"
+      ],
+      "time_markers": [
+        "1966 to 1972"
+      ],
+      "event_type": "persecution",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During the Cultural Revolution, Qian was persecuted and sent to perform hard labour at a May Seventh Cadre School from 1966 to 1972."
+      ]
+    },
+    {
+      "organizations": [
+        "Chinese Embassy in Guinea"
+      ],
+      "roles": [
+        "Ambassador to Guinea"
+      ],
+      "time_markers": [
+        "1974–76"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After his political rehabilitation, he served as Ambassador to Guinea (1974–76)"
+      ]
+    },
+    {
+      "organizations": [
+        "Chinese Embassy in Guinea-Bissau"
+      ],
+      "roles": [
+        "Ambassador to Guinea-Bissau"
+      ],
+      "time_markers": [
+        "1974–75"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and concurrently Ambassador to Guinea-Bissau (1974–75)."
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of the Information Department",
+        "first spokesperson"
+      ],
+      "time_markers": [
+        "1977 to 1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "While serving as Director of the Information Department of the Foreign Ministry from 1977 to 1982, he proposed establishing a spokesperson system and became the first spokesperson of the Ministry."
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Vice-Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1982 to 1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was vice-minister of foreign affairs from 1982 to 1988"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "April 1988 to March 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "China's Foreign Minister from April 1988 to March 1998",
+        "Qian became Foreign Minister in April 1988."
+      ]
+    },
+    {
+      "organizations": [
+        "CCP Central Committee"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "12th to 15th Central Committee"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Qian was a member of the 12th to 15th CCP Central Committee."
+      ]
+    },
+    {
+      "organizations": [
+        "CCP Politburo"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "1992 to 2002",
+        "14th and 15th Politburo"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served as Chinese Communist Party (CCP) Politburo member from 1992 to 2002",
+        "He was a member of the 14th and 15th CCP Politburo."
+      ]
+    },
+    {
+      "organizations": [
+        "State Council"
+      ],
+      "roles": [
+        "Vice Premier"
+      ],
+      "time_markers": [
+        "March 1993 to March 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and as Vice Premier from March 1993 to March 2003",
+        "He was Vice Premier of the State Council, under Premiers Li Peng and Zhu Rongji, from 1993 until his retirement in 2003."
+      ]
+    },
+    {
+      "organizations": [
+        "State Council (7th)"
+      ],
+      "roles": [
+        "State Councilor"
+      ],
+      "time_markers": [
+        "added during 7th State Council"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "State Councilors... Qian Qichen P (added)"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Mongolia"
+      ],
+      "roles": [
+        "Order of the Polar Star recipient"
+      ],
+      "time_markers": [
+        "November 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2005, Qian was awarded the Order of the Polar Star, the highest civilian award of Mongolia, for his contributions to China–Mongolia relations."
+      ]
+    },
+    {
+      "organizations": [
+        "British Foreign Office"
+      ],
+      "roles": [
+        "diplomatic counterpart"
+      ],
+      "time_markers": [
+        "July 1989"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "his meeting with then British Foreign Secretary John Major in July 1989 was the first such contact."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UN General Assembly attendee"
+      ],
+      "time_markers": [
+        "October 1989"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 1989, Qian engaged in low-profile outreach when he attended the annual UN General Assembly in New York"
+      ]
+    },
+    {
+      "organizations": [
+        "ASEAN"
+      ],
+      "roles": [
+        "first Chinese diplomat to attend ASEAN Foreign Ministers Meeting"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the first Chinese diplomat to attend an ASEAN event, going to the 1991 ASEAN Foreign Ministers Meeting in Malaysia."
+      ]
+    },
+    {
+      "organizations": [
+        "North Korea"
+      ],
+      "roles": [
+        "diplomatic envoy"
+      ],
+      "time_markers": [
+        "1992"
+      ],
+      "event_type": "diplomatic_event",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1992, he was tasked with traveling to Pyongyang, North Korea to inform Kim Il Sung that China would be establishing formal diplomatic relations with South Korea."
+      ]
+    }
+  ]
+}

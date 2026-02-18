@@ -1,0 +1,396 @@
+{
+  "person_name": "Nafis Sadik",
+  "career_events": [
+    {
+      "organizations": [
+        "Dow Medical College"
+      ],
+      "roles": [
+        "medical student",
+        "Doctor of Medicine graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She studied medicine at and graduated with a Doctor of Medicine degree from Dow Medical College in Karachi, Pakistan."
+      ]
+    },
+    {
+      "organizations": [
+        "City Hospital, Baltimore"
+      ],
+      "roles": [
+        "intern in gynaecology and obstetrics"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduating, she went to the USA to complete an internship in gynaecology and obstetrics at City Hospital in Baltimore, Maryland"
+      ]
+    },
+    {
+      "organizations": [
+        "Johns Hopkins University"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "finished her further education at the Johns Hopkins University."
+      ]
+    },
+    {
+      "organizations": [
+        "Pakistan Armed Forces hospitals"
+      ],
+      "roles": [
+        "civilian doctor"
+      ],
+      "time_markers": [
+        "1954 to 1963"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She returned to Pakistan in 1954 with her husband, to become a civilian doctor in army hospitals. She worked until 1963 in women's and children's wards in Pakistan Armed Forces hospitals."
+      ]
+    },
+    {
+      "organizations": [
+        "Government's Planning Commission"
+      ],
+      "roles": [
+        "head of the Health Section"
+      ],
+      "time_markers": [
+        "1964"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1964, Sadik was appointed head of the Health Section of the Government's Planning Commission."
+      ]
+    },
+    {
+      "organizations": [
+        "Pakistan Central Family Planning Council"
+      ],
+      "roles": [
+        "Director of Planning and Training"
+      ],
+      "time_markers": [
+        "1966"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik joined the Pakistan Central Family Planning Council in 1966 as Director of Planning and Training"
+      ]
+    },
+    {
+      "organizations": [
+        "Pakistan Central Family Planning Council"
+      ],
+      "roles": [
+        "Deputy Director-General"
+      ],
+      "time_markers": [
+        "1968"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Deputy Director-General in 1968"
+      ]
+    },
+    {
+      "organizations": [
+        "Pakistan Central Family Planning Council"
+      ],
+      "roles": [
+        "Director-General"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and Director-General in 1970."
+      ]
+    },
+    {
+      "organizations": [
+        "UN Population Fund"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik joined the UN Population Fund in 1971."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Population Fund"
+      ],
+      "roles": [
+        "Executive Director"
+      ],
+      "time_markers": [
+        "1987 to 2000",
+        "retired December 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "UN Secretary-General Javier Pérez de Cuéllar appointed her to succeed him, in 1987, thus becoming the first woman to head one of the United Nations' major voluntarily-funded programmes.",
+        "former executive director of the United Nations Population Fund (UNFPA) from 1987 to 2000. She retired from the post in December 2000."
+      ]
+    },
+    {
+      "organizations": [
+        "International Conference on Population and Development"
+      ],
+      "roles": [
+        "Secretary-General"
+      ],
+      "time_markers": [
+        "appointed June 1990",
+        "conference held 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 1990, the Secretary-General of the United Nations appointed Sadik Secretary-General of the International Conference on Population and Development (ICPD), 1994."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Adviser to the UN Secretary General",
+        "Special Envoy for HIV/AIDS in Asia"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a Pakistani physician, Special Adviser to the UN Secretary General with additional responsibilities as Special Envoy for HIV/AIDS in Asia"
+      ]
+    },
+    {
+      "organizations": [
+        "Foundation for Human Development"
+      ],
+      "roles": [
+        "member of the Board of Governors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of the Board of Governors of the Foundation for Human Development"
+      ]
+    },
+    {
+      "organizations": [
+        "South Asian Commission on the Asian Challenge"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a member of the South Asian Commission on the Asian Challenge"
+      ]
+    },
+    {
+      "organizations": [
+        "Society for International Development"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1994 to 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik was the President of the Society for International Development (SID) for the period 1994–1997."
+      ]
+    },
+    {
+      "organizations": [
+        "Association of Physicians of Pakistani Descent of North America"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nafis Sadik also was a member of Association of Physicians of Pakistani Descent of North America."
+      ]
+    },
+    {
+      "organizations": [
+        "German Foundation for World Population"
+      ],
+      "roles": [
+        "Advisor Board member"
+      ],
+      "time_markers": [
+        "after retirement from UNFPA"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After her retirement from the United Nations Population Fund, she served on several boards of directors and advisory panels of non-profit organizations and research institutions in the area of population control including on the Advisor Board for the German Foundation for World Population."
+      ]
+    },
+    {
+      "organizations": [
+        "Population Action International"
+      ],
+      "roles": [
+        "Emeritus Member"
+      ],
+      "time_markers": [
+        "after retirement from UNFPA"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sadik was an Emeritus Member of Population Action International."
+      ]
+    },
+    {
+      "organizations": [
+        "Prince Mahidol Award Foundation"
+      ],
+      "roles": [
+        "Prince Mahidol Award recipient (Public Health)"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(1995) Prince Mahidol Award from the Prince Mahidol Award Foundation (Branch Public Health)"
+      ]
+    },
+    {
+      "organizations": [
+        "Planned Parenthood Federation of America"
+      ],
+      "roles": [
+        "Margaret Sanger Award recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(2000) Margaret Sanger Award from the Planned Parenthood Federation of America"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "United Nations Population Award recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(2001) United Nations Population Award"
+      ]
+    },
+    {
+      "organizations": [
+        "Calderone Prize"
+      ],
+      "roles": [
+        "Calderone Prize laureate"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nafis Sadik (2001)"
+      ]
+    },
+    {
+      "organizations": [
+        "World Association of Girl Guides and Girl Scouts"
+      ],
+      "roles": [
+        "World Citizenship Award recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "(2002) World Citizenship Award from the World Association of Girl Guides and Girl Scouts"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal College of Obstetricians and Gynecologists"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Award from The Royal College of Obstetricians and Gynecologists"
+      ]
+    },
+    {
+      "organizations": [
+        "National Wildlife Federation"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Award from the National Wildlife Federation, United States"
+      ]
+    },
+    {
+      "organizations": [
+        "American Public Health Association"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Award from American Public Health Association, Washington D.C., U.S."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+Kira Radinsky - Wikipedia
+Jump to content
+Contents
+move to sidebar
+hide
+(Top)
+1
+Biography
+2
+Academic activity
+3
+Personal life
+4
+Awards and recognition
+5
+References
+6
+External links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikidata item
+Appearance
+move to sidebar
+hide
+From Wikipedia, the free encyclopedia
+Israeli computer scientist and entrepreneur
+Kira Radinsky
+קירה רדינסקי
+Born
+(
+1986-07-28
+)
+July 28, 1986
+(age 39)
+Ukraine
+Occupation(s)
+Computer scientist, inventor, entrepreneur
+Known for
+Predictive data mining, Co-founding SalesPredict and Diagnostic Robotics
+Title
+Chief Executive Officer of Diagnostic Robotics
+Awards
+Woman of the Year (2016 by Lady Globes magazine), Forbes 30 under 30 (2015), MIT Technology Review 35 Innovators Under 35 (2013)
+Kira Radinsky
+(
+Hebrew
+:
+קירה רדינסקי
+; born July 28, 1986) is a
+Ukrainian
+-born
+Israeli
+computer scientist
+, inventor and entrepreneur, specializing in predictive
+data mining
+.
+[
+1
+]
+[
+2
+]
+and
+artificial intelligence
+, a high-tech manager, scientist, and a visiting professor at the
+Technion
+.
+[
+3
+]
+She is a member of the
+Israel Securities Authority
+. Former Director of Data Science and Chief Scientist at
+eBay
+Israel.
+Biography
+[
+edit
+]
+Radinsky was born in
+Kiev
+, Ukraine. Her parents separated before she was born, and she immigrated to Israel with her mother when she was 4. She grew up in
+Nesher
+. Her mother was a
+mathematician
+by training. Her father immigrated to Israel separately and became
+ultraorthodox
+, but they are not in touch.
+[
+4
+]
+Radinsky attended Yitzhak Rabin High School in Nesher. Between 2004 and 2007, she served in the Intelligence
+Unit 8200
+as a
+programmer
+,
+[
+5
+]
+and in 2006 she won the
+Israel Defense Prize
+as part of her unit's programming team.
+[
+6
+]
+Has a
+Black Belt
+in
+Karate
+.
+Academic activity
+[
+edit
+]
+Radinsky gained recognition after being selected by the
+MIT Technology Review
+to the "35 Innovators Under 35" list.  Her work was described in the popular press as  predicting the first in 130 years outbreak of
+cholera
+in
+Cuba
+, based on the pattern identified by mining of 150 years of
+
+data from various sources: in poor countries, floods within a year after a drought often follow by a cholera outbreak.
+[
+1
+]
+[
+7
+]
+[
+8
+]
+"I think the best way to predict the future is to create it. One of the things that we are doing right now is identifying the patterns, and when the patterns start, try to predict the next step. So, it can predict things that have a pattern. Random things? It’s a philosophical question. Do we even have random things? Or is it part of a pattern that we don’t have data for? So, if you believe there is no random thing and everything has a pattern, then AI can predict the future. We just need more data for that."
+—Kira Radinsky, 2019.
+[
+9
+]
+While working on her
+Ph.D.
+she co-founded a company, SalesPredict, based on similar ideas, but with different algorithms (the intellectual property of her work belongs to
+Technion
+).
+[
+7
+]
+It was acquired by
+eBay
+in 2016, where Kira Radinsky worked as chief scientist and the director of data science during 2016–2019.
+[
+10
+]
+Radinsky is a member of the
+World Economic Forum
+.
+[
+11
+]
+In the year 2021, she was declared among its 'Young Global Leaders'
+[
+12
+]
+[
+13
+]
+to be part of the proactive multistakeholder community of the world’s next-generation leaders to inform and influence decision-making and mobilize transformation".
+[
+14
+]
+Since the end of 2021, Radinsky also is the Chief Executive Officer at Diagnostic Robotics, Tel Aviv, which she co-founded in 2019.
+[
+15
+]
+She is also a visiting professor at Technion teaching the applications of predictive data mining in medicine.
+[
+16
+]
+She has co-authored over 10 patents and more than 50 peer-reviewed articles.
+[
+10
+]
+Personal life
+[
+edit
+]
+Radinsky lives in
+Zichron Yaacov
+, married to Sagi Davidovitz, a high-tech entrepreneur and CEO of SparkBeyond, which developed a
+search engine
+focused on discoveries and science. Mother of two.
+Awards and recognition
+[
+edit
+]
+2016 selected as the "Woman of the Year" by
+Lady Globes
+magazine.
+[
+17
+]
+2015 Included into the
+Forbes
+"30 under 30" young innovators and entrepreneurs list
+[
+18
+]
+2013: Included into the
+MIT Technology Review
+'s "35 Innovators Under 35" list
+[
+1
+]
+References
+[
+edit
+]
+^
+a
+b
+
+c
+"35 Innovators Under 35/Inventors/"Kira Radinsky, 27 "How good can computers get at predicting events?"
+, by
+Matthew Kalman
+^
+"This Israeli Wants to Save the World With Big Data - and Still Protect Your Privacy"
+,
+JHaaretz
+, August 7, 2018
+^
+"Kira Radinsky"
+.
+The Technion Program for Excellence
+. Retrieved
+2025-05-18
+.
+^
+"על בינה מלאכותית ואינטליגנציה טבעית: מסע בין תחנות חייה של היזמית קירה רדינסקי"
+.
+www.maariv.co.il
+(in Hebrew). 2023-02-03
+. Retrieved
+2025-05-29
+.
+^
+ישראל, פורבס (2016-05-24).
+"24 בוגרים שהצליחו בענק מספרים: מהו המתכון הסודי של 8200?"
+.
+Forbes Israel
+(in Hebrew)
+. Retrieved
+2025-05-29
+.
+^
+לוין, חגית ברונסקי וטליה (2016-09-13).
+"1 אשת השנה ד"ר קירה רדינסקי יזמית, דוקטור למדעי המחשב. פיתחה מודל לניבוי אירועים עתידיים"
+.
+Globes
+. Retrieved
+2025-05-18
+.
+^
+a
+b
+"The Israeli who can predict the future"
+^
+Radinsky, Kira; Horvitz, Eric (2013-02-04).
+"Mining the web to predict future events"
+.
+Proceedings of the sixth ACM international conference on Web search and data mining
+. WSDM '13. New York, NY, USA: Association for Computing Machinery. pp.
+255–
+264.
+doi
+:
+10.1145/2433396.2433431
+.
+ISBN
+978-1-4503-1869-3
+.
+^
+"Can AI Predict Humanity's Future Events?"
+. November 23, 2019.
+^
+a
+b
+"Can AI Predict Humanity's Future Events?"
+, November 23, 2019
+Psychology Today
+^
+"Kira Radinsky"
+.
+^
+"Meet the 2021 class of Young Global Leaders"
+. 10 March 2021.
+^
+"YGL2021 Press Release"
+.
+^
+"Kira Radinsky"
+(PDF)
+. Archived from
+the original
+(PDF)
+on 2017-10-13.
+^
+"https://www.calcalistech.com/ctech/articles/0,7340,L-3773621,00.html"
+^
+"
+"Kira Radinsky ChairWoman & Chief Technology Officer at Diagnostic Robotics"
+"
+. Archived from
+the original
+on 2020-02-25
+. Retrieved
+2020-02-25
+.
+^
+Dr. Kira Radinsky Named Lady Globes Magazine's "Woman of the Year"
+^
+"Forbes 30 Under 30: Enterprise Technology"
+External links
+[
+edit
+]
+Kira Radinsky
+on
+LinkedIn
+Kira Radinsky
+personal website
+Authority control databases
+International
+VIAF
+National
+Israel
+Academics
+Google Scholar
+DBLP
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Kira_Radinsky&oldid=1316054831
+"
+Categories
+:
+1986 births
+Living people
+Israeli computer scientists
+Israeli women computer scientists
+Technion – Israel Institute of Technology alumni
+Israel Defense Prize recipients
+20th-century Israeli businesswomen
+20th-century Israeli businesspeople
+Ukrainian emigrants to Israel
+Ukrainian Jews
+Data miners
+Unit 8200 alumni
+People from Kyiv
+Israeli people of Ukrainian-Jewish descent
+Hidden categories:
+CS1 Hebrew-language sources (he)
+Articles with short description
+Short description is different from Wikidata
+Articles with hCards
+Pages using infobox person with deprecated parameters
+Articles containing Hebrew-language text
+LinkedIn
+
+page template ID starting with in/
+Search
+Search
+Toggle the table of contents
+Kira Radinsky
+5 languages
+Add topic

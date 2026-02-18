@@ -1,0 +1,794 @@
+{
+  "person_name": "Ellen Johnson Sirleaf",
+  "career_events": [
+    {
+      "organizations": [
+        "Madison Business College"
+      ],
+      "roles": [
+        "student",
+        "Associate degree in Accounting graduate"
+      ],
+      "time_markers": [
+        "1961"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She traveled with her husband to the United States in 1961 to continue her education and earned an associate degree in Accounting at Madison Business College, in Madison, Wisconsin."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Colorado Boulder"
+      ],
+      "roles": [
+        "student",
+        "BA in Economics graduate"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1970, she earned a BA in economics from the Economics Institute of the University of Colorado Boulder"
+      ]
+    },
+    {
+      "organizations": [
+        "Harvard Kennedy School",
+        "Harvard University"
+      ],
+      "roles": [
+        "graduate student",
+        "Master of Public Administration graduate"
+      ],
+      "time_markers": [
+        "1969 to 1971"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf studied economics and public policy at Harvard Kennedy School from 1969 to 1971, earning a Master of Public Administration."
+      ]
+    },
+    {
+      "organizations": [
+        "Liberian Government under William Tolbert"
+      ],
+      "roles": [
+        "Assistant Minister of Finance"
+      ],
+      "time_markers": [
+        "1972 to 1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf served as Assistant Minister from 1972 to 1973 in the Tolbert administration. She resigned after a disagreement about government spending."
+      ]
+    },
+    {
+      "organizations": [
+        "Liberian Government under William Tolbert"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "1979 to April 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Subsequently, she was appointed as Minister of Finance a few years later, serving from 1979 to April 1980."
+      ]
+    },
+    {
+      "organizations": [
+        "Liberian Bank for Development and Investment"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "April 1980 to November 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf initially accepted a post in the new government as the President of the Liberian Bank for Development and Investment. She fled the country in November 1980 after publicly criticising Doe"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1980-1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf initially moved to Washington, D.C., and worked for the World Bank."
+      ]
+    },
+    {
+      "organizations": [
+        "Citibank"
+      ],
+      "roles": [
+        "Vice President of the African Regional Office"
+      ],
+      "time_markers": [
+        "1981 to 1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981, she moved to Nairobi, Kenya to serve as Vice President of the African Regional Office of Citibank. She resigned from Citibank in 1985 following her involvement at the 1985 general election in Liberia."
+      ]
+    },
+    {
+      "organizations": [
+        "Equator Bank"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She went to work for Equator Bank, a subsidiary of HSBC."
+      ]
+    },
+    {
+      "organizations": [
+        "Liberian Government under Amos Sawyer"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 1990–1990 President Amos Sawyer"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Development Programme"
+      ],
+      "roles": [
+        "director of Regional Bureau for Africa",
+        "assistant administrator and assistant secretary general"
+      ],
+      "time_markers": [
+        "1992 to 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1992, Sirleaf was appointed as the director of the United Nations Development Programme's Regional Bureau for Africa at the rank of assistant administrator and assistant secretary general (ASG).",
+        "She resigned from this role in 1997 in order to run for the presidency of Liberia."
+      ]
+    },
+    {
+      "organizations": [
+        "Organization of African Unity"
+      ],
+      "roles": [
+        "investigator of Rwandan genocide"
+      ],
+      "time_markers": [
+        "1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During her time at the UN, she was one of the seven internationally eminent persons designated in 1999 by the Organization of African Unity to investigate the Rwandan genocide"
+      ]
+    },
+    {
+      "organizations": [
+        "Inter-Congolese Dialogue"
+      ],
+      "roles": [
+        "Commission Chair"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "one of the five Commission Chairs for the Inter-Congolese Dialogue"
+      ]
+    },
+    {
+      "organizations": [
+        "UNIFEM"
+      ],
+      "roles": [
+        "international expert on conflict and women"
+      ],
+      "time_markers": [
+        "late 1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "one of the two international experts selected by UNIFEM to investigate and report on the effect of conflict on women and women's roles in peace building"
+      ]
+    },
+    {
+      "organizations": [
+        "Open Society Initiative for West Africa"
+      ],
+      "roles": [
+        "initial Chairperson"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was the initial Chairperson of the Open Society Initiative for West Africa (OSIWA)"
+      ]
+    },
+    {
+      "organizations": [
+        "Ghana Institute of Management and Public Administration"
+      ],
+      "roles": [
+        "visiting Professor of Governance"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a visiting Professor of Governance at the Ghana Institute of Management and Public Administration (GIMPA)"
+      ]
+    },
+    {
+      "organizations": [
+        "Liberian Action Party"
+      ],
+      "roles": [
+        "Vice Presidential candidate"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "While working at Citibank, Sirleaf returned to Liberia in 1985 to run for Vice President under Jackson Doe on the ticket of the Liberian Action Party in the 1985 elections."
+      ]
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "presidential candidate"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She ran as the presidential candidate for the Unity Party and placed second in a controversial election, getting just under 10% of the vote to Charles Taylor's 75%"
+      ]
+    },
+    {
+      "organizations": [
+        "Governance Reform Commission"
+      ],
+      "roles": [
+        "head"
+      ],
+      "time_markers": [
+        "post-Second Liberian Civil War, pre-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ultimately, Gyude Bryant, a political neutral, was chosen as chairman, while Sirleaf served as head of the Governance Reform Commission."
+      ]
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "presidential candidate",
+        "President-elect of Liberia"
+      ],
+      "time_markers": [
+        "2005",
+        "declared winner 23 November 2005"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf stood for president as the candidate of the Unity Party in the 2005 general election.",
+        "On 23 November 2005, Sirleaf was declared the winner of the Liberian election and confirmed as the country's next president and the first woman to be elected as president of an African country."
+      ]
+    },
+    {
+      "organizations": [
+        "Republic of Liberia"
+      ],
+      "roles": [
+        "24th President of Liberia"
+      ],
+      "time_markers": [
+        "16 January 2006 to 22 January 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Her inauguration took place on 16 January 2006.",
+        "Ellen Eugenia Johnson Sirleaf (born 29 October 1938) is a Liberian politician who served as the 24th president of Liberia from 2006 to 2018."
+      ]
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "presidential candidate",
+        "re-elected President"
+      ],
+      "time_markers": [
+        "2011",
+        "inaugurated 16 January 2012"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2010, Sirleaf announced that she would run for a second term in office in the 2011 presidential election",
+        "She took the presidential oath for her second presidency on 16 January 2012."
+      ]
+    },
+    {
+      "organizations": [
+        "Economic Community of West African States"
+      ],
+      "roles": [
+        "Chair of ECOWAS"
+      ],
+      "time_markers": [
+        "June 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2016, Sirleaf was elected as the Chair of the Economic Community of West African States, making her the first woman to hold the position since it was created."
+      ]
+    },
+    {
+      "organizations": [
+        "Unity Party"
+      ],
+      "roles": [
+        "expelled member"
+      ],
+      "time_markers": [
+        "13 January 2018"
+      ],
+      "event_type": "political_separation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the late evening hours of 13 January 2018, she along with some officials of the Unity Party were expelled by the National Executive Committee of the party, for failing to support Unity Party presidential candidate"
+      ]
+    },
+    {
+      "organizations": [
+        "Ellen Johnson Sirleaf Presidential Center for Women and Development"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2018, Sirleaf founded the Ellen Johnson Sirleaf Presidential Center for Women and Development, which aims 'to be a catalyst for change across Africa, by helping unleash its most abundant untapped power – its women'."
+      ]
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "WHO Goodwill Ambassador for the health workforce"
+      ],
+      "time_markers": [
+        "2019 to 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Director-General of the World Health Organization Tedros Adhanom appointed Sirleaf as the WHO Goodwill Ambassador for the health workforce.",
+        "Amid the COVID-19 pandemic in 2020, she stepped down from this post to serve as co-chair"
+      ]
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "co-chair of WHO's Independent Panel for Pandemic Preparedness and Response"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Amid the COVID-19 pandemic in 2020, she stepped down from this post to serve as co-chair (alongside Helen Clark) of the WHO's Independent Panel for Pandemic Preparedness and Response (IPPR)."
+      ]
+    },
+    {
+      "organizations": [
+        "U.S. International Development Finance Corporation"
+      ],
+      "roles": [
+        "Development Advisory Council member"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Also in 2020, she was appointed to the Development Advisory Council of the U.S. International Development Finance Corporation."
+      ]
+    },
+    {
+      "organizations": [
+        "Africa Europe Foundation"
+      ],
+      "roles": [
+        "Member of the High-Level Group of Personalities on Africa-Europe Relations"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
+      ]
+    },
+    {
+      "organizations": [
+        "Brenthurst Foundation"
+      ],
+      "roles": [
+        "Member of the Advisory Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brenthurst Foundation, Member of the Advisory Board"
+      ]
+    },
+    {
+      "organizations": [
+        "Mastercard Foundation"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mastercard Foundation, Member of the Board of Directors (since 2020)"
+      ]
+    },
+    {
+      "organizations": [
+        "Council of Women World Leaders"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sirleaf is a member of the Council of Women World Leaders, an international network of current and former women presidents and prime ministers"
+      ]
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Elders organization member list includes Ellen Johnson Sirleaf"
+      ]
+    },
+    {
+      "organizations": [
+        "Roosevelt Institute"
+      ],
+      "roles": [
+        "Freedom of Speech Award recipient"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the 1988 Roosevelt Institute Freedom of Speech Award"
+      ]
+    },
+    {
+      "organizations": [
+        "Order of Mono (Togo)"
+      ],
+      "roles": [
+        "Commander"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1996 Commander of the Order of Mono"
+      ]
+    },
+    {
+      "organizations": [
+        "Search for Common Ground"
+      ],
+      "roles": [
+        "Common Ground Award recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Common Ground Award recipient, Search for Common Ground"
+      ]
+    },
+    {
+      "organizations": [
+        "The Hunger Project"
+      ],
+      "roles": [
+        "Africa Prize for Leadership for the Sustainable End of Hunger Laureate"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Laureate of the Africa Prize for Leadership for the Sustainable End of Hunger, The Hunger Project"
+      ]
+    },
+    {
+      "organizations": [
+        "Marquette University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Awarded Honorary Doctor of Laws from Marquette University"
+      ]
+    },
+    {
+      "organizations": [
+        "United States Government"
+      ],
+      "roles": [
+        "Presidential Medal of Freedom recipient"
+      ],
+      "time_markers": [
+        "5 November 2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2007 Presidential Medal of Freedom, the highest civilian award given by the United States, awarded to Sirleaf by U.S. President George W. Bush on 5 November 2007"
+      ]
+    },
+    {
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Golden Plate Award of the American Academy of Achievement"
+      ]
+    },
+    {
+      "organizations": [
+        "Indiana University",
+        "Dartmouth College",
+        "Brown University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Awarded Honorary Doctor of Laws degree from Indiana University, Dartmouth College; and Brown University."
+      ]
+    },
+    {
+      "organizations": [
+        "EITI (Extractive Industries Transparency Initiative)"
+      ],
+      "roles": [
+        "EITI Award recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009 Awarded the EITI Award for 'the rapid progress the country has made towards implementation of the EITI'"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Tampa"
+      ],
+      "roles": [
+        "Honorary Doctor of Humane Letters recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009 Awarded Honorary Doctor of Humane Letters degree from the University of Tampa"
+      ]
+    },
+    {
+      "organizations": [
+        "Yale University",
+        "Rutgers University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2010 Awarded Honorary Doctor of Laws degree from Yale University and Rutgers, The State University of New Jersey"
+      ]
+    },
+    {
+      "organizations": [
+        "The African Editor's Union"
+      ],
+      "roles": [
+        "Friend of the Media in Africa Award recipient"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2010 Friend of the Media in Africa Award from The African Editor's Union"
+      ]
+    },
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Awarded Honorary Doctor of Laws degree from Harvard University"
+      ]
+    },
+    {
+      "organizations": [
+        "Nobel Foundation"
+      ],
+      "roles": [
+        "Nobel Peace Prize laureate"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Nobel Peace Prize",
+        "In 2011, Sirleaf was jointly awarded the Nobel Peace Prize with Leymah Gbowee of Liberia and Tawakkol Karman of Yemen. The three women were recognized 'for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work.'"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of India"
+      ],
+      "roles": [
+        "Indira Gandhi Prize for Peace, Disarmament and Development recipient"
+      ],
+      "time_markers": [
+        "2012",
+        "conferred 12 September 2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2012 Indira Gandhi Prize for Peace, Disarmament and Development",
+        "Sirleaf was conferred the Indira Gandhi Prize by Indian President Pranab Mukherjee on 12 September 2013."
+      ]
+    },
+    {
+      "organizations": [
+        "Mo Ibrahim Foundation"
+      ],
+      "roles": [
+        "Ibrahim Prize for Achievement in African Leadership recipient"
+      ],
+      "time_markers": [
+        "2018 (for 2017)"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2018 Won the 2017 version of the Ibrahim Prize for Achievement in African Leadership"
+      ]
+    }
+  ]
+}

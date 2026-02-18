@@ -1,0 +1,673 @@
+{
+  "person_name": "Brent Scowcroft",
+  "career_events": [
+    {
+      "organizations": [
+        "United States Military Academy"
+      ],
+      "roles": [
+        "cadet",
+        "BS graduate"
+      ],
+      "time_markers": [
+        "June 1947"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft received his undergraduate degree and commission in the United States Army Air Forces from the United States Military Academy at West Point, New York, in June 1947."
+      ]
+    },
+    {
+      "organizations": [
+        "Columbia University"
+      ],
+      "roles": [
+        "MA graduate in international relations",
+        "PhD graduate in international relations"
+      ],
+      "time_markers": [
+        "MA 1953",
+        "PhD 1967"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft subsequently earned an MA (1953) and PhD (1967) in international relations from Columbia University."
+      ]
+    },
+    {
+      "organizations": [
+        "United States Air Force"
+      ],
+      "roles": [
+        "Second Lieutenant",
+        "commissioned officer"
+      ],
+      "time_markers": [
+        "commissioned 1947",
+        "pilot training completed October 1948"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft completed his pilot training in October 1948 following his commissioning as an Air Force Second Lieutenant in 1947 and received his Air Force Command Pilot Wings."
+      ]
+    },
+    {
+      "organizations": [
+        "United States Air Force Academy",
+        "United States Military Academy"
+      ],
+      "roles": [
+        "faculty member"
+      ],
+      "time_markers": [
+        "1948-1953 and later periods"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His other assignments included: faculty positions at the United States Air Force Academy and the United States Military Academy"
+      ]
+    },
+    {
+      "organizations": [
+        "American Embassy Belgrade, Yugoslavia"
+      ],
+      "roles": [
+        "Assistant Air Attaché"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His other assignments included: faculty positions at the United States Air Force Academy and the United States Military Academy, and Assistant Air Attaché in the American Embassy in Belgrade, Yugoslavia."
+      ]
+    },
+    {
+      "organizations": [
+        "United States Air Force Headquarters"
+      ],
+      "roles": [
+        "officer in Long Range Planning Division, Directorate of Doctrine, Concepts and Objectives"
+      ],
+      "time_markers": [
+        "1964-1966"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "General Scowcroft was assigned to Headquarters U.S. Air Force in the office of the Deputy Chief of Staff, Plans and Operations, and served in the Long Range Planning Division, Directorate of Doctrine, Concepts and Objectives from 1964 to 1966."
+      ]
+    },
+    {
+      "organizations": [
+        "National War College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "attended after 1966"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He next attended the National War College at Fort McNair"
+      ]
+    },
+    {
+      "organizations": [
+        "Office of the Assistant Secretary of Defense for International Security Affairs"
+      ],
+      "roles": [
+        "officer"
+      ],
+      "time_markers": [
+        "July 1968"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "followed by assignment in July 1968 to the Office of the Assistant Secretary of Defense for International Security Affairs"
+      ]
+    },
+    {
+      "organizations": [
+        "United States Air Force Headquarters"
+      ],
+      "roles": [
+        "Deputy Assistant for National Security Council Matters"
+      ],
+      "time_markers": [
+        "September 1969"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 1969, he was reassigned to Headquarters U.S. Air Force in the Directorate of Plans as Deputy Assistant for National Security Council Matters."
+      ]
+    },
+    {
+      "organizations": [
+        "Joint Chiefs of Staff"
+      ],
+      "roles": [
+        "Special Assistant to the Director of the Joint Staff"
+      ],
+      "time_markers": [
+        "March 1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 1970 he joined the Joint Chiefs of Staff organization and became the Special Assistant to the Director of the Joint Staff."
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Nixon Administration"
+      ],
+      "roles": [
+        "Military Assistant to the President"
+      ],
+      "time_markers": [
+        "February 1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft was appointed Military Assistant to the President in February 1972"
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Nixon Administration",
+        "Ford Administration"
+      ],
+      "roles": [
+        "Deputy Assistant to the President for National Security Affairs",
+        "Deputy National Security Advisor"
+      ],
+      "time_markers": [
+        "January 4, 1973 - November 3, 1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was reassigned as Deputy Assistant to the President for National Security Affairs in January 1973."
+      ]
+    },
+    {
+      "organizations": [
+        "United States Air Force"
+      ],
+      "roles": [
+        "Lieutenant General"
+      ],
+      "time_markers": [
+        "promoted August 16, 1974",
+        "retired December 1, 1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was promoted to lieutenant general on August 16, 1974, and retired from active duty at that rank on December 1, 1975."
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Ford Administration"
+      ],
+      "roles": [
+        "United States National Security Advisor"
+      ],
+      "time_markers": [
+        "November 3, 1975 - January 20, 1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He had, just a month earlier, during the Halloween Massacre, become the United States National Security Advisor (for him, the first time), replacing Henry Kissinger."
+      ]
+    },
+    {
+      "organizations": [
+        "Kissinger Associates"
+      ],
+      "roles": [
+        "vice chairman"
+      ],
+      "time_markers": [
+        "before joining Bush administration in 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before joining the Bush administration, Scowcroft was vice chairman of Kissinger Associates."
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "George H.W. Bush Administration"
+      ],
+      "roles": [
+        "United States National Security Advisor"
+      ],
+      "time_markers": [
+        "January 20, 1989 - January 20, 1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brent Scowcroft was a United States Air Force officer, and a two-time United States National Security Advisor, first under U.S. President Gerald Ford and then under George H. W. Bush."
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "Chair of the Intelligence Oversight Board"
+      ],
+      "time_markers": [
+        "January 20, 1993 - May 26, 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chair of the Intelligence Oversight Board: In office January 20, 1993 – May 26, 1994, President Bill Clinton"
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "George W. Bush Administration"
+      ],
+      "roles": [
+        "Chair of the President's Intelligence Advisory Board"
+      ],
+      "time_markers": [
+        "October 5, 2001 - February 25, 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served as Chairman of the President's Foreign Intelligence Advisory Board under President George W. Bush from 2001 to 2005"
+      ]
+    },
+    {
+      "organizations": [
+        "Blue Ribbon Commission on America's Nuclear Future"
+      ],
+      "roles": [
+        "Co-Chair"
+      ],
+      "time_markers": [
+        "2010-2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was appointed Co-Chair of the Blue Ribbon Commission on America's Nuclear Future from 2010 to 2012 alongside Lee Hamilton."
+      ]
+    },
+    {
+      "organizations": [
+        "The Forum for International Policy"
+      ],
+      "roles": [
+        "founder",
+        "president"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft was the founder and president of The Forum for International Policy, a think tank."
+      ]
+    },
+    {
+      "organizations": [
+        "The Scowcroft Group"
+      ],
+      "roles": [
+        "president"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also president of The Scowcroft Group, an international business consulting firm."
+      ]
+    },
+    {
+      "organizations": [
+        "Aspen Strategy Group"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was co-chair, along with Joseph Nye, of the Aspen Strategy Group."
+      ]
+    },
+    {
+      "organizations": [
+        "Inter-American Dialogue"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Inter-American Dialogue, Trilateral Commission, and the Council on Foreign Relations"
+      ]
+    },
+    {
+      "organizations": [
+        "Trilateral Commission"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Inter-American Dialogue, Trilateral Commission, and the Council on Foreign Relations"
+      ]
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Inter-American Dialogue, Trilateral Commission, and the Council on Foreign Relations"
+      ]
+    },
+    {
+      "organizations": [
+        "Center for Strategic and International Studies"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member of the Center for Strategic and International Studies and the Atlantic Council."
+      ]
+    },
+    {
+      "organizations": [
+        "Atlantic Council"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member of the Center for Strategic and International Studies and the Atlantic Council."
+      ]
+    },
+    {
+      "organizations": [
+        "International Republican Institute"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also a member of the board of directors of the International Republican Institute"
+      ]
+    },
+    {
+      "organizations": [
+        "Columbia University School of International and Public Affairs"
+      ],
+      "roles": [
+        "Advisory Board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and served on the Advisory Board for Columbia University's School of International and Public Affairs"
+      ]
+    },
+    {
+      "organizations": [
+        "U.S.-Azerbaijan Chamber of Commerce"
+      ],
+      "roles": [
+        "Honorary Council of Advisors member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scowcroft was a member of the Honorary Council of Advisors for U.S.-Azerbaijan Chamber of Commerce (USACC)."
+      ]
+    },
+    {
+      "organizations": [
+        "George H.W. Bush Administration"
+      ],
+      "roles": [
+        "Presidential Medal of Freedom recipient"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President George H. W. Bush presented him with the Presidential Medal of Freedom in 1991."
+      ]
+    },
+    {
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1988, he received the Golden Plate Award of the American Academy of Achievement."
+      ]
+    },
+    {
+      "organizations": [
+        "British Crown"
+      ],
+      "roles": [
+        "Honorary Knight Commander of the Order of the British Empire (KBE)"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1993, he was created an Honorary Knight Commander of the Order of the British Empire by Queen Elizabeth II at Buckingham Palace."
+      ]
+    },
+    {
+      "organizations": [
+        "Intelligence and National Security Alliance"
+      ],
+      "roles": [
+        "William Oliver Baker Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Scowcroft was awarded the William Oliver Baker Award by the Intelligence and National Security Alliance."
+      ]
+    },
+    {
+      "organizations": [
+        "Estonia"
+      ],
+      "roles": [
+        "Order of the Cross of Terra Mariana, 3rd Class recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the Cross of Terra Mariana, 3rd Class (2006)"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Merit recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of Merit of the Federal Republic of Germany (2009)"
+      ]
+    },
+    {
+      "organizations": [
+        "Japan"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Rising Sun recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Rising Sun (2016)"
+      ]
+    },
+    {
+      "organizations": [
+        "United States Department of Defense"
+      ],
+      "roles": [
+        "Department of Defense Medal for Distinguished Public Service recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Department of Defense Medal for Distinguished Public Service (2016)"
+      ]
+    },
+    {
+      "organizations": [
+        "George Washington University"
+      ],
+      "roles": [
+        "Doctor of Laws (LL.D) honorary degree recipient"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "District of Columbia, 1989, George Washington University, Doctor of Laws (LL.D)"
+      ]
+    },
+    {
+      "organizations": [
+        "Brigham Young University"
+      ],
+      "roles": [
+        "Doctor of Public Service (DPS) honorary degree recipient"
+      ],
+      "time_markers": [
+        "April 24, 1992"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Utah, April 24, 1992, Brigham Young University, Doctor of Public Service (DPS)"
+      ]
+    },
+    {
+      "organizations": [
+        "College of William & Mary"
+      ],
+      "roles": [
+        "Doctor of Humane Letters (DHL) honorary degree recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Virginia, 2000, College of William & Mary, Doctor of Humane Letters (DHL)"
+      ]
+    },
+    {
+      "organizations": [
+        "Columbia University"
+      ],
+      "roles": [
+        "Doctor of Laws (LL.D) honorary degree recipient"
+      ],
+      "time_markers": [
+        "May 18, 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "New York, May 18, 2005, Columbia University, Doctor of Laws (LL.D)"
+      ]
+    },
+    {
+      "organizations": [
+        "Weber State University"
+      ],
+      "roles": [
+        "Doctor of Humane Letters (DHL) honorary degree recipient"
+      ],
+      "time_markers": [
+        "December 10, 2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Utah, December 10, 2010, Weber State University, Doctor of Humane Letters (DHL)"
+      ]
+    }
+  ]
+}

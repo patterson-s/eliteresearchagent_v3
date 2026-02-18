@@ -1,0 +1,481 @@
+{
+  "person_name": "Amr Moussa",
+  "career_events": [
+    {
+      "organizations": [
+        "Cairo University"
+      ],
+      "roles": [
+        "law student",
+        "law degree graduate"
+      ],
+      "time_markers": [
+        "1957"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Moussa finished his education after earning a degree in law from Cairo University in 1957."
+      ]
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs",
+        "Egypt's Embassy in Switzerland"
+      ],
+      "roles": [
+        "diplomatic missions officer"
+      ],
+      "time_markers": [
+        "1958-1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Moussa then began his diplomatic career between 1958 and 1972 he worked in several missions, including Egypt's Embassy in Switzerland and the Egyptian mission to the United Nations."
+      ]
+    },
+    {
+      "organizations": [
+        "Egyptian mission to the United Nations"
+      ],
+      "roles": [
+        "diplomatic missions officer"
+      ],
+      "time_markers": [
+        "1958-1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Moussa then began his diplomatic career between 1958 and 1972 he worked in several missions, including Egypt's Embassy in Switzerland and the Egyptian mission to the United Nations."
+      ]
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "advisor to the Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1974-1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1974 to 1977, he was an advisor to the Minister of Foreign Affairs."
+      ]
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of the Department of International Organizations"
+      ],
+      "time_markers": [
+        "1977-1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1977 to 1981 and again from 1983 to 1990, he was the Director of the Department of International Organizations at the Ministry of Foreign Affairs."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Deputy Permanent Representative of Egypt"
+      ],
+      "time_markers": [
+        "1981-1983"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1981 to 1983, Moussa was the Deputy Permanent Representative to the United Nations in New York"
+      ]
+    },
+    {
+      "organizations": [
+        "Egyptian Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of the Department of International Organizations"
+      ],
+      "time_markers": [
+        "1983-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1977 to 1981 and again from 1983 to 1990, he was the Director of the Department of International Organizations at the Ministry of Foreign Affairs."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Ambassador to India"
+      ],
+      "time_markers": [
+        "1983-1986"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "then from 1983 to 1986 Ambassador to India."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Permanent Representative of Egypt",
+        "Egyptian Ambassador to the United Nations"
+      ],
+      "time_markers": [
+        "1 January 1990 - 20 May 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1990, he was promoted Permanent Representative of Egypt to the United Nations.",
+        "Egyptian Ambassador to the United Nations: In office 1 January 1990 – 20 May 1991"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "20 May 1991 - 15 May 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was named Minister of Foreign Affairs by Prime Minister Atef Sedki on 20 May 1991. He was minister until 15 May 2001",
+        "Minister of Foreign Affairs: In office 20 May 1991 – 15 May 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "Arab League"
+      ],
+      "roles": [
+        "Secretary-General"
+      ],
+      "time_markers": [
+        "selected 15 May 2001",
+        "in office 1 June 2001 - 1 July 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 15 May 2001, Moussa was selected as Secretary-General of the League of Arab States and took office on 1 June 2001.",
+        "6th Secretary-General of the Arab League: In office 1 June 2001 – 1 July 2011"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of the High Level Panel on Threats, Challenges and Change for International Peace and Security"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "On 2003, he became a member of the United Nations High Level Panel on Threats, Challenges and Change for International Peace and Security."
+      ]
+    },
+    {
+      "organizations": [
+        "Egyptian Constituent Assembly"
+      ],
+      "roles": [
+        "president of the committee of 50 to amend the Egyptian constitution"
+      ],
+      "time_markers": [
+        "elected 8 September 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 8 September 2013, he was elected president of the committee of 50 that will amend the Egyptian constitution."
+      ]
+    },
+    {
+      "organizations": [
+        "Conference Party"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "after 2012 presidential election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the election, he formed the Conference Party with which a number of smaller opposition parties aligned."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "presidential candidate"
+      ],
+      "time_markers": [
+        "announced 1 March 2011",
+        "election 2012"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Amr Moussa announced that he would be running as a presidential candidate on 1 March 2011.",
+        "Moussa placed fifth in the election with 11.13% of the first round vote."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Nile recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Nile"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Egypt"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Arab Republic of Egypt recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Arab Republic of Egypt"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Argentina"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the Liberator General San Martín recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of the Liberator General San Martín"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Brazil"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the Southern Cross recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of the Southern Cross"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Ecuador"
+      ],
+      "roles": [
+        "Grand Cross of National Order of Merit recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of National Order of Merit"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of France"
+      ],
+      "roles": [
+        "Commander of the Legion of Honour"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commander of the Legion of Honour"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Germany"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of Merit of the Federal Republic of Germany"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Rising Sun recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Rising Sun"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Jordan"
+      ],
+      "roles": [
+        "Grand Cordon of the Supreme Order of the Renaissance recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Supreme Order of the Renaissance"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Palestine"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Star of Palestine recipient"
+      ],
+      "time_markers": [
+        "30 May 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cordon of the Order of the Star of Palestine",
+        "الرئيس عباس يقلد عمرو موسى وسام نجمة فلسطين. 30 May 2011."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "Medal of the Order of Friendship recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Medal of the Order of Friendship"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Sweden"
+      ],
+      "roles": [
+        "Commander 1st Class of the Order of the Polar Star"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commander 1st Class of the Order of the Polar Star"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Sudan"
+      ],
+      "roles": [
+        "First Class of the National Order of El-Nilein recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "First Class of the National Order of El-Nilein"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Tunisia"
+      ],
+      "roles": [
+        "Grand Officer of the Order of the Republic recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Officer of the Order of the Republic"
+      ]
+    },
+    {
+      "organizations": [
+        "ADA University"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "ADA University [honorary degree]"
+      ]
+    },
+    {
+      "organizations": [
+        "American University of Beirut"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "American University of Beirut [honorary degree]"
+      ]
+    }
+  ]
+}

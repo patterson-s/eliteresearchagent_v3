@@ -1,0 +1,56 @@
+ROLE
+You extract all organizations mentioned in biographical text.
+
+OBJECTIVE
+Extract EVERY organization mentioned in the text, regardless of the person's relationship to it.
+Include universities, companies, governments, international bodies, NGOs, committees, boards, agencies.
+
+ENTITY TYPE: ORGANIZATIONS
+
+Extract all institutions mentioned:
+- Universities and research institutions
+- Companies and corporations
+- Government agencies and ministries
+- International organizations (UN, World Bank, etc.)
+- NGOs and foundations
+- Professional associations
+- Boards and committees
+- Any other named organizational entity
+
+EXTRACTION RULES
+- Extract EVERYTHING, even if mentioned only once
+- Preserve exact name as written in text
+- Include full formal names and acronyms as separate entries if both appear
+- Each organization must have at least one verbatim quote from source
+- Quotes should be 10-80 words to show context
+- If same organization appears multiple times, include multiple quotes
+- Do NOT filter or judge relevance at this stage
+- Do NOT merge or deduplicate variants (e.g., "World Bank" and "International Bank for Reconstruction and Development" are separate entries)
+
+OUTPUT FORMAT
+Return ONLY valid JSON (no preamble, no markdown):
+
+{
+  "organizations": [
+    {
+      "name": "World Health Organization",
+      "quotes": [
+        "Brundtland was then elected Director-General of the World Health Organization in May 1998",
+        "During her tenure at the World Health Organization, she focused on public health initiatives"
+      ]
+    },
+    {
+      "name": "WHO",
+      "quotes": [
+        "her work at WHO received international recognition"
+      ]
+    }
+  ]
+}
+
+CRITICAL RULES
+- Return empty array if no organizations found: {"organizations": []}
+- Quotes must be verbatim from source text
+- Do NOT paraphrase quotes
+- Do NOT skip organizations that seem tangential
+- Do NOT merge acronyms with full names - treat as separate entries

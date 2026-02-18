@@ -1,0 +1,512 @@
+{
+  "person_name": "Jens Stoltenberg",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Oslo"
+      ],
+      "roles": [
+        "student",
+        "Cand.oecon. in economics graduate"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "graduating in 1987 with the cand.oecon. degree in economics"
+      ]
+    },
+    {
+      "organizations": [
+        "Arbeiderbladet"
+      ],
+      "roles": [
+        "journalist"
+      ],
+      "time_markers": [
+        "1979-1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1979 to 1981, Stoltenberg was a journalist for Arbeiderbladet"
+      ]
+    },
+    {
+      "organizations": [
+        "Workers' Youth League"
+      ],
+      "roles": [
+        "leader"
+      ],
+      "time_markers": [
+        "1985-1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1985 to 1989, he was the leader of the Workers' Youth League"
+      ]
+    },
+    {
+      "organizations": [
+        "Statistics Norway"
+      ],
+      "roles": [
+        "executive officer"
+      ],
+      "time_markers": [
+        "1989-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1989 to 1990, he worked as an executive officer for Statistics Norway"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Oslo"
+      ],
+      "roles": [
+        "hourly paid instructor"
+      ],
+      "time_markers": [
+        "1989-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also worked part-time as an hourly paid instructor at the University of Oslo during this period"
+      ]
+    },
+    {
+      "organizations": [
+        "Labour Party",
+        "Oslo chapter"
+      ],
+      "roles": [
+        "leader"
+      ],
+      "time_markers": [
+        "1990-1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 1990 and 1992, he was leader of the Oslo chapter of the Labour Party"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of the Environment"
+      ],
+      "roles": [
+        "State Secretary"
+      ],
+      "time_markers": [
+        "1990-1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg was State Secretary in the Ministry of the Environment from 1990 to 1991"
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament (Storting)"
+      ],
+      "roles": [
+        "Member of Parliament"
+      ],
+      "time_markers": [
+        "1993-2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was first elected to Parliament in 1993",
+        "In office 1 October 1993 – 30 September 2017"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of Industry and Energy"
+      ],
+      "time_markers": [
+        "1993-1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the Minister of Industry from 1993 to 1996",
+        "In office 7 October 1993 – 25 October 1996"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg became Minister of Finance",
+        "In office 25 October 1996 – 17 October 1997"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "17 March 2000 - 19 October 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg's first cabinet governed Norway from 17 March 2000 to 19 October 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "Labour Party"
+      ],
+      "roles": [
+        "Leader of the Labour Party"
+      ],
+      "time_markers": [
+        "10 November 2002 - 14 June 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2002, Stoltenberg was unanimously elected new leader at the party's congress",
+        "In office 10 November 2002 – 14 June 2014"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "17 October 2005 - 16 October 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg's second cabinet governed Norway from 17 October 2005 to 16 October 2013"
+      ]
+    },
+    {
+      "organizations": [
+        "Global Alliance for Vaccines and Immunization (GAVI)"
+      ],
+      "roles": [
+        "board director"
+      ],
+      "time_markers": [
+        "2002-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stoltenberg was a board director of the Global Alliance for Vaccines and Immunization (GAVI) from 2002 to 2005"
+      ]
+    },
+    {
+      "organizations": [
+        "GAVI"
+      ],
+      "roles": [
+        "Children's Health Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was awarded the Children's Health Award in 2005"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Foundation"
+      ],
+      "roles": [
+        "Champion of Global Change Award recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, Stoltenberg received the United Nations Foundation's Champion of Global Change Award"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Envoy on Climate Change"
+      ],
+      "time_markers": [
+        "December 2013",
+        "2013-2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2013, he was appointed by the United Nations as a Special Envoy on Climate Change",
+        "In 2013, Stoltenberg served as a UN special envoy on climate change"
+      ]
+    },
+    {
+      "organizations": [
+        "NATO"
+      ],
+      "roles": [
+        "Secretary General of NATO"
+      ],
+      "time_markers": [
+        "1 October 2014 - 1 October 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "appointed Stoltenberg as designated successor...as the 13th Secretary General of NATO...effective from 1 October 2014",
+        "In office 1 October 2014 – 1 October 2024"
+      ]
+    },
+    {
+      "organizations": [
+        "United States"
+      ],
+      "roles": [
+        "Presidential Medal of Freedom recipient"
+      ],
+      "time_markers": [
+        "9 July 2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 9 July 2024, Stoltenberg was awarded the Presidential Medal of Freedom"
+      ]
+    },
+    {
+      "organizations": [
+        "Spain"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of Isabella the Catholic"
+      ],
+      "time_markers": [
+        "30 July 2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 30 July 2024, King Felipe VI of Spain appointed Stoltenberg Knight Grand Cross of the Order of Civil Merit"
+      ]
+    },
+    {
+      "organizations": [
+        "Munich Security Conference"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "announced 8 October 2024",
+        "assuming role February 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 8 October 2024, it was announced that Stoltenberg would be the next Chairman of the Munich Security Conference (MSC) and would assume his role in February 2025"
+      ]
+    },
+    {
+      "organizations": [
+        "Bilderberg Group"
+      ],
+      "roles": [
+        "Chairman of the Steering Committee"
+      ],
+      "time_markers": [
+        "8 November 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 8 November 2024 Stoltenberg was appointed Chairman of the Steering Committee of the Bilderberg Group"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "4 February 2025 - present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 4 February 2025...Stoltenberg succeeded Trygve Slagsvold Vedum...as Norway's Minister of Finance",
+        "Assumed office 4 February 2025"
+      ]
+    },
+    {
+      "organizations": [
+        "Norway"
+      ],
+      "roles": [
+        "King Harald V's Jubilee Medal 1991–2016 recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Norway: King Harald V's Jubilee Medal 1991–2016 (2016)"
+      ]
+    },
+    {
+      "organizations": [
+        "Belgium"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of Leopold recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Belgium: Grand Cordon of the Order of Leopold (2024)"
+      ]
+    },
+    {
+      "organizations": [
+        "Estonia"
+      ],
+      "roles": [
+        "Member 1st Class of the Order of the Cross of Terra Mariana"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Estonia: Member 1st Class of the Order of the Cross of Terra Mariana (2019)"
+      ]
+    },
+    {
+      "organizations": [
+        "Finland"
+      ],
+      "roles": [
+        "Grand Cross of the Order of the Lion of Finland recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Finland: Grand Cross of the Order of the Lion of Finland (2024)"
+      ]
+    },
+    {
+      "organizations": [
+        "Germany"
+      ],
+      "roles": [
+        "Grand Cross 1st Class of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: Grand Cross 1st Class of the Order of Merit of the Federal Republic of Germany (2024)"
+      ]
+    },
+    {
+      "organizations": [
+        "Lithuania"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Vytautas the Great recipient"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lithuania: Grand Cross of the Order of Vytautas the Great (2019)"
+      ]
+    },
+    {
+      "organizations": [
+        "Netherlands"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of Orange-Nassau"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Netherlands: Knight Grand Cross of the Order of Orange-Nassau (2024)"
+      ]
+    },
+    {
+      "organizations": [
+        "US Department of Defense"
+      ],
+      "roles": [
+        "Medal for Distinguished Public Service recipient"
+      ],
+      "time_markers": [
+        "2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Department of Defense Medal for Distinguished Public Service (2024)"
+      ]
+    }
+  ]
+}

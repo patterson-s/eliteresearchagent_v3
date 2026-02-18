@@ -1,0 +1,190 @@
+{
+  "person_name": "María Ángela Holguín Cuéllar",
+  "career_events": [
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Personal Envoy on Cyprus to UN Secretary-General António Guterres"
+      ],
+      "time_markers": [
+        "since 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "María Ángela Holguín Cuéllar (born 13 November 1963) is a Colombian politician and diplomat who has been serving as United Nations Secretary-General António Guterres' Personal Envoy on Cyprus since 2024."
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs of Colombia",
+        "Government of Colombia"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs of Colombia"
+      ],
+      "time_markers": [
+        "7 August 2010 – 7 August 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of Foreign Affairs In office 7 August 2010 – 7 August 2018",
+        "Holguín served as the Minister of Foreign Affairs of Colombia from 2010 to 2018."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "Permanent Mission of Colombia to the United Nations"
+      ],
+      "roles": [
+        "Permanent Representative of Colombia to the United Nations"
+      ],
+      "time_markers": [
+        "16 September 2004 – 11 September 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Permanent Representative of Colombia to the United Nations In office 16 September 2004 – 11 September 2006",
+        "She has also served as the 25th Permanent Representative of Colombia to the United Nations"
+      ]
+    },
+    {
+      "organizations": [
+        "Embassy of Colombia in Venezuela",
+        "Government of Colombia"
+      ],
+      "roles": [
+        "Colombian Ambassador to Venezuela"
+      ],
+      "time_markers": [
+        "16 September 2002 – 20 August 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Colombian Ambassador to Venezuela In office 16 September 2002 – 20 August 2004",
+        "and as Ambassador of Colombia to Venezuela."
+      ]
+    },
+    {
+      "organizations": [
+        "CAF – Development Bank of Latin America and the Caribbean"
+      ],
+      "roles": [
+        "Colombia's Representative to CAF"
+      ],
+      "time_markers": [
+        "prior to 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, while Holguín was serving as Colombia's Representative to CAF – Development Bank of Latin America and the Caribbean in Buenos Aires"
+      ]
+    },
+    {
+      "organizations": [
+        "Global Partnership for Sustainable Development Data"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Global Partnership for Sustainable Development Data, Member of the Board of Directors (since 2017)"
+      ]
+    },
+    {
+      "organizations": [
+        "Inter-American Dialogue"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [
+        "since 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member, Inter-American Dialogue (since 2018)"
+      ]
+    },
+    {
+      "organizations": [
+        "University of the Andes"
+      ],
+      "roles": [
+        "student",
+        "Bachelor's degree in Political Science graduate"
+      ],
+      "time_markers": [
+        "graduated 1988"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She graduated from the University of the Andes in 1988 with a bachelor's degree in political science"
+      ]
+    },
+    {
+      "organizations": [
+        "University of the Andes"
+      ],
+      "roles": [
+        "student",
+        "Specialization in public management and administrative institutions graduate"
+      ],
+      "time_markers": [
+        "completed 1992"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and she also completed a specialization there in public management and administrative institutions in 1992."
+      ]
+    },
+    {
+      "organizations": [
+        "Université Paris X"
+      ],
+      "roles": [
+        "student",
+        "French language studies"
+      ],
+      "time_markers": [
+        "prior to 1988"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and then studied French at the Université Paris X"
+      ]
+    },
+    {
+      "organizations": [
+        "Gimnasio Femenino"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "secondary education"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Holguín studied at the Gimnasio Femenino school in Bogota"
+      ]
+    }
+  ]
+}

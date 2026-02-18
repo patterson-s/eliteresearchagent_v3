@@ -1,0 +1,488 @@
+{
+  "person_name": "David Cameron",
+  "career_events": [
+    {
+      "organizations": [
+        "Conservative Research Department"
+      ],
+      "roles": [
+        "researcher",
+        "head of political section"
+      ],
+      "time_markers": [
+        "September 1988",
+        "1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduation, Cameron worked for the Conservative Research Department between September 1988 and 1993.",
+        "He became head of the political section of the Conservative Research Department"
+      ]
+    },
+    {
+      "organizations": [
+        "10 Downing Street"
+      ],
+      "roles": [
+        "briefing assistant to Prime Minister John Major"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1991 Cameron was seconded to Downing Street to work on briefing John Major for the then twice-weekly sessions of Prime Minister's Questions."
+      ]
+    },
+    {
+      "organizations": [
+        "HM Treasury"
+      ],
+      "roles": [
+        "Special Adviser to Chancellor of the Exchequer Norman Lamont"
+      ],
+      "time_markers": [
+        "1992",
+        "May 1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Cameron was rewarded with a promotion to special adviser to the chancellor of the exchequer, Norman Lamont.",
+        "Cameron was working for Lamont at the time of Black Wednesday"
+      ]
+    },
+    {
+      "organizations": [
+        "Home Office"
+      ],
+      "roles": [
+        "Special Adviser to Home Secretary Michael Howard"
+      ],
+      "time_markers": [
+        "September 1993",
+        "July 1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After Lamont was sacked, Cameron remained at the Treasury for less than a month before being specifically recruited by Home Secretary Michael Howard.",
+        "At the beginning of September 1993, he applied to go on Conservative Central Office's list of prospective parliamentary candidates"
+      ]
+    },
+    {
+      "organizations": [
+        "Carlton Communications"
+      ],
+      "roles": [
+        "Director of Corporate Affairs"
+      ],
+      "time_markers": [
+        "July 1994",
+        "1997",
+        "February 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 1994 Cameron left his role as Special Adviser to work as the Director of Corporate Affairs at Carlton Communications.",
+        "He left Carlton in 1997 to run for Parliament, returning to his job after his defeat.",
+        "Cameron resigned as Director of Corporate Affairs in February 2001 to run for Parliament for a second time"
+      ]
+    },
+    {
+      "organizations": [
+        "Urbium PLC"
+      ],
+      "roles": [
+        "non-executive director"
+      ],
+      "time_markers": [
+        "February 2002",
+        "August 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From February 2002 to August 2005, he was a non-executive director of Urbium PLC, operator of the Tiger Tiger bar chain."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Member of Parliament for Witney"
+      ],
+      "time_markers": [
+        "7 June 2001",
+        "12 September 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was Member of Parliament (MP) for Witney from 2001 to 2016",
+        "He won the seat with a 1.9% swing to the Conservatives, taking 22,153 votes (45%) to Labour candidate Michael Bartlet's 14,180 (28.8%)"
+      ]
+    },
+    {
+      "organizations": [
+        "House of Commons",
+        "Home Affairs Select Committee"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Upon his election to Parliament, Cameron served as a member of the Commons Home Affairs Select Committee, a prominent appointment for a newly elected MP."
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party",
+        "Shadow Cabinet"
+      ],
+      "roles": [
+        "shadow minister in the Privy Council Office",
+        "vice-chairman of the Conservative Party",
+        "Opposition frontbench local government spokesman",
+        "head of policy co-ordination",
+        "Shadow Education Secretary"
+      ],
+      "time_markers": [
+        "June 2003",
+        "November 2003",
+        "2004",
+        "June 2004",
+        "post-election reshuffle"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2003 Cameron was appointed a shadow minister in the Privy Council Office as a deputy to Eric Forth",
+        "He also became a vice-chairman of the Conservative Party when Michael Howard took over the leadership in November of that year.",
+        "He was appointed Opposition frontbench local government spokesman in 2004, before being promoted to the Shadow Cabinet that June as head of policy co-ordination.",
+        "Later, he became Shadow Education Secretary in the post-election reshuffle."
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "Leader of the Conservative Party"
+      ],
+      "time_markers": [
+        "6 December 2005",
+        "11 July 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Cameron was Leader of the Conservative Party from 2005 to 2016",
+        "Cameron's election as the leader of the Conservative Party and leader of the opposition was announced on 6 December 2005."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Leader of the Opposition"
+      ],
+      "time_markers": [
+        "6 December 2005",
+        "11 May 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served as Leader of the Opposition from 2005 to 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Privy Council"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "formally approved 14 December 2005",
+        "sworn in 8 March 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "upon election Cameron became a member of the Privy Council, being formally approved to join on 14 December 2005, and sworn of the council on 8 March 2006."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Government"
+      ],
+      "roles": [
+        "Prime Minister of the United Kingdom",
+        "First Lord of the Treasury",
+        "Minister for the Civil Service"
+      ],
+      "time_markers": [
+        "11 May 2010",
+        "13 July 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "is a British politician who served as Prime Minister of the United Kingdom from 2010 to 2016.",
+        "At age 43, Cameron became the youngest prime minister since Lord Liverpool in 1812"
+      ]
+    },
+    {
+      "organizations": [
+        "National Citizen Service"
+      ],
+      "roles": [
+        "chairman of the National Citizen Service Patrons"
+      ],
+      "time_markers": [
+        "October 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2016 Cameron became chairman of the National Citizen Service Patrons."
+      ]
+    },
+    {
+      "organizations": [
+        "Alzheimer's Research UK"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "January 2017",
+        "left November 2023",
+        "returned March 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2017, he was appointed president of Alzheimer's Research UK",
+        "He left the position upon his appointment as foreign secretary in November 2023, before returning to the charity as president in March 2025."
+      ]
+    },
+    {
+      "organizations": [
+        "Illumina Inc."
+      ],
+      "roles": [
+        "Consultant and Chair of International Advisory Board"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "All appointments post-premiership have to be approved by the UK government's Advisory Committee on Business Appointments. In addition to the two posts above, they have also approved the following positions: Consultant and Chair of International Advisory Board, Illumina Inc."
+      ]
+    },
+    {
+      "organizations": [
+        "UK-China Fund"
+      ],
+      "roles": [
+        "Vice-chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Vice-chair, UK-China Fund"
+      ]
+    },
+    {
+      "organizations": [
+        "ONE"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Board of Directors, ONE"
+      ]
+    },
+    {
+      "organizations": [
+        "First Data Corporation"
+      ],
+      "roles": [
+        "Consultant and Brand Ambassador"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Consultant and Brand Ambassador, First Data Corporation"
+      ]
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations"
+      ],
+      "roles": [
+        "Member, Global Board of Advisers"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member, Global Board of Advisers, Council on Foreign Relations"
+      ]
+    },
+    {
+      "organizations": [
+        "LSE-Oxford Commission on Growth in Fragile States"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman, LSE-Oxford Commission on Growth in Fragile States"
+      ]
+    },
+    {
+      "organizations": [
+        "Washington Speakers Bureau"
+      ],
+      "roles": [
+        "Public speaker"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Public speaker, Washington Speakers Bureau"
+      ]
+    },
+    {
+      "organizations": [
+        "Greensill Capital"
+      ],
+      "roles": [
+        "advisor"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2018 he became an advisor to Greensill Capital and held share options in the company"
+      ]
+    },
+    {
+      "organizations": [
+        "New York University Abu Dhabi"
+      ],
+      "roles": [
+        "politics lecturer"
+      ],
+      "time_markers": [
+        "January 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2023, Cameron was assigned to teach politics in a three-week course at New York University Abu Dhabi."
+      ]
+    },
+    {
+      "organizations": [
+        "House of Lords"
+      ],
+      "roles": [
+        "member",
+        "Baron Cameron of Chipping Norton"
+      ],
+      "time_markers": [
+        "17 November 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "has been a member of the House of Lords since November 2023",
+        "He was created Baron Cameron of Chipping Norton, of Chipping Norton in the County of Oxfordshire on 17 November 2023."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Government",
+        "Foreign, Commonwealth and Development Office"
+      ],
+      "roles": [
+        "Foreign Secretary"
+      ],
+      "time_markers": [
+        "13 November 2023",
+        "5 July 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he served as Foreign Secretary in the government of prime minister Rishi Sunak from 2023 to 2024",
+        "In Rishi Sunak's cabinet reshuffle on 13 November 2023, Cameron was appointed Foreign Secretary"
+      ]
+    },
+    {
+      "organizations": [
+        "Eton College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "age 13",
+        "1984"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the age of 13, he went on to Eton College in Berkshire",
+        "After leaving Eton in 1984"
+      ]
+    },
+    {
+      "organizations": [
+        "Brasenose College, Oxford",
+        "University of Oxford"
+      ],
+      "roles": [
+        "student",
+        "BA degree in Philosophy, Politics and Economics"
+      ],
+      "time_markers": [
+        "October 1985",
+        "graduated 1988"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 1985 Cameron began his Bachelor of Arts course in Philosophy, Politics and Economics (PPE) at Brasenose College, Oxford.",
+        "Cameron graduated in 1988 with a first-class BA degree (later promoted to an MA by seniority)."
+      ]
+    }
+  ]
+}

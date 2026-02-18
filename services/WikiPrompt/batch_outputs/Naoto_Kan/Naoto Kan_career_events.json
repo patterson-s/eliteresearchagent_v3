@@ -1,0 +1,441 @@
+{
+  "person_name": "Naoto Kan",
+  "career_events": [
+    {
+      "organizations": [
+        "Tokyo Institute of Technology"
+      ],
+      "roles": [
+        "student",
+        "graduate"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He graduated in 1970 from the Tokyo Institute of Technology"
+      ]
+    },
+    {
+      "organizations": [
+        "Japan Patent Office"
+      ],
+      "roles": [
+        "licensed benrishi (patent agent/attorney)"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "professional_certification",
+      "confidence": "high",
+      "supporting_quotes": [
+        "became a licensed benrishi (patent agent/attorney) in 1971"
+      ]
+    },
+    {
+      "organizations": [
+        "patent office"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "after graduating from college",
+        "for four years"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduating from college, Kan worked at a patent office for four years."
+      ]
+    },
+    {
+      "organizations": [
+        "Fusae Ichikawa campaign"
+      ],
+      "roles": [
+        "election campaign staff member"
+      ],
+      "time_markers": [
+        "before 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "also served on election campaign staff for Fusae Ichikawa, a women's rights activist"
+      ]
+    },
+    {
+      "organizations": [
+        "House of Representatives",
+        "Socialist Democratic Federation"
+      ],
+      "roles": [
+        "Member of the House of Representatives"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "political_election",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan achieved a seat in the lower house in 1980 as a member of the Socialist Democratic Federation"
+      ]
+    },
+    {
+      "organizations": [
+        "New Party Sakigake"
+      ],
+      "roles": [
+        "party member"
+      ],
+      "time_markers": [
+        "after Socialist Democratic Federation",
+        "before 1996"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He Later joined the New Party Sakigake."
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Health and Welfare",
+        "First Hashimoto Cabinet"
+      ],
+      "roles": [
+        "Minister of Health and Welfare"
+      ],
+      "time_markers": [
+        "11 January 1996",
+        "7 November 1996"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan was appointed Minister of Health and Welfare in the cabinet of Prime Minister Ryutaro Hashimoto in 1996",
+        "In office 11 January 1996 – 7 November 1996"
+      ]
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "September 1996"
+      ],
+      "event_type": "organization_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September of the same year, after having left cabinet, Kan founded the Democratic Party of Japan along with Yukio Hatoyama."
+      ]
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "Leader of the Democratic Party"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Leader of the Democratic Party 1996–1997"
+      ]
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "Leader of the Democratic Party"
+      ],
+      "time_markers": [
+        "1997-1998"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Leader of the Democratic Party 1997–1998"
+      ]
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "President of the Democratic Party"
+      ],
+      "time_markers": [
+        "1998-1999"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the Democratic Party 1998–1999"
+      ]
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "Secretary General of the Democratic Party"
+      ],
+      "time_markers": [
+        "2000-2002"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Secretary General of the Democratic Party 2000–2002"
+      ]
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "President of the Democratic Party"
+      ],
+      "time_markers": [
+        "2002-2004"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the Democratic Party 2002–2004"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Deputy Prime Minister of Japan"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "8 June 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Deputy Prime Minister of Japan In office 16 September 2009 – 8 June 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Minister of State for Economic and Fiscal Policy"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "8 June 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of State for Economic and Fiscal Policy In office 16 September 2009 – 8 June 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Minister of State in charge of National Strategy"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "6 January 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of State in charge of National Strategy In office 16 September 2009 – 6 January 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Minister of State for Science and Technology Policy"
+      ],
+      "time_markers": [
+        "16 September 2009",
+        "6 January 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of State for Science and Technology Policy In office 16 September 2009 – 6 January 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Finance"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "6 January 2010",
+        "8 June 2010"
+      ],
+      "event_type": "ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of Finance In office 6 January 2010 – 8 June 2010",
+        "On 6 January 2010, he was picked by Yukio Hatoyama to be the new finance minister"
+      ]
+    },
+    {
+      "organizations": [
+        "Democratic Party of Japan"
+      ],
+      "roles": [
+        "President of the Democratic Party"
+      ],
+      "time_markers": [
+        "4 June 2010"
+      ],
+      "event_type": "party_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan, at the age of 63, won the leadership of the DPJ with 291 votes to 129",
+        "President of the Democratic Party 2010–2011"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Prime Minister of Japan"
+      ],
+      "time_markers": [
+        "8 June 2010",
+        "2 September 2011"
+      ],
+      "event_type": "prime_ministerial_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Prime Minister of Japan In office 8 June 2010 – 2 September 2011",
+        "On 8 June, Emperor Akihito formally appointed Kan as the 94th Prime Minister"
+      ]
+    },
+    {
+      "organizations": [
+        "APEC"
+      ],
+      "roles": [
+        "Chairperson of APEC"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairperson of APEC 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN high-level panel on post-2015 development agenda"
+      ],
+      "time_markers": [
+        "1 August 2012"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 1 August 2012, United Nations Secretary-General Ban Ki-moon announced Kan would be one of the members of the UN high-level panel on the post-2015 development agenda."
+      ]
+    },
+    {
+      "organizations": [
+        "Constitutional Democratic Party of Japan"
+      ],
+      "roles": [
+        "party member"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He joined the Constitutional Democratic Party of Japan along with the liberal-leaning members of the Democratic Party following the party split prior to the 2017 general election"
+      ]
+    },
+    {
+      "organizations": [
+        "House of Representatives"
+      ],
+      "roles": [
+        "Member of the House of Representatives"
+      ],
+      "time_markers": [
+        "22 October 2017",
+        "9 October 2024"
+      ],
+      "event_type": "political_election",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 22 October 2017 – 9 October 2024",
+        "In the election, he regained his district seat, defeating the LDP incumbent Masatada Tsuchiya with a margin of 1,046 votes"
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "retired politician"
+      ],
+      "time_markers": [
+        "November 2023 announcement",
+        "October 2024 term end"
+      ],
+      "event_type": "retirement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kan would announce his retirement from politics in November 2023",
+        "In 2023, Kan stated publicly he would not run for a seat in the House of Representatives again",
+        "His term ended when the House was dissolved in October 2024"
+      ]
+    },
+    {
+      "organizations": [
+        "Chikuma Shobō"
+      ],
+      "roles": [
+        "author"
+      ],
+      "time_markers": [
+        "26 February 2024"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In February 2024 he would publish a memoir reflecting on his time in politics titled 'Fifty Years of Citizen Politics'",
+        "On 26 February 2024 Kan published the memoir 'Fifty Years of Citizen Politics' through Chikuma Shobō detailing his life in politics"
+      ]
+    }
+  ]
+}

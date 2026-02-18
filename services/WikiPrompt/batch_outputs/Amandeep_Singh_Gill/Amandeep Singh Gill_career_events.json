@@ -1,0 +1,195 @@
+{
+  "person_name": "Amandeep Singh Gill",
+  "career_events": [
+    {
+      "organizations": [
+        "Punjab Engineering College",
+        "Panjab University"
+      ],
+      "roles": [
+        "student",
+        "B.Tech in Electronics and Electrical Communications graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Gill holds a bachelor's degree in Electronics and Electrical Communications from Panjab University, Chandigarh, India."
+      ]
+    },
+    {
+      "organizations": [
+        "King's College London"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also holds a PhD from King's College, London.",
+        "His PhD thesis is on Nuclear Learning in Multilateral Forums."
+      ]
+    },
+    {
+      "organizations": [
+        "Stanford University",
+        "Center for International Security and Cooperation"
+      ],
+      "roles": [
+        "visiting fellow"
+      ],
+      "time_markers": [
+        "2008-2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a visiting fellow at Stanford University's Center for International Security and Cooperation (CISAC) during 2008–2009."
+      ]
+    },
+    {
+      "organizations": [
+        "Indian Foreign Service"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "time_markers": [
+        "began 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Gill began his diplomatic career in 1992"
+      ]
+    },
+    {
+      "organizations": [
+        "Indian Embassy, Tehran, Iran"
+      ],
+      "roles": [
+        "diplomat serving in various capacities"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Gill began his diplomatic career in 1992 and served in various capacities in the Indian Embassy in Tehran, Iran"
+      ]
+    },
+    {
+      "organizations": [
+        "High Commission of India, Colombo, Sri Lanka"
+      ],
+      "roles": [
+        "diplomat serving in various capacities"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served in various capacities in the Indian Embassy in Tehran, Iran, and the High Commission of India in Colombo, Sri Lanka."
+      ]
+    },
+    {
+      "organizations": [
+        "Indian Mission to the Conference on Disarmament, Geneva, Switzerland"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also served at the Indian Mission to the Conference on Disarmament in Geneva, Switzerland"
+      ]
+    },
+    {
+      "organizations": [
+        "Indian Mission to the UN, Geneva"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Indian Mission to the UN in Geneva."
+      ]
+    },
+    {
+      "organizations": [
+        "Disarmament and International Security Affairs (DISA) Division, New Delhi"
+      ],
+      "roles": [
+        "positions in DISA Division"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His roles in New Delhi, India included positions in the Disarmament and International Security Affairs (DISA) Division"
+      ]
+    },
+    {
+      "organizations": [
+        "UN Division, New Delhi"
+      ],
+      "roles": [
+        "positions in UN Division"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His roles in New Delhi, India included positions in the Disarmament and International Security Affairs (DISA) Division and the UN Division."
+      ]
+    },
+    {
+      "organizations": [
+        "Disarmament and International Security Affairs (DISA) Division, New Delhi"
+      ],
+      "roles": [
+        "Head of DISA Division"
+      ],
+      "time_markers": [
+        "2013 to 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also headed the DISA Division from 2013 to 2016."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UN Secretary General's Envoy on Technology"
+      ],
+      "time_markers": [
+        "since June 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "who serves as the United Nations (UN) Secretary General (SG)'s Envoy on Technology since June 2022."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "UN Secretary General's Advisory Body on Artificial Intelligence"
+      ],
+      "roles": [
+        "member of UN SG's Advisory Body on Artificial Intelligence"
+      ],
+      "time_markers": [
+        "since October 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also a member of the UN SG's Advisory Body on Artificial Intelligence since October 2023."
+      ]
+    }
+  ]
+}

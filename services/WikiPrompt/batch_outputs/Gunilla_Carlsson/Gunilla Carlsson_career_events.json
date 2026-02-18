@@ -1,0 +1,485 @@
+{
+  "person_name": "Gunilla Carlsson",
+  "career_events": [
+    {
+      "organizations": [
+        "Moderate Youth League"
+      ],
+      "roles": [
+        "chairperson of district in Skåne county"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was at one time chairperson of the Moderate Youth League district in that county."
+      ]
+    },
+    {
+      "organizations": [
+        "Moderate Youth League"
+      ],
+      "roles": [
+        "vice chairman"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the Battle of Lycksele, when current party leader Fredrik Reinfeldt was elected chairman of the Youth League, Carlsson was elected vice chairman."
+      ]
+    },
+    {
+      "organizations": [
+        "Moderate Party"
+      ],
+      "roles": [
+        "party office staff"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After working as an auditor, Carlsson joined the Moderate Party office in 1994."
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "Member of the European Parliament"
+      ],
+      "time_markers": [
+        "1995-2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1995, she was elected to the European Parliament and served until 2002."
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "Committee on Economic and Monetary Affairs and Industrial Policy"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "1995-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In parliament, she served on the Committee on Economic and Monetary Affairs and Industrial Policy (1995-1999)"
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "1999-2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "on the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy (1999-2002)"
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament",
+        "European Economic Area Joint Parliamentary Committee"
+      ],
+      "roles": [
+        "vice-chair of delegation"
+      ],
+      "time_markers": [
+        "1995-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she was vice-chair of the parliament's delegation to the European Economic Area Joint Parliamentary Committee (EEA) from 1995 until 1997."
+      ]
+    },
+    {
+      "organizations": [
+        "Moderate Party"
+      ],
+      "roles": [
+        "Second Deputy Chairperson"
+      ],
+      "time_markers": [
+        "1999-2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1999, she was elected vice chairman of the Moderate Party.",
+        "Second Deputy Chairperson of the Moderate Party 1999–2003"
+      ]
+    },
+    {
+      "organizations": [
+        "Swedish Riksdag"
+      ],
+      "roles": [
+        "Member of the Riksdag"
+      ],
+      "time_markers": [
+        "30 September 2002 - 5 October 2006",
+        "continued until 17 September 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the 2002 national elections, Carlsson was elected to the Riksdag for Stockholm.",
+        "Member of the Riksdag In office 30 September 2002 – 5 October 2006",
+        "member of the Swedish Riksdag from 2002 to 2013"
+      ]
+    },
+    {
+      "organizations": [
+        "Moderate Party"
+      ],
+      "roles": [
+        "First Deputy Chairperson"
+      ],
+      "time_markers": [
+        "2003-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "deputy chairman of her party from 2003 to 2015",
+        "First Deputy Chairperson of the Moderate Party 2003–2015"
+      ]
+    },
+    {
+      "organizations": [
+        "Swedish Government"
+      ],
+      "roles": [
+        "Minister for International Development Cooperation"
+      ],
+      "time_markers": [
+        "6 October 2006 - 17 September 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She served as Minister for International Development Cooperation from 2006 to 2013",
+        "Minister for International Development Cooperation In office 6 October 2006 – 17 September 2013"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank Group",
+        "High Level Advisory Council on Women's Economic Empowerment"
+      ],
+      "roles": [
+        "council member"
+      ],
+      "time_markers": [
+        "from 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2007, Carlsson was a member of the World Bank Group's High Level Advisory Council on Women's Economic Empowerment"
+      ]
+    },
+    {
+      "organizations": [
+        "Commission on Climate Change and Development"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "established 2007",
+        "final report 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her capacity as minister, Carlsson also chaired the Stockholm-based Commission on Climate Change and Development (CCCD), a body made up of 13 international experts and established by the Swedish government in 2007"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2012-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her final year as minister from 2012 until 2013, Carlsson served – alongside Ellen Johnson Sirleaf, David Cameron and others – on the High-level Panel on Post-2015 Development Agenda"
+      ]
+    },
+    {
+      "organizations": [
+        "African Development Bank",
+        "High Level Panel on Fragile States"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2013-2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following her resignation, Carlsson served alongside Tertius Zongo and Callisto Madavo on the African Development Bank's three-member High Level Panel on Fragile States between 2013 and 2014"
+      ]
+    },
+    {
+      "organizations": [
+        "UNAIDS",
+        "Lancet Commission on Defeating AIDS"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "2013-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2013 and 2015, she was a member of the UNAIDS–Lancet Commission on Defeating AIDS"
+      ]
+    },
+    {
+      "organizations": [
+        "NGS Group AB"
+      ],
+      "roles": [
+        "Independent Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "NGS Group AB, Independent Member of the Board of Directors (since 2015)"
+      ]
+    },
+    {
+      "organizations": [
+        "IFS AB"
+      ],
+      "roles": [
+        "Independent Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "2015-2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "IFS AB, Independent Member of the Board of Directors (2015-2016)"
+      ]
+    },
+    {
+      "organizations": [
+        "UNAIDS",
+        "United Nations"
+      ],
+      "roles": [
+        "Deputy Executive Director, Management and Governance",
+        "Assistant Secretary-General of the United Nations"
+      ],
+      "time_markers": [
+        "appointed 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2017, United Nations Secretary-General António Guterres appointed Carlsson as the UNAIDS deputy executive director, management and governance, and Assistant Secretary-General of the United Nation."
+      ]
+    },
+    {
+      "organizations": [
+        "Tundra Fonder"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tundra Fonder, Member of the Board of Directors (since 2017)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations System Staff College"
+      ],
+      "roles": [
+        "Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "since 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "United Nations System Staff College (UNSSC), Member of the Board of Governors (since 2017)"
+      ]
+    },
+    {
+      "organizations": [
+        "Internationella Engelska Skolan"
+      ],
+      "roles": [
+        "Member of the Board"
+      ],
+      "time_markers": [
+        "2017-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Internationella Engelska Skolan (IES), Member of the Board (2017-2019)"
+      ]
+    },
+    {
+      "organizations": [
+        "UNAIDS"
+      ],
+      "roles": [
+        "Executive Director ad interim"
+      ],
+      "time_markers": [
+        "May 2019 - August 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following Michel Sidibé's resignation, she briefly served as executive director ad interim from May until August 2019."
+      ]
+    },
+    {
+      "organizations": [
+        "Africa Europe Foundation",
+        "High-Level Group of Personalities on Africa-Europe Relations"
+      ],
+      "roles": [
+        "member of High-Level Group",
+        "co-chair of Strategy Group on Health"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020), co-chair of the Strategy Group on Health"
+      ]
+    },
+    {
+      "organizations": [
+        "Swedish International Development Cooperation Agency",
+        "Government of Sweden"
+      ],
+      "roles": [
+        "Chair of the Governing Board"
+      ],
+      "time_markers": [
+        "appointed 29 June 2023",
+        "took up position 1 July 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 29 June 2023, the Government of Sweden appointed Carlsson as the new Chair of the Governing Board of the Swedish International Development Cooperation Agency (SIDA). She formally took up the position on 1 July 2023."
+      ]
+    },
+    {
+      "organizations": [
+        "Annexin Pharmaceuticals"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Annexin Pharmaceuticals, Member of the Board of Directors"
+      ]
+    },
+    {
+      "organizations": [
+        "European Council on Foreign Relations"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "European Council on Foreign Relations (ECFR), Member"
+      ]
+    },
+    {
+      "organizations": [
+        "GAVI Alliance"
+      ],
+      "roles": [
+        "Member of the Board",
+        "Member of the Governance Committee"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "GAVI Alliance, Member of the Board and of the Governance Committee"
+      ]
+    },
+    {
+      "organizations": [
+        "Global Fund to Fight AIDS, Tuberculosis and Malaria"
+      ],
+      "roles": [
+        "Non-voting Member of the Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Global Fund to Fight AIDS, Tuberculosis and Malaria, Non-voting Member of the Board"
+      ]
+    },
+    {
+      "organizations": [
+        "Center for Global Development"
+      ],
+      "roles": [
+        "Member of the European Advisory Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Center for Global Development, Member of the European Advisory Group"
+      ]
+    }
+  ]
+}

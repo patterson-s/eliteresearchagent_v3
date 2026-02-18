@@ -1,0 +1,226 @@
+{
+  "person_name": "Doris Leuthard",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Zurich"
+      ],
+      "roles": [
+        "law student",
+        "law graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Alma mater: University of Zurich"
+      ]
+    },
+    {
+      "organizations": [
+        "Swiss National Council",
+        "Canton of Aargau"
+      ],
+      "roles": [
+        "Member of the Swiss National Council"
+      ],
+      "time_markers": [
+        "1999 to 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Leuthard was a member of the Swiss National Council from 1999 to 2006 for the canton of Aargau."
+      ]
+    },
+    {
+      "organizations": [
+        "Christian Democratic People's Party"
+      ],
+      "roles": [
+        "Party President"
+      ],
+      "time_markers": [
+        "2004 to 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She presided over the Christian Democratic People's Party from 2004 to 2006."
+      ]
+    },
+    {
+      "organizations": [
+        "Swiss Federal Council"
+      ],
+      "roles": [
+        "Member of the Swiss Federal Council",
+        "109th Federal Councillor",
+        "fifth woman elected to the Federal Council"
+      ],
+      "time_markers": [
+        "elected 14 June 2006",
+        "in office 1 August 2006 to 31 December 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following the resignation of Joseph Deiss from the Swiss Federal Council, Leuthard was elected as his successor on 14 June 2006. She received 133 out of 234 valid votes to become the 109th Federal Councillor.",
+        "Member of the Swiss Federal Council In office 1 August 2006 – 31 December 2018"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Department of Economic Affairs"
+      ],
+      "roles": [
+        "Head of the Department of Economic Affairs"
+      ],
+      "time_markers": [
+        "1 August 2006 to 31 October 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1 August 2006 until 31 October 2010, she was head of the Federal Department of Economic Affairs.",
+        "Head of the Department of Economic Affairs In office 1 August 2006 – 31 October 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "Vice President of Switzerland"
+      ],
+      "time_markers": [
+        "1 January 2009 to 31 December 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For the calendar year 2009, Leuthard was elected Vice President of the Swiss Confederation",
+        "Vice President of Switzerland In office 1 January 2009 – 31 December 2009"
+      ]
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "President of Switzerland",
+        "President of the Swiss Confederation",
+        "third woman to hold the post"
+      ],
+      "time_markers": [
+        "1 January 2010 to 31 December 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was elected President of the Confederation for 2010 and 2017.",
+        "She became the third woman to hold the post, after Ruth Dreifuss (1999) and Micheline Calmy-Rey (2007).",
+        "President of Switzerland In office 1 January 2010 – 31 December 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Department of Environment, Transport, Energy and Communications"
+      ],
+      "roles": [
+        "Head of the Department of Environment, Transport, Energy and Communications"
+      ],
+      "time_markers": [
+        "1 November 2010 to 31 December 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 1 November 2010 she became head of the Federal Department of Environment, Transport, Energy and Communications, succeeding Moritz Leuenberger.",
+        "Head of the Department of Environment, Transport, Energy and Communications In office 1 November 2010 – 31 December 2018"
+      ]
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "Vice President of Switzerland"
+      ],
+      "time_markers": [
+        "1 January 2016 to 31 December 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Vice President of Switzerland In office 1 January 2016 – 31 December 2016"
+      ]
+    },
+    {
+      "organizations": [
+        "Swiss Confederation"
+      ],
+      "roles": [
+        "President of Switzerland",
+        "President of the Swiss Confederation"
+      ],
+      "time_markers": [
+        "1 January 2017 to 31 December 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was elected President of the Confederation for 2010 and 2017.",
+        "President of Switzerland In office 1 January 2017 – 31 December 2017"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on Digital Cooperation"
+      ],
+      "roles": [
+        "member of the High-level Panel on Digital Cooperation"
+      ],
+      "time_markers": [
+        "appointed 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her capacity as minister, she was appointed by United Nations Secretary General António Guterres in 2018 to the High-level Panel on Digital Cooperation, co-chaired by Melinda Gates and Jack Ma."
+      ]
+    },
+    {
+      "organizations": [
+        "Kofi Annan Foundation"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "as of 19 December 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As of 19 December 2019 she is a member of the board of the Kofi Annan Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "Stadler Rail"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "as of 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As of 19 December 2019 she is a member of the board of the Kofi Annan Foundation and Stadler Rail."
+      ]
+    }
+  ]
+}

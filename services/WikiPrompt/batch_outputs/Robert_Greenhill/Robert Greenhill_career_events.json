@@ -1,0 +1,273 @@
+{
+  "person_name": "Robert G. Greenhill",
+  "career_events": [
+    {
+      "organizations": [
+        "McKinsey & Company"
+      ],
+      "roles": [
+        "consultant"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Greenhill began his career at McKinsey & Company in 1987."
+      ]
+    },
+    {
+      "organizations": [
+        "Bombardier Inc."
+      ],
+      "roles": [
+        "Vice President Strategic Initiatives"
+      ],
+      "time_markers": [
+        "1995",
+        "1995-2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He then joined Bombardier Inc. in 1995, and as vice president Strategic Initiatives, was recognised as Canada's Top 40 under 40 in 1998."
+      ]
+    },
+    {
+      "organizations": [
+        "Canada's Top 40 Under 40"
+      ],
+      "roles": [
+        "honoree"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as vice president Strategic Initiatives, was recognised as Canada's Top 40 under 40 in 1998."
+      ]
+    },
+    {
+      "organizations": [
+        "Bombardier Inc."
+      ],
+      "roles": [
+        "President of Bombardier's International Group"
+      ],
+      "time_markers": [
+        "2001",
+        "2001-2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2001, he became president of Bombardier's International Group and held that role until 2004."
+      ]
+    },
+    {
+      "organizations": [
+        "Banff Forum"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2002, he co-founded the Banff Forum, one of Canada's preeminent public policy forums"
+      ]
+    },
+    {
+      "organizations": [
+        "International Development Research Centre"
+      ],
+      "roles": [
+        "Senior Visiting Executive"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2004, Greenhill joined the International Development Research Centre as Senior Visiting Executive, producing a critical account of Canada's global engagement 'Making A Difference?'."
+      ]
+    },
+    {
+      "organizations": [
+        "Canadian International Development Agency"
+      ],
+      "roles": [
+        "President",
+        "Deputy Minister for International Cooperation"
+      ],
+      "time_markers": [
+        "2005",
+        "2005-2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Greenhill was appointed president of the Canadian International Development Agency (CIDA), and Deputy Minister for International Cooperation during the 27th Canadian Ministry."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan named Greenhill to the High-level Panel on United Nations Systemwide Coherence."
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Managing Director",
+        "Chief Business Officer"
+      ],
+      "time_markers": [
+        "2008",
+        "2008-2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2008, Greenhill joined the Geneva-based World Economic Forum (WEF) as Managing Director and Chief Business Officer."
+      ]
+    },
+    {
+      "organizations": [
+        "Global Canada"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, Greenhill returned to Montreal to found Global Canada, a multistakeholder initiative committed to improving Canada's global impact."
+      ]
+    },
+    {
+      "organizations": [
+        "McGill University",
+        "Institute for the Study of International Development"
+      ],
+      "roles": [
+        "Professor of Practice"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is currently Professor of Practice at the Institute for the Study of International Development, McGill University"
+      ]
+    },
+    {
+      "organizations": [
+        "King Baudouin Foundation"
+      ],
+      "roles": [
+        "Board of Directors member (KBF-Canada)"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "member of the Board of Directors of the King Baudouin Foundation (KBF)-Canada"
+      ]
+    },
+    {
+      "organizations": [
+        "Banff Forum"
+      ],
+      "roles": [
+        "Advisory Board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and of the Advisory Board of the Banff Forum."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Alberta"
+      ],
+      "roles": [
+        "student",
+        "BA in Political Science graduate",
+        "Student Union President"
+      ],
+      "time_markers": [
+        "1984"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Greenhill has a BA in political science from the University of Alberta (1984), where he was twice the university's Student Union president, being the youngest ever at 20 years old"
+      ]
+    },
+    {
+      "organizations": [
+        "London School of Economics"
+      ],
+      "roles": [
+        "student",
+        "MA in International History graduate"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has an MA in international history from the London School of Economics (1986)"
+      ]
+    },
+    {
+      "organizations": [
+        "INSEAD"
+      ],
+      "roles": [
+        "student",
+        "MBA graduate"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and an MBA from INSEAD (1987)."
+      ]
+    }
+  ]
+}

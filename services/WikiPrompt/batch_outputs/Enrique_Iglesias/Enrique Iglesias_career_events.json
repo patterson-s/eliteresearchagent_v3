@@ -1,0 +1,438 @@
+{
+  "person_name": "Enrique Iglesias",
+  "birth_year": 1975,
+  "full_name": "Enrique Miguel Iglesias Preysler",
+  "career_events": [
+    {
+      "organizations": [
+        "Gulliver Preparatory School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "time_markers": [
+        "high school"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias attended Gulliver Preparatory School, a private high school in Miami, where he developed an interest in writing songs."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Miami"
+      ],
+      "roles": [
+        "student",
+        "business major"
+      ],
+      "time_markers": [
+        "after high school",
+        "dropped out after a year"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After graduating from high school he attended the University of Miami in Coral Gables, Florida, where he studied business but dropped out after a year to pursue a recording career."
+      ]
+    },
+    {
+      "organizations": [
+        "Fonovisa"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was signed by Mexican record label Fonovisa and temporarily moved to Canada to record his first album.",
+        "He started his recording career in the mid-1990s on the Mexican label Fonovisa"
+      ]
+    },
+    {
+      "organizations": [
+        "Grammy Awards"
+      ],
+      "roles": [
+        "Best Latin Pop Performance winner"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The album went on to win Iglesias the Grammy Award for Best Latin Pop Performance."
+      ]
+    },
+    {
+      "organizations": [
+        "American Music Awards"
+      ],
+      "roles": [
+        "Favorite Latin Artist nominee"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Along with his father and Luís Miguel, Iglesias was nominated for an American Music Award in the first-ever awarded category of Favorite Latin Artist. Iglesias lost out to his father"
+      ]
+    },
+    {
+      "organizations": [
+        "American Music Awards"
+      ],
+      "roles": [
+        "Favorite Latin Artist winner"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He won the American Music Award for Favorite Latin Artist for a second time, this time winning against Ricky Martin and Chayanne."
+      ]
+    },
+    {
+      "organizations": [
+        "Interscope Records",
+        "Universal Music Group"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "1999-2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He signed a multi-album deal with Universal Music Group for US$68 million with Interscope Records releasing a string of hit English albums",
+        "In 2010, Iglesias parted with Interscope Records"
+      ]
+    },
+    {
+      "organizations": [
+        "Super Bowl XXXIV"
+      ],
+      "roles": [
+        "halftime show performer"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "performance",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2000, Iglesias performed at the Super Bowl XXXIV halftime show with Christina Aguilera, Phil Collins and Toni Braxton."
+      ]
+    },
+    {
+      "organizations": [
+        "World Music Awards"
+      ],
+      "roles": [
+        "Best-Selling Pop Male Artist winner",
+        "European Male Artist winner"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2001, for the release of his second English studio album Escape, he received awards for Best-Selling Pop Male Artist and European Male Artist at the World Music Awards."
+      ]
+    },
+    {
+      "organizations": [
+        "Latin Grammy Awards"
+      ],
+      "roles": [
+        "Best Pop Vocal Album winner"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The album went on to win the Latin Grammy Award for Best Pop Vocal Album."
+      ]
+    },
+    {
+      "organizations": [
+        "Once Upon a Time in Mexico"
+      ],
+      "roles": [
+        "actor (Lorenzo)"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "acting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias starred alongside Antonio Banderas, Salma Hayek, and Johnny Depp in the Robert Rodriguez film Once Upon a Time in Mexico, in which he played the well-spoken gun-wielding Lorenzo."
+      ]
+    },
+    {
+      "organizations": [
+        "Two and a Half Men"
+      ],
+      "roles": [
+        "guest actor"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "acting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2007, he had a guest appearance in the TV comedy Two and a Half Men as a carpenter/handyman."
+      ]
+    },
+    {
+      "organizations": [
+        "How I Met Your Mother"
+      ],
+      "roles": [
+        "guest actor (Gael)"
+      ],
+      "time_markers": [
+        "2007",
+        "season 3"
+      ],
+      "event_type": "acting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also guest-starred as Gael, an Argentinean guitar playing/surfer/massage therapist love interest of Robin in season 3 of the TV show How I Met Your Mother."
+      ]
+    },
+    {
+      "organizations": [
+        "UEFA Euro 2008"
+      ],
+      "roles": [
+        "official song performer"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "performance",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias's song 'Can You Hear Me' was chosen as the official song of the UEFA Euro 2008 football tournament.",
+        "He performed the song live at the 29 June 2008 final in Vienna, Austria."
+      ]
+    },
+    {
+      "organizations": [
+        "World Music Awards"
+      ],
+      "roles": [
+        "World's Best Selling Latin Performer winner",
+        "World's Best Selling Spanish Artist winner"
+      ],
+      "time_markers": [
+        "9 November 2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Iglesias was the winner of two World Music Awards in the categories of 'World's Best Selling Latin Performer' and 'World's Best Selling Spanish Artist' at the ceremony held in Monaco on 9 November 2008."
+      ]
+    },
+    {
+      "organizations": [
+        "Republic Records",
+        "Universal Music Group"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "2010-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, Iglesias parted with Interscope Records and signed with another Universal Music Group label, Republic Records where he released two successful bilingual albums Euphoria and Sex and Love."
+      ]
+    },
+    {
+      "organizations": [
+        "Billboard Music Awards"
+      ],
+      "roles": [
+        "Top Latin Album winner"
+      ],
+      "time_markers": [
+        "2010-2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Euphoria won the Billboard Music Award for Top Latin Album"
+      ]
+    },
+    {
+      "organizations": [
+        "Billboard Latin Music Awards"
+      ],
+      "roles": [
+        "Latin Album of the Year winner",
+        "Latin Pop Album of the Year winner"
+      ],
+      "time_markers": [
+        "2010-2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Billboard Latin Awards for Latin Album of the Year and Latin Pop Album of the Year"
+      ]
+    },
+    {
+      "organizations": [
+        "Latin Grammy Awards"
+      ],
+      "roles": [
+        "Album of the Year nominee"
+      ],
+      "time_markers": [
+        "2010-2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was nominated for the Latin Grammy Award for Album of the Year."
+      ]
+    },
+    {
+      "organizations": [
+        "Latin Grammy Awards"
+      ],
+      "roles": [
+        "Song of the Year winner"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The song won three Latin Grammy awards including Song of the Year."
+      ]
+    },
+    {
+      "organizations": [
+        "Sony Music",
+        "Sony Music Latin",
+        "RCA Records"
+      ],
+      "roles": [
+        "recording artist"
+      ],
+      "time_markers": [
+        "2015-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2015, he parted ways with Universal Music Group after being there for over a decade. He signed with Sony Music and his subsequent albums were to be released two more bilingual albums Final (Vol. 1) and Final (Vol. 2) with Sony Music Latin in Spanish and RCA Records in English."
+      ]
+    },
+    {
+      "organizations": [
+        "Billboard"
+      ],
+      "roles": [
+        "14th most successful male dance club artist of all time"
+      ],
+      "time_markers": [
+        "December 2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2016, Billboard magazine named him the 14th most successful and top male dance club artist of all time."
+      ]
+    },
+    {
+      "organizations": [
+        "Billboard Latin Music Awards"
+      ],
+      "roles": [
+        "Top Latin Artist of All Time"
+      ],
+      "time_markers": [
+        "October 2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in October 2022 he was honored with the Top Latin Artist of All Time at the Latin Billboard Awards."
+      ]
+    },
+    {
+      "organizations": [
+        "Music for Relief"
+      ],
+      "roles": [
+        "Download to Donate for Haiti co-producer"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, Iglesias was included in the project Download to Donate, run by Music for Relief, an organization started by American rock band Linkin Park. He co-produced Download to Donate for Haiti, a charity album for the 2010 Haiti earthquake"
+      ]
+    },
+    {
+      "organizations": [
+        "Save the Children"
+      ],
+      "roles": [
+        "partner",
+        "HEART T-shirt campaign organizer"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2015, Iglesias partnered with Save the Children to launch a heart T-shirt campaign."
+      ]
+    },
+    {
+      "organizations": [
+        "MTV Europe Music Awards"
+      ],
+      "roles": [
+        "Best Spanish Act winner"
+      ],
+      "time_markers": [
+        "2010",
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Listed in MTV Europe Music Award winners table for 2010 and 2014"
+      ]
+    }
+  ]
+}

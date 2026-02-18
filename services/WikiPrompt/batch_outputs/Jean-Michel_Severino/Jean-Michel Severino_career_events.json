@@ -1,0 +1,342 @@
+{
+  "person_name": "Jean-Michel Severino",
+  "career_events": [
+    {
+      "organizations": [
+        "École nationale d'administration"
+      ],
+      "roles": [
+        "graduate"
+      ],
+      "time_markers": [
+        "1984"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1984 : École nationale d'administration"
+      ]
+    },
+    {
+      "organizations": [
+        "Institut d'Études Politiques de Paris"
+      ],
+      "roles": [
+        "graduate"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1980 : Institut d'Études Politiques de Paris"
+      ]
+    },
+    {
+      "organizations": [
+        "Paris Dauphine University"
+      ],
+      "roles": [
+        "Master of Science in Economics graduate"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1979 : Master of Science in Economics, Paris Dauphine University"
+      ]
+    },
+    {
+      "organizations": [
+        "Ecole Supérieure de Commerce de Paris",
+        "Université Paris I Sorbonne"
+      ],
+      "roles": [
+        "graduate",
+        "Bachelor of Laws graduate"
+      ],
+      "time_markers": [
+        "1978"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1978 : Ecole Supérieure de Commerce de Paris and Bachelor of Laws (Université Paris I Sorbonne)"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of the Economy and Finances"
+      ],
+      "roles": [
+        "Inspector of Finances"
+      ],
+      "time_markers": [
+        "1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1984 : Inspector of Finances, Ministry of the Economy and Finances, Paris"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Cooperation and Development"
+      ],
+      "roles": [
+        "Technical advisor for economic and financial affairs",
+        "Cabinet of the Minister of Cooperation and Development, Jacques Pelletier"
+      ],
+      "time_markers": [
+        "1988-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1988-1990 : Technical advisor for economic and financial affairs - Cabinet of the Minister of Cooperation and Development, Jacques Pelletier"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Cooperation and Development"
+      ],
+      "roles": [
+        "Chief of geographic coordination"
+      ],
+      "time_markers": [
+        "1990-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1990-1994 : Chief of geographic coordination - Ministère Ministry of Cooperation and Development, Paris"
+      ]
+    },
+    {
+      "organizations": [
+        "French Ministry of Cooperation"
+      ],
+      "roles": [
+        "Director in charge of international development"
+      ],
+      "time_markers": [
+        "1994-1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1994-1996 : Director in charge of international development - Ministry of Cooperation and Development, Paris",
+        "He was previously Director in charge of international development at the French Ministry of Cooperation"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Director for Central Europe"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1996-1997 : Director for Central Europe - World Bank, Washington"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Vice President for Asia"
+      ],
+      "time_markers": [
+        "1997-2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1997-2000 : Vice-president for Asia - World Bank, Washington",
+        "then Vice President for Asia at the World Bank"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of the Economy and Finances"
+      ],
+      "roles": [
+        "General Inspector of Finances"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2000 : General Inspector of Finances - Ministry of the Economy and Finances, Paris"
+      ]
+    },
+    {
+      "organizations": [
+        "Agence française de développement"
+      ],
+      "roles": [
+        "CEO",
+        "Director"
+      ],
+      "time_markers": [
+        "2001-2010",
+        "appointed 2001",
+        "renewed 2004",
+        "renewed 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served for more than nine years as the CEO of France's government agency for international development, AFD",
+        "Severino served as Director of France's international development agency - Agence française de développement (AFD). He was appointed in 2001 for a three-year term, renewed in 2004 and 2007",
+        "2001-2010 : CEO - Agence française de développement, Paris"
+      ]
+    },
+    {
+      "organizations": [
+        "PROPARCO"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "2001-2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of PROPARCO, Paris."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan appointed Severino to a High-level Panel on United Nations Systemwide Coherence"
+      ]
+    },
+    {
+      "organizations": [
+        "Ideas4development"
+      ],
+      "roles": [
+        "blog co-founder and contributor"
+      ],
+      "time_markers": [
+        "October 2007"
+      ],
+      "event_type": "initiative",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2007, he launched the blog Ideas4development alongside Josette Sheeran, Donald Kaberuka, Kemal Dervis, Pascal Lamy, Abdou Diouf and Supachai Panitchpakdi"
+      ]
+    },
+    {
+      "organizations": [
+        "Investisseurs et Partenaires"
+      ],
+      "roles": [
+        "CEO"
+      ],
+      "time_markers": [
+        "since 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2011 he has been CEO of an investment group, Investisseurs et Partenaires (I&P)"
+      ]
+    },
+    {
+      "organizations": [
+        "Danone"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "until at least March 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Danone, Member of the Board of Directors",
+        "Severino was a close ally of Emmanuel Faber in moving Danone toward a greater concern with environmental and social priorities as against immediately commercial ones: a project that resulted in the ouster of Faber by activist shareholders in March 2021."
+      ]
+    },
+    {
+      "organizations": [
+        "EBI SA Groupe Ecobank"
+      ],
+      "roles": [
+        "Chairman of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "EBI SA Groupe Ecobank, Chairman of the Board of Directors"
+      ]
+    },
+    {
+      "organizations": [
+        "Orange S.A."
+      ],
+      "roles": [
+        "Independent Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Orange S.A., Independent Member of the Board of Directors"
+      ]
+    },
+    {
+      "organizations": [
+        "PhiTrust Impact Investors"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "PhiTrust Impact Investors, Member of the Board of Directors"
+      ]
+    },
+    {
+      "organizations": [
+        "Fondation Grameen Crédit Agricole"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Fondation Grameen Crédit Agricole, Member of the Board of Directors"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "person_name": "Gareth Huw Evans (filmmaker)",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Glamorgan"
+      ],
+      "roles": [
+        "MA in screenwriting graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He graduated from the University of Glamorgan (now the University of South Wales) with an MA in screenwriting."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director of Footsteps"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After directing a small-budget film called Footsteps"
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "freelance director for pencak silat documentary"
+      ],
+      "time_markers": [
+        "after Footsteps"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Evans was hired as a freelance director for a documentary about the Indonesian martial art pencak silat."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, editor of Merantau"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Evans cast Uwais in his 2009 film Merantau."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, executive producer, editor, action choreographer of The Raid"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "created an action film called The Raid (2011)"
+      ]
+    },
+    {
+      "organizations": [
+        "Toronto International Film Festival"
+      ],
+      "roles": [
+        "Midnight Madness Award winner for The Raid"
+      ],
+      "time_markers": [
+        "November 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2011, The Raid won the Midnight Madness Award at the Toronto International Film Festival in 2011."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "co-director (with Timo Tjahjanto), writer, editor of Safe Haven segment in V/H/S/2"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Segment of V/H/S/2 (Co-directed with Timo Tjahjanto)"
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, editor of The Raid 2"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the larger action film eventually became the basis for its sequel, The Raid 2: Berandal (2014)."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "director, writer, producer, editor of Apostle"
+      ],
+      "time_markers": [
+        "started late 2016",
+        "released 12 October 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In late 2016, Evans started working on his next film, Apostle, which stars Dan Stevens. The film was released by Netflix on 12 October 2018."
+      ]
+    },
+    {
+      "organizations": [
+        "Netflix"
+      ],
+      "roles": [
+        "exclusive deal to produce and direct films"
+      ],
+      "time_markers": [
+        "February 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In February 2021, it was reported that Evans signed an exclusive deal to produce and direct films for Netflix."
+      ]
+    },
+    {
+      "organizations": [
+        "Netflix"
+      ],
+      "roles": [
+        "director, writer, producer of Havoc"
+      ],
+      "time_markers": [
+        "filmed 2021",
+        "release date April 25, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His first film under that deal was Havoc, starring Tom Hardy & Forest Whitaker, which was filmed in 2021.",
+        "the film was eventually given a release date of April 25, 2025."
+      ]
+    },
+    {
+      "organizations": [
+        "Amazon MGM"
+      ],
+      "roles": [
+        "director, producer of A Colt is My Passport"
+      ],
+      "time_markers": [
+        "principal photography completed later in 2021",
+        "announced September 30, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Later that year, Evans completed principal photography on A Colt is My Passport, a reimagining of the Takashi Nomura 1967 film of the same name."
+      ]
+    },
+    {
+      "organizations": [
+        "Sky Atlantic",
+        "AMC"
+      ],
+      "roles": [
+        "co-creator, co-writer, co-director, executive producer of Gangs of London"
+      ],
+      "time_markers": [
+        "2020–present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also known for co-creating, co-writing, co-directing, and executive producing the Sky Atlantic/AMC action crime drama television series Gangs of London (2020–present), alongside Matt Flannery"
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "relocated from Jakarta, Indonesia to Wales with family"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "personal",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Evans lived in Jakarta, Indonesia with his wife, Maya Barack-Evans, and their daughter, until the family moved back to Wales in 2015."
+      ]
+    }
+  ]
+}

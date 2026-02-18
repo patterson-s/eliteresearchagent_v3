@@ -1,0 +1,530 @@
+{
+  "person_name": "Anand Panyarachun",
+  "career_events": [
+    {
+      "organizations": [
+        "Dulwich College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand attended Dulwich College"
+      ]
+    },
+    {
+      "organizations": [
+        "Trinity College, Cambridge"
+      ],
+      "roles": [
+        "law student",
+        "graduate with honours"
+      ],
+      "time_markers": [
+        "1955"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "later read law at Trinity College, Cambridge, graduating with honours in 1955"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to the United Nations"
+      ],
+      "time_markers": [
+        "1964-1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand spent 23 years in the foreign service, serving at times as the Ambassador of Thailand to the United Nations"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to Canada"
+      ],
+      "time_markers": [
+        "1967-1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador of Thailand to Canada 1967 – 1972"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to the United States"
+      ],
+      "time_markers": [
+        "1972-1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador of Thailand to the United States 1972 – 1976"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs, Thailand"
+      ],
+      "roles": [
+        "Permanent Secretary for Foreign Affairs"
+      ],
+      "time_markers": [
+        "12 August 1975 - 11 March 1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 1976 he was appointed Permanent Secretary of the foreign ministry, and played a leading role in ensuring the US military withdrawal from Thailand"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Thai Government - Foreign Service"
+      ],
+      "roles": [
+        "Ambassador to West Germany"
+      ],
+      "time_markers": [
+        "1979-1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador of Thailand to West Germany 1979 – 1984"
+      ]
+    },
+    {
+      "organizations": [
+        "Saha-Union Group"
+      ],
+      "roles": [
+        "Vice-Chairman"
+      ],
+      "time_markers": [
+        "1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in 1979 left the public sector for the private. He became the Vice-Chairman of the Saha-Union Group in 1979"
+      ]
+    },
+    {
+      "organizations": [
+        "Siam Commercial Bank"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "since 1984"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has been a Director of Siam Commercial Bank since 1984"
+      ]
+    },
+    {
+      "organizations": [
+        "Saha-Union Group"
+      ],
+      "roles": [
+        "Chairman of the Board of Directors"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Chairman of the Board of Directors in 1991"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Thai Government"
+      ],
+      "roles": [
+        "Prime Minister of Thailand (interim, first term)"
+      ],
+      "time_markers": [
+        "2 March 1991 - 23 March 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 2 March 1991 – 23 March 1992",
+        "the NPKC appointed Anand as interim prime minister"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Thai Government"
+      ],
+      "roles": [
+        "Prime Minister of Thailand (interim, second term)"
+      ],
+      "time_markers": [
+        "10 June 1992 - 22 September 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 10 June 1992 – 22 September 1992",
+        "On 10 June 1992, Arthit surprised the country by recommending Anand's name instead of Somboon's to the king"
+      ]
+    },
+    {
+      "organizations": [
+        "Saha-Union Group"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "after 1992 elections",
+        "resigned 2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand rejoined the Saha-Union Group as chairman after the general elections of 1992",
+        "He resigned from Saha-Union Group in 2002"
+      ]
+    },
+    {
+      "organizations": [
+        "Constitution Drafting Assembly of Thailand"
+      ],
+      "roles": [
+        "elected member",
+        "Chairman of the Drafting Committee"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1996, Anand was elected as a member of the Constitution Drafting Assembly and was appointed Chairman of the Drafting Committee"
+      ]
+    },
+    {
+      "organizations": [
+        "UNICEF"
+      ],
+      "roles": [
+        "Ambassador for Thailand"
+      ],
+      "time_markers": [
+        "since 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand served as UNICEF Ambassador for Thailand since 1996"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Chair of High-Level Panel on Threats, Challenges and Change"
+      ],
+      "time_markers": [
+        "November 2003 - December 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During November 2003 and December 2004, Anand was requested by then United Nations Secretary-General Kofi Annan to chair the High-Level Panel on Threats, Challenges and Change"
+      ]
+    },
+    {
+      "organizations": [
+        "National Reconciliation Commission (Thailand)"
+      ],
+      "roles": [
+        "Chairman"
+      ],
+      "time_markers": [
+        "from March 2005",
+        "submitted report 5 June 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From March 2005, Anand served as chairman of the National Reconciliation Commission (NRC)",
+        "Anand finally submitted the NRC's recommendations on 5 June 2006"
+      ]
+    },
+    {
+      "organizations": [
+        "Trilateral Commission"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand is a member of the Trilateral Commission"
+      ]
+    },
+    {
+      "organizations": [
+        "American International Group (AIG)"
+      ],
+      "roles": [
+        "International Advisory Board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the International Advisory Board of American International Group (AIG)"
+      ]
+    },
+    {
+      "organizations": [
+        "Carlyle Group"
+      ],
+      "roles": [
+        "member",
+        "advisory board member for Asia-Pacific"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand is a member of the Carlyle Group and sits on the Carlyle Group's advisory board for Asia-Pacific"
+      ]
+    },
+    {
+      "organizations": [
+        "Ramon Magsaysay Award Foundation"
+      ],
+      "roles": [
+        "Ramon Magsaysay Award recipient for Government Service"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Anand received a Ramon Magsaysay Award for Government Service in 1997"
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Cordon (Special Class) of the Most Exalted Order of the White Elephant"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1991 - Knight Grand Cordon (Special Class) of the Most Exalted Order of the White Elephant"
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Cordon (Special Class) of The Most Noble Order of the Crown of Thailand"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1988 - Knight Grand Cordon (Special Class) of The Most Noble Order of the Crown of Thailand"
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Cross (First Class) of the Most Admirable Order of the Direkgunabhorn"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2003 - Knight Grand Cross (First Class) of the Most Admirable Order of the Direkgunabhorn"
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "Knight Grand Commander (Second Class, higher grade) of the Most Illustrious Order of Chula Chom Klao"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1991 - Knight Grand Commander (Second Class, higher grade) of the Most Illustrious Order of Chula Chom Klao"
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Thailand"
+      ],
+      "roles": [
+        "King Rama IX Royal Cypher Medal (Third Class)"
+      ],
+      "time_markers": [
+        "1967"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1967 - King Rama IX Royal Cypher Medal (Third Class)"
+      ]
+    },
+    {
+      "organizations": [
+        "Italian Republic"
+      ],
+      "roles": [
+        "Commander of the Order of Merit of the Italian Republic (Third Class)"
+      ],
+      "time_markers": [
+        "1961"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1961 - Commander of the Order of Merit of the Italian Republic (Third Class)"
+      ]
+    },
+    {
+      "organizations": [
+        "Republic of Korea"
+      ],
+      "roles": [
+        "Order of Diplomatic Service Merit Grand Gwanghwa Medal (First Class)"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1970 - Order of Diplomatic Service Merit Grand Gwanghwa Medal (First Class), Republic of Korea"
+      ]
+    },
+    {
+      "organizations": [
+        "Indonesia"
+      ],
+      "roles": [
+        "Star of Merit 1st Class"
+      ],
+      "time_markers": [
+        "1971"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1971 - Star of Merit 1st Class, Indonesia"
+      ]
+    },
+    {
+      "organizations": [
+        "Belgium"
+      ],
+      "roles": [
+        "Grand Officer of the Order of the Crown (Second Class)"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1990 - Grand Officer of the Order of the Crown (Second Class), Belgium"
+      ]
+    },
+    {
+      "organizations": [
+        "Japan"
+      ],
+      "roles": [
+        "Grand Cordon of the Order of the Rising Sun"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1991 - Grand Cordon of the Order of the Rising Sun, Japan"
+      ]
+    },
+    {
+      "organizations": [
+        "United Kingdom"
+      ],
+      "roles": [
+        "Honorary Knight Commander of the Civil Division of the Most Excellent Order of the British Empire (KBE)"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1996 - Honorary Knight Commander of the Civil Division of the Most Excellent Order of the British Empire (KBE), United Kingdom"
+      ]
+    },
+    {
+      "organizations": [
+        "Sweden"
+      ],
+      "roles": [
+        "Commander Grand Cross of the Royal Order of the Polar Star"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2007 - Commander Grand Cross of the Royal Order of the Polar Star, Sweden"
+      ]
+    }
+  ]
+}

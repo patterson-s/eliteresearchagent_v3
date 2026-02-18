@@ -1,0 +1,525 @@
+{
+  "person_name": "John Podesta",
+  "career_events": [
+    {
+      "organizations": [
+        "White House",
+        "Biden Administration"
+      ],
+      "roles": [
+        "Senior Advisor to the President for International Climate Policy"
+      ],
+      "time_markers": [
+        "March 6, 2024 – January 20, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Senior Advisor to the President for International Climate Policy In office March 6, 2024 – January 20, 2025"
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Biden Administration"
+      ],
+      "roles": [
+        "Senior Advisor to the President for Clean Energy Innovation and Implementation"
+      ],
+      "time_markers": [
+        "September 2, 2022 – January 20, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Senior Advisor to the President for Clean Energy Innovation and Implementation In office September 2, 2022 – January 20, 2025",
+        "On September 2, 2022, President Joe Biden appointed Podesta as senior advisor to the president for clean energy innovation and implementation"
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Obama Administration"
+      ],
+      "roles": [
+        "Counselor to the President"
+      ],
+      "time_markers": [
+        "January 1, 2014 – February 13, 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Counselor to the President In office January 1, 2014 – February 13, 2015"
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "White House Chief of Staff"
+      ],
+      "time_markers": [
+        "October 20, 1998 – January 20, 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "20th White House Chief of Staff In office October 20, 1998 – January 20, 2001",
+        "In 1998, he became President Clinton's chief of staff in the second Clinton administration and served in the position until the end of Clinton's time in office in January 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "White House Deputy Chief of Staff for Operations"
+      ],
+      "time_markers": [
+        "January 20, 1997 – October 20, 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "White House Deputy Chief of Staff for Operations In office January 20, 1997 – October 20, 1998"
+      ]
+    },
+    {
+      "organizations": [
+        "White House",
+        "Clinton Administration"
+      ],
+      "roles": [
+        "White House Staff Secretary"
+      ],
+      "time_markers": [
+        "January 20, 1993 – June 30, 1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "White House Staff Secretary In office January 20, 1993 – June 30, 1995",
+        "Earlier, from January 1993 to 1995, he was assistant to the president, staff secretary and a senior policy adviser"
+      ]
+    },
+    {
+      "organizations": [
+        "Center for American Progress"
+      ],
+      "roles": [
+        "founder",
+        "president and CEO"
+      ],
+      "time_markers": [
+        "founded 2003",
+        "president October 24, 2003 – November 1, 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2003, Podesta founded the Center for American Progress, a liberal think tank in Washington, D.C., and served as its president and CEO until he stepped down in 2011"
+      ]
+    },
+    {
+      "organizations": [
+        "Center for American Progress"
+      ],
+      "roles": [
+        "chairman of the board",
+        "board member"
+      ],
+      "time_markers": [
+        "2011 – at least August 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta remained chairman of the nonexecutive board of directors for a time",
+        "and remains on the board as of August 2020, although not as chairman"
+      ]
+    },
+    {
+      "organizations": [
+        "Georgetown University Law Center"
+      ],
+      "roles": [
+        "visiting professor of law",
+        "Distinguished Visitor from Practice"
+      ],
+      "time_markers": [
+        "many times over the years"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as a visiting professor of law at the Georgetown University Law Center",
+        "Podesta has taught at his alma mater, Georgetown University Law Center, many times over the years",
+        "On the Georgetown faculty, Podesta's title is Distinguished Visitor from Practice"
+      ]
+    },
+    {
+      "organizations": [
+        "Hillary Clinton 2016 presidential campaign"
+      ],
+      "roles": [
+        "campaign chairman"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was chairman of Hillary Clinton's 2016 presidential campaign"
+      ]
+    },
+    {
+      "organizations": [
+        "Obama Presidential Transition Team"
+      ],
+      "roles": [
+        "co-chairman"
+      ],
+      "time_markers": [
+        "2008-2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Additionally, he was a co-chairman of the Obama transition team"
+      ]
+    },
+    {
+      "organizations": [
+        "U.S. Department of Justice"
+      ],
+      "roles": [
+        "trial attorney, Honors Program, Land and Natural Resources Division"
+      ],
+      "time_markers": [
+        "1976–1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta worked as a trial attorney for the Department of Justice's Honors Program in the Land and Natural Resources Division (1976–77)"
+      ]
+    },
+    {
+      "organizations": [
+        "ACTION (Federal volunteer agency)"
+      ],
+      "roles": [
+        "Special Assistant to the Director"
+      ],
+      "time_markers": [
+        "1978–1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and as a Special Assistant to the Director of ACTION, the Federal volunteer agency (1978–79)"
+      ]
+    },
+    {
+      "organizations": [
+        "U.S. Senate"
+      ],
+      "roles": [
+        "Counselor to Democratic Leader Senator Thomas Daschle"
+      ],
+      "time_markers": [
+        "1995–1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta held positions on Capitol Hill, including Counselor to Democratic Leader Senator Thomas Daschle (1995–96)"
+      ]
+    },
+    {
+      "organizations": [
+        "Senate Agriculture Committee"
+      ],
+      "roles": [
+        "Chief Counsel"
+      ],
+      "time_markers": [
+        "1987–1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chief Counsel for the Senate Agriculture Committee (1987–88)"
+      ]
+    },
+    {
+      "organizations": [
+        "Senate Judiciary Committee"
+      ],
+      "roles": [
+        "Counsel on the Majority Staff"
+      ],
+      "time_markers": [
+        "1979–1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and Counsel on the Majority Staff of the Senate Judiciary Committee (1979–81)"
+      ]
+    },
+    {
+      "organizations": [
+        "Podesta Associates, Inc.",
+        "Podesta Group"
+      ],
+      "roles": [
+        "co-founder"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1988, he and his brother Tony co-founded Podesta Associates, Inc., a Washington, D.C., 'government relations and public affairs' lobbying firm. Now known as the Podesta Group"
+      ]
+    },
+    {
+      "organizations": [
+        "Constitution Project"
+      ],
+      "roles": [
+        "member of bipartisan Liberty and Security Committee"
+      ],
+      "time_markers": [
+        "2002 to 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2002 to 2014, Podesta served as a member of the Constitution Project's bipartisan Liberty and Security Committee"
+      ]
+    },
+    {
+      "organizations": [
+        "University Philosophical Society"
+      ],
+      "roles": [
+        "honorary patron"
+      ],
+      "time_markers": [
+        "March 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta became an honorary patron of the University Philosophical Society in March 2006"
+      ]
+    },
+    {
+      "organizations": [
+        "Knox College"
+      ],
+      "roles": [
+        "emeritus member of Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta is an emeritus member of the Knox College Board of Trustees"
+      ]
+    },
+    {
+      "organizations": [
+        "Joule Unlimited"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "since January 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta has served on the board of directors of Bedford, Massachusetts–based energy company Joule Unlimited since January 2011"
+      ]
+    },
+    {
+      "organizations": [
+        "Equilibrium Capital"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He has also served on the board of the Portland, Oregon-based Equilibrium Capital"
+      ]
+    },
+    {
+      "organizations": [
+        "HJW Foundation"
+      ],
+      "roles": [
+        "consultant"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2013, Podesta earned $90,000 as a consultant to the West Chester, Pennsylvania-based HJW Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "U.S. representative to the UN High-Level Panel on the Post-2015 Development Agenda"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the U.S. representative to the UN High-Level Panel on the Post-2015 Development Agenda"
+      ]
+    },
+    {
+      "organizations": [
+        "The Washington Post"
+      ],
+      "roles": [
+        "contributing columnist"
+      ],
+      "time_markers": [
+        "after the 2016 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the 2016 election, Podesta joined The Washington Post as a columnist"
+      ]
+    },
+    {
+      "organizations": [
+        "China–United States Exchange Foundation"
+      ],
+      "roles": [
+        "steering committee member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta also sits on the steering committee of the China–United States Exchange Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "George McGovern presidential campaign"
+      ],
+      "roles": [
+        "campaign staff"
+      ],
+      "time_markers": [
+        "1972"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "His political career began in 1972, when he worked for George McGovern's unsuccessful presidential campaign"
+      ]
+    },
+    {
+      "organizations": [
+        "Joseph Duffey Senate campaign"
+      ],
+      "roles": [
+        "campaign worker"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Podesta met Bill Clinton in 1970 when they worked in Connecticut for Joseph Duffey, a candidate for the United States Senate"
+      ]
+    },
+    {
+      "organizations": [
+        "Eugene McCarthy presidential campaign"
+      ],
+      "roles": [
+        "volunteer"
+      ],
+      "time_markers": [
+        "while at Knox College, graduated 1971"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1971, he graduated from Knox College in Galesburg, Illinois, where he had served as a volunteer for the presidential candidacy of Eugene McCarthy"
+      ]
+    },
+    {
+      "organizations": [
+        "Knox College"
+      ],
+      "roles": [
+        "student",
+        "BA graduate"
+      ],
+      "time_markers": [
+        "graduated 1971"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1971, he graduated from Knox College in Galesburg, Illinois"
+      ]
+    },
+    {
+      "organizations": [
+        "Georgetown University Law Center"
+      ],
+      "roles": [
+        "law student",
+        "JD graduate"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He received his J.D. from Georgetown University Law Center in 1976"
+      ]
+    },
+    {
+      "organizations": [
+        "Lane Tech High School"
+      ],
+      "roles": [
+        "student",
+        "graduate"
+      ],
+      "time_markers": [
+        "1967"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1967, Podesta graduated from Lane Tech High School in Chicago"
+      ]
+    }
+  ]
+}

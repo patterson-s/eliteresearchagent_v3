@@ -1,0 +1,188 @@
+{
+  "person_name": "Izabella Mônica Vieira Teixeira",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Brasília"
+      ],
+      "roles": [
+        "student",
+        "BS graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was born in Brasília, and has a master's degree in energy planning and a Ph.D. in environmental planning from COPPE/UFRJ (Federal University of Rio de Janeiro).",
+        "Alma mater: University of Brasília (BS)"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal University of Rio de Janeiro",
+        "COPPE/UFRJ"
+      ],
+      "roles": [
+        "graduate student",
+        "Master's degree in energy planning graduate",
+        "PhD in environmental planning graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was born in Brasília, and has a master's degree in energy planning and a Ph.D. in environmental planning from COPPE/UFRJ (Federal University of Rio de Janeiro)."
+      ]
+    },
+    {
+      "organizations": [
+        "Brazilian Ministry of Environment"
+      ],
+      "roles": [
+        "Minister of the Environment"
+      ],
+      "time_markers": [
+        "appointed May 2010",
+        "in office 30 March 2010 – 12 May 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2010 she was appointed Minister of the Environment",
+        "Minister of Environment In office 30 March 2010 – 12 May 2016"
+      ]
+    },
+    {
+      "organizations": [
+        "Brazilian Ministry of Environment"
+      ],
+      "roles": [
+        "Minister of the Environment (reappointed)"
+      ],
+      "time_markers": [
+        "January 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in January 2011 she was reappointed to the position by Dilma Rousseff, Brazil's new President."
+      ]
+    },
+    {
+      "organizations": [
+        "Convention on Biological Diversity"
+      ],
+      "roles": [
+        "Brazilian representative",
+        "speaker"
+      ],
+      "time_markers": [
+        "October 2010"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2010 Teixeira made a statement on behalf of Brazil at the 10th conference on the Convention on Biological Diversity in Nagoya, Japan"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Climate Change Conference"
+      ],
+      "roles": [
+        "speaker"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also spoke at the 2010 United Nations Climate Change Conference in Cancún, Mexico."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "Rio+20 UN Conference on Sustainable Development"
+      ],
+      "roles": [
+        "host"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "event_hosting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At home in Brazil, she successfully hosted the Rio+20 (UN Conference on Sustainable Development)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "World Environment Day"
+      ],
+      "roles": [
+        "host"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "event_hosting",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At home in Brazil, she successfully hosted the Rio+20 (UN Conference on Sustainable Development) and the 2012 World Environment Day."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-Level Panel of Eminent Persons on the Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "appointed 24 September 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 24 September 2012, Teixeira was appointed by UN Secretary-General Ban Ki-moon to serve on the High-Level Panel of Eminent Persons on the Post-2015 Development Agenda."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Environment Programme",
+        "Champions of the Earth"
+      ],
+      "roles": [
+        "Lifetime Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is the recipient of the Lifetime Achievement Award (Champions of the Earth) in 2013.",
+        "2013 Laureate – Policy Leadership (co-winner) Izabella Teixeira"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Environment Program"
+      ],
+      "roles": [
+        "green passport project co-launcher"
+      ],
+      "time_markers": [
+        "24 May 2014"
+      ],
+      "event_type": "project_initiative",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In addition, along with the United Nations Environment Program, Teixeira launched a project called 'green passport' that promoted sustainable tourism."
+      ]
+    }
+  ]
+}

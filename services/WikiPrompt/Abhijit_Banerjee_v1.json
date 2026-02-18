@@ -1,0 +1,955 @@
+{
+  "person_name": "Abhijit Banerjee",
+  "summary": {
+    "chunks_analyzed": 11,
+    "unique_organizations": 29,
+    "career_events": 37,
+    "last_updated": "2026-02-17T11:11:03.873209"
+  },
+  "career_timeline": [
+    {
+      "period": "In 1994",
+      "organizations": [
+        "Sloan Research Fellowship"
+      ],
+      "roles": [
+        "fellow of the Econometric Society"
+      ],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "In 1994, he received a Sloan Research Fellowship, awarded annually to early career researchers with the 'potential to revolutionize their fields.'"
+    },
+    {
+      "period": "In 1994",
+      "organizations": [
+        "Sloan Research Fellowship"
+      ],
+      "roles": [
+        "member of the National Academy of Sciences"
+      ],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "In 1994, he received a Sloan Research Fellowship, awarded annually to early career researchers with the 'potential to revolutionize their fields.'"
+    },
+    {
+      "period": "In 1994",
+      "organizations": [
+        "Sloan Research Fellowship"
+      ],
+      "roles": [
+        "fellow of the American Academy of Arts and Sciences"
+      ],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "In 1994, he received a Sloan Research Fellowship, awarded annually to early career researchers with the 'potential to revolutionize their fields.'"
+    },
+    {
+      "period": "in 1999",
+      "organizations": [
+        "MIT"
+      ],
+      "roles": [
+        "professor of Poverty Alleviation and Development Economics"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "at MIT in 1999."
+    },
+    {
+      "period": "in July 2026",
+      "organizations": [
+        "University of Zurich"
+      ],
+      "roles": [
+        "co-direct the newly-established Lemann Center for Development, Education and Public Policy"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026,"
+    },
+    {
+      "period": "in July 2026",
+      "organizations": [
+        "University of Zurich"
+      ],
+      "roles": [
+        "co-founder of Abdul Latif Jameel Poverty Action Lab"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026,"
+    },
+    {
+      "period": "in July 2026",
+      "organizations": [
+        "University of Zurich"
+      ],
+      "roles": [
+        "serves on the academic advisory board of Plaksha University"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026,"
+    },
+    {
+      "period": "in July 2026",
+      "organizations": [
+        "University of Zurich"
+      ],
+      "roles": [
+        "lecturer of literature at MIT"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026,"
+    },
+    {
+      "period": "in July 2026",
+      "organizations": [
+        "UZH Faculty of Business, Economics, and Informatics"
+      ],
+      "roles": [
+        "co-direct the newly-established Lemann Center for Development, Education and Public Policy"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026,"
+    },
+    {
+      "period": "in July 2026",
+      "organizations": [
+        "Lemann Center for Development, Education and Public Policy"
+      ],
+      "roles": [
+        "co-direct the newly-established Lemann Center for Development, Education and Public Policy"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026, where they would co-di"
+    },
+    {
+      "period": "in 2010",
+      "organizations": [
+        "Plaksha University"
+      ],
+      "roles": [
+        "serves on the academic advisory board of Plaksha University"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "In India he serves on the academic advisory board of Plaksha University, a science and technology university established in 2010."
+    },
+    {
+      "period": "in 2019",
+      "organizations": [
+        "Royal Swedish Academy of Sciences"
+      ],
+      "roles": [
+        "professor of Poverty Alleviation and Development Economics"
+      ],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "The press release from the Royal Swedish Academy of Sciences noted: 'Their experimental research methods now entirely dominate development economics.'"
+    },
+    {
+      "period": "January 2020",
+      "organizations": [
+        "University of Calcutta"
+      ],
+      "roles": [],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "He was awarded the Doctor of Letters (Honoris Causa) by the University of Calcutta in January 2020."
+    },
+    {
+      "period": "September 2022",
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Abhijit Banerjee and Esther Duflo received the Golden Plate Award of the American Academy of Achievement in September 2022."
+    },
+    {
+      "period": "15 October 2019, 1961",
+      "organizations": [
+        "The New York Times"
+      ],
+      "roles": [
+        "Nobel Laureate"
+      ],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "'When Nobel Laureate Abhijit Banerjee spent 10 days in Tihar jail'. India Today. 14 October 2019. Retrieved 30 November 2023."
+    },
+    {
+      "period": "November 2008",
+      "organizations": [
+        "National Bureau of Economic Research"
+      ],
+      "roles": [
+        "economist"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Banerjee, Abhijit V; Duflo, Esther (November 2008). 'The Experimental Approach to Development Economics'. nber.org. Working Paper Series. National Bureau of Economic Research."
+    },
+    {
+      "period": "26 June 2012",
+      "organizations": [
+        "UCLA Anderson School of Management"
+      ],
+      "roles": [],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "UCLA Anderson School of Management. 26 June 2012"
+    },
+    {
+      "period": "9 January 2019",
+      "organizations": [
+        "Business Standard"
+      ],
+      "roles": [
+        "MIT economist"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Business Standard. 9 January 2019"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "Econometric Society"
+      ],
+      "roles": [
+        "fellow of the Econometric Society"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "Banerjee is a fellow of the Econometric Society"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "National Academy of Sciences"
+      ],
+      "roles": [
+        "member of the National Academy of Sciences"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "a member of the National Academy of Sciences"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "fellow of the American Academy of Arts and Sciences"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "a fellow of the American Academy of Arts and Sciences"
+    },
+    {
+      "period": "That same year",
+      "organizations": [],
+      "roles": [],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "That same year, was awarded the Nobel Prize in Economics, together with Esther Duflo and Michael Kremer,"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "Abdul Latif Jameel Poverty Action Lab"
+      ],
+      "roles": [
+        "co-founder of Abdul Latif Jameel Poverty Action Lab"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Banerjee is a co-founder of Abdul Latif Jameel Poverty Action Lab (along with economists Esther Duflo and Sendhil Mullainathan)."
+    },
+    {
+      "period": "",
+      "organizations": [
+        "MIT"
+      ],
+      "roles": [
+        "MIT professor"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "The couple would maintain part-time positions at MIT."
+    },
+    {
+      "period": "",
+      "organizations": [
+        "Massachusetts Institute of Technology"
+      ],
+      "roles": [],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "Abhijit Vinayak Banerjee Economics Department MIT."
+    },
+    {
+      "period": "",
+      "organizations": [
+        "Presidency University, Kolkata"
+      ],
+      "roles": [
+        "alumni"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Presidency University, Kolkata alumni"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "University of Calcutta"
+      ],
+      "roles": [
+        "alumni"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "University of Calcutta alumni"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "Jawaharlal Nehru University"
+      ],
+      "roles": [
+        "alumni"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Jawaharlal Nehru University alumni"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "Harvard Graduate School of Arts and Sciences"
+      ],
+      "roles": [
+        "alumni"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Harvard Graduate School of Arts and Sciences alumni"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "MIT School of Humanities, Arts, and Social Sciences"
+      ],
+      "roles": [
+        "faculty"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "MIT School of Humanities, Arts, and Social Sciences faculty"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "Fellows"
+      ],
+      "type": "award",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "Fellows of the American Academy of Arts and Sciences"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "British Museum"
+      ],
+      "roles": [
+        "Trustees"
+      ],
+      "type": "career_position",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Trustees of the British Museum"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "International Growth Centre"
+      ],
+      "roles": [
+        "economist"
+      ],
+      "type": "career_position",
+      "confidence": "medium",
+      "source_count": 1,
+      "key_quote": "'Abhijit Banerjee'. International Growth Centre. Retrieved 30 November 2023."
+    },
+    {
+      "period": "",
+      "organizations": [
+        "Infosys Prize"
+      ],
+      "roles": [],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Infosys Prize 2009 – Social Sciences – Economics"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "CEPR"
+      ],
+      "roles": [],
+      "type": "career_position",
+      "confidence": "low",
+      "source_count": 1,
+      "key_quote": "VoxEU. CEPR"
+    },
+    {
+      "period": "",
+      "organizations": [
+        "VoxEU"
+      ],
+      "roles": [],
+      "type": "career_position",
+      "confidence": "low",
+      "source_count": 1,
+      "key_quote": "VoxEU. CEPR"
+    },
+    {
+      "period": "",
+      "organizations": [],
+      "roles": [
+        "Nobel Laureates"
+      ],
+      "type": "award",
+      "confidence": "high",
+      "source_count": 1,
+      "key_quote": "Abhijit Banerjee, Esther Duflo and Michael Kremer win 2019 Nobel Economics Prize"
+    }
+  ],
+  "organizations_index": [
+    {
+      "name": "American Academy of Arts and Sciences",
+      "also_known_as": [],
+      "roles_held": [
+        "fellow of the American Academy of Arts and Sciences",
+        "Fellows"
+      ],
+      "time_periods": [],
+      "mentions": 2,
+      "appeared_in_sources": 2
+    },
+    {
+      "name": "Plaksha University",
+      "also_known_as": [],
+      "roles_held": [
+        "serves on the academic advisory board of Plaksha University"
+      ],
+      "time_periods": [
+        "in 2010"
+      ],
+      "mentions": 2,
+      "appeared_in_sources": 2
+    },
+    {
+      "name": "MIT",
+      "also_known_as": [],
+      "roles_held": [
+        "MIT professor",
+        "professor of Poverty Alleviation and Development Economics"
+      ],
+      "time_periods": [
+        "in 1999"
+      ],
+      "mentions": 2,
+      "appeared_in_sources": 2
+    },
+    {
+      "name": "University of Calcutta",
+      "also_known_as": [],
+      "roles_held": [
+        "alumni"
+      ],
+      "time_periods": [
+        "January 2020"
+      ],
+      "mentions": 2,
+      "appeared_in_sources": 2
+    },
+    {
+      "name": "Sloan Research Fellowship",
+      "also_known_as": [],
+      "roles_held": [
+        "fellow of the Econometric Society",
+        "fellow of the American Academy of Arts and Sciences",
+        "member of the National Academy of Sciences"
+      ],
+      "time_periods": [
+        "In 1994"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Econometric Society",
+      "also_known_as": [],
+      "roles_held": [
+        "fellow of the Econometric Society"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "National Academy of Sciences",
+      "also_known_as": [],
+      "roles_held": [
+        "member of the National Academy of Sciences"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "University of Zurich",
+      "also_known_as": [],
+      "roles_held": [
+        "serves on the academic advisory board of Plaksha University",
+        "co-founder of Abdul Latif Jameel Poverty Action Lab",
+        "lecturer of literature at MIT",
+        "co-direct the newly-established Lemann Center for Development, Education and Public Policy"
+      ],
+      "time_periods": [
+        "in July 2026"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "UZH Faculty of Business, Economics, and Informatics",
+      "also_known_as": [],
+      "roles_held": [
+        "co-direct the newly-established Lemann Center for Development, Education and Public Policy"
+      ],
+      "time_periods": [
+        "in July 2026"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Lemann Center for Development, Education and Public Policy",
+      "also_known_as": [],
+      "roles_held": [
+        "co-direct the newly-established Lemann Center for Development, Education and Public Policy"
+      ],
+      "time_periods": [
+        "in July 2026"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Abdul Latif Jameel Poverty Action Lab",
+      "also_known_as": [],
+      "roles_held": [
+        "co-founder of Abdul Latif Jameel Poverty Action Lab"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Royal Swedish Academy of Sciences",
+      "also_known_as": [],
+      "roles_held": [
+        "professor of Poverty Alleviation and Development Economics"
+      ],
+      "time_periods": [
+        "in 2019"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "American Academy of Achievement",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [
+        "September 2022"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Presidency University, Kolkata",
+      "also_known_as": [],
+      "roles_held": [
+        "alumni"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Jawaharlal Nehru University",
+      "also_known_as": [],
+      "roles_held": [
+        "alumni"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Harvard Graduate School of Arts and Sciences",
+      "also_known_as": [],
+      "roles_held": [
+        "alumni"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "MIT School of Humanities, Arts, and Social Sciences",
+      "also_known_as": [],
+      "roles_held": [
+        "faculty"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "British Museum",
+      "also_known_as": [],
+      "roles_held": [
+        "Trustees"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "The New York Times",
+      "also_known_as": [],
+      "roles_held": [
+        "Nobel Laureate"
+      ],
+      "time_periods": [
+        "15 October 2019",
+        "1961"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "International Growth Centre",
+      "also_known_as": [],
+      "roles_held": [
+        "economist"
+      ],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "National Bureau of Economic Research",
+      "also_known_as": [],
+      "roles_held": [
+        "economist"
+      ],
+      "time_periods": [
+        "November 2008"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Infosys Prize",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "UCLA Anderson School of Management",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [
+        "26 June 2012"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "CEPR",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "VoxEU",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Malcolm & Elizabeth Adiseshiah Trust",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Madras Institute of Development Studies (MIDS)",
+      "also_known_as": [],
+      "roles_held": [],
+      "time_periods": [],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    },
+    {
+      "name": "Business Standard",
+      "also_known_as": [],
+      "roles_held": [
+        "MIT economist"
+      ],
+      "time_periods": [
+        "9 January 2019"
+      ],
+      "mentions": 1,
+      "appeared_in_sources": 1
+    }
+  ],
+  "roles_summary": [
+    {
+      "role": "alumni",
+      "organizations": [
+        "Harvard Graduate School of Arts and Sciences",
+        "Jawaharlal Nehru University",
+        "University of Calcutta",
+        "Presidency University, Kolkata"
+      ],
+      "time_periods": [],
+      "occurrences": 4
+    },
+    {
+      "role": "co-direct the newly-established Lemann Center for Development, Education and Public Policy",
+      "organizations": [
+        "University of Zurich",
+        "Lemann Center for Development, Education and Public Policy",
+        "UZH Faculty of Business, Economics, and Informatics"
+      ],
+      "time_periods": [
+        "in July 2026"
+      ],
+      "occurrences": 3
+    },
+    {
+      "role": "fellow of the Econometric Society",
+      "organizations": [
+        "Econometric Society",
+        "Sloan Research Fellowship"
+      ],
+      "time_periods": [
+        "In 1994"
+      ],
+      "occurrences": 2
+    },
+    {
+      "role": "member of the National Academy of Sciences",
+      "organizations": [
+        "Sloan Research Fellowship",
+        "National Academy of Sciences"
+      ],
+      "time_periods": [
+        "In 1994"
+      ],
+      "occurrences": 2
+    },
+    {
+      "role": "fellow of the American Academy of Arts and Sciences",
+      "organizations": [
+        "Sloan Research Fellowship",
+        "American Academy of Arts and Sciences"
+      ],
+      "time_periods": [
+        "In 1994"
+      ],
+      "occurrences": 2
+    },
+    {
+      "role": "co-founder of Abdul Latif Jameel Poverty Action Lab",
+      "organizations": [
+        "University of Zurich",
+        "Abdul Latif Jameel Poverty Action Lab"
+      ],
+      "time_periods": [
+        "in July 2026"
+      ],
+      "occurrences": 2
+    },
+    {
+      "role": "serves on the academic advisory board of Plaksha University",
+      "organizations": [
+        "Plaksha University",
+        "University of Zurich"
+      ],
+      "time_periods": [
+        "in July 2026",
+        "in 2010"
+      ],
+      "occurrences": 2
+    },
+    {
+      "role": "professor of Poverty Alleviation and Development Economics",
+      "organizations": [
+        "Royal Swedish Academy of Sciences",
+        "MIT"
+      ],
+      "time_periods": [
+        "in 2019",
+        "in 1999"
+      ],
+      "occurrences": 2
+    },
+    {
+      "role": "economist",
+      "organizations": [
+        "International Growth Centre",
+        "National Bureau of Economic Research"
+      ],
+      "time_periods": [
+        "November 2008"
+      ],
+      "occurrences": 2
+    },
+    {
+      "role": "lecturer of literature at MIT",
+      "organizations": [
+        "University of Zurich"
+      ],
+      "time_periods": [
+        "in July 2026"
+      ],
+      "occurrences": 1
+    },
+    {
+      "role": "MIT professor",
+      "organizations": [
+        "MIT"
+      ],
+      "time_periods": [],
+      "occurrences": 1
+    },
+    {
+      "role": "faculty",
+      "organizations": [
+        "MIT School of Humanities, Arts, and Social Sciences"
+      ],
+      "time_periods": [],
+      "occurrences": 1
+    },
+    {
+      "role": "Fellows",
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "time_periods": [],
+      "occurrences": 1
+    },
+    {
+      "role": "Trustees",
+      "organizations": [
+        "British Museum"
+      ],
+      "time_periods": [],
+      "occurrences": 1
+    },
+    {
+      "role": "Nobel Laureate",
+      "organizations": [
+        "The New York Times"
+      ],
+      "time_periods": [
+        "15 October 2019",
+        "1961"
+      ],
+      "occurrences": 1
+    },
+    {
+      "role": "MIT economist",
+      "organizations": [
+        "Business Standard"
+      ],
+      "time_periods": [
+        "9 January 2019"
+      ],
+      "occurrences": 1
+    },
+    {
+      "role": "Nobel Laureates",
+      "organizations": [],
+      "time_periods": [],
+      "occurrences": 1
+    }
+  ]
+}

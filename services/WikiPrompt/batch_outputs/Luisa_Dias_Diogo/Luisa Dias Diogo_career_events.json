@@ -1,0 +1,373 @@
+{
+  "person_name": "Luísa Dias Diogo",
+  "career_events": [
+    {
+      "organizations": [
+        "Eduardo Mondlane University"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree in economics graduate"
+      ],
+      "time_markers": [
+        "1983"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Diogo studied economics at Eduardo Mondlane University in Maputo. She graduated with a bachelor's degree in 1983."
+      ]
+    },
+    {
+      "organizations": [
+        "School of Oriental and African Studies",
+        "University of London"
+      ],
+      "roles": [
+        "student",
+        "master's degree in financial economics graduate"
+      ],
+      "time_markers": [
+        "1992"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She went on to obtain a master's degree in financial economics at the School of Oriental and African Studies, University of London in 1992."
+      ]
+    },
+    {
+      "organizations": [
+        "University of London"
+      ],
+      "roles": [
+        "PhD graduate"
+      ],
+      "time_markers": [
+        "24 November 2011"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "PhD( University of London 2011 24 November )"
+      ]
+    },
+    {
+      "organizations": [
+        "Mozambique Finance Ministry"
+      ],
+      "roles": [
+        "staff member"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Diogo began working in the Mozambique Finance Ministry in 1980 while she was still a college student."
+      ]
+    },
+    {
+      "organizations": [
+        "Mozambique Finance Ministry"
+      ],
+      "roles": [
+        "head of department"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She became head of department in 1986"
+      ]
+    },
+    {
+      "organizations": [
+        "Mozambique Finance Ministry"
+      ],
+      "roles": [
+        "national budget director"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and national budget director in 1989."
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "programme officer in Mozambique"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She then went to work for the World Bank, as the programme officer in Mozambique."
+      ]
+    },
+    {
+      "organizations": [
+        "FRELIMO",
+        "Government of Mozambique"
+      ],
+      "roles": [
+        "Deputy Minister of Finance"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1994 she joined the FRELIMO government as Deputy Minister of Finance under Mozambican President Joaquim Chissano."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Mozambique"
+      ],
+      "roles": [
+        "Minister of Planning and Finance",
+        "Minister of Economy and Finance"
+      ],
+      "time_markers": [
+        "2000-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before becoming prime minister, she was Minister of Planning and Finance, and she continued to hold that post until February 2005.",
+        "Minister of Economy and Finance In office 2000–2005"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "United Nations Commission on the Private Sector and Development"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2003, United Nations Secretary-General Kofi Annan appointed Diogo to the United Nations Commission on the Private Sector and Development"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Mozambique"
+      ],
+      "roles": [
+        "Prime Minister of Mozambique"
+      ],
+      "time_markers": [
+        "17 February 2004 – 16 January 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Luísa Dias Diogo (born 11 April 1958) is a Mozambican politician who served as Prime Minister of Mozambique from February 2004 to January 2010.",
+        "In office 17 February 2004 – 16 January 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "British Labour Party"
+      ],
+      "roles": [
+        "international guest speaker at Labour Party Conference"
+      ],
+      "time_markers": [
+        "September 2005"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2005, Diogo was the international guest speaker at the British Labour Party Conference."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, Annan appointed Diogo to co-chair – alongside Shaukat Aziz and Jens Stoltenberg – a High-level Panel on United Nations Systemwide Coherence"
+      ]
+    },
+    {
+      "organizations": [
+        "Commission on Effective Development Cooperation with Africa"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "April to October 2008"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also a member of the Commission on Effective Development Cooperation with Africa which was set up by the Prime Minister Anders Fogh Rasmussen of Denmark and held meetings between April and October 2008."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-Level Panel on Global Sustainability"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "August 2010"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In August 2010, UN Secretary-General Ban Ki-moon appointed Diogo to the High-Level Panel on Global Sustainability"
+      ]
+    },
+    {
+      "organizations": [
+        "FRELIMO"
+      ],
+      "roles": [
+        "presidential candidate (internal election)"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "political_campaign",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, Diogo came second to Filipe Nyusi in FRELIMO's elections for candidate in that year's general elections."
+      ]
+    },
+    {
+      "organizations": [
+        "Development Assistance Committee",
+        "High Level Panel on the Future of the Development Assistance Committee"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2016, Diogo was appointed by Erik Solheim, the Chairman of the Development Assistance Committee, to serve on the High Level Panel on the Future of the Development Assistance Committee"
+      ]
+    },
+    {
+      "organizations": [
+        "Absa Bank Mozambique"
+      ],
+      "roles": [
+        "Chairwoman of the Board"
+      ],
+      "time_markers": [
+        "since 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Absa Bank Mozambique, Chairwoman of the Board (since 2012)"
+      ]
+    },
+    {
+      "organizations": [
+        "African Union Foundation"
+      ],
+      "roles": [
+        "Member of the Council"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "African Union Foundation, Member of the Council"
+      ]
+    },
+    {
+      "organizations": [
+        "Brenthurst Foundation"
+      ],
+      "roles": [
+        "Member of the Advisory Board"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brenthurst Foundation, Member of the Advisory Board"
+      ]
+    },
+    {
+      "organizations": [
+        "Club de Madrid"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Club de Madrid, Member"
+      ]
+    },
+    {
+      "organizations": [
+        "Council of Women World Leaders"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Council of Women World Leaders, Member"
+      ]
+    },
+    {
+      "organizations": [
+        "NOVAFRICA",
+        "Universidade Nova de Lisboa"
+      ],
+      "roles": [
+        "Member of the Advisory Board"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "NOVAFRICA of the Universidade Nova de Lisboa, Member of the Advisory Board"
+      ]
+    }
+  ]
+}

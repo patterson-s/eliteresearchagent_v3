@@ -1,0 +1,540 @@
+{
+  "person_name": "Melinda French Gates",
+  "career_events": [
+    {
+      "organizations": [
+        "Ursuline Academy of Dallas"
+      ],
+      "roles": [
+        "student",
+        "valedictorian"
+      ],
+      "time_markers": [
+        "graduated 1982"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "French Gates graduated as valedictorian from Ursuline Academy of Dallas in 1982."
+      ]
+    },
+    {
+      "organizations": [
+        "Duke University"
+      ],
+      "roles": [
+        "student",
+        "BA in Computer Science and Economics"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She earned a bachelor's degree in computer science and economics from Duke University in 1986"
+      ]
+    },
+    {
+      "organizations": [
+        "Duke University",
+        "Fuqua School of Business"
+      ],
+      "roles": [
+        "student",
+        "MBA graduate"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and an MBA from Duke's Fuqua School of Business in 1987."
+      ]
+    },
+    {
+      "organizations": [
+        "Kappa Alpha Theta"
+      ],
+      "roles": [
+        "sorority member, Beta Rho Chapter"
+      ],
+      "time_markers": [
+        "at Duke"
+      ],
+      "event_type": "affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At Duke, French Gates was a member of the Kappa Alpha Theta sorority, Beta Rho Chapter."
+      ]
+    },
+    {
+      "organizations": [
+        "Microsoft"
+      ],
+      "roles": [
+        "multimedia product developer",
+        "marketing manager"
+      ],
+      "time_markers": [
+        "joined 1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Shortly after joining Microsoft in 1987 as a multimedia product developer",
+        "After graduation, she became a marketing manager with Microsoft, being responsible for the development of multimedia products."
+      ]
+    },
+    {
+      "organizations": [
+        "Microsoft"
+      ],
+      "roles": [
+        "General Manager of Information Products"
+      ],
+      "time_markers": [
+        "early 1990s",
+        "held until 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the early 1990s, French Gates was appointed as General Manager of Information Products, a position which she held until 1996."
+      ]
+    },
+    {
+      "organizations": [
+        "Microsoft"
+      ],
+      "roles": [
+        "employee departure"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She left Microsoft that year, reportedly, to focus on starting a family."
+      ]
+    },
+    {
+      "organizations": [
+        "Duke University"
+      ],
+      "roles": [
+        "board of trustees member"
+      ],
+      "time_markers": [
+        "1996 to 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "French Gates served as a member of Duke University's board of trustees from 1996 to 2003."
+      ]
+    },
+    {
+      "organizations": [
+        "Bill & Melinda Gates Foundation"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "2000 to 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2000 to 2024, she and Gates co-chaired the Bill & Melinda Gates Foundation, the world's largest private charitable organization."
+      ]
+    },
+    {
+      "organizations": [
+        "Graham Holdings",
+        "The Washington Post Company"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "since 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "has held a seat on the board of directors of Graham Holdings (formerly The Washington Post Company) since 2004."
+      ]
+    },
+    {
+      "organizations": [
+        "Drugstore.com"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "until August 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also on the board of directors at Drugstore.com but left in August 2006 to focus on philanthropic projects."
+      ]
+    },
+    {
+      "organizations": [
+        "Pivotal Ventures"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2015, French Gates founded Pivotal Ventures as a separate, independent organization to identify and implement innovative solutions to problems affecting U.S. women and families."
+      ]
+    },
+    {
+      "organizations": [
+        "Bill & Melinda Gates Foundation"
+      ],
+      "roles": [
+        "resignation as co-chair"
+      ],
+      "time_markers": [
+        "announced May 13, 2024",
+        "effective June 7, 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On May 13, 2024, French Gates resigned as co-chair of the Bill and Melinda Gates Foundation, to be effective June 7."
+      ]
+    },
+    {
+      "organizations": [
+        "American Library Association"
+      ],
+      "roles": [
+        "Honorary Membership recipient"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1998, Melinda and Bill Gates were each honored with an American Library Association Honorary Membership."
+      ]
+    },
+    {
+      "organizations": [
+        "Jefferson Awards"
+      ],
+      "roles": [
+        "Award for Greatest Public Service Benefiting the Disadvantaged recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2002, Melinda and Bill Gates received the Award for Greatest Public Service Benefiting the Disadvantaged, an award given out, annually, by Jefferson Awards."
+      ]
+    },
+    {
+      "organizations": [
+        "Time magazine"
+      ],
+      "roles": [
+        "Person of the Year (with Bill Gates and Bono)"
+      ],
+      "time_markers": [
+        "December 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2005, Melinda and Bill were named, by Time, as Persons of the Year, alongside Bono."
+      ]
+    },
+    {
+      "organizations": [
+        "Spain"
+      ],
+      "roles": [
+        "Prince of Asturias Award for International Cooperation recipient"
+      ],
+      "time_markers": [
+        "May 4, 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Melinda and Bill Gates received the Spanish Prince of Asturias Award for International Cooperation on May 4, 2006, in recognition of their world impact through charitable giving."
+      ]
+    },
+    {
+      "organizations": [
+        "Seattle Children's Hospital"
+      ],
+      "roles": [
+        "honoree - Melinda French Gates Ambulatory Care building dedication",
+        "fundraising campaign chair"
+      ],
+      "time_markers": [
+        "May 2006"
+      ],
+      "event_type": "recognition",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2006, in honor of her work to improve the lives of children locally and around the world, Seattle Children's Hospital dedicated the Melinda French Gates Ambulatory Care building",
+        "She chaired a campaign for the hospital to fundraise $300 million to expand facilities"
+      ]
+    },
+    {
+      "organizations": [
+        "Mexico"
+      ],
+      "roles": [
+        "Insignia of the Order of the Aztec Eagle recipient"
+      ],
+      "time_markers": [
+        "November 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2006, French Gates was awarded the Insignia of the Order of the Aztec Eagle, together, with Bill, who was awarded the Placard of the same order, both for their philanthropic work around the world in the areas of health and education, particularly in Mexico"
+      ]
+    },
+    {
+      "organizations": [
+        "Karolinska Institute"
+      ],
+      "roles": [
+        "honorary doctorate in medicine recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2007, French Gates received an honorary doctorate in medicine from the Karolinska Institute in Stockholm, Sweden."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Cambridge"
+      ],
+      "roles": [
+        "honorary degree recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2009, she and her then-husband received honorary degrees from the University of Cambridge."
+      ]
+    },
+    {
+      "organizations": [
+        "Duke University"
+      ],
+      "roles": [
+        "honorary Doctor of Humane Letters recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she was awarded an honorary Doctor of Humane Letters by Duke University, in 2013, in honor of her philanthropic commitment."
+      ]
+    },
+    {
+      "organizations": [
+        "UCSF"
+      ],
+      "roles": [
+        "UCSF medal recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was awarded the UCSF medal in 2013."
+      ]
+    },
+    {
+      "organizations": [
+        "United Kingdom"
+      ],
+      "roles": [
+        "honorary Dame Commander of the Order of the British Empire (DBE)"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "French Gates was appointed an honorary Dame Commander of the Order of the British Empire (DBE) in 2013, for services to philanthropy and international development."
+      ]
+    },
+    {
+      "organizations": [
+        "India"
+      ],
+      "roles": [
+        "Padma Bhushan recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In recognition of the foundation's philanthropic activities in India, Bill and Melinda, jointly, received India's third-highest civilian honor, Padma Bhushan, in 2015."
+      ]
+    },
+    {
+      "organizations": [
+        "United States"
+      ],
+      "roles": [
+        "Presidential Medal of Freedom recipient"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2016, President Barack Obama awarded French Gates and her husband with the Presidential Medal of Freedom, for their philanthropic efforts."
+      ]
+    },
+    {
+      "organizations": [
+        "France"
+      ],
+      "roles": [
+        "Commander of the Legion of Honour recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2017, President François Hollande awarded France's highest national honor to French Gates and her husband, for their charitable efforts, i.e. as Commander of the Legion of Honour."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Association of Germany"
+      ],
+      "roles": [
+        "Otto Hahn Peace Medal 2016 recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "That year, she was awarded the Otto Hahn Peace Medal 2016 of the United Nations Association of Germany (DGVN), Berlin-Brandenburg, 'for outstanding services to peace and international understanding'"
+      ]
+    },
+    {
+      "organizations": [
+        "Grace Hopper Celebration of Women in Computing"
+      ],
+      "roles": [
+        "speaker"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "French Gates also spoke about this topic at the 2017 Grace Hopper Celebration of Women in Computing, an annual series of conferences."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "author"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, French Gates debuted as an author with the book The Moment of Lift: How Empowering Women Changes the World."
+      ]
+    },
+    {
+      "organizations": [
+        "BBC"
+      ],
+      "roles": [
+        "BBC's 100 Women of 2021 honoree"
+      ],
+      "time_markers": [
+        "2021"
+      ],
+      "event_type": "recognition",
+      "confidence": "high",
+      "supporting_quotes": [
+        "French Gates was recognized as one of the BBC's 100 women of 2021."
+      ]
+    },
+    {
+      "organizations": [
+        "Stanford University"
+      ],
+      "roles": [
+        "Commencement speaker"
+      ],
+      "time_markers": [
+        "June 2024"
+      ],
+      "event_type": "speaking_engagement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2024, she delivered the Commencement address at Stanford University."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "author"
+      ],
+      "time_markers": [
+        "April 2025"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In April 2025, she published a memoir, The Next Day: Transition, Change and Moving Forward."
+      ]
+    }
+  ]
+}

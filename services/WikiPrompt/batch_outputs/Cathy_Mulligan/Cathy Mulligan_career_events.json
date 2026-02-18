@@ -1,0 +1,676 @@
+{
+  "person_name": "Carey Mulligan",
+  "career_events": [
+    {
+      "organizations": [
+        "Royal Court Theatre"
+      ],
+      "roles": [
+        "actress in stage production"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2004, Mulligan made her stage debut in the play Forty Winks at the Royal Court Theatre in London."
+      ]
+    },
+    {
+      "organizations": [
+        "Pride & Prejudice (film)"
+      ],
+      "roles": [
+        "Kitty Bennet"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She made her film debut the following year in Joe Wright's 2005 film adaptation of the Jane Austen novel Pride & Prejudice, portraying Kitty Bennet alongside Keira Knightley."
+      ]
+    },
+    {
+      "organizations": [
+        "BBC",
+        "Bleak House (TV series)"
+      ],
+      "roles": [
+        "Ada Clare"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Later that year, she won the role of orphan Ada Clare in the BAFTA award-winning BBC adaption of Charles Dickens' Bleak House, her television debut."
+      ]
+    },
+    {
+      "organizations": [
+        "Constellation Awards"
+      ],
+      "roles": [
+        "Best Female Performance in a 2007 Science Fiction Television Episode winner"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Doctor Who episode 'Blink', which won her the Constellation Award for Best Female Performance in a 2007 Science Fiction Television Episode."
+      ]
+    },
+    {
+      "organizations": [
+        "Broadway",
+        "The Seagull (play)"
+      ],
+      "roles": [
+        "Nina"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She made her Broadway debut playing Nina in the revival of Anton Chekhov's The Seagull (2008)."
+      ]
+    },
+    {
+      "organizations": [
+        "Drama Desk Awards"
+      ],
+      "roles": [
+        "nominee"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her debut Broadway performance in the 2008 American transfer of The Seagull, she was nominated for a Drama Desk Award"
+      ]
+    },
+    {
+      "organizations": [
+        "BAFTA",
+        "An Education (film)"
+      ],
+      "roles": [
+        "BAFTA Award for Best Actress winner",
+        "Jenny"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan's breakthrough role came as a 1960s schoolgirl in the coming-of-age film An Education (2009), for which she won the BAFTA Award for Best Actress"
+      ]
+    },
+    {
+      "organizations": [
+        "Academy Awards"
+      ],
+      "roles": [
+        "Academy Award for Best Actress nominee"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and received a nomination for the Academy Award for Best Actress."
+      ]
+    },
+    {
+      "organizations": [
+        "BAFTA"
+      ],
+      "roles": [
+        "BAFTA Rising Star Award nominee"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan received a nomination for the BAFTA Rising Star Award, which is voted on by the British public."
+      ]
+    },
+    {
+      "organizations": [
+        "Academy of Motion Picture Arts and Sciences"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2010, she was invited to join the Academy of Motion Picture Arts and Sciences"
+      ]
+    },
+    {
+      "organizations": [
+        "British Independent Film Awards",
+        "Never Let Me Go (film)"
+      ],
+      "roles": [
+        "British Independent Award winner"
+      ],
+      "time_markers": [
+        "2010"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "That same year she starred in the film adaptation of Kazuo Ishiguro's acclaimed novel Never Let Me Go with Keira Knightley, and Andrew Garfield. She won a British Independent Award for her performance."
+      ]
+    },
+    {
+      "organizations": [
+        "Atlantic Theater Company",
+        "Through a Glass, Darkly (play)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "May-July 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She returned to the stage in the Atlantic Theater Company's off-Broadway play adaptation of Ingmar Bergman's Through a Glass, Darkly, from 13 May – 3 July 2011."
+      ]
+    },
+    {
+      "organizations": [
+        "Drama Desk Awards"
+      ],
+      "roles": [
+        "Drama Desk Award for Outstanding Actress in a Play nominee"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance she was nominated for the Drama Desk Award for Outstanding Actress in a Play."
+      ]
+    },
+    {
+      "organizations": [
+        "BAFTA",
+        "Drive (film)"
+      ],
+      "roles": [
+        "BAFTA Award for Best Actress in a Supporting Role nominee"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She received her second nomination for the BAFTA Award for Best Actress in a Supporting Role—for the film Drive"
+      ]
+    },
+    {
+      "organizations": [
+        "British Independent Film Awards",
+        "Shame (film)"
+      ],
+      "roles": [
+        "BIFA for Best Supporting Actress nominee",
+        "Sissy"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance in Shame, she received critical praise as well as a nomination for the BIFA for Best Supporting Actress."
+      ]
+    },
+    {
+      "organizations": [
+        "Met Gala"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "May 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2012, she was a co-chair, alongside Anna Wintour, for the 2012 Met Ball Gala themed Schiaparelli and Prada: Impossible Conversations."
+      ]
+    },
+    {
+      "organizations": [
+        "Alzheimer's Society"
+      ],
+      "roles": [
+        "ambassador"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan became the ambassador of the Alzheimer's Society in 2012, with the goal of raising awareness and research funding for Alzheimers and dementia.",
+        "Mulligan has been an ambassador for the Alzheimer's Society since 2012"
+      ]
+    },
+    {
+      "organizations": [
+        "War Child"
+      ],
+      "roles": [
+        "ambassador"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "philanthropy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, Mulligan became an ambassador for the charity War Child",
+        "and an ambassador for War Child since 2014"
+      ]
+    },
+    {
+      "organizations": [
+        "Wyndham's Theatre",
+        "Skylight (play)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2014, she returned to the stage, starring in the London revival of the David Hare play Skylight with Bill Nighy and Matthew Beard, directed by Stephen Daldry, at Wyndham's Theatre in London's West End."
+      ]
+    },
+    {
+      "organizations": [
+        "Evening Standard Theatre Awards"
+      ],
+      "roles": [
+        "Revival of the Year winner (production)"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "It won the 2014 Evening Standard Theatre Award for Revival of the Year"
+      ]
+    },
+    {
+      "organizations": [
+        "Olivier Awards"
+      ],
+      "roles": [
+        "Best Revival nominee (production)"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was nominated for the 2014 Olivier Award for Best Revival."
+      ]
+    },
+    {
+      "organizations": [
+        "John Golden Theatre",
+        "Broadway",
+        "Skylight (play)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "April 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She followed the production when it transferred to Broadway at the John Golden Theatre in April 2015."
+      ]
+    },
+    {
+      "organizations": [
+        "Tony Awards"
+      ],
+      "roles": [
+        "Tony Award for Best Performance by a Leading Actress in a Play nominee"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she earned her first Tony Award nomination for Best Performance by a Leading Actress in a Play.",
+        "She was appointed Commander of the Order of the British Empire (CBE) in 2025 for services to drama."
+      ]
+    },
+    {
+      "organizations": [
+        "Independent Spirit Awards",
+        "Wildlife (film)"
+      ],
+      "roles": [
+        "Independent Spirit Award for Best Female Lead nominee"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance, Mulligan received a nomination for the Independent Spirit Award for Best Female Lead."
+      ]
+    },
+    {
+      "organizations": [
+        "BBC Two",
+        "Collateral (TV series)"
+      ],
+      "roles": [
+        "Detective Inspector"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan stepped back into television as a Detective Inspector in Collateral, a BBC Two limited series"
+      ]
+    },
+    {
+      "organizations": [
+        "Minetta Lane Theatre",
+        "Girls and Boys (play)"
+      ],
+      "roles": [
+        "solo performer"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan starred off Broadway in the solo show, Girls and Boys at the Minetta Lane Theatre."
+      ]
+    },
+    {
+      "organizations": [
+        "Drama Desk Awards"
+      ],
+      "roles": [
+        "Drama Desk Award for Outstanding Solo Performance nominee"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was nominated for the Drama Desk Award for Outstanding Solo Performance."
+      ]
+    },
+    {
+      "organizations": [
+        "Promising Young Woman (film)"
+      ],
+      "roles": [
+        "lead actress",
+        "executive producer"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2020, Mulligan starred in Emerald Fennell's black comedy thriller film Promising Young Woman, alongside Bo Burnham and Alison Brie. She also served as an executive producer on the film"
+      ]
+    },
+    {
+      "organizations": [
+        "Academy Awards"
+      ],
+      "roles": [
+        "Academy Award for Best Actress nominee"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance, she received her second nomination for the Academy Award for Best Actress"
+      ]
+    },
+    {
+      "organizations": [
+        "Critics' Choice Movie Awards"
+      ],
+      "roles": [
+        "Critics' Choice Movie Award for Best Actress winner"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and won the Critics' Choice Movie Award for Best Actress, among many other accolades."
+      ]
+    },
+    {
+      "organizations": [
+        "Independent Spirit Awards"
+      ],
+      "roles": [
+        "Best Female Lead winner"
+      ],
+      "time_markers": [
+        "2021",
+        "36th Independent Spirit Awards"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After winning Best Female Lead at the 36th Independent Spirit Awards, Mulligan dedicated her award to the late Helen McCrory."
+      ]
+    },
+    {
+      "organizations": [
+        "Golden Globe Awards",
+        "She Said (film)"
+      ],
+      "roles": [
+        "Golden Globe Best Supporting Actress nominee",
+        "Megan Twohey"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her performance, Mulligan received a Golden Globe nomination for Best Supporting Actress."
+      ]
+    },
+    {
+      "organizations": [
+        "Academy Awards",
+        "Maestro (film)"
+      ],
+      "roles": [
+        "Academy Award for Best Actress nominee",
+        "Felicia Montealegre"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For her portrayal of Montealegre, she received her third nomination for the Academy Award for Best Actress, among other honours."
+      ]
+    },
+    {
+      "organizations": [
+        "Order of the British Empire"
+      ],
+      "roles": [
+        "Commander of the Order of the British Empire (CBE)"
+      ],
+      "time_markers": [
+        "2025",
+        "2025 New Year Honours"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Commander of the Order of the British Empire (CBE) in the 2025 New Year Honours for services to drama."
+      ]
+    },
+    {
+      "organizations": [
+        "Sundance Film Festival",
+        "The Ballad of Wallis Island (film)"
+      ],
+      "roles": [
+        "lead actress"
+      ],
+      "time_markers": [
+        "January 25, 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The film premiered at the Sundance Film Festival on January 25, 2025."
+      ]
+    },
+    {
+      "organizations": [
+        "Netflix",
+        "Beef (TV series)"
+      ],
+      "roles": [
+        "cast member season 2"
+      ],
+      "time_markers": [
+        "announced 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mulligan will also star on the second season of Netflix's anthology series Beef, alongside Oscar Isaac, Cailee Spaeny, Charles Melton."
+      ]
+    },
+    {
+      "organizations": [
+        "The Chronicles of Narnia film",
+        "Narnia: The Magician's Nephew"
+      ],
+      "roles": [
+        "cast member"
+      ],
+      "time_markers": [
+        "May 2025"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2025, she joined Greta Gerwig's The Chronicles of Narnia film adaptation, which is titled Narnia: The Magician's Nephew"
+      ]
+    },
+    {
+      "organizations": [
+        "Laika",
+        "Wildwood (film)"
+      ],
+      "roles": [
+        "voice actor"
+      ],
+      "time_markers": [
+        "announced"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She will have a voice role in Laika's stop motion animated feature Wildwood"
+      ]
+    },
+    {
+      "organizations": [
+        "Woldingham School"
+      ],
+      "roles": [
+        "student",
+        "student head of drama department"
+      ],
+      "time_markers": [
+        "teenage years"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As a teenager, she was educated at Woldingham School, an independent school in Surrey.",
+        "She was the student head of the drama department there, performing in plays and musicals"
+      ]
+    },
+    {
+      "organizations": [
+        "Ealing Studios"
+      ],
+      "roles": [
+        "errand-runner"
+      ],
+      "time_markers": [
+        "late teens and early twenties"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During her late teens and early twenties, she worked as a pub barmaid and an errand-runner for Ealing Studios between acting jobs."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "person_name": "Fulbert Géro Amoussouga",
+  "career_events": [
+    {
+      "organizations": [
+        "Université d'Abomey-Calavi"
+      ],
+      "roles": [
+        "Professeur titulaire de sciences économiques"
+      ],
+      "specializations": [
+        "économie du développement",
+        "politique monétaire"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Professeur titulaire de sciences économiques, spécialiste en économie du développement et politique monétaire"
+      ]
+    },
+    {
+      "organizations": [
+        "Conseil d'Analyse Économique du Bénin"
+      ],
+      "roles": [
+        "Président"
+      ],
+      "time_markers": [
+        "2006 à octobre 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "il est président du Conseil d'Analyse Économique du Bénin de 2006 à octobre 2013"
+      ]
+    },
+    {
+      "organizations": [
+        "Gouvernement du Bénin",
+        "Présidence de la République du Bénin"
+      ],
+      "roles": [
+        "Ministre à la Présidence de la République chargé de la Coordination des Politiques de mise en œuvre des Objectifs du Millénaire pour le Développement (OMD) et des Objectifs de Développement Durable (ODD)"
+      ],
+      "time_markers": [
+        "octobre 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "il est nommé au sein du gouvernement béninois au poste de Ministre à la Présidence de la République chargé de la Coordination des Politiques de mise en œuvre des Objectifs du Millénaire pour le Développement (OMD) et des Objectifs de Développement Durable (ODD)"
+      ]
+    },
+    {
+      "organizations": [
+        "Gouvernement du Bénin"
+      ],
+      "roles": [
+        "Ministre d'État chargé de la Coordination des Politiques de mise en œuvre des Objectifs de Développement Durable (ODD) et des Grands-Travaux"
+      ],
+      "time_markers": [
+        "juillet 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "En juillet 2015, il est nommé Ministre d'État chargé de la Coordination des Politiques de mise en œuvre des Objectifs de Développement Durable (ODD) et des Grands-Travaux"
+      ]
+    },
+    {
+      "organizations": [
+        "Université d'Abomey-Calavi",
+        "Faculté de sciences Économiques et de Gestion"
+      ],
+      "roles": [
+        "Doyen de la Faculté"
+      ],
+      "time_markers": [
+        "1995 à 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Il est doyen de la Faculté de sciences Économiques et de Gestion de l'université d'Abomey Calavi (Bénin) de 1995 à 2010"
+      ]
+    },
+    {
+      "organizations": [
+        "Conseil Africain et Malgache pour l'Enseignement Supérieur (CAMES)"
+      ],
+      "roles": [
+        "Membre"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Il est membre du Conseil Africain Malgache pour l'Enseignement Supérieur (CAMES)"
+      ]
+    },
+    {
+      "organizations": [
+        "Nations Unies"
+      ],
+      "roles": [
+        "Membre du panel de haut niveau pour l'agenda de développement post-2015"
+      ],
+      "time_markers": [
+        "juillet 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "En juillet 2012 il est nommé par le secrétaire général des Nations unies, membre du panel de haut niveau pour l'agenda de développement post 2015"
+      ]
+    },
+    {
+      "organizations": [
+        "Organisation mondiale du commerce (OMC)",
+        "Université d'Abomey-Calavi"
+      ],
+      "roles": [
+        "Titulaire de la chaire de l'OMC"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Il est le titulaire de la chaire de l'Organisation mondiale du commerce (OMC) logée au sein de l'Université d'Abomey-Calavi du Bénin"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Les Facteurs de performance de l'entreprise",
+      "co_authors": [
+        "Mavor Michel Agbodan"
+      ],
+      "publisher": "John Libbey Eurotext",
+      "date": "30 avril 1995",
+      "pages": 243,
+      "isbn": "978-2742000784"
+    },
+    {
+      "title": "La contribution de la RSE aux objectifs d'un développement durable de l'ONU. Cadre d'analyse et propositions pour les pouvoirs publics des « pays les moins avancés »",
+      "co_authors": [
+        "Marielle Audrey Payaud",
+        "Alain-Charles Martinet"
+      ],
+      "journal": "Revue française de gestion",
+      "volume": 245,
+      "number": 8,
+      "date": "2014",
+      "pages": "133-158"
+    }
+  ]
+}

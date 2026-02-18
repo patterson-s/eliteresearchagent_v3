@@ -1,0 +1,488 @@
+{
+  "person_name": "Louis Michel",
+  "career_events": [
+    {
+      "organizations": [
+        "Provincial School of Jodoigne"
+      ],
+      "roles": [
+        "teacher of English, Dutch and German"
+      ],
+      "time_markers": [
+        "1968-1978"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1968 to 1978, before dedicating his life to his political career, Michel taught English, Dutch and German in the Provincial School of Jodoigne, a rural town 25 miles from Brussels."
+      ]
+    },
+    {
+      "organizations": [
+        "Young Liberals",
+        "Nivelles district"
+      ],
+      "roles": [
+        "chairman"
+      ],
+      "time_markers": [
+        "1967-1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1967 to 1977, Michel was chairman of the Young Liberals in the district of Nivelles."
+      ]
+    },
+    {
+      "organizations": [
+        "Municipality of Jodoigne"
+      ],
+      "roles": [
+        "alderman"
+      ],
+      "time_markers": [
+        "1977-1983"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Then he became alderman in Jodoigne from 1977 to 1983"
+      ]
+    },
+    {
+      "organizations": [
+        "Parti Réformateur Libéral (PRL)"
+      ],
+      "roles": [
+        "secretary-general"
+      ],
+      "time_markers": [
+        "1980-1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "\"secretary-general\" of the Parti Réformateur Libéral (PRL) political party from 1980 to 1982"
+      ]
+    },
+    {
+      "organizations": [
+        "Parti Réformateur Libéral (PRL)"
+      ],
+      "roles": [
+        "chairman"
+      ],
+      "time_markers": [
+        "1982-1990",
+        "1995-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "chairman of the PRL from 1982 to 1990 and from 1995 to 1999."
+      ]
+    },
+    {
+      "organizations": [
+        "Belgian federal parliament"
+      ],
+      "roles": [
+        "representative"
+      ],
+      "time_markers": [
+        "1978-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a member of the Belgian federal parliament as a representative (1978–1999)."
+      ]
+    },
+    {
+      "organizations": [
+        "Municipality of Jodoigne"
+      ],
+      "roles": [
+        "mayor"
+      ],
+      "time_markers": [
+        "1983-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is also the mayor of the municipality of Jodoigne in Walloon Brabant and has been since 1983."
+      ]
+    },
+    {
+      "organizations": [
+        "Belgian Government"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs",
+        "Vice Prime Minister"
+      ],
+      "time_markers": [
+        "12 July 1999 - 18 July 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Michel was the Belgian foreign minister and vice prime minister from 1999 to 2004.",
+        "In office 12 July 1999 – 18 July 2004"
+      ]
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "European Commissioner for Research"
+      ],
+      "time_markers": [
+        "13 September 2004 - 21 November 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 13 September 2004 – 21 November 2004",
+        "Michel completed Busquin's term as the European Commissioner for Science and Research"
+      ]
+    },
+    {
+      "organizations": [
+        "European Commission"
+      ],
+      "roles": [
+        "European Commissioner for Development and Humanitarian Aid"
+      ],
+      "time_markers": [
+        "22 November 2004 - 17 July 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 22 November 2004 – 17 July 2009",
+        "He served in the government of Belgium as minister of foreign affairs from 1999 to 2004 and was European Commissioner for Development and Humanitarian Aid from 2004 to 2009."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan appointed him to a High-level Panel on United Nations Systemwide Coherence, which was set up to explore how the United Nations system could work more coherently and effectively across the world in the areas of development, humanitarian assistance and the environment."
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "Member of the European Parliament"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2009 to 2019, he was a Member of the European Parliament.",
+        "He resigned as Commissioner in July 2009 to become a Member of the European Parliament."
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "member of Committee on Civil Liberties, Justice and Home Affairs"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Throughout his time as Member of the European Parliament, Michel served on the Committee on Civil Liberties, Justice and Home Affairs."
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament"
+      ],
+      "roles": [
+        "member of Committee of Inquiry into Money Laundering, Tax Avoidance and Tax Evasion (PANA)"
+      ],
+      "time_markers": [
+        "2016-2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2016 until 2017, he was part of the Committee of Inquiry into Money Laundering, Tax Avoidance and Tax Evasion (PANA) that investigated the Panama Papers revelations and tax avoidance schemes more broadly."
+      ]
+    },
+    {
+      "organizations": [
+        "ACP–EU Joint Parliamentary Assembly"
+      ],
+      "roles": [
+        "co-president"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In addition to his committee assignments, Michel co-presided over the ACP–EU Joint Parliamentary Assembly which advises on the orientations of co-operation policies between the EU and its partners in Africa, the Caribbean, and the Pacific."
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament Intergroup on LGBT Rights"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also a member of the European Parliament Intergroup on LGBT Rights"
+      ]
+    },
+    {
+      "organizations": [
+        "European Parliament Intergroup on Extreme Poverty and Human Rights"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the European Parliament Intergroup on Extreme Poverty and Human Rights"
+      ]
+    },
+    {
+      "organizations": [
+        "Campaign for the Establishment of a United Nations Parliamentary Assembly"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2009-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Campaign for the Establishment of a United Nations Parliamentary Assembly, an organisation which campaigns for democratic reformation of the United Nations, and the creation of a more accountable international political system."
+      ]
+    },
+    {
+      "organizations": [
+        "Fondation Chirac"
+      ],
+      "roles": [
+        "member of honour committee"
+      ],
+      "time_markers": [
+        "2008-present"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Michel is also a member of the Fondation Chirac's honour committee, ever since the foundation was launched in 2008 by former French president Jacques Chirac to promote world peace."
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Belgium"
+      ],
+      "roles": [
+        "Minister of State"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Belgium: Minister of State, by Royal Decree of 1995."
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Belgium"
+      ],
+      "roles": [
+        "Commander in the Order of Leopold"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commander in the Order of Leopold."
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Belgium"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of Leopold II"
+      ],
+      "time_markers": [
+        "26 May 2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand Cross in the Order of Leopold II, RD of 26 May 2014."
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Sweden"
+      ],
+      "roles": [
+        "Grand Cross of the Royal Order of the Polar Star"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sweden: Grand Cross of the Royal Order of the Polar Star"
+      ]
+    },
+    {
+      "organizations": [
+        "Portuguese Republic"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Infante Dom Henrique"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Portugal: Grand Cross of the Order of Infante Dom Henrique"
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of the Netherlands"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of Orange-Nassau"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Netherlands: Knight Grand Cross in the Order of Orange-Nassau."
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Spain"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of Isabella the Catholic"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Spain: Knight Grand Cross in the Order of Isabella the Catholic"
+      ]
+    },
+    {
+      "organizations": [
+        "Kingdom of Denmark"
+      ],
+      "roles": [
+        "Knight Grand Cross in the Order of the Dannebrog"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Denmark: Knight Grand Cross in the Order of the Dannebrog"
+      ]
+    },
+    {
+      "organizations": [
+        "Romania"
+      ],
+      "roles": [
+        "Knight Grand-Cross in the Order of the Star of Romania"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand-Cross in the Order of the Star of Romania."
+      ]
+    },
+    {
+      "organizations": [
+        "French Republic"
+      ],
+      "roles": [
+        "Grand Officer in the Légion d'honneur"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "France: Grand Officer in the Légion d'honneur"
+      ]
+    },
+    {
+      "organizations": [
+        "Organisation internationale de la Francophonie"
+      ],
+      "roles": [
+        "Grand officer in the Order of the Pléiade"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand officer in the Order of the Pléiade (Ordre de la Francophonie et du dialogue des cultures; that is, \"Order of the Francophonie and of the dialogue of cultures\")"
+      ]
+    },
+    {
+      "organizations": [
+        "Republic of Bulgaria"
+      ],
+      "roles": [
+        "1st Class in the Order of the Stara Planina"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Bulgaria: 1st Class in the Order of the Stara Planina / The Balkan Mountains."
+      ]
+    }
+  ]
+}

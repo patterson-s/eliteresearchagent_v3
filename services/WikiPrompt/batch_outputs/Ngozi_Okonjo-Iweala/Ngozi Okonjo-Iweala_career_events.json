@@ -1,0 +1,655 @@
+{
+  "person_name": "Ngozi Okonjo-Iweala",
+  "career_events": [
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "student",
+        "BA in Economics graduate"
+      ],
+      "time_markers": [
+        "1973-1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1973 she moved to the United States to study at Harvard University and graduated magna cum laude with an AB in economics in 1976."
+      ]
+    },
+    {
+      "organizations": [
+        "Massachusetts Institute of Technology"
+      ],
+      "roles": [
+        "graduate student",
+        "MA in city planning",
+        "PhD in regional economics and development"
+      ],
+      "time_markers": [
+        "1978 MA",
+        "1981 PhD"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She earned a master's degree in city planning in 1978 and obtained her PhD in regional economics and development in 1981 from the Massachusetts Institute of Technology"
+      ]
+    },
+    {
+      "organizations": [
+        "American Association of University Women"
+      ],
+      "roles": [
+        "International Fellowship recipient"
+      ],
+      "time_markers": [
+        "during doctoral studies"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She received an international fellowship from the American Association of University Women (AAUW), which supported her doctoral studies."
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "development economist"
+      ],
+      "time_markers": [
+        "25-year career"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala had a 25-year career at the World Bank in Washington, D.C., as a development economist"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Managing Director, Operations"
+      ],
+      "time_markers": [
+        "2007-2011",
+        "returned December 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "rose to the No. 2 position of Managing Director, Operations",
+        "She returned to the World Bank as a Managing Director in December 2007."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Nigeria"
+      ],
+      "roles": [
+        "Minister of Finance"
+      ],
+      "time_markers": [
+        "15 July 2003 – 21 June 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 15 July 2003 – 21 June 2006, President Olusegun Obasanjo"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Nigeria"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "21 June 2006 – 30 August 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office 21 June 2006 – 30 August 2006, President Olusegun Obasanjo"
+      ]
+    },
+    {
+      "organizations": [
+        "Euromoney"
+      ],
+      "roles": [
+        "Global Finance Minister of the Year recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Euromoney named her Global Finance Minister of the Year."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Nigeria"
+      ],
+      "roles": [
+        "Minister of Finance",
+        "Coordinating Minister for the Economy"
+      ],
+      "time_markers": [
+        "17 August 2011 – 29 May 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, Okonjo-Iweala was re-appointed as Minister of Finance in Nigeria with the expanded portfolio of the Coordinating Minister for the Economy by President Goodluck Jonathan."
+      ]
+    },
+    {
+      "organizations": [
+        "Commission on Growth and Development"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2006-2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala served on the Commission on Growth and Development (2006–2009), led by Nobel Prize winner Professor Michael Spence."
+      ]
+    },
+    {
+      "organizations": [
+        "International Monetary Fund"
+      ],
+      "roles": [
+        "Member of the International Monetary and Finance Committee"
+      ],
+      "time_markers": [
+        "2003-2006",
+        "2011-2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of the International Monetary and Finance Committee of the IMF (2003–2006 and 2011–2015)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Member of Secretary-General's High-Level Panel on the Post-2015 Development Agenda"
+      ],
+      "time_markers": [
+        "2012-2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the United Nations' Secretary-General's High-Level Panel on the Post-2015 Development Agenda (2012–2013)"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "candidate for President"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, she was a candidate for President of the World Bank, running against former Colombian finance minister Jose Antonio Ocampo and Dartmouth College President Jim Yong Kim"
+      ]
+    },
+    {
+      "organizations": [
+        "Global Commission on the Economy and Climate"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "since 2014"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2014, she has been co-chairing the Global Commission for the Economy and Climate, with Nicholas Stern and Paul Polman."
+      ]
+    },
+    {
+      "organizations": [
+        "International Commission on Financing Global Education Opportunity"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2015-2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala became a member of the International Commission on Financing Global Education Opportunity (2015–2016), chaired by Gordon Brown"
+      ]
+    },
+    {
+      "organizations": [
+        "GAVI (Global Alliance for Vaccines and Immunization)"
+      ],
+      "roles": [
+        "Chair of the Board"
+      ],
+      "time_markers": [
+        "2016-2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also served as Chair of the Board of Gavi, the Vaccine Alliance (2016–2020)."
+      ]
+    },
+    {
+      "organizations": [
+        "Lazard"
+      ],
+      "roles": [
+        "Senior Advisor"
+      ],
+      "time_markers": [
+        "since 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lazard, Senior Advisor (since 2015)"
+      ]
+    },
+    {
+      "organizations": [
+        "Standard Chartered"
+      ],
+      "roles": [
+        "Independent Non-executive Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "since 2017"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Standard Chartered, Independent Non-executive Member of the Board of Directors (since 2017)"
+      ]
+    },
+    {
+      "organizations": [
+        "Twitter"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "time_markers": [
+        "2018 - February 2021"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also previously sat on the Twitter Board of Directors, and stepped down in February 2021 in connection with her appointment as director-general of the World Trade Organization."
+      ]
+    },
+    {
+      "organizations": [
+        "UNESCO"
+      ],
+      "roles": [
+        "member of International Commission on the Futures of Education"
+      ],
+      "time_markers": [
+        "since 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2019, Okonjo-Iweala has been part of UNESCO's International Commission on the Futures of Education"
+      ]
+    },
+    {
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "elected fellow"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Okonjo-Iweala was elected to the American Academy of Arts and Sciences."
+      ]
+    },
+    {
+      "organizations": [
+        "Carnegie Endowment for International Peace"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "time_markers": [
+        "since 2019"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Carnegie Endowment for International Peace, Member of the Board of Trustees (since 2019)"
+      ]
+    },
+    {
+      "organizations": [
+        "Danone"
+      ],
+      "roles": [
+        "Member of the Mission Committee"
+      ],
+      "time_markers": [
+        "since 2020"
+      ],
+      "event_type": "board_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Danone, Member of the Mission Committee (since 2020)"
+      ]
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "special envoy for COVID-19 economic impact"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Also in 2020, she was appointed by the African Union (AU) as special envoy to solicit international support to help the continent deal with the economic impact of the COVID-19 pandemic"
+      ]
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "COVID-19 Special Envoy"
+      ],
+      "time_markers": [
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as World Health Organization COVID-19 Special Envoy."
+      ]
+    },
+    {
+      "organizations": [
+        "World Trade Organization"
+      ],
+      "roles": [
+        "Director-General"
+      ],
+      "time_markers": [
+        "1 March 2021 - present",
+        "reappointed November 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She began her career as Director General of the WTO on 1 March 2021.",
+        "In November 2024, she was reappointed to serve her second term as the director-general of the World Trade Organization (WTO)."
+      ]
+    },
+    {
+      "organizations": [
+        "G20 High Level Independent Panel"
+      ],
+      "roles": [
+        "co-chair on pandemic preparedness financing"
+      ],
+      "time_markers": [
+        "early 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In early 2021, Okonjo-Iweala was appointed co-chair, alongside Tharman Shanmugaratnam and Lawrence Summers, of the G20 High Level Independent Panel (HLIP) on financing the global commons for pandemic preparedness and response"
+      ]
+    },
+    {
+      "organizations": [
+        "COVAX Facility"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2021"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was one of the founders of the COVAX Facility, designed to get affordable vaccines to Low and Middle-Income Countries."
+      ]
+    },
+    {
+      "organizations": [
+        "Multilateral Leaders Task Force on COVID-19"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "July 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2021, she joined the Multilateral Leaders Task Force on COVID-19 Vaccines, Therapeutics, and Diagnostics for Developing Countries"
+      ]
+    },
+    {
+      "organizations": [
+        "Group of Thirty (G30)"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "January 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2022, Okonjo-Iweala joined The Group of thirty (G30), an independent body of distinguished policymakers from around the world."
+      ]
+    },
+    {
+      "organizations": [
+        "Brookings Institution"
+      ],
+      "roles": [
+        "non-resident distinguished fellow with Africa Growth Initiative"
+      ],
+      "time_markers": [
+        "ongoing"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala serves at the Brookings Institution as a non-resident distinguished fellow with the Africa Growth Initiative in their Global Economy and Development Program."
+      ]
+    },
+    {
+      "organizations": [
+        "NOI-Polls"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "established"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Okonjo-Iweala is the founder of Nigeria's first indigenous opinion-research organization, NOI-Polls."
+      ]
+    },
+    {
+      "organizations": [
+        "Centre for the Study of the Economies of Africa (C-SEA)"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "established"
+      ],
+      "event_type": "career_milestone",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also founded the Centre for the Study of the Economies of Africa (C-SEA), a development research think-tank based in Abuja"
+      ]
+    },
+    {
+      "organizations": [
+        "TIME Magazine"
+      ],
+      "roles": [
+        "European Heroes Award recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2004 – TIME's European Heroes Award"
+      ]
+    },
+    {
+      "organizations": [
+        "American Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2022 – Golden Plate Award, American Academy of Achievement"
+      ]
+    },
+    {
+      "organizations": [
+        "Carnegie Corporation of New York"
+      ],
+      "roles": [
+        "Great Immigrant Award recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2023 – Honored with the Carnegie Corporation of New York's Great Immigrant Award."
+      ]
+    },
+    {
+      "organizations": [
+        "Nigeria"
+      ],
+      "roles": [
+        "Grand Commander of the Order of the Niger (GCON) recipient"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also the recipient of Nigeria's second highest national honor Grand Commander of the Order of the Niger (GCON, 2022)"
+      ]
+    },
+    {
+      "organizations": [
+        "Brown University"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown University (2006)"
+      ]
+    },
+    {
+      "organizations": [
+        "Yale University"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Yale University (2015)"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Oxford"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "June 2024"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2024, Okonjo-Iweala received an honorary degree from the University of Oxford."
+      ]
+    }
+  ]
+}

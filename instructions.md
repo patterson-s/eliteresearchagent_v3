@@ -59,8 +59,8 @@ I have been addressing this with two tools:
 - **Next Steps**: Integrate LLM prompts with data loader for career-event extraction 
 
 # NEXT TASK: 
-This service will need to make LLM prompts. I want to make sure that I have all of the tools necessary to run LLM prompts with Cohere Models in this. I prefer to keep a "config" folder that has an LLM config file and sub-folder for prompts. To see an example, consult this folder: "C:\Users\spatt\Desktop\eliteresearchagent_v2\services\AppliedOntology_01\config". 
+For the next task, we want to use the model to identify all organizations that are mentioned in loaded from a chunk of text. There is a series of new prompts in the "config" folder: "C:\Users\spatt\Desktop\eliteresearchagent_v3\config\prompts\OrgExtraction_01.txt"; "C:\Users\spatt\Desktop\eliteresearchagent_v3\config\prompts\OrgExtraction_02.txt"; "C:\Users\spatt\Desktop\eliteresearchagent_v3\config\prompts\OrgExtraction_03.txt".
 
-We need one of these for this new repo: 
-- Add this structure to the eliteresearchagent_v3 folder
-- Create a test prompt to make sure that the Cohere Command-A model works. 
+Design a service called OrgExtraction. I made a folder here: "C:\Users\spatt\Desktop\eliteresearchagent_v3\services\OrgExtraction"; the purpose of this should be to load data with the data_loader and then run these prompts on a chunk of text. The output from step 1 should be the input for step 2, and so on for step 3. 
+
+Use the Cohere Command - A model

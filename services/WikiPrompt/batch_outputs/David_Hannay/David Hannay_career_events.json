@@ -1,0 +1,389 @@
+{
+  "person_name": "David Hugh Alexander Hannay, Baron Hannay of Chiswick",
+  "birth_date": "1935-09-28",
+  "primary_profession": "British diplomat",
+  "career_events": [
+    {
+      "organizations": [
+        "Craigflower Preparatory School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Hannay was born in London and educated at Craigflower Preparatory School"
+      ]
+    },
+    {
+      "organizations": [
+        "Winchester College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "educated at Craigflower Preparatory School, Winchester College and New College, Oxford"
+      ]
+    },
+    {
+      "organizations": [
+        "New College, Oxford"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "educated at Craigflower Preparatory School, Winchester College and New College, Oxford"
+      ]
+    },
+    {
+      "organizations": [
+        "Foreign and Commonwealth Office"
+      ],
+      "roles": [
+        "diplomat"
+      ],
+      "time_markers": [
+        "1959"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He entered the Foreign and Commonwealth Office in 1959"
+      ]
+    },
+    {
+      "organizations": [
+        "British Embassy Tehran"
+      ],
+      "roles": [
+        "diplomat (initial posting)"
+      ],
+      "time_markers": [
+        "after 1959"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was initially posted to positions in Tehran and Kabul"
+      ]
+    },
+    {
+      "organizations": [
+        "British Embassy Kabul"
+      ],
+      "roles": [
+        "diplomat (initial posting)"
+      ],
+      "time_markers": [
+        "after 1959"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was initially posted to positions in Tehran and Kabul"
+      ]
+    },
+    {
+      "organizations": [
+        "British Government",
+        "European Economic Community"
+      ],
+      "roles": [
+        "representative in EEC accession discussions"
+      ],
+      "time_markers": [
+        "1965 to early 1970s",
+        "UK entry 1973"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Starting in 1965 and continuing into the early 1970s, he was a representative of the British government in discussions which led to the United Kingdom's entry into the European Economic Community in 1973"
+      ]
+    },
+    {
+      "organizations": [
+        "Foreign Office London"
+      ],
+      "roles": [
+        "various positions"
+      ],
+      "time_markers": [
+        "1970s",
+        "1980s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He held various positions at the Foreign Office in London during the 1970s and 1980s"
+      ]
+    },
+    {
+      "organizations": [
+        "British Embassy Washington DC"
+      ],
+      "roles": [
+        "minister"
+      ],
+      "time_markers": [
+        "1984-1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a minister at the British Embassy in Washington, DC, in 1984–1985"
+      ]
+    },
+    {
+      "organizations": [
+        "European Economic Community"
+      ],
+      "roles": [
+        "UK Permanent Representative to the European Union",
+        "ambassador"
+      ],
+      "time_markers": [
+        "1985-1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was then promoted to ambassador and permanent representative to the European Economic Community from 1985 to 1990"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UK Permanent Representative to the United Nations",
+        "ambassador"
+      ],
+      "time_markers": [
+        "1990-1995"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After that posting he spent the next five years as ambassador and permanent representative to the United Nations"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Representative for Cyprus"
+      ],
+      "time_markers": [
+        "1996-2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Hannay took on specialised roles such as United Nations Special Representative for Cyprus between 1996 and 2003"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN High Level Panel on Threats, Challenges and Change"
+      ],
+      "time_markers": [
+        "reported December 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a member of the UN High Level Panel on Threats, Challenges and Change, reporting to the Secretary-General in December 2004"
+      ]
+    },
+    {
+      "organizations": [
+        "Order of St Michael and St George"
+      ],
+      "roles": [
+        "Companion (CMG)"
+      ],
+      "time_markers": [
+        "1981"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981 he was appointed a Companion of the Order of St Michael and St George (CMG)"
+      ]
+    },
+    {
+      "organizations": [
+        "Order of St Michael and St George"
+      ],
+      "roles": [
+        "Knight Commander (KCMG)"
+      ],
+      "time_markers": [
+        "1986"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in 1986 a Knight Commander (KCMG)"
+      ]
+    },
+    {
+      "organizations": [
+        "Order of St Michael and St George"
+      ],
+      "roles": [
+        "Knight Grand Cross (GCMG)"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "in 1995 a Knight Grand Cross (GCMG)"
+      ]
+    },
+    {
+      "organizations": [
+        "House of Lords"
+      ],
+      "roles": [
+        "Life Peer",
+        "Baron Hannay of Chiswick",
+        "crossbencher"
+      ],
+      "time_markers": [
+        "created 19 June 2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 19 June 2001 he was created a life peer as Baron Hannay of Chiswick, of Bedford Park in the London Borough of Ealing, sitting as a crossbencher"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Birmingham"
+      ],
+      "roles": [
+        "pro-Chancellor"
+      ],
+      "time_markers": [
+        "2001-2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was pro-Chancellor of the University of Birmingham from 2001 to 2006"
+      ]
+    },
+    {
+      "organizations": [
+        "Order of the Companions of Honour"
+      ],
+      "roles": [
+        "Member (CH)"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2003 he was made a Member of the Order of the Companions of Honour"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Birmingham"
+      ],
+      "roles": [
+        "Doctor of Letters (Honorary) recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lord Hannay was awarded the honorary degree of Doctor of Letters by the University of Birmingham in 2003"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Association UK"
+      ],
+      "roles": [
+        "chair of the Board"
+      ],
+      "time_markers": [
+        "January 2006 to January 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He chaired the Board of United Nations Association UK from January 2006 to January 2011"
+      ]
+    },
+    {
+      "organizations": [
+        "UN All-Party Parliamentary Group"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "current as of source date"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "is now chair of the UN All-Party Parliamentary Group"
+      ]
+    },
+    {
+      "organizations": [
+        "Top Level Group for Nuclear Disarmament and Non-proliferation"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "current as of source date"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is currently a member of the Top Level Group for Nuclear Disarmament and Non-proliferation"
+      ]
+    },
+    {
+      "organizations": [
+        "Lords International Relations Committee"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "current as of source date"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a member of the Lords International Relations Committee"
+      ]
+    }
+  ]
+}

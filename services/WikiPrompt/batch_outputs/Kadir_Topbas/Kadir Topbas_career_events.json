@@ -1,0 +1,302 @@
+{
+  "person_name": "Kadir Topbaş",
+  "career_events": [
+    {
+      "organizations": [
+        "Marmara University"
+      ],
+      "roles": [
+        "student",
+        "theology degree graduate"
+      ],
+      "time_markers": [
+        "1972"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He earned a PhD in architectural history from Istanbul University following his education of theology at Marmara University in 1972"
+      ]
+    },
+    {
+      "organizations": [
+        "Mimar Sinan University"
+      ],
+      "roles": [
+        "student",
+        "architecture degree graduate"
+      ],
+      "time_markers": [
+        "1974"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and architecture at Mimar Sinan University in 1974"
+      ]
+    },
+    {
+      "organizations": [
+        "Istanbul University"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD in architectural history graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He earned a PhD in architectural history from Istanbul University"
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "preacher"
+      ],
+      "location": "Edirne",
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "After working as preacher in Edirne, teacher and freelance architect in İstanbul"
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "teacher"
+      ],
+      "location": "Istanbul",
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "After working as preacher in Edirne, teacher and freelance architect in İstanbul"
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [
+        "freelance architect"
+      ],
+      "location": "Istanbul",
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "After working as preacher in Edirne, teacher and freelance architect in İstanbul"
+      ]
+    },
+    {
+      "organizations": [
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "advisor to Mayor Recep Tayyip Erdoğan for restoration and decoration of palaces and historical buildings"
+      ],
+      "time_markers": [
+        "1994-1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he served between 1994 and 1998, as advisor to then-mayor of Istanbul Recep Tayyip Erdoğan for the restoration and decoration of palaces and other historical buildings in Istanbul"
+      ]
+    },
+    {
+      "organizations": [
+        "Saray Muhallebicisi"
+      ],
+      "roles": [
+        "owner"
+      ],
+      "event_type": "business",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş was also the owner of the Turkish cuisine restaurant chain, Saray Muhallebicisi"
+      ]
+    },
+    {
+      "organizations": [
+        "Milli Selamet Partisi (MSP)",
+        "National Salvation Party"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş entered politics as member of the religious oriented Milli Selamet Partisi (MSP)"
+      ]
+    },
+    {
+      "organizations": [
+        "Milli Selamet Partisi (MSP)"
+      ],
+      "roles": [
+        "parliamentary candidate for Artvin province"
+      ],
+      "time_markers": [
+        "1977"
+      ],
+      "event_type": "political_campaign",
+      "outcome": "unsuccessful",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş ran twice for the deputy of Artvin province in the parliament, first in 1977 from the MSP and then in 1987 from Refah Partisi (RP) without success"
+      ]
+    },
+    {
+      "organizations": [
+        "Refah Partisi (RP)",
+        "Welfare Party"
+      ],
+      "roles": [
+        "parliamentary candidate for Artvin province"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "political_campaign",
+      "outcome": "unsuccessful",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş ran twice for the deputy of Artvin province in the parliament, first in 1977 from the MSP and then in 1987 from Refah Partisi (RP) without success"
+      ]
+    },
+    {
+      "organizations": [
+        "Fazilet Partisi (FP)",
+        "Virtue Party",
+        "Beyoğlu Municipality"
+      ],
+      "roles": [
+        "Mayor of Beyoğlu"
+      ],
+      "time_markers": [
+        "18 April 1999 - 28 March 2004"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1999, he was elected mayor of Beyoğlu district from the Fazilet Partisi (FP)",
+        "Mayor of Beyoğlu In office 18 April 1999 – 28 March 2004"
+      ]
+    },
+    {
+      "organizations": [
+        "Adalet ve Kalkınma Partisi (AKP)",
+        "Justice and Development Party",
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "Mayor of Istanbul"
+      ],
+      "time_markers": [
+        "28 March 2004 - 22 September 2017"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the 2004 regional elections, Kadir Topbaş ran for the post of mayor of İstanbul from the Adalet ve Kalkınma Partisi (AKP) and won on 28 March 2004",
+        "Mayor of Istanbul In office 28 March 2004 – 22 September 2017"
+      ]
+    },
+    {
+      "organizations": [
+        "United Cities and Local Governments"
+      ],
+      "roles": [
+        "co-president"
+      ],
+      "time_markers": [
+        "November 2007"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He became co-president of United Cities and Local Governments in November 2007"
+      ]
+    },
+    {
+      "organizations": [
+        "World Mayor"
+      ],
+      "roles": [
+        "longlisted candidate"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and was longlisted for the 2008 World Mayor award"
+      ]
+    },
+    {
+      "organizations": [
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "Mayor of Istanbul (re-elected)"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Kadir Topbaş was re-elected as the mayor of İstanbul metropolitan area in 2009 Turkish general local elections"
+      ]
+    },
+    {
+      "organizations": [
+        "Union of Municipalities of Turkey"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Topbaş was appointed President of the Union of Municipalities of Turkey in 2009"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of South Korea"
+      ],
+      "roles": [
+        "Order of Cultural Merit recipient"
+      ],
+      "time_markers": [
+        "12 September 2014"
+      ],
+      "location": "Seoul",
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Cultural Merit South Korea 12 September 2014 Seoul"
+      ]
+    },
+    {
+      "organizations": [
+        "Istanbul Metropolitan Municipality"
+      ],
+      "roles": [
+        "Mayor of Istanbul (resigned)"
+      ],
+      "time_markers": [
+        "22 September 2017"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He resigned as the mayor of Istanbul metropolitan area on 22 September 2017, without revealing a particular political reason"
+      ]
+    }
+  ]
+}

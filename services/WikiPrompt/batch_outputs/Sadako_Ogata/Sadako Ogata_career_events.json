@@ -1,0 +1,675 @@
+{
+  "person_name": "Sadako Ogata",
+  "career_events": [
+    {
+      "organizations": [
+        "University of the Sacred Heart, Tokyo"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree in English Literature graduate"
+      ],
+      "time_markers": [
+        "after World War II"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She stayed in Japan during World War II and after the war, she graduated from the University of the Sacred Heart in Tokyo with a bachelor's degree in English Literature."
+      ]
+    },
+    {
+      "organizations": [
+        "Georgetown University",
+        "Edmund A. Walsh School of Foreign Service"
+      ],
+      "roles": [
+        "student",
+        "master's degree in International Relations graduate"
+      ],
+      "time_markers": [],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she dared to study at Georgetown University and its Edmund A. Walsh School of Foreign Service, earning a master's degree in International Relations."
+      ]
+    },
+    {
+      "organizations": [
+        "University of California, Berkeley"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD in Political Science graduate"
+      ],
+      "time_markers": [
+        "1963"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was awarded a PhD in Political Science from the University of California, Berkeley in 1963, after she completed a dissertation on the politics behind the foundation of Manchukuo."
+      ]
+    },
+    {
+      "organizations": [
+        "International Christian University"
+      ],
+      "roles": [
+        "Lecturer"
+      ],
+      "time_markers": [
+        "1965"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1965, she became Lecturer at International Christian University in Tokyo."
+      ]
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Japan to the United Nations"
+      ],
+      "roles": [
+        "appointed to Japan's UN mission"
+      ],
+      "time_markers": [
+        "1968"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ogata was appointed to Japan's UN mission in 1968, on the recommendation of Fusae Ichikawa"
+      ]
+    },
+    {
+      "organizations": [
+        "UN General Assembly"
+      ],
+      "roles": [
+        "Japan representative"
+      ],
+      "time_markers": [
+        "1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ogata represented Japan at several sessions of the UN General Assembly in 1970."
+      ]
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Japan to the United Nations",
+        "UNICEF"
+      ],
+      "roles": [
+        "Envoy Extraordinary and Minister Plenipotentiary",
+        "Chair of the UNICEF Executive Board"
+      ],
+      "time_markers": [
+        "1978 to 1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she served from 1978 to 1979 as Envoy Extraordinary and Minister Plenipotentiary for the permanent mission of Japan to the UN, and as Chair of the UNICEF Executive Board."
+      ]
+    },
+    {
+      "organizations": [
+        "Sophia University"
+      ],
+      "roles": [
+        "professor of international politics",
+        "Dean of the Faculty of Foreign Studies"
+      ],
+      "time_markers": [
+        "after 1980",
+        "until 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After 1980, she taught international politics at Sophia University in Tokyo as a professor and later became Dean of the Faculty of Foreign Studies until her departure to join the UNHCR in 1991."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations High Commissioner for Refugees"
+      ],
+      "roles": [
+        "United Nations High Commissioner for Refugees",
+        "first woman head of UNHCR"
+      ],
+      "time_markers": [
+        "appointed 1990",
+        "in office 3 November 1990 – 31 December 2000",
+        "re-elected November 1993",
+        "re-elected September 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1990, she was appointed as head of the United Nations High Commissioner for Refugees (UNHCR). She was the first woman to be appointed as a head of the UNHCR.",
+        "She was re-elected twice (in November 1993 and in September 1998), and served, over a decade, until 2001."
+      ]
+    },
+    {
+      "organizations": [
+        "RET International (Refugee Education Trust)"
+      ],
+      "roles": [
+        "founder and visionary"
+      ],
+      "time_markers": [
+        "announced December 2000",
+        "launched at end of UNHCR tenure"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2000, and coinciding with the end of her second term at the High Commission at UNHCR, as well as the 50th anniversary of the agency, Ogata announced the launch of RET International in Geneva, Switzerland."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Human Security Commission"
+      ],
+      "roles": [
+        "co-chairperson"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After UNHCR leader, in 2001, she became co-chairperson of UN Human Security Commission."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Special Representative of Prime Minister of Japan on Reconstruction Assistance to Afghanistan"
+      ],
+      "time_markers": [
+        "2001",
+        "after September 11 attacks"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2001, after the September 11 attacks, she was appointed as Special Representative of Prime Minister of Japan on Reconstruction Assistance to Afghanistan."
+      ]
+    },
+    {
+      "organizations": [
+        "Japan International Cooperation Agency"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1 October 2003 – 30 March 2012",
+        "retired April 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Japanese government appointed her as President of the Japan International Cooperation Agency (JICA) on 1 October 2003.",
+        "She continued to work as president of JICA for more than two terms (over eight years), retiring in April 2012"
+      ]
+    },
+    {
+      "organizations": [
+        "Advisory Council on the Imperial House Law",
+        "Cabinet Office of Japan"
+      ],
+      "roles": [
+        "council member"
+      ],
+      "time_markers": [
+        "appointed 27 November 2004",
+        "meetings 25 January 2005 to 24 November 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of The Advisory Council on the Imperial House Law on 27 November 2014.",
+        "The council met 17 times from 25 January 2005 to discuss the Japanese succession controversy and the Imperial Household Act."
+      ]
+    },
+    {
+      "organizations": [
+        "Japan Model United Nations"
+      ],
+      "roles": [
+        "Advisor of the Executive Committee"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also served as Advisor of the Executive Committee of the Japan Model United Nations (JMUN)."
+      ]
+    },
+    {
+      "organizations": [
+        "Sergio Vieira de Mello Foundation"
+      ],
+      "roles": [
+        "involved member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Ogata was involved in the Sergio Vieira de Mello Foundation."
+      ]
+    },
+    {
+      "organizations": [
+        "Sophia University"
+      ],
+      "roles": [
+        "professor emerita"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a Japanese academic, diplomat, author, administrator, and professor emerita at the Roman Catholic Sophia University."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Person of Cultural Merit"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Person of Cultural Merit"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Order of Culture recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2003 Order of Culture"
+      ]
+    },
+    {
+      "organizations": [
+        "Archivio Disarmo (Italian Research Institute)"
+      ],
+      "roles": [
+        "Golden Doves for Peace recipient"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1993 Journalistic prize Golden Doves for Peace issued by the Italian Research Institute Archivio Disarmo"
+      ]
+    },
+    {
+      "organizations": [
+        "Liberal International"
+      ],
+      "roles": [
+        "Prize For Freedom recipient"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1994 Prize For Freedom by the Liberal International"
+      ]
+    },
+    {
+      "organizations": [
+        "National Constitution Center"
+      ],
+      "roles": [
+        "Liberty Medal recipient"
+      ],
+      "time_markers": [
+        "1995",
+        "acceptance speech 4 July 1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1995 Liberty Medal",
+        "Liberty Medal acceptance speech, 4 July 1995"
+      ]
+    },
+    {
+      "organizations": [
+        "American Philosophical Society"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1995 Member of the American Philosophical Society"
+      ]
+    },
+    {
+      "organizations": [
+        "Ramon Magsaysay Award Foundation"
+      ],
+      "roles": [
+        "Ramon Magsaysay Award recipient"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1997 Ramon Magsaysay Award"
+      ]
+    },
+    {
+      "organizations": [
+        "Seoul Peace Prize Foundation"
+      ],
+      "roles": [
+        "Seoul Peace Prize recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2000 Seoul Peace Prize"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "Order of Friendship recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Order of Friendship of Russia"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Germany"
+      ],
+      "roles": [
+        "Commander's Cross of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Commander's Cross of the Order of Merit of the Federal Republic of Germany"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of France"
+      ],
+      "roles": [
+        "Commander of the Légion d'honneur"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Commander of the Légion d'honneur"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Italy"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of Merit of the Italian Republic"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Knight Grand Cross of the Order of Merit of the Italian Republic"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Sweden"
+      ],
+      "roles": [
+        "Commander First Class of the Order of the Polar Star"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Commander First Class of the Order of the Polar Star of Sweden"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of India"
+      ],
+      "roles": [
+        "Indira Gandhi Prize recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Indira Gandhi Prize"
+      ]
+    },
+    {
+      "organizations": [
+        "Fulbright Association"
+      ],
+      "roles": [
+        "Fulbright Prize for International Understanding recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002 Fulbright Prize for International Understanding"
+      ]
+    },
+    {
+      "organizations": [
+        "Brown University"
+      ],
+      "roles": [
+        "Honorary Doctor of Human Letters"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002 Honorary Doctor of Human Letters from Brown University."
+      ]
+    },
+    {
+      "organizations": [
+        "World Citizenship Award Foundation"
+      ],
+      "roles": [
+        "World Citizenship Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2005 World Citizenship Award"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of the Philippines"
+      ],
+      "roles": [
+        "Grand Officer of the Order of Lakandula"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2006 Grand Officer (Maringal na Pinuno) of the Order of Lakandula of the Philippines"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of the Netherlands"
+      ],
+      "roles": [
+        "Grand Officer of the Order of Orange-Nassau"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Grand Officer of the Order of Orange-Nassau of the Netherlands"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of the United Kingdom"
+      ],
+      "roles": [
+        "Honorary Dame Commander of the Order of St. Michael and St. George"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Honorary Dame Commander of the Order of St. Michael and St. George (DCMG)"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Kyrgyzstan"
+      ],
+      "roles": [
+        "Medal of the Friendship of Nations (Danaker Medal) recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011 Medal of the Friendship of Nations (Danaker Medal) of Kyrgyzstan"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Mexico"
+      ],
+      "roles": [
+        "Band of the Order of the Aztec Eagle"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2013 Band of the Order of the Aztec Eagle of Mexico"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of the Philippines"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Sikatuna, Rank of Datu"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2013 Grand Cross of the Order of Sikatuna, Rank of Datu"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Kosovo"
+      ],
+      "roles": [
+        "Humanitarian Medal Mother Teresa recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2017 Humanitarian Medal Mother Teresa of Kosovo"
+      ]
+    }
+  ]
+}

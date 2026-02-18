@@ -1,0 +1,612 @@
+{
+  "person_name": "Josette Sheeran",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Colorado at Boulder"
+      ],
+      "roles": [
+        "student",
+        "Bachelor of Arts graduate"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She earned a Bachelor of Arts from the University of Colorado at Boulder in 1976."
+      ]
+    },
+    {
+      "organizations": [
+        "New York News World"
+      ],
+      "roles": [
+        "journalist",
+        "White House correspondent"
+      ],
+      "time_markers": [
+        "1976",
+        "until 1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran got her start in journalism in 1976 with the New York News World",
+        "She served in a number of capacities for News World, eventually becoming their White House correspondent."
+      ]
+    },
+    {
+      "organizations": [
+        "The Washington Times"
+      ],
+      "roles": [
+        "features editor",
+        "managing editor"
+      ],
+      "time_markers": [
+        "1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1982, she moved to News World's new sister paper, The Washington Times. Originally a features editor, she was eventually appointed managing editor."
+      ]
+    },
+    {
+      "organizations": [
+        "Pulitzer Prize"
+      ],
+      "roles": [
+        "juror"
+      ],
+      "time_markers": [
+        "served twice"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has twice served as a Pulitzer Prize juror."
+      ]
+    },
+    {
+      "organizations": [
+        "Empower America"
+      ],
+      "roles": [
+        "President",
+        "Chief Executive Officer"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran also served as President and Chief Executive Officer of Empower America, where she developed its agenda of trade policy, technology policy, education reform, and tax reform"
+      ]
+    },
+    {
+      "organizations": [
+        "Starpoint Solutions"
+      ],
+      "roles": [
+        "managing director"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before joining USTR, Sheeran was managing director of Starpoint Solutions, a Wall Street technology firm that works with Fortune 500 clients."
+      ]
+    },
+    {
+      "organizations": [
+        "Office of the U.S. Trade Representative"
+      ],
+      "roles": [
+        "Deputy United States Trade Representative"
+      ],
+      "time_markers": [
+        "2001-2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She served as Ambassador and Deputy U.S. Trade Representative under President George Bush, covering all Asia, Africa and Intellectual Property, Technology and Agriculture from 2001-2005.",
+        "Prior to her tenure as Under Secretary, Sheeran served as Deputy United States Trade Representative in the Office of the U.S. Trade Representative (USTR)."
+      ]
+    },
+    {
+      "organizations": [
+        "United States Department of State"
+      ],
+      "roles": [
+        "Under Secretary of State for Economic, Business, and Agricultural Affairs"
+      ],
+      "time_markers": [
+        "August 23, 2005",
+        "April 4, 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In office August 23, 2005 – April 4, 2007",
+        "She served in the United States Department of State as Under Secretary of State for Secretary of State Condoleezza Rice covering Economic Growth, Energy, Technology, Agriculture and the Environment, with the rank of Ambassador."
+      ]
+    },
+    {
+      "organizations": [
+        "Group of Eight (G8)"
+      ],
+      "roles": [
+        "Foreign Affairs Sous-Sherpa on behalf of the President"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran also served as the Foreign Affairs Sous-Sherpa on behalf of the President of the United States at the Group of Eight (G8) Summit."
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank",
+        "Inter-American Development Bank",
+        "African Development Bank",
+        "Asian Development Bank",
+        "European Bank for Reconstruction and Development"
+      ],
+      "roles": [
+        "Alternative Governor"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She represented the United States at a wide variety of high-level bilateral and multilateral meetings, serving as Alternative Governor for the World Bank; the Inter-American Development Bank; the African Development Bank; the Asian Development Bank; and the European Bank for Reconstruction and Development."
+      ]
+    },
+    {
+      "organizations": [
+        "Overseas Private Investment Corporation"
+      ],
+      "roles": [
+        "Member of the Board of Directors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Congress also confirmed her as a Member of the Board of Directors for the Overseas Private Investment Corporation."
+      ]
+    },
+    {
+      "organizations": [
+        "Millennium Challenge Corporation"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has served on the boards of OPIC, and the Millennium Challenge Corporation"
+      ]
+    },
+    {
+      "organizations": [
+        "UNESCO"
+      ],
+      "roles": [
+        "US Representative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "US Representative to UNESCO"
+      ]
+    },
+    {
+      "organizations": [
+        "Asia-Pacific Economic Cooperation"
+      ],
+      "roles": [
+        "lead U.S. representative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as the lead U.S. representative to the Asia-Pacific Economic Cooperation"
+      ]
+    },
+    {
+      "organizations": [
+        "OECD"
+      ],
+      "roles": [
+        "lead U.S. representative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as well as the lead U.S. representative to the Asia-Pacific Economic Cooperation and the OECD."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations High Level Panel on System-Wide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was named by former UN Secretary General Kofi Annan along with Prime Ministers Luisa Dias Diogo, Prime Minister of Mozambique; Jens Stoltenberg, Prime Minister of Norway; and Shaukat Aziz, Prime Minister of Pakistan, to the High Level Panel on System-Wide Coherence."
+      ]
+    },
+    {
+      "organizations": [
+        "World Food Programme"
+      ],
+      "roles": [
+        "Executive Director"
+      ],
+      "time_markers": [
+        "April 4, 2007",
+        "April 5, 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Executive Director of the World Food Programme In office April 4, 2007 – April 5, 2012",
+        "She was the eleventh Executive Director of the UN World Food Programme (WFP), appointed by United Nations Secretary-General"
+      ]
+    },
+    {
+      "organizations": [
+        "UN High Level Committee on Management"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "two terms"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ms. Sheeran chaired the UN High Level Committee on Management for two terms, leading more than 40 UN entities in a series of historic reforms"
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Vice Chairman"
+      ],
+      "time_markers": [
+        "announced January 2012",
+        "assumed 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2012, Sheeran announced that she would assume the role of Vice Chairman of the World Economic Forum upon completing her term at WFP in 2012.",
+        "Sheeran is former Vice Chair of the World Economic Forum."
+      ]
+    },
+    {
+      "organizations": [
+        "Harvard Kennedy School Belfer Center"
+      ],
+      "roles": [
+        "Fisher Fellow"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a Fisher Fellow at the Harvard Kennedy School Belfer Center in 2013."
+      ]
+    },
+    {
+      "organizations": [
+        "Asia Society"
+      ],
+      "roles": [
+        "seventh president and CEO"
+      ],
+      "time_markers": [
+        "2013",
+        "2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran served as the seventh president and CEO of Asia Society from 2013 to 2020."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Envoy for Haiti"
+      ],
+      "time_markers": [
+        "appointed June 20, 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran also served as the UN Special Envoy to Haiti, appointed on June 20, 2017, representing UN Secretary General António Guterres"
+      ]
+    },
+    {
+      "organizations": [
+        "McCain Institute"
+      ],
+      "roles": [
+        "Executive Director"
+      ],
+      "time_markers": [
+        "March 14, 2021",
+        "May 2, 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Executive Director of the McCain Institute In office March 14, 2021 – May 2, 2022"
+      ]
+    },
+    {
+      "organizations": [
+        "Canoo"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "appointed July 26, 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On July 26, 2021 she was appointed President of Canoo (NASDAQ: GOEV) an electric vehicle startup based in Los Angeles"
+      ]
+    },
+    {
+      "organizations": [
+        "Firefly Global Group"
+      ],
+      "roles": [
+        "founder",
+        "CEO"
+      ],
+      "time_markers": [
+        "currently"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She currently serves as founder and CEO of Firefly Global Group, a geopolitical and business consulting firm"
+      ]
+    },
+    {
+      "organizations": [
+        "Capital Group"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of Capital Group funds, which manages more than $2.5 trillion in global investments"
+      ]
+    },
+    {
+      "organizations": [
+        "Vestergaard International"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...Vestergaard International, which has delivered 1 billion high tech nets to prevent deaths from malaria"
+      ]
+    },
+    {
+      "organizations": [
+        "Lifestraw"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...Lifestraw, a pioneer in access to safe water"
+      ]
+    },
+    {
+      "organizations": [
+        "Sceye"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...Sceye, the world's first stationary stratospheric vessel"
+      ]
+    },
+    {
+      "organizations": [
+        "Business Council for International Understanding"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Sheeran serves on the boards of...the Business Council for International Understanding"
+      ]
+    },
+    {
+      "organizations": [
+        "Alliance for a Green Revolution in Africa (AGRA)"
+      ],
+      "roles": [
+        "Board of Directors member",
+        "co-chair of the Finance & Human Resources Committee"
+      ],
+      "time_markers": [
+        "current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also serves on the Board of Directors, and as co-chair of the Finance & Human Resources Committee, of the Alliance for a Green Revolution in Africa (AGRA)"
+      ]
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sheeran is a member of the Council on Foreign Relations."
+      ]
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "30th most powerful woman in the world"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, Forbes named her the world's 30th most powerful woman"
+      ]
+    },
+    {
+      "organizations": [
+        "Foreign Policy"
+      ],
+      "roles": [
+        "top 100 global 'Twitterati'"
+      ],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Foreign Policy listed her among its top 100 global 'Twitterati'."
+      ]
+    },
+    {
+      "organizations": [
+        "Michigan State University"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she has been awarded numerous honorary doctorate degrees, including from Michigan State University"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Colorado"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she has been awarded numerous honorary doctorate degrees, including from Michigan State University and the University of Colorado."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Japan"
+      ],
+      "roles": [
+        "Nigata International Food Award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was awarded Japan's Nigata International Food Award"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of France"
+      ],
+      "roles": [
+        "Commandeur de l'Ordre du Mérite Agricole"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commandeur de l'Ordre du Mérite Agricole by the government of France"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Brazil"
+      ],
+      "roles": [
+        "Grand Official Order of the 'Rio Branco' recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brazil's highest civilian award, the Grand Official Order of the 'Rio Branco,'"
+      ]
+    },
+    {
+      "organizations": [
+        "HuffPost"
+      ],
+      "roles": [
+        "'Game Changer' award recipient"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the 'Game Changer' award by HuffPost."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "person_name": "Yevgeny Maksimovich Primakov",
+  "career_events": [
+    {
+      "organizations": [
+        "Moscow Institute of Oriental Studies"
+      ],
+      "roles": [
+        "student",
+        "graduate with degree in Arabic"
+      ],
+      "time_markers": [
+        "graduated 1953"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Primakov was educated at the Moscow Institute of Oriental Studies, graduating in 1953"
+      ]
+    },
+    {
+      "organizations": [
+        "Moscow State University"
+      ],
+      "roles": [
+        "postgraduate student"
+      ],
+      "time_markers": [
+        "after 1953"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "carried out postgraduate work at Moscow State University"
+      ]
+    },
+    {
+      "organizations": [
+        "Soviet Radio",
+        "Pravda newspaper"
+      ],
+      "roles": [
+        "journalist",
+        "Middle Eastern correspondent",
+        "KGB co-optee (codename MAKSIM)"
+      ],
+      "time_markers": [
+        "1956 to 1970"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1956 to 1970, he worked as a journalist for Soviet radio and a Middle Eastern correspondent for Pravda newspaper. During this time, he was sent frequently on intelligence missions to the Middle East and the United States as a KGB co-optee under codename MAKSIM."
+      ]
+    },
+    {
+      "organizations": [
+        "Institute of World Economy and International Relations"
+      ],
+      "roles": [
+        "Senior Researcher"
+      ],
+      "time_markers": [
+        "1962"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As a Senior Researcher at the Institute of World Economy and International Relations, Primakov entered into scientific society in 1962."
+      ]
+    },
+    {
+      "organizations": [
+        "Institute of World Economy and International Relations",
+        "Academy of Sciences of the Soviet Union"
+      ],
+      "roles": [
+        "deputy director"
+      ],
+      "time_markers": [
+        "30 December 1970 to 1977"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 30 December 1970 to 1977, he served as deputy director of the Institute of World Economy and International Relations, part of the Academy of Sciences of the Soviet Union."
+      ]
+    },
+    {
+      "organizations": [
+        "Institute of Oriental Studies of the USSR Academy of Sciences"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "1977 to 1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1977 to 1985 he was Director of the Institute of Oriental Studies of the USSR Academy of Sciences."
+      ]
+    },
+    {
+      "organizations": [
+        "Soviet Peace Committee"
+      ],
+      "roles": [
+        "First Deputy Chairman"
+      ],
+      "time_markers": [
+        "1977 to 1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "During this time he was also First Deputy Chairman of the Soviet Peace Committee."
+      ]
+    },
+    {
+      "organizations": [
+        "Institute of World Economy and International Relations"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "1985 until 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1985 he returned to the Institute of World Economy and International Relations, serving as Director until 1989."
+      ]
+    },
+    {
+      "organizations": [
+        "Supreme Soviet of the Soviet Union"
+      ],
+      "roles": [
+        "Chairman of the Soviet of the Union"
+      ],
+      "time_markers": [
+        "3 June 1989 – 31 March 1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Primakov became involved in national politics in 1989, as the Chairman of the Soviet of the Union, one of two chambers of the Soviet parliament."
+      ]
+    },
+    {
+      "organizations": [
+        "27th Politburo of the Communist Party of the Soviet Union"
+      ],
+      "roles": [
+        "Candidate member"
+      ],
+      "time_markers": [
+        "1989–1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1989–1990: Candidate member, 27th Politburo"
+      ]
+    },
+    {
+      "organizations": [
+        "Presidential Council of the Soviet Union"
+      ],
+      "roles": [
+        "member",
+        "special envoy to Iraq"
+      ],
+      "time_markers": [
+        "1990 until 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1990 until 1991 he was a member of Soviet leader Mikhail Gorbachev's Presidential Council of the Soviet Union.",
+        "He served as Gorbachev's special envoy to Iraq in the run-up to the Persian Gulf War"
+      ]
+    },
+    {
+      "organizations": [
+        "KGB First Chief Directorate"
+      ],
+      "roles": [
+        "First Deputy Chairman of the KGB",
+        "Director of the KGB First Chief Directorate"
+      ],
+      "time_markers": [
+        "30 September 1991 – 6 November 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the failed August 1991 putsch, Primakov was appointed First Deputy Chairman of the KGB and Director of the KGB First Chief Directorate responsible for foreign intelligence."
+      ]
+    },
+    {
+      "organizations": [
+        "USSR Central Intelligence Service"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "6 November 1991 – 26 December 1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Director of the USSR Central Intelligence Service In office 6 November 1991 – 26 December 1991"
+      ]
+    },
+    {
+      "organizations": [
+        "Foreign Intelligence Service (SVR)"
+      ],
+      "roles": [
+        "Director"
+      ],
+      "time_markers": [
+        "26 December 1991 – 9 January 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the formation of the Russian Federation, Primakov shepherded the transition of the KGB First Chief Directorate to the control of the Russian Federation government, under the new name Foreign Intelligence Service (SVR).",
+        "He served as SVR director from 1991 until 1996."
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Foreign Affairs of Russia"
+      ],
+      "roles": [
+        "Minister of Foreign Affairs"
+      ],
+      "time_markers": [
+        "9 January 1996 – 11 September 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Primakov served as Minister of Foreign Affairs from January 1996 until September 1998."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "Prime Minister of Russia"
+      ],
+      "time_markers": [
+        "11 September 1998 – 12 May 1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was a Russian politician and diplomat who served as Prime Minister of Russia from 1998 to 1999"
+      ]
+    },
+    {
+      "organizations": [
+        "Fatherland – All Russia"
+      ],
+      "roles": [
+        "supporter",
+        "presidential candidate"
+      ],
+      "time_markers": [
+        "1998-2002",
+        "abandoned race 4 February 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Before Yeltsin's resignation, Primakov supported the Fatherland – All Russia electoral faction, which at that time was the major opponent of the pro-Putin Unity, and launched his presidential bid.",
+        "Primakov officially abandoned the presidential race in his TV address on 4 February 2000"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "adviser to President Putin"
+      ],
+      "time_markers": [
+        "2000 onwards"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Soon he became an adviser to Putin and a political ally."
+      ]
+    },
+    {
+      "organizations": [
+        "Russian Chamber of Commerce and Industry"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "14 December 2001 until 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 14 December 2001, Primakov became President of the Russian Chamber of Commerce and Industry, a position he held until 2011."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Russia"
+      ],
+      "roles": [
+        "special representative of President Putin to Iraq"
+      ],
+      "time_markers": [
+        "February and March 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In February and March 2003, he visited Iraq and held talks with Iraqi President Saddam Hussein, as a special representative of President Putin."
+      ]
+    },
+    {
+      "organizations": [
+        "Russian Academy of Sciences"
+      ],
+      "roles": [
+        "member of the Presidium"
+      ],
+      "time_markers": [
+        "26 May 2008 onwards"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 26 May 2008, Primakov was elected as a member of the Presidium of the Russian Academy of Sciences.",
+        "Primakov was an academician (Arabist) and a member of the Presidium of the Russian Academy of Sciences."
+      ]
+    },
+    {
+      "organizations": [
+        "Nasser Prize Committee"
+      ],
+      "roles": [
+        "Nasser Prize recipient"
+      ],
+      "time_markers": [
+        "1974"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Nasser Prize (1974)"
+      ]
+    },
+    {
+      "organizations": [
+        "USSR"
+      ],
+      "roles": [
+        "USSR State Prize recipient"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the USSR State Prize (1980)"
+      ]
+    },
+    {
+      "organizations": [
+        "Avicenna Prize Committee"
+      ],
+      "roles": [
+        "Avicenna Prize recipient"
+      ],
+      "time_markers": [
+        "1983"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Avicenna Prize (1983)"
+      ]
+    },
+    {
+      "organizations": [
+        "George F. Kennan Institute"
+      ],
+      "roles": [
+        "George F. Kennan Prize recipient"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the George F. Kennan Prize (1990)"
+      ]
+    },
+    {
+      "organizations": [
+        "Hugo Grotius Prize Committee"
+      ],
+      "roles": [
+        "Hugo Grotius Prize recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the Hugo Grotius Prize for the huge contribution to the development of international law and for the creation of a multipolar world doctrine (2000)."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Niš, Serbia"
+      ],
+      "roles": [
+        "honorary doctorate recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2009, the University of Niš, Serbia awarded Primakov an honorary doctorate."
+      ]
+    },
+    {
+      "organizations": [
+        "Demidov Prize Committee"
+      ],
+      "roles": [
+        "Demidov Prize recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Demidov Prize (2012)"
+      ]
+    },
+    {
+      "organizations": [
+        "International Criminal Tribunal for the former Yugoslavia"
+      ],
+      "roles": [
+        "defense witness for Slobodan Milošević"
+      ],
+      "time_markers": [
+        "November 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2004, Primakov testified in defense of the former Yugoslav President Slobodan Milošević, on trial for war crimes."
+      ]
+    }
+  ]
+}

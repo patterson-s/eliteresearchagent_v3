@@ -1,0 +1,451 @@
+{
+  "person_name": "Patricia Espinosa Cantellano",
+  "career_events": [
+    {
+      "organizations": [
+        "El Colegio de México"
+      ],
+      "roles": [
+        "student",
+        "Bachelor's degree in International Relations graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Patricia Espinosa Cantellano graduated with a bachelor's degree in International Relations from El Colegio de México"
+      ]
+    },
+    {
+      "organizations": [
+        "Graduate Institute of International and Development Studies"
+      ],
+      "roles": [
+        "student",
+        "Diploma in International Law recipient"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "earned a diploma in International Law at the Graduate Institute of International and Development Studies in Switzerland"
+      ]
+    },
+    {
+      "organizations": [
+        "Mexican Foreign Service"
+      ],
+      "roles": [
+        "Foreign Service Officer"
+      ],
+      "time_markers": [
+        "September 16, 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Espinosa Cantellano joined the Foreign Service on September 16, 1981."
+      ],
+      "time_start": 1981,
+      "time_finish": 1981
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Mexico to UN, Geneva"
+      ],
+      "roles": [
+        "Officer responsible for economic affairs"
+      ],
+      "time_markers": [
+        "1982-1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Cantellano has served as responsible for economic affairs, Permanent Mission of Mexico to UN, Geneva (1982-88)"
+      ],
+      "time_start": 1982,
+      "time_finish": 1988
+    },
+    {
+      "organizations": [
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Head of Cabinet to Undersecretary of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1989-1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Head, Cabinet to Undersecretary of Foreign Affairs (1989-91)"
+      ],
+      "time_start": 1989,
+      "time_finish": 1991
+    },
+    {
+      "organizations": [
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of International Organizations"
+      ],
+      "time_markers": [
+        "1991-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Director of International Organizations (1991-93)"
+      ],
+      "time_start": 1991,
+      "time_finish": 1993
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Mexico to UN, New York"
+      ],
+      "roles": [
+        "Diplomat assigned to Permanent Mission"
+      ],
+      "time_markers": [
+        "1993-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "assigned to Permanent Mission of Mexico to UN, New York (1993-97)"
+      ],
+      "time_start": 1993,
+      "time_finish": 1997
+    },
+    {
+      "organizations": [
+        "United Nations General Assembly"
+      ],
+      "roles": [
+        "President of the Third Committee"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the Third Committee, UN General Assembly (1996-97)"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997
+    },
+    {
+      "organizations": [
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "General Director of Regional Organizations of the Americas",
+        "Coordinator for Rio Group, Iberoamerican Summit, Summit of Americas and Summit of Latin America and Caribbean with European Union"
+      ],
+      "time_markers": [
+        "1997-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "General Director of Regional Organizations of the Americas, Ministry of Foreign Affairs, Coordinator for Rio Group, Iberoamerican Summit, Summit of Americas and Summit of Latin America and Caribbean with European Union (1997-99)"
+      ],
+      "time_start": 1997,
+      "time_finish": 1999
+    },
+    {
+      "organizations": [
+        "Mexican Foreign Service"
+      ],
+      "roles": [
+        "Ambassador (rank promotion)"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was promoted to Ambassador within the Foreign Service in 2000"
+      ],
+      "time_start": 2000,
+      "time_finish": 2000
+    },
+    {
+      "organizations": [
+        "Mexican Embassy in Germany"
+      ],
+      "roles": [
+        "Ambassador of Mexico to Germany"
+      ],
+      "time_markers": [
+        "January 2001 to June 2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served at the Mexican Embassy in Germany from January 2001 to June 2002"
+      ],
+      "time_start": 2001,
+      "time_finish": 2002
+    },
+    {
+      "organizations": [
+        "Mexican Embassy in Austria",
+        "International organizations in Vienna"
+      ],
+      "roles": [
+        "Ambassador of Mexico to Austria",
+        "Concurrent Ambassador to Slovenia",
+        "Concurrent Ambassador to Slovakia",
+        "Representative to international organizations in Vienna"
+      ],
+      "time_markers": [
+        "2002 to 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "leaving the post to serve as Ambassador to Austria, concurrently with a number of international organizations based in Vienna, from 2002 to 2006."
+      ],
+      "time_start": 2002,
+      "time_finish": 2006
+    },
+    {
+      "organizations": [
+        "Mexican Government",
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Secretary of Foreign Affairs"
+      ],
+      "time_markers": [
+        "December 1, 2006 – December 1, 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On November 28, 2006, President-elect Felipe Calderón announced that she would serve as his Secretary of Foreign Affairs starting on December 1, 2006.",
+        "In office December 1, 2006 – December 1, 2012"
+      ],
+      "time_start": 2006,
+      "time_finish": 2012
+    },
+    {
+      "organizations": [
+        "Mexican Government"
+      ],
+      "roles": [
+        "Ambassador Emeritus of Mexico"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Because of her outstanding career as a Mexican diplomat, she was appointed Ambassador Emeritus of Mexico in 2012.",
+        "Ambassador Emeritus of Mexico – highest honor given to five outstanding Mexican diplomats."
+      ],
+      "time_start": 2012,
+      "time_finish": 2012
+    },
+    {
+      "organizations": [
+        "German Sustainability Prize"
+      ],
+      "roles": [
+        "German Sustainability Prize recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Awarded the German Sustainability Prize in 2012"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012
+    },
+    {
+      "organizations": [
+        "Mexican Embassy in Germany"
+      ],
+      "roles": [
+        "Ambassador of Mexico to Germany"
+      ],
+      "time_markers": [
+        "2012 to 2016",
+        "September 6, 2013 – July 18, 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2012 to 2016, she was again Ambassador of Mexico to Germany.",
+        "Ambassador of Mexico to Germany In office 6 September 2013 – 18 July 2016"
+      ],
+      "time_start": 2012,
+      "time_finish": 2016
+    },
+    {
+      "organizations": [
+        "United Nations Framework Convention on Climate Change"
+      ],
+      "roles": [
+        "Executive Secretary"
+      ],
+      "time_markers": [
+        "July 18, 2016 – July 15, 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2016, Espinosa was selected by United Nations Secretary-General Ban Ki-moon to be the Executive Secretary of the United Nations Framework Convention on Climate Change.",
+        "Executive Secretary of the United Nations Framework Convention on Climate Change In office 18 July 2016 – 15 July 2022"
+      ],
+      "time_start": 2016,
+      "time_finish": 2022
+    },
+    {
+      "organizations": [
+        "Saxon Hans-Carl von Carlowitz Society"
+      ],
+      "roles": [
+        "Sustainability Prize recipient"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Awarded the Sustainability Prize in 2019 by the Saxon Hans-Carl von Carlowitz Society."
+      ],
+      "time_start": 2019,
+      "time_finish": 2019
+    },
+    {
+      "organizations": [
+        "Governments of Germany, Argentina, Austria, Chile, Colombia, Denmark, El Salvador, Guatemala, Netherlands, Paraguay and Peru"
+      ],
+      "roles": [
+        "Recipient of government decorations"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Decorated by the governments of Germany, Argentina, Austria, Chile, Colombia, Denmark, El Salvador, Guatemala, Netherlands, Paraguay and Peru."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Member of the High-Level Panel of Eminent Persons on the 2030 Agenda"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the High-Level Panel of Eminent Persons on the 2030 Agenda."
+      ],
+      "time_start": 2030,
+      "time_finish": 2030
+    },
+    {
+      "organizations": [
+        "Global Commission of Adaptation"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commissioner at the Global Commission of Adaptation"
+      ]
+    },
+    {
+      "organizations": [
+        "InsuResilience Global Partnership"
+      ],
+      "roles": [
+        "Member of High-Level Consultative Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "High-Level Consultative Group for the InsuResilience Global Partnership"
+      ]
+    },
+    {
+      "organizations": [
+        "International Gender Champions"
+      ],
+      "roles": [
+        "Founder of Berlin-Bonn chapter"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Founder of the Berlin-Bonn chapter of the International Gender Champions"
+      ]
+    },
+    {
+      "organizations": [
+        "Mary Robinson Foundation – Climate Justice"
+      ],
+      "roles": [
+        "Member of Advisory Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Advisory Board of the Mary Robinson Foundation – Climate Justice"
+      ]
+    },
+    {
+      "organizations": [
+        "OECD"
+      ],
+      "roles": [
+        "Member of High-Level Advisory Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the OECD High-Level Advisory Group"
+      ]
+    },
+    {
+      "organizations": [
+        "The Global Covenant of Mayors for Climate & Energy"
+      ],
+      "roles": [
+        "Board Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of The Global Covenant of Mayors for Climate & Energy Board"
+      ]
+    },
+    {
+      "organizations": [
+        "International Gender Champions"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "International Gender Champions (IGC), Member"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "person_name": "Gro Harlem Brundtland",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Oslo"
+      ],
+      "roles": [
+        "medical student",
+        "Cand.Med. graduate"
+      ],
+      "time_markers": [
+        "1963"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1963, Brundtland graduated with a medical degree, a cand.med. from the University of Oslo."
+      ]
+    },
+    {
+      "organizations": [
+        "Harvard University"
+      ],
+      "roles": [
+        "Master of Public Health student",
+        "MPH graduate"
+      ],
+      "time_markers": [
+        "1965"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She took her master's degree at Harvard University in 1965, as a Master of Public Health."
+      ]
+    },
+    {
+      "organizations": [
+        "Directorate of Health (Helsedirektoratet)"
+      ],
+      "roles": [
+        "physician"
+      ],
+      "time_markers": [
+        "1966 to 1969"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1966 to 1969, she worked as a physician at the Directorate of Health (Helsedirektoratet)"
+      ]
+    },
+    {
+      "organizations": [
+        "Oslo public school health service"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "time_markers": [
+        "from 1969"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from 1969 she worked as a doctor in Oslo's public school health service."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Minister of the Environment"
+      ],
+      "time_markers": [
+        "6 September 1974 – 8 October 1979"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was minister for environmental affairs from 1974 to 1979.",
+        "Minister of the Environment In office 6 September 1974 – 8 October 1979"
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament (Storting)"
+      ],
+      "roles": [
+        "Member of Parliament",
+        "representative for Oslo constituency"
+      ],
+      "time_markers": [
+        "1 October 1977 – 30 September 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Norwegian Parliament In office 1 October 1977 – 30 September 1997"
+      ]
+    },
+    {
+      "organizations": [
+        "Labour Party (Norway)"
+      ],
+      "roles": [
+        "Leader"
+      ],
+      "time_markers": [
+        "1981–1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland became leader of the Labour Party in 1981 and held the office until resigning in 1992",
+        "Leader of the Labour Party In office 1981–1992"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway",
+        "first female Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "4 February 1981 – 14 October 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She became the first female prime minister of Norway on 4 February 1981, but left office on 14 October 1981",
+        "Brundtland became Norway's first female prime minister in 1981.",
+        "At 41 years old she was the youngest person to become Prime Minister of Norway."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "World Commission on Environment and Development (Brundtland Commission)"
+      ],
+      "roles": [
+        "Chair of the World Commission on Environment and Development"
+      ],
+      "time_markers": [
+        "1983",
+        "published report April 1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1983, Brundtland was invited by then United Nations Secretary-General Javier Pérez de Cuéllar to establish and chair the World Commission on Environment and Development (WCED), widely referred to as the Brundtland Commission.",
+        "The commission, which published its report, Our Common Future, in April 1987"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "9 May 1986 – 16 October 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she returned as prime minister on 9 May 1986 and served until 16 October 1989.",
+        "The second ministry was from 9 May 1986 until 16 October 1989 and this cabinet became known worldwide for its high proportion of female ministers: nearly half, or eight of the total eighteen ministers, were female."
+      ]
+    },
+    {
+      "organizations": [
+        "Indira Gandhi Prize"
+      ],
+      "roles": [
+        "Indira Gandhi Prize recipient"
+      ],
+      "time_markers": [
+        "1988"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Indira Gandhi Prize (1988)"
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Norway"
+      ],
+      "roles": [
+        "Prime Minister of Norway"
+      ],
+      "time_markers": [
+        "3 November 1990 – 25 October 1996"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She finally returned for her third term on 3 November 1990.",
+        "The third ministry was from 3 November 1990 to 25 October 1996."
+      ]
+    },
+    {
+      "organizations": [
+        "Charlemagne Prize Committee"
+      ],
+      "roles": [
+        "Charlemagne Prize recipient"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland received the 1994 Charlemagne Prize",
+        "In 1994, Brundtland was awarded the Charlemagne Prize of the city of Aachen."
+      ]
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "Director-General"
+      ],
+      "time_markers": [
+        "13 May 1998 – 21 July 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the end of her term as PM, Brundtland was then elected Director-General of the World Health Organization in May 1998.",
+        "Director-General of the World Health Organization In office 13 May 1998 – 21 July 2003"
+      ]
+    },
+    {
+      "organizations": [
+        "American Philosophical Society"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the American Philosophical Society (2002)"
+      ]
+    },
+    {
+      "organizations": [
+        "Scientific American"
+      ],
+      "roles": [
+        "'Policy Leader of the Year' award recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland was recognized in 2003 by Scientific American as their 'Policy Leader of the Year' for coordinating a rapid worldwide response to stem outbreaks of SARS."
+      ]
+    },
+    {
+      "organizations": [
+        "Spanish Government"
+      ],
+      "roles": [
+        "Grand Cross of the Civil Order of Health recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Civil Order of Health (Spain, 2003)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Conference on Trade and Development (UNCTAD)"
+      ],
+      "roles": [
+        "Panel of Eminent Persons member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006 Brundtland was a member of the Panel of Eminent Persons who reviewed the work of the United Nations Conference on Trade and Development (UNCTAD)."
+      ]
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "founding member"
+      ],
+      "time_markers": [
+        "launched 18 July 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland is a founding member of The Elders, a group of world leaders originally convened by Nelson Mandela, Graça Machel and Desmond Tutu",
+        "Mandela announced the launch of the group on 18 July 2007 in Johannesburg, South Africa."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "UN Special Envoy on Climate Change"
+      ],
+      "time_markers": [
+        "May 2007 to 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2007, UN Secretary-General Ban Ki-moon named Brundtland, as well as Ricardo Lagos (the former president of Chile), and Han Seung-soo (the former foreign minister of South Korea), to serve as UN Special Envoys for Climate Change.",
+        "served as director-general of the World Health Organization and as UN special envoy on Climate Change from 2007 to 2010."
+      ]
+    },
+    {
+      "organizations": [
+        "PepsiCo"
+      ],
+      "roles": [
+        "consultant"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2007, Brundtland was working for Pepsi as a consultant."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Virginia",
+        "Thomas Jefferson Foundation"
+      ],
+      "roles": [
+        "Thomas Jefferson Foundation Medal in Architecture recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Thomas Jefferson Foundation Medal in Architecture (2008)"
+      ]
+    },
+    {
+      "organizations": [
+        "The Elders"
+      ],
+      "roles": [
+        "Deputy Chair"
+      ],
+      "time_markers": [
+        "2013 to 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Deputy Chair of the group in 2013 and was succeeded in this role by Ban Ki-moon and Graça Machel in 2018."
+      ]
+    },
+    {
+      "organizations": [
+        "Prize International Catalonia"
+      ],
+      "roles": [
+        "Prize International Catalonia recipient (shared with Malala Yousafzai)"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Prize International Catalonia (2013) with Malala Yousafzai"
+      ]
+    },
+    {
+      "organizations": [
+        "Tang Prize Foundation"
+      ],
+      "roles": [
+        "Tang Prize in Sustainable Development recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tang Prize in Sustainable Development (2014)"
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Association for Women's Rights"
+      ],
+      "roles": [
+        "honorary member"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary member of the Norwegian Association for Women's Rights (2016)"
+      ]
+    },
+    {
+      "organizations": [
+        "WHO Global Preparedness Monitoring Board"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2019, Brundtland served as co-chair with the WHO Global Preparedness Monitoring Board."
+      ]
+    },
+    {
+      "organizations": [
+        "Oslo City Council"
+      ],
+      "roles": [
+        "elected member"
+      ],
+      "time_markers": [
+        "2023 local elections",
+        "won seat 14 September 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland returned to politics when she became a candidate to the Oslo City Council for the 2023 local elections. She ultimately won a seat in the council."
+      ]
+    },
+    {
+      "organizations": [
+        "Council of Women World Leaders"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland is a member of the Council of Women World Leaders, an international network of current and former women presidents and prime ministers"
+      ]
+    },
+    {
+      "organizations": [
+        "Club of Madrid"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brundtland is also a member of the Club of Madrid, an independent organization of former leaders of democratic states"
+      ]
+    },
+    {
+      "organizations": [
+        "Socialist International"
+      ],
+      "roles": [
+        "former vice-president"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also deputy chair of The Elders and a former vice-president of Socialist International."
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Academy of Science and Letters"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Norwegian Academy of Science and Letters"
+      ]
+    },
+    {
+      "organizations": [
+        "Moscow Society of Naturalists"
+      ],
+      "roles": [
+        "honorary member"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Member of the Moscow Society of Naturalists"
+      ]
+    },
+    {
+      "organizations": [
+        "National German Sustainability Award"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The National German Sustainability Award"
+      ]
+    },
+    {
+      "organizations": [
+        "Clubhouse International"
+      ],
+      "roles": [
+        "Rudyard n. Propst Award recipient"
+      ],
+      "time_markers": [],
+      "event_type": "award",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Rudyard n. Propst Award from Clubhouse International"
+      ]
+    }
+  ]
+}

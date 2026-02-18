@@ -1,0 +1,538 @@
+{
+  "person_name": "Gordon Brown",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "student",
+        "MA in History graduate"
+      ],
+      "time_markers": [
+        "1972"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown graduated from Edinburgh with an undergraduate MA degree with First-Class Honours in history in 1972."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "PhD student",
+        "PhD in History graduate"
+      ],
+      "time_markers": [
+        "1982"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He stayed on to obtain his PhD degree in history, which he gained ten years later in 1982, defending a thesis titled The Labour Party and Political Change in Scotland 1918–1929."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "Rector of the University of Edinburgh"
+      ],
+      "time_markers": [
+        "1972",
+        "served until 1975"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1972, while still a student, Brown was elected Rector of the University of Edinburgh, the convener of the University Court. He served as Rector until 1975"
+      ]
+    },
+    {
+      "organizations": [
+        "Glasgow College of Technology"
+      ],
+      "roles": [
+        "lecturer in politics"
+      ],
+      "time_markers": [
+        "1976 to 1980"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1976 to 1980 Brown was employed as a lecturer in politics at Glasgow College of Technology."
+      ]
+    },
+    {
+      "organizations": [
+        "Open University"
+      ],
+      "roles": [
+        "tutor"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He also worked as a tutor for the Open University."
+      ]
+    },
+    {
+      "organizations": [
+        "Scottish Television"
+      ],
+      "roles": [
+        "journalist",
+        "current affairs editor"
+      ],
+      "time_markers": [
+        "From 1980",
+        "until his election to Parliament in 1983"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 1980, he worked as a journalist at Scottish Television, later serving as current affairs editor until his election to Parliament in 1983."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Member of Parliament for Dunfermline East"
+      ],
+      "time_markers": [
+        "1983 general election",
+        "1983 to 2005"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown was elected to Parliament as a Labour MP at his second attempt, for Dunfermline East in the 1983 general election."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "opposition spokesman on Trade and Industry"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown became an opposition spokesman on Trade and Industry in 1985."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "Shadow Chief Secretary to the Treasury"
+      ],
+      "time_markers": [
+        "1987 to 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown was Shadow Chief Secretary to the Treasury from 1987 to 1989"
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "Shadow Secretary of State for Trade and Industry"
+      ],
+      "time_markers": [
+        "1989 to 1992"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "then Shadow Secretary of State for Trade and Industry, before becoming Shadow Chancellor in 1992"
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament",
+        "Labour Party"
+      ],
+      "roles": [
+        "Shadow Chancellor of the Exchequer"
+      ],
+      "time_markers": [
+        "1992",
+        "until 1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "before becoming Shadow Chancellor in 1992 following Labour's fourth consecutive defeat in the general election that year."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Government",
+        "HM Treasury"
+      ],
+      "roles": [
+        "Chancellor of the Exchequer"
+      ],
+      "time_markers": [
+        "2 May 1997",
+        "1997–2007",
+        "27 June 2007"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "when Tony Blair, the new prime minister, announced his ministerial team on 2 May 1997, he appointed Brown as Chancellor of the Exchequer. Brown would remain in this role for 10 years and two months, making him the longest-serving Chancellor in modern history."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Parliament"
+      ],
+      "roles": [
+        "Member of Parliament for Kirkcaldy and Cowdenbeath"
+      ],
+      "time_markers": [
+        "2005",
+        "until 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following a reorganisation of Westminster constituencies in Scotland in 2005, Brown became MP for Kirkcaldy and Cowdenbeath at the general election.",
+        "He continued to serve as the MP of Kirkcaldy and Cowdenbeath until 2015."
+      ]
+    },
+    {
+      "organizations": [
+        "Labour Party"
+      ],
+      "roles": [
+        "Leader of the Labour Party"
+      ],
+      "time_markers": [
+        "24 June 2007",
+        "2007–2010",
+        "11 May 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown replaced Blair as Leader of the Labour Party on 24 June 2007.",
+        "He resigned as leader of the Labour Party with immediate effect."
+      ]
+    },
+    {
+      "organizations": [
+        "UK Government"
+      ],
+      "roles": [
+        "Prime Minister of the United Kingdom"
+      ],
+      "time_markers": [
+        "27 June 2007",
+        "2007–2010",
+        "11 May 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After Blair tendered his resignation to Queen Elizabeth II, Brown was invited by the queen to form a government and become prime minister on 27 June 2007.",
+        "Brown visited Buckingham Palace to tender his resignation as prime minister to Queen Elizabeth II"
+      ]
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "board director"
+      ],
+      "time_markers": [
+        "September 2010"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sir Tim Berners-Lee... invited Brown to become a board director of the World Wide Web Foundation... and he was elected to the board of directors in September 2010."
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "unpaid advisory role"
+      ],
+      "time_markers": [
+        "22 April 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 22 April 2011, it was announced that Brown would be taking on an unpaid advisory role at the World Economic Forum."
+      ]
+    },
+    {
+      "organizations": [
+        "New York University"
+      ],
+      "roles": [
+        "Distinguished Leader in Residence"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Brown was also appointed as the inaugural 'Distinguished Leader in Residence' by New York University and took part in discussions and lectures relating to the 2008 financial crisis and globalisation."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Special Envoy for Global Education"
+      ],
+      "time_markers": [
+        "13 July 2012",
+        "since 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2012, Brown was named by Secretary-General Ban Ki-moon as United Nations Special Envoy for Global Education.",
+        "He has served as United Nations Special Envoy for Global Education since 2012"
+      ]
+    },
+    {
+      "organizations": [
+        "International Commission on Financing Global Education Opportunity"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He chaired the International Commission on Financing Global Education Opportunity. The position is unpaid."
+      ]
+    },
+    {
+      "organizations": [
+        "PIMCO"
+      ],
+      "roles": [
+        "advisor"
+      ],
+      "time_markers": [
+        "December 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In December 2015, Brown took his first large-scale role in the private sector since standing down as prime minister in 2010, becoming an advisor to PIMCO."
+      ]
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "Goodwill Ambassador for Global Health Financing"
+      ],
+      "time_markers": [
+        "September 2021",
+        "20 September 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2021, Brown was appointed by the World Health Organization as Goodwill Ambassador for Global Health Financing.",
+        "he was appointed as World Health Organization Ambassador for Global Health Financing in 2021."
+      ]
+    },
+    {
+      "organizations": [
+        "Brunel University"
+      ],
+      "roles": [
+        "Doctor of the University (DUniv) recipient"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor of the University (DUniv) from Brunel University (1996)"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Edinburgh"
+      ],
+      "roles": [
+        "Doctor Honoris Causa (HonDr) recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor Honoris Causa (HonDr) from University of Edinburgh (2003)"
+      ]
+    },
+    {
+      "organizations": [
+        "Robert Gordon University"
+      ],
+      "roles": [
+        "Honorary Doctor of Laws (LLD) recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Laws (LLD) from Robert Gordon University (2003)"
+      ]
+    },
+    {
+      "organizations": [
+        "New York University"
+      ],
+      "roles": [
+        "Honorary Doctor of Humane Letters (DHL) recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Humane Letters (DHL) from New York University (2005)"
+      ]
+    },
+    {
+      "organizations": [
+        "Newcastle University"
+      ],
+      "roles": [
+        "Honorary Doctor of Civil Law (DCL) recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Civil Law (DCL) from Newcastle University (2007)"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Delhi"
+      ],
+      "roles": [
+        "Honorary Doctor of Letters (DLitt) recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Honorary Doctor of Letters (DLitt) from University of Delhi (2008)"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Glasgow"
+      ],
+      "roles": [
+        "Doctor of the University (DUniv) recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor of the University (DUniv) from University of Glasgow (2015)"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Society of Edinburgh"
+      ],
+      "roles": [
+        "Honorary Fellow (HonFRSE)"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Elected an Honorary Fellow of the Royal Society of Edinburgh (HonFRSE; 2018)"
+      ]
+    },
+    {
+      "organizations": [
+        "Appeal of Conscience Foundation"
+      ],
+      "roles": [
+        "World Statesman of the Year recipient"
+      ],
+      "time_markers": [
+        "March 2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 2009, Brown was named World Statesman of the Year by the Appeal of Conscience Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "UK Government"
+      ],
+      "roles": [
+        "Member of the Order of the Companions of Honour (CH)"
+      ],
+      "time_markers": [
+        "2024 Birthday Honours"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was awarded the Order of the Companions of Honour by King Charles III in the 2024 Birthday Honours for public and charitable services in the UK and abroad.",
+        "In the 2024 Birthday Honours, Brown was appointed Member of the Order of the Companions of Honour (CH) for public and charitable services in the UK and abroad."
+      ]
+    }
+  ]
+}

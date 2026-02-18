@@ -1,0 +1,254 @@
+{
+  "person_name": "Keizō Takemi",
+  "career_events": [
+    {
+      "organizations": [
+        "Tokai University"
+      ],
+      "roles": [
+        "professor of international politics"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Takemi used to be a professor of Tokai University whose main subject is international politics."
+      ]
+    },
+    {
+      "organizations": [
+        "House of Councillors"
+      ],
+      "roles": [
+        "Member of the House of Councillors"
+      ],
+      "time_markers": [
+        "first elected 23 July 1995",
+        "served until July 2007"
+      ],
+      "constituency": "National PR",
+      "event_type": "elected_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was first elected to a member of the House of Councillors on 23 July 1995. He served until July 2007"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Health, Labour and Welfare",
+        "Abe Cabinet"
+      ],
+      "roles": [
+        "Vice Minister of Health, Labour and Welfare",
+        "Senior Vice Minister of Health, Labour and Welfare"
+      ],
+      "time_markers": [
+        "September 2006 to August 2007"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "was Vice Minister of Ministry of Health, Labour and Welfare of the Abe Cabinet from September 2006 until August 2007"
+      ]
+    },
+    {
+      "organizations": [
+        "House of Councillors"
+      ],
+      "roles": [
+        "Member of the House of Councillors"
+      ],
+      "time_markers": [
+        "returned 2012",
+        "reelected 2013",
+        "reelected 2019",
+        "served until 28 July 2025"
+      ],
+      "constituency": "National PR (2012-2013), Tokyo at-large (2013-2025)",
+      "event_type": "elected_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, he returned to the House of Councillors, and he won reelection in 2013 and 2019.",
+        "In office 14 December 2012 – 28 July 2025"
+      ]
+    },
+    {
+      "organizations": [
+        "School of Politics for Women"
+      ],
+      "roles": [
+        "tutor"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was a tutor of the School of Politics for Women (女性のための政治スクール)."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on United Nations Systemwide Coherence"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "appointed_by": "United Nations Secretary-General Kofi Annan",
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2006, United Nations Secretary-General Kofi Annan appointed Takemi to a High-level Panel on United Nations Systemwide Coherence"
+      ]
+    },
+    {
+      "organizations": [
+        "International Conference on Population and Development",
+        "High-Level Task Force for the International Conference on Population and Development"
+      ],
+      "roles": [
+        "task force member"
+      ],
+      "time_markers": [
+        "2012 to 2014"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2012 to 2014, Takemi served on the High-Level Task Force for the International Conference on Population and Development, co-chaired by Joaquim Chissano and Tarja Halonen."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-Level Commission on Health Employment and Economic Growth"
+      ],
+      "roles": [
+        "commissioner"
+      ],
+      "time_markers": [
+        "appointed March 2016"
+      ],
+      "appointed_by": "United Nations Secretary-General Ban Ki-moon",
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 2016, Takemi was appointed by United Nations Secretary-General Ban Ki-moon to the High-Level Commission on Health Employment and Economic Growth"
+      ]
+    },
+    {
+      "organizations": [
+        "World Health Organization"
+      ],
+      "roles": [
+        "WHO Goodwill Ambassador for Universal Health Coverage"
+      ],
+      "time_markers": [
+        "appointed June 2019"
+      ],
+      "appointed_by": "WHO Director General Tedros Adhanom Ghebreyesus",
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In June 2019, World Health Organization (WHO) Director General Tedros Adhanom Ghebreyesus appointed Takemi as WHO Goodwill Ambassador for Universal Health Coverage."
+      ]
+    },
+    {
+      "organizations": [
+        "Chatham House",
+        "Commission for Universal Health"
+      ],
+      "roles": [
+        "commission member"
+      ],
+      "time_markers": [
+        "since 2022"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Since 2022, he has been a member of the Commission for Universal Health convened by Chatham House and co-chaired by Helen Clark and Jakaya Kikwete."
+      ]
+    },
+    {
+      "organizations": [
+        "Liberal Democratic Party",
+        "House of Councillors"
+      ],
+      "roles": [
+        "Chairman of the Policy Research Council for the Liberal Democratic Party in the House of Councillors"
+      ],
+      "time_markers": [
+        "2017 to 2018"
+      ],
+      "event_type": "party_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman of the Policy Research Council for the Liberal Democratic Party in the House of Councillors 2017—2018"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Health, Labour and Welfare",
+        "Kishida Cabinet"
+      ],
+      "roles": [
+        "Minister of Health, Labour and Welfare"
+      ],
+      "time_markers": [
+        "13 September 2023 to 1 October 2024"
+      ],
+      "event_type": "cabinet_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of Health, Labour, and Welfare In office 13 September 2023 – 1 October 2024 Prime Minister Fumio Kishida"
+      ]
+    },
+    {
+      "organizations": [
+        "Liberal Democratic Party",
+        "House of Councillors"
+      ],
+      "roles": [
+        "Chairman of the Liberal Democratic Party in the House of Councillors"
+      ],
+      "time_markers": [
+        "elected November 2024",
+        "served 2024 to 2025"
+      ],
+      "event_type": "party_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Takemi was elected chairman of the Liberal Democratic Party caucus in the House of Councillors in November 2024, after Masakazu Sekiguchi resigned to become President of the House of Councillors."
+      ]
+    },
+    {
+      "organizations": [],
+      "roles": [],
+      "time_markers": [
+        "defeated 2025",
+        "announced retirement 28 July 2025"
+      ],
+      "event_type": "career_end",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was defeated in the 2025 Japanese House of Councillors election and announced his retirement from politics."
+      ]
+    },
+    {
+      "organizations": [
+        "Keio University"
+      ],
+      "roles": [
+        "student",
+        "alumnus"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Alma mater Keio University"
+      ]
+    }
+  ]
+}

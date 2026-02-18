@@ -1,0 +1,316 @@
+{
+  "person_name": "Mohamed T. El-Ashry",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Cairo"
+      ],
+      "roles": [
+        "student",
+        "Bachelor of Science graduate"
+      ],
+      "time_markers": [
+        "1959"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohamed T. El-Ashry obtained his Bachelor of Science degree in 1959 from the University of Cairo"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Illinois"
+      ],
+      "roles": [
+        "student",
+        "Master of Science graduate"
+      ],
+      "time_markers": [
+        "1963"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Master of Science in 1963 from the University of Illinois"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Illinois"
+      ],
+      "roles": [
+        "PhD student",
+        "Doctor of Philosophy in Geology graduate"
+      ],
+      "time_markers": [
+        "1966"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Doctor of Philosophy in Geology, in 1966, from the University of Illinois"
+      ]
+    },
+    {
+      "organizations": [
+        "Cairo University"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University"
+      ]
+    },
+    {
+      "organizations": [
+        "Pan-American-U.A.R. Oil Company"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University, Pan-American-U.A.R. Oil Company"
+      ]
+    },
+    {
+      "organizations": [
+        "Wilkes University"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University, Pan-American-U.A.R. Oil Company, Wilkes University"
+      ]
+    },
+    {
+      "organizations": [
+        "Environmental Defense Fund"
+      ],
+      "roles": [
+        "lecturer",
+        "researcher"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was a lecturer and researcher at Cairo University, Pan-American-U.A.R. Oil Company, Wilkes University, and the Environmental Defense Fund"
+      ]
+    },
+    {
+      "organizations": [
+        "World Resources Institute"
+      ],
+      "roles": [
+        "Senior Vice President"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he became a Senior Vice President of the World Resources Institute (WRI)"
+      ]
+    },
+    {
+      "organizations": [
+        "Tennessee Valley Authority"
+      ],
+      "roles": [
+        "Director of Environmental Quality"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "as the Director of Environmental Quality with the Tennessee Valley Authority (TVA)"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Chief Environmental Advisor"
+      ],
+      "time_markers": [
+        "1991-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He later joined World Bank where he held the position of Chief Environmental Advisor (1991–1993)"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Chief Environmental Advisor to the President"
+      ],
+      "time_markers": [
+        "1993-1994"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chief Environmental Advisor to the President (1993–1994)"
+      ]
+    },
+    {
+      "organizations": [
+        "Global Environment Facility"
+      ],
+      "roles": [
+        "Chief Executive Officer",
+        "Chairman"
+      ],
+      "time_markers": [
+        "1994-2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mohamed T. El-Ashry was the first Chief Executive Officer and Chairman of the Global Environment Facility (GEF)",
+        "he became the CEO and Chairman of the organisation for eleven years (1991-2002)"
+      ],
+      "notes": "Wikipedia shows conflicting dates (1991-2002 vs 1994-2003). Lead paragraph and World Bank timeline suggest 1994-2003 is correct. He held World Bank CEO role 1994-2003 per source [4], and was 'first CEO' of GEF which was established 1994."
+    },
+    {
+      "organizations": [
+        "UN Foundation"
+      ],
+      "roles": [
+        "Senior Fellow"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "subsequently a Senior Fellow with the UN Foundation",
+        "and a Senior Fellow with the UN Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "Geological Society of America"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "El-Ashry was elected a Fellow of the Geological Society of America"
+      ]
+    },
+    {
+      "organizations": [
+        "American Association for the Advancement of Science"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Fellow of the American Association for the Advancement of Science"
+      ]
+    },
+    {
+      "organizations": [
+        "Third World Academy of Sciences"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "time_markers": [
+        "1990"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Fellow of the Third World Academy of Sciences in 1990"
+      ]
+    },
+    {
+      "organizations": [
+        "African Academy of Sciences"
+      ],
+      "roles": [
+        "Fellow"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a Fellow of the African Academy of Sciences in 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "American Academy of Arts and Sciences"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "since 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is a member of the American Academy of Arts and Sciences since 2012 advising on renewable energy"
+      ]
+    },
+    {
+      "organizations": [
+        "World Wide Fund for Nature"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member World Wide Fund for Nature"
+      ]
+    },
+    {
+      "organizations": [
+        "Resources for the Future"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member World Wide Fund for Nature, Resources for the Future"
+      ]
+    },
+    {
+      "organizations": [
+        "Renewable Energy Policy Network for the 21st Century"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a board member World Wide Fund for Nature, Resources for the Future, and Renewable Energy Policy Network for the 21st Century"
+      ]
+    }
+  ]
+}

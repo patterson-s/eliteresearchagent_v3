@@ -1,0 +1,329 @@
+{
+  "person_name": "Nanjira Sambuli",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Nairobi"
+      ],
+      "roles": [
+        "student",
+        "bachelor's degree in actuarial science graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sambuli holds a bachelor's degree in actuarial science from the University of Nairobi."
+      ]
+    },
+    {
+      "organizations": [
+        "Carnegie Endowment for International Peace"
+      ],
+      "roles": [
+        "Fellow in the Technology and International Affairs Program"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira is a Fellow in the Technology and International Affairs Program at The Carnegie Endowment for International Peace"
+      ]
+    },
+    {
+      "organizations": [
+        "Ford Foundation"
+      ],
+      "roles": [
+        "Ford Global Fellow"
+      ],
+      "event_type": "fellowship",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a Ford Global Fellow."
+      ]
+    },
+    {
+      "organizations": [
+        "Transform Health Coalition"
+      ],
+      "roles": [
+        "President",
+        "co-Chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also President and co-Chair of the Transform Health Coalition"
+      ]
+    },
+    {
+      "organizations": [
+        "The New Humanitarian"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "a board member at The New Humanitarian"
+      ]
+    },
+    {
+      "organizations": [
+        "Development Gateway"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Development Gateway"
+      ]
+    },
+    {
+      "organizations": [
+        "Digital Impact Alliance"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and Digital Impact Alliance (DIAL)"
+      ]
+    },
+    {
+      "organizations": [
+        "Lancet & Financial Times Global Commission"
+      ],
+      "roles": [
+        "Commissioner on Governing Health Futures 2030"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and a Commissioner on the Lancet & Financial Times Global Commission (Governing Health Futures 2030)."
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "advisory board member for Technology and Social Justice Initiatives"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira also sits on several advisory boards, including the World Economic Forum's Technology and Social Justice Initiatives"
+      ]
+    },
+    {
+      "organizations": [
+        "Alliance for Inclusive Algorithms"
+      ],
+      "roles": [
+        "advisory board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Alliance for Inclusive Algorithms"
+      ]
+    },
+    {
+      "organizations": [
+        "Carnegie Council"
+      ],
+      "roles": [
+        "advisory board member for AI and Equality Initiative"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the Carnegie Council's AI and Equality Initiative."
+      ]
+    },
+    {
+      "organizations": [
+        "Geneva Science and Diplomacy Anticipator (GESDA)"
+      ],
+      "roles": [
+        "Diplomacy Moderator"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Additionally, she is a Diplomacy Moderator at the Geneva Science and Diplomacy Anticipator (GESDA)."
+      ]
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "Senior Policy Manager"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira has served as a Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation."
+      ]
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "Digital Equality Advocacy Manager"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira has served as a Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation."
+      ]
+    },
+    {
+      "organizations": [
+        "iHub"
+      ],
+      "roles": [
+        "Research Lead",
+        "Research Manager"
+      ],
+      "time_markers": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "between 2013 and 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira Sambuli was the former Research Lead and Research Manager at iHub in Nairobi between 2013 and 2016."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN Secretary General's High Level Panel on Digital Cooperation"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Nanjira is a member of the UN Secretary General's High Level Panel on Digital Cooperation",
+        "In 2018, she was invited by António Guterres, the United Nations Secretary General to join the High- Level Panel on Digital Cooperation."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "deputy on UN Secretary General's High Level Panel for Women's Economic Empowerment"
+      ],
+      "time_markers": [
+        "2016",
+        "2017",
+        "2016–17"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and served as a deputy on the UN Secretary General's High Level Panel for Women's Economic Empowerment (2016–17)."
+      ]
+    },
+    {
+      "organizations": [
+        "World Wide Web Foundation"
+      ],
+      "roles": [
+        "leader of Women's Rights Online work"
+      ],
+      "event_type": "project_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sambuli led the Women's Rights Online work at the Web Foundation, that comprises a network of gender and digital rights organisations across Africa, Asia and Latin America."
+      ]
+    },
+    {
+      "organizations": [
+        "Umati Project"
+      ],
+      "roles": [
+        "framework developer"
+      ],
+      "event_type": "project_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sambuli developed a framework for accessing the viability, verification and validity of Crowdsourcing, Umati, an online dangerous speech monitoring project."
+      ]
+    },
+    {
+      "organizations": [
+        "Innovative Africa"
+      ],
+      "roles": [
+        "editor"
+      ],
+      "event_type": "editorial_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is the editor of Innovative Africa."
+      ]
+    },
+    {
+      "organizations": [
+        "Daily Nation"
+      ],
+      "roles": [
+        "columnist"
+      ],
+      "event_type": "editorial_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also occasionally writes a column for the Daily Nation newspaper in Kenya and international press."
+      ]
+    },
+    {
+      "organizations": [
+        "BBC"
+      ],
+      "roles": [
+        "BBC 100 Women honoree"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2019 - She was named in the list of BBC 100 Women."
+      ]
+    },
+    {
+      "organizations": [
+        "New African Magazine"
+      ],
+      "roles": [
+        "100 Most Influential Africans honoree"
+      ],
+      "time_markers": [
+        "2016"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2016 - She was named one of the New African Magazine's 100 Most Influential Africans"
+      ]
+    }
+  ]
+}

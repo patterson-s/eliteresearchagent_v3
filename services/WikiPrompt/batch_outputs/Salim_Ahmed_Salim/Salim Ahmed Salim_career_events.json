@@ -1,0 +1,1098 @@
+{
+  "person_name": "Salim Ahmed Salim",
+  "career_events": [
+    {
+      "organizations": [
+        "Lumumba College"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was educated at Lumumba College in Zanzibar"
+      ]
+    },
+    {
+      "organizations": [
+        "St. Stephen's College",
+        "University of Delhi"
+      ],
+      "roles": [
+        "undergraduate student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "later pursued his undergraduate studies at the St. Stephen's College of the University of Delhi"
+      ]
+    },
+    {
+      "organizations": [
+        "School of International and Public Affairs",
+        "Columbia University"
+      ],
+      "roles": [
+        "master's degree student in International Affairs"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "obtained his master's degree in International Affairs from the School of International and Public Affairs at Columbia University in New York"
+      ]
+    },
+    {
+      "organizations": [
+        "All-Zanzibar Student Union"
+      ],
+      "roles": [
+        "founder",
+        "first Vice President"
+      ],
+      "time_markers": [
+        "1950s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He became a student activist in the 1950s and was founder and first Vice President of the All-Zanzibar Student Union"
+      ]
+    },
+    {
+      "organizations": [
+        "Zanzibar daily paper",
+        "All-Zanzibar Journalists Organisation"
+      ],
+      "roles": [
+        "Chief editor",
+        "Secretary General"
+      ],
+      "time_markers": [
+        "1963–1964"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chief editor of a Zanzibar daily paper, Secretary General of the All-Zanzibar Journalists Organisation 1963–1964"
+      ]
+    },
+    {
+      "organizations": [
+        "Zanzibar Office",
+        "Cuba"
+      ],
+      "roles": [
+        "Deputy chief representative"
+      ],
+      "time_markers": [
+        "1961–1962"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Deputy chief representative of the Zanzibar Office based in Havana, Cuba 1961–1962"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania",
+        "Egypt"
+      ],
+      "roles": [
+        "Ambassador to the Arab Republic of Egypt"
+      ],
+      "time_markers": [
+        "1964–1965"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tanzania Ambassador to the Arab Republic of Egypt 1964–1965"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania",
+        "India"
+      ],
+      "roles": [
+        "High Commissioner to India"
+      ],
+      "time_markers": [
+        "1965–1968"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tanzanian High Commissioner (i.e. Ambassador) to India 1965–1968"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania",
+        "People's Republic of China"
+      ],
+      "roles": [
+        "Ambassador to the People's Republic of China"
+      ],
+      "time_markers": [
+        "1969–1970"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tanzania Ambassador to the People's Republic of China 1969–1970"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania",
+        "United Nations"
+      ],
+      "roles": [
+        "Permanent Representative to the United Nations"
+      ],
+      "time_markers": [
+        "1970–1980"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Permanent Representative of Tanzania to the United Nations 1970–1980"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania",
+        "Cuba"
+      ],
+      "roles": [
+        "Ambassador to Cuba"
+      ],
+      "time_markers": [
+        "1970–1980"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tanzania Ambassador to Cuba 1970–1980 (served while at the UN)"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania",
+        "Guyana",
+        "Barbados",
+        "Jamaica",
+        "Trinidad and Tobago"
+      ],
+      "roles": [
+        "High Commissioner to Guyana, Barbados, Jamaica, Trinidad and Tobago"
+      ],
+      "time_markers": [
+        "1970–1980"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Tanzanian High Commissioner to Guyana, Barbados, Jamaica, Trinidad and Tobago 1970–1980 (served while at the UN)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Chairman of the United Nations Special Mission to Niue"
+      ],
+      "time_markers": [
+        "June/July 1972"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "June/July 1972: Chairman of the United Nations Special Mission to Niue"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Drafting Committee member of the Political Committee of the Ministerial Conference of non-Aligned States"
+      ],
+      "time_markers": [
+        "August 1972"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "August 1972: Drafting Committee of the Political Committee of the Ministerial Conference of non-Aligned States, Georgetown, Guyana"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Chairman of the United Nations Special Committee on Decolonization (Committee of 24)"
+      ],
+      "time_markers": [
+        "1972 to 1980"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1972 to 1980: Chairman of the United Nations Special Committee on Decolonization (Committee of 24)"
+      ]
+    },
+    {
+      "organizations": [
+        "International Conference of Experts in Support of the Victims of Colonialism and Apartheid in Southern Africa"
+      ],
+      "roles": [
+        "Chairman of the Political Committee"
+      ],
+      "time_markers": [
+        "April 1973"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "April 1973: Chairman of the Political Committee of International Conference of Experts in Support of the Victims of Colonialism and Apartheid in Southern Africa, Oslo"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Security Council"
+      ],
+      "roles": [
+        "Chairman of the Security Council's Committee on Sanctions against Southern Rhodesia"
+      ],
+      "time_markers": [
+        "1975"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1975: Chairman of the Security Council's Committee on Sanctions against Southern Rhodesia"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Security Council"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1976: President of the United Nations Security Council"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations General Assembly"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1979-1980"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1979: President of the United Nations General Assembly for the Thirty-fourth, Sixth emergency special, Seventh emergency special, and Eleventh special sessions"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania"
+      ],
+      "roles": [
+        "Minister for Foreign Affairs"
+      ],
+      "time_markers": [
+        "1980–1984",
+        "alternative: 1981-1984"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister for Foreign Affairs 1980–1984",
+        "In office 1981–1984"
+      ]
+    },
+    {
+      "organizations": [
+        "International Conference on Sanctions against South Africa"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1981"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1981: President of the International Conference on Sanctions against South Africa"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "candidate for Secretary-General"
+      ],
+      "time_markers": [
+        "1981"
+      ],
+      "event_type": "notable_candidacy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981, Salim Ahmed Salim ran for Secretary-General of the United Nations against the two-term incumbent, Kurt Waldheim"
+      ]
+    },
+    {
+      "organizations": [
+        "Paris International Conference Against Apartheid"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "1984"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "1984: President of the Paris International Conference Against Apartheid"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania"
+      ],
+      "roles": [
+        "Prime Minister"
+      ],
+      "time_markers": [
+        "24 April 1984 – 5 November 1985"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Prime Minister of Tanzania In office 24 April 1984 – 5 November 1985"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania"
+      ],
+      "roles": [
+        "Minister of Defence and National Service"
+      ],
+      "time_markers": [
+        "1985–1989"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Minister of Defence and National Service In office 1985–1989"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania"
+      ],
+      "roles": [
+        "Deputy Prime Minister"
+      ],
+      "time_markers": [
+        "1986–1989"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Deputy Prime Minister of Tanzania 1986–1989"
+      ]
+    },
+    {
+      "organizations": [
+        "Organisation of African Unity"
+      ],
+      "roles": [
+        "Secretary-General"
+      ],
+      "time_markers": [
+        "19 September 1989 – 17 September 2001"
+      ],
+      "event_type": "international_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "7th Secretary General of the Organisation of African Unity In office 19 September 1989 – 17 September 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "mentioned candidate for Secretary-General"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "notable_candidacy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1996, Salim was again mentioned for the office"
+      ]
+    },
+    {
+      "organizations": [
+        "Julius K. Nyerere Foundation"
+      ],
+      "roles": [
+        "President"
+      ],
+      "time_markers": [
+        "2001 – current"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the Julius K. Nyerere Foundation 2001 – current"
+      ]
+    },
+    {
+      "organizations": [
+        "African Development Bank"
+      ],
+      "roles": [
+        "African Water Ambassador"
+      ],
+      "time_markers": [
+        "March 2002 onwards"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "following the invitation of the President of the African Development Bank, he has since March, 2002 been acting as African Water Ambassador"
+      ]
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "special envoy on the Darfur Conflict"
+      ],
+      "time_markers": [
+        "2004–2008"
+      ],
+      "event_type": "diplomatic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "African Union special envoy on the Darfur Conflict 2004–2008"
+      ]
+    },
+    {
+      "organizations": [
+        "Institute of Security Studies"
+      ],
+      "roles": [
+        "Chairman of Advisory Board"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman, Advisory Board, Institute of Security Studies (ISS) based in Pretoria, South Africa"
+      ]
+    },
+    {
+      "organizations": [
+        "Africa Humanitarian Action"
+      ],
+      "roles": [
+        "Chairman of the International Board of Trustees"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chairman of the International Board of Trustees, Africa Humanitarian Action (AHI) based in Addis Ababa, Ethiopia"
+      ]
+    },
+    {
+      "organizations": [
+        "Africa University",
+        "Institute of Peace, Leadership and Governance"
+      ],
+      "roles": [
+        "Member and Chairman of the Advisory Board of Trustees"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member and Chairman of the Advisory Board of Trustees of the Institute of Peace, Leadership and Governance, Africa University, Mutare, Zimbabwe"
+      ]
+    },
+    {
+      "organizations": [
+        "African Union",
+        "Panel of the Wise"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Panel of the Wise, a consultative body of the African Union"
+      ]
+    },
+    {
+      "organizations": [
+        "Eminent Persons Group on Small Arms and Light Weapons"
+      ],
+      "roles": [
+        "Co-chair"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Co-chair, Eminent Persons Group (EPG) on Small Arms and Light Weapons (Secretariat, based in Washington DC)"
+      ]
+    },
+    {
+      "organizations": [
+        "Mo Ibrahim Foundation"
+      ],
+      "roles": [
+        "Board Member",
+        "Chair of Ibrahim Prize Committee"
+      ],
+      "time_markers": [
+        "took over chairmanship in 2011"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Board at the Mo Ibrahim Foundation",
+        "Salim is also Chair of the Foundation's Ibrahim Prize Committee, having taken over from the inaugural chair, Kofi Annan in 2011"
+      ]
+    },
+    {
+      "organizations": [
+        "Global Leadership Foundation"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Global Leadership Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "South Centre"
+      ],
+      "roles": [
+        "Board Member"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Board of the South Centre (Secretariat based in Geneva)"
+      ]
+    },
+    {
+      "organizations": [
+        "World Intellectual Property Organization"
+      ],
+      "roles": [
+        "Policy Advisory Commission Member"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member, Policy Advisory Commission, World Intellectual Property Organization (WIPO)"
+      ]
+    },
+    {
+      "organizations": [
+        "Centre for Humanitarian Dialogue"
+      ],
+      "roles": [
+        "Foundation Council Member"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Foundation Council, Centre for Humanitarian Dialogue based in Geneva"
+      ]
+    },
+    {
+      "organizations": [
+        "Sergio Vieira de Mello Foundation"
+      ],
+      "roles": [
+        "Eminent Member"
+      ],
+      "event_type": "advisory_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Eminent Member of the Sergio Vieira de Mello Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "Chama Cha Mapinduzi"
+      ],
+      "roles": [
+        "Member of the Central Committee"
+      ],
+      "event_type": "political_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Central Committee of the ruling political party in Tanzania (Chama Cha Mapinduzi)"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania Commission for Constitution Review"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [
+        "2012–2014"
+      ],
+      "event_type": "government_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Tanzania Commission for Constitution Review 2012–2014"
+      ]
+    },
+    {
+      "organizations": [
+        "Hong Kong Metropolitan University"
+      ],
+      "roles": [
+        "Chancellor"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chancellor, HKMU"
+      ]
+    },
+    {
+      "organizations": [
+        "Mwalimu Nyerere Foundation"
+      ],
+      "roles": [
+        "Chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chair, MNF"
+      ]
+    },
+    {
+      "organizations": [
+        "Liberia"
+      ],
+      "roles": [
+        "Order of the Star of Africa recipient"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the Star of Africa, Liberia, 1980"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania"
+      ],
+      "roles": [
+        "Order of the United Republic of Tanzania recipient"
+      ],
+      "time_markers": [
+        "1985"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the United Republic of Tanzania, Tanzania, 1985"
+      ]
+    },
+    {
+      "organizations": [
+        "Rwanda"
+      ],
+      "roles": [
+        "National Order of a Thousand Hills recipient"
+      ],
+      "time_markers": [
+        "1993"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "National Order of a Thousand Hills, Rwanda, 1993"
+      ]
+    },
+    {
+      "organizations": [
+        "Republic of the Congo"
+      ],
+      "roles": [
+        "Grand Cross of the Order of Devotion recipient"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of Devotion, Republic of the Congo, 1994"
+      ]
+    },
+    {
+      "organizations": [
+        "Central African Republic"
+      ],
+      "roles": [
+        "Order of Merit (Grand Officer) recipient"
+      ],
+      "time_markers": [
+        "1994"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Merit (Grand Officer), Central African Republic, 1994"
+      ]
+    },
+    {
+      "organizations": [
+        "Libyan Arab Jamahiriya"
+      ],
+      "roles": [
+        "Medal of Africa recipient"
+      ],
+      "time_markers": [
+        "1999"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Medal of Africa, Libyan Arab Jamahiriya, 1999"
+      ]
+    },
+    {
+      "organizations": [
+        "Senegal"
+      ],
+      "roles": [
+        "National Order of the Lion (Grand Officer) recipient"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "National Order of the Lion (Grand Officer), Senegal, 2000"
+      ]
+    },
+    {
+      "organizations": [
+        "Sudan"
+      ],
+      "roles": [
+        "Order of the Two Niles recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the Two Niles, Sudan, 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "Algeria"
+      ],
+      "roles": [
+        "Ordre El-Athir recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ordre El-Athir, Algeria, 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "Togo"
+      ],
+      "roles": [
+        "Order of Mono recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Mono, Togo, 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "Mali"
+      ],
+      "roles": [
+        "National Order of Mali (Commander) recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "National Order of Mali (Commander), Mali, 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "South Africa"
+      ],
+      "roles": [
+        "Order of the Companions of O. R. Tambo (Gold) recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the Companions of O. R. Tambo (Gold), South Africa, 2004"
+      ]
+    },
+    {
+      "organizations": [
+        "Tanzania"
+      ],
+      "roles": [
+        "Order of the Uhuru Torch (Second Class) recipient"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of the Uhuru Torch (Second Class), Tanzania, 2011"
+      ]
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "Son of Africa Award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2014: Son of Africa Award by the African Union"
+      ]
+    },
+    {
+      "organizations": [
+        "China"
+      ],
+      "roles": [
+        "Order of Friendship recipient"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Friendship, China, 2019"
+      ]
+    },
+    {
+      "organizations": [
+        "Cape Verde"
+      ],
+      "roles": [
+        "Order of Amilcar Cabral (First Class) recipient"
+      ],
+      "time_markers": [
+        "2023"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Amilcar Cabral (First Class), Cape Verde, 2023"
+      ]
+    },
+    {
+      "organizations": [
+        "Martin Luther King Foundation"
+      ],
+      "roles": [
+        "Drum Major for Justice award recipient"
+      ],
+      "time_markers": [
+        "2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Recipient of the 2006 Martin Luther King 'Drum Major for Justice' award"
+      ]
+    },
+    {
+      "organizations": [
+        "University of the Philippines Los Baños"
+      ],
+      "roles": [
+        "Doctor of Laws (honorary) recipient"
+      ],
+      "time_markers": [
+        "1980"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of the Philippines Los Baños, Philippines, Doctor of Laws, 1980"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Maiduguri"
+      ],
+      "roles": [
+        "Doctor of Humanities (honorary) recipient"
+      ],
+      "time_markers": [
+        "1983"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Maiduguri, Nigeria, Doctor of Humanities, 1983"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Mauritius"
+      ],
+      "roles": [
+        "Doctor of Civil Law (honorary) recipient"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Mauritius, Mauritius, Doctor of Civil Law, 1991"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Khartoum"
+      ],
+      "roles": [
+        "Doctor of Arts in International Affairs (honorary) recipient"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Khartoum, Sudan, Doctor of Arts in International Affairs, 1995"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Bologna"
+      ],
+      "roles": [
+        "Doctor of Philosophy in International Relations (honorary) recipient"
+      ],
+      "time_markers": [
+        "1996"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Bologna, Italy, Doctor of Philosophy in International Relations, 1996"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Cape Town"
+      ],
+      "roles": [
+        "Doctor of Laws (honorary) recipient"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Cape Town, South Africa, Doctor of Laws, 1998"
+      ]
+    },
+    {
+      "organizations": [
+        "Addis Ababa University"
+      ],
+      "roles": [
+        "Doctor of Laws (honorary) recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "honour",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Addis Ababa University, Ethiopia, Doctor of Laws, 2003"
+      ]
+    }
+  ]
+}

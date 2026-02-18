@@ -1,0 +1,801 @@
+{
+  "person_name": "Horst Köhler",
+  "career_events": [
+    {
+      "organizations": [
+        "University of Tübingen"
+      ],
+      "roles": [
+        "student",
+        "doctorate graduate in economics and political sciences"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He studied and finally gained a doctorate in economics and political sciences from the University of Tübingen"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Tübingen",
+        "Institut für Angewandte Wirtschaftsforschung"
+      ],
+      "roles": [
+        "scientific research assistant"
+      ],
+      "time_markers": [
+        "1969 to 1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "he was a scientific research assistant at the Institut für Angewandte Wirtschaftsforschung from 1969 to 1976"
+      ]
+    },
+    {
+      "organizations": [
+        "Bundeswehr"
+      ],
+      "roles": [
+        "Leutnant der Reserve (Reserve Lieutenant)"
+      ],
+      "time_markers": [
+        "two years of military service",
+        "left as Reserve Lieutenant"
+      ],
+      "event_type": "military_service",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After two years of military service at a Panzergrenadier battalion in Ellwangen, he left the Bundeswehr as Leutnant der Reserve (Reserve Lieutenant)"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Economics"
+      ],
+      "roles": [
+        "civil service employee"
+      ],
+      "time_markers": [
+        "1976"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler joined the civil service in 1976, when he was employed in the Federal Ministry of Economics"
+      ]
+    },
+    {
+      "organizations": [
+        "Staatskanzlei des Landes Schleswig-Holstein"
+      ],
+      "roles": [
+        "employee"
+      ],
+      "time_markers": [
+        "1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1981, he was employed in the Staatskanzlei des Landes Schleswig-Holstein (chancellery of the state government of Schleswig-Holstein) under Minister-president Gerhard Stoltenberg"
+      ]
+    },
+    {
+      "organizations": [
+        "Christian Democratic Union (CDU)"
+      ],
+      "roles": [
+        "party member"
+      ],
+      "time_markers": [
+        "1981–2025"
+      ],
+      "event_type": "political_affiliation",
+      "confidence": "high",
+      "supporting_quotes": [
+        "A member of the CDU from 1981",
+        "Political party: Christian Democratic Union (1981–2025)"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "head of Stoltenberg's office"
+      ],
+      "time_markers": [
+        "1 October 1982"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Upon Stoltenberg's recommendation, Köhler was made head of Stoltenberg's office in the Federal Ministry of Finance"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "Director General for financial policy and federal industrial interests"
+      ],
+      "time_markers": [
+        "1987"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler rose to Director General for financial policy and federal industrial interests in 1987"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "Director General for currency and credit"
+      ],
+      "time_markers": [
+        "1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1989 he became Director General for currency and credit"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Ministry of Finance"
+      ],
+      "roles": [
+        "Secretary of State",
+        "administrative head of the Ministry",
+        "deputy of the Federal Minister of Finance"
+      ],
+      "time_markers": [
+        "1990 to 1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler was Secretary of State in the Federal Ministry of Finance from 1990 to 1993, and as such, the administrative head of the Ministry and the deputy of the Federal Minister of Finance (Theodor Waigel)"
+      ]
+    },
+    {
+      "organizations": [
+        "German Government"
+      ],
+      "roles": [
+        "sherpa (personal representative) for Chancellor Helmut Kohl for G7 summits"
+      ],
+      "time_markers": [
+        "during tenure as Secretary of State, 1990-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In that capacity, he served as a 'sherpa' (personal representative) for Chancellor Helmut Kohl, preparing G7 summits and other international economic conferences"
+      ]
+    },
+    {
+      "organizations": [
+        "German Government"
+      ],
+      "roles": [
+        "chief negotiator for the Maastricht Treaty on European Monetary Union"
+      ],
+      "time_markers": [
+        "during tenure as Secretary of State"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In addition, he was chief negotiator for the Maastricht Treaty on European Monetary Union, which led to the creation of the euro as the Union's single currency"
+      ]
+    },
+    {
+      "organizations": [
+        "Deutscher Sparkassen- und Giroverband"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "1993 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 1993 and 1998 he served as president of the association of savings banks in Germany, Deutscher Sparkassen- und Giroverband"
+      ]
+    },
+    {
+      "organizations": [
+        "European Bank for Reconstruction and Development (EBRD)"
+      ],
+      "roles": [
+        "president"
+      ],
+      "time_markers": [
+        "September 1998 to April 2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 1998 Köhler was appointed president of the European Bank for Reconstruction and Development",
+        "He was president of the European Bank for Reconstruction and Development from 1998 to 2000"
+      ]
+    },
+    {
+      "organizations": [
+        "International Monetary Fund (IMF)"
+      ],
+      "roles": [
+        "managing director",
+        "chairman of the executive board"
+      ],
+      "time_markers": [
+        "1 May 2000 to 4 March 2004"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler was appointed managing director and chairman of the executive board of the International Monetary Fund (IMF) in 2000",
+        "head of the International Monetary Fund (IMF) from 2000 to 2004"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "President of Germany"
+      ],
+      "time_markers": [
+        "elected 23 May 2004",
+        "inaugurated 1 July 2004",
+        "resigned 31 May 2010"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Horst Köhler was a German politician who served as President of Germany from 2004 to 2010",
+        "Köhler was elected to his first five-year term by the Federal Convention on 23 May 2004 and was subsequently inaugurated on 1 July 2004"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "President of Germany (second term)"
+      ],
+      "time_markers": [
+        "re-elected 23 May 2009",
+        "sworn in 1 July 2009",
+        "resigned 31 May 2010"
+      ],
+      "event_type": "political_office",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was reelected to a second term on 23 May 2009",
+        "On 23 May 2009, he was re-elected by the Federal Assembly, and was sworn into office for a second term on 1 July 2009"
+      ]
+    },
+    {
+      "organizations": [
+        "Palais-Royal Initiative"
+      ],
+      "roles": [
+        "member"
+      ],
+      "time_markers": [
+        "2010 to 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2010 and 2011, Köhler served as member of the Palais-Royal Initiative, a group convened by Michel Camdessus, Alexandre Lamfalussy and Tommaso Padoa-Schioppa to reform the international monetary system"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "High-level Panel on the Post-2015 Development Agenda"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2012 to 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2012 to 2013, Köhler served on the UN Secretary-General's High-level Panel on the Post-2015 Development Agenda",
+        "From 2012 to 2013, Köhler served on the United Nations' High-level Panel on the Post-2015 Development Agenda"
+      ]
+    },
+    {
+      "organizations": [
+        "African Development Bank (AfDB)"
+      ],
+      "roles": [
+        "Special Panel co-chair"
+      ],
+      "time_markers": [
+        "beginning in 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Beginning in 2016, Köhler co-chaired, together with former UN Secretary-General Kofi Annan, a Special Panel of the African Development Bank (AfDB)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "special envoy for Western Sahara"
+      ],
+      "time_markers": [
+        "appointed 2017",
+        "left post 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2017, Köhler was appointed by Secretary-General António Guterres as his new special envoy for Western Sahara, in charge of restarting talks between Morocco and the Polisario independence movement over the disputed territory",
+        "In 2019, he left his post on health grounds"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Tübingen"
+      ],
+      "roles": [
+        "honorary professor"
+      ],
+      "time_markers": [
+        "post-presidency"
+      ],
+      "event_type": "academic_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Köhler also worked for numerous charities and non-profit organizations, and held an honorary professorship at the University of Tübingen, his alma mater"
+      ]
+    },
+    {
+      "organizations": [
+        "Scope Foundation"
+      ],
+      "roles": [
+        "Member of the Honorary Board"
+      ],
+      "time_markers": [
+        "as of 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Scope Foundation, Member of the Honorary Board (as of 2020)"
+      ]
+    },
+    {
+      "organizations": [
+        "Aktion Deutschland Hilft (Germany's Relief Coalition)"
+      ],
+      "roles": [
+        "Patron"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Aktion Deutschland Hilft (Germany's Relief Coalition), Patron"
+      ]
+    },
+    {
+      "organizations": [
+        "Club of Madrid"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Club of Madrid, Member"
+      ]
+    },
+    {
+      "organizations": [
+        "Deutsche Nationalstiftung"
+      ],
+      "roles": [
+        "Chairman of the Senate"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Deutsche Nationalstiftung, Chairman of the Senate"
+      ]
+    },
+    {
+      "organizations": [
+        "Friedrich August von Hayek Foundation"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Friedrich August von Hayek Foundation, Member of the Board of Trustees"
+      ]
+    },
+    {
+      "organizations": [
+        "Hermann Kunst-Stiftung zur Förderung der neutestamentlichen Textforschung"
+      ],
+      "roles": [
+        "chairman of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Hermann Kunst-Stiftung zur Förderung der neutestamentlichen Textforschung, chairman of the Board of Trustees"
+      ]
+    },
+    {
+      "organizations": [
+        "Friede Springer Foundation"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "time_markers": [
+        "as of 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Friede Springer Foundation, Member of the Board of Trustees (as of 2011)"
+      ]
+    },
+    {
+      "organizations": [
+        "Konrad Adenauer Foundation (KAS)"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Konrad Adenauer Foundation (KAS), Member of the Board of Trustees"
+      ]
+    },
+    {
+      "organizations": [
+        "Wittenberg Center for Global Ethics"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "time_markers": [
+        "as of 2011"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wittenberg Center for Global Ethics, Member of the Board of Trustees (as of 2011)"
+      ]
+    },
+    {
+      "organizations": [
+        "Emerging Markets Forum (EMF)"
+      ],
+      "roles": [
+        "Co-chair"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Emerging Markets Forum (EMF), Co-chair"
+      ]
+    },
+    {
+      "organizations": [
+        "Opera Village Africa"
+      ],
+      "roles": [
+        "Honorary Patron"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Opera Village Africa, Honorary Patron"
+      ]
+    },
+    {
+      "organizations": [
+        "Lindau Nobel Laureate Meetings"
+      ],
+      "roles": [
+        "Patron of the Horst Köhler Fellowship Programme"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Lindau Nobel Laureate Meetings, Patron of the Horst Köhler Fellowship Programme"
+      ]
+    },
+    {
+      "organizations": [
+        "Stiftung Weltethos (Global Ethics Foundation)"
+      ],
+      "roles": [
+        "Member of the Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Stiftung Weltethos (Global Ethics Foundation), Member of the Board of Trustees"
+      ]
+    },
+    {
+      "organizations": [
+        "Club of Rome"
+      ],
+      "roles": [
+        "Honorary Member"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Club of Rome, Honorary Member"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Tübingen"
+      ],
+      "roles": [
+        "Honorary Senator"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "University of Tübingen, Honorary Senator"
+      ]
+    },
+    {
+      "organizations": [
+        "Baden-Württemberg"
+      ],
+      "roles": [
+        "Order of Merit of Baden-Württemberg recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Merit of Baden-Württemberg (2002)"
+      ]
+    },
+    {
+      "organizations": [
+        "Federal Republic of Germany"
+      ],
+      "roles": [
+        "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany recipient"
+      ],
+      "time_markers": [
+        "2004"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross Special Class of the Order of Merit of the Federal Republic of Germany (2004) (awarded by virtue of office)"
+      ]
+    },
+    {
+      "organizations": [
+        "Republic of Austria"
+      ],
+      "roles": [
+        "Grand Decoration of Honour in Gold with Star for Services to the Republic of Austria recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Decoration of Honour in Gold with Star for Services to the Republic of Austria (2003)"
+      ]
+    },
+    {
+      "organizations": [
+        "Lithuania"
+      ],
+      "roles": [
+        "Order of Vytautas the Great with the Golden Chain recipient"
+      ],
+      "time_markers": [
+        "19 October 2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Order of Vytautas the Great with the Golden Chain (19 October 2005)"
+      ]
+    },
+    {
+      "organizations": [
+        "Poland"
+      ],
+      "roles": [
+        "Knight of the Order of the White Eagle"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight of the Order of the White Eagle (2005)"
+      ]
+    },
+    {
+      "organizations": [
+        "Italian Republic"
+      ],
+      "roles": [
+        "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic recipient"
+      ],
+      "time_markers": [
+        "15 March 2006"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand Cross with Collar of the Order of Merit of the Italian Republic (15 March 2006)"
+      ]
+    },
+    {
+      "organizations": [
+        "Finland"
+      ],
+      "roles": [
+        "Grand Cross with Collar of the Order of the White Rose of Finland recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross with Collar of the Order of the White Rose of Finland (2007)"
+      ]
+    },
+    {
+      "organizations": [
+        "Netherlands"
+      ],
+      "roles": [
+        "Knight Grand Cross of the Order of the Netherlands Lion"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Knight Grand Cross of the Order of the Netherlands Lion (2007)"
+      ]
+    },
+    {
+      "organizations": [
+        "Norway"
+      ],
+      "roles": [
+        "Grand Cross of the Order of St. Olav recipient"
+      ],
+      "time_markers": [
+        "15 October 2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Cross of the Order of St. Olav (15 October 2007)"
+      ]
+    },
+    {
+      "organizations": [
+        "Portugal"
+      ],
+      "roles": [
+        "Grand Collar of the Order of Prince Henry recipient"
+      ],
+      "time_markers": [
+        "2 March 2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Grand Collar of the Order of Prince Henry (2 March 2009)"
+      ]
+    },
+    {
+      "organizations": [
+        "Germany"
+      ],
+      "roles": [
+        "The National German Sustainability Award recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: The National German Sustainability Award (2014)"
+      ]
+    },
+    {
+      "organizations": [
+        "Green Budget Germany"
+      ],
+      "roles": [
+        "Adam Smith Prize for Environmental Economic Policy recipient"
+      ],
+      "time_markers": [
+        "2014"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: Adam Smith Prize for Environmental Economic Policy (2014), Green Budget Germany"
+      ]
+    },
+    {
+      "organizations": [
+        "CARE"
+      ],
+      "roles": [
+        "CARE-Millenniumspreis recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: CARE-Millenniumspreis (2015), in recognition of his service to poverty eradication and work towards a global partnership"
+      ]
+    },
+    {
+      "organizations": [
+        "IfW Kiel Institute for the World Economy"
+      ],
+      "roles": [
+        "Global Economy Prize recipient"
+      ],
+      "time_markers": [
+        "2017"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Germany: Global Economy Prize (2017), IfW Kiel Institute for the World Economy"
+      ]
+    }
+  ]
+}

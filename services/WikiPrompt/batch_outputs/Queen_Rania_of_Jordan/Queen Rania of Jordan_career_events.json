@@ -1,0 +1,793 @@
+{
+  "person_name": "Queen Rania Al Abdullah (Rania Al-Yassin)",
+  "career_events": [
+    {
+      "organizations": [
+        "New English School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "location": "Kuwait",
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania attended the New English School in Kuwait"
+      ]
+    },
+    {
+      "organizations": [
+        "American University in Cairo"
+      ],
+      "roles": [
+        "student",
+        "Business Administration degree graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "subsequently earned a degree in business administration from the American University in Cairo"
+      ]
+    },
+    {
+      "organizations": [
+        "Citibank"
+      ],
+      "roles": [
+        "marketing position"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following her graduation, she worked briefly in marketing for Citibank"
+      ]
+    },
+    {
+      "organizations": [
+        "Apple Inc."
+      ],
+      "roles": [
+        "employee"
+      ],
+      "location": "Amman, Jordan",
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "followed by a job with Apple Inc. in Amman, Jordan"
+      ]
+    },
+    {
+      "organizations": [
+        "Hashemite Kingdom of Jordan"
+      ],
+      "roles": [
+        "Queen Consort"
+      ],
+      "time_markers": [
+        "married June 10, 1993",
+        "tenure began February 7, 1999",
+        "proclaimed March 22, 1999"
+      ],
+      "event_type": "royal_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 10 June 1993, they were married at Zahran Palace",
+        "Abdullah ascended the throne on 7 February 1999, and proclaimed Rania queen on 22 March 1999"
+      ]
+    },
+    {
+      "organizations": [
+        "Jordan River Foundation"
+      ],
+      "roles": [
+        "founder",
+        "establisher"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Queen Rania's first venture was the establishment of the Jordan River Foundation (JRF) in 1995"
+      ]
+    },
+    {
+      "organizations": [
+        "UNICEF"
+      ],
+      "roles": [
+        "Global Leadership Initiative member"
+      ],
+      "time_markers": [
+        "November 2000"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2000, in recognition of her commitment to the cause of children and youth, the United Nations Children's Fund (UNICEF) invited Rania to join its Global Leadership Initiative"
+      ]
+    },
+    {
+      "organizations": [
+        "Queen Rania Al Abdullah Center for Educational Technology"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "June 6, 2001"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania also established The Queen Rania Al Abdullah Center for Educational Technology on 6 June 2001"
+      ]
+    },
+    {
+      "organizations": [
+        "International Youth Foundation"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "location": "Baltimore, Maryland, USA",
+      "time_markers": [
+        "early 2002"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In early 2002 Rania joined the board of directors of the International Youth Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Foundation Board member"
+      ],
+      "time_markers": [
+        "September 2002"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2002, Rania became a member of the World Economic Forum (WEF) Foundation Board"
+      ]
+    },
+    {
+      "organizations": [
+        "Al-Aman Fund for the Future of Orphans"
+      ],
+      "roles": [
+        "founder",
+        "initiator"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania initiated the Al-Aman Fund for the Future of Orphans in 2003"
+      ]
+    },
+    {
+      "organizations": [
+        "Foundation for International Community Assistance (FINCA)"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "September 2003"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2003, Rania accepted an invitation to join the board of directors of the Foundation for International Community Assistance (FINCA)"
+      ]
+    },
+    {
+      "organizations": [
+        "Forum of Young Global Leaders"
+      ],
+      "roles": [
+        "Foundation Board member",
+        "Nominations and Selection Committee chairperson"
+      ],
+      "time_markers": [
+        "July 2004"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She is also on the Foundation Board of the Forum of Young Global Leaders (YGL) and has been the chairperson for the Nominations and Selection Committee since July 2004"
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Education Jordan",
+        "Royal Court"
+      ],
+      "roles": [
+        "co-founder of Queen Rania Award for Excellence in Education"
+      ],
+      "time_markers": [
+        "July 2005"
+      ],
+      "event_type": "initiative_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2005 in partnership with the Ministry of Education, the King and Queen launched an annual teachers' award"
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Health Awareness Society"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2005, Rania established the Royal Health Awareness Society (RHAS)"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Foundation"
+      ],
+      "roles": [
+        "board of directors member"
+      ],
+      "time_markers": [
+        "September 2006"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In September 2006, Rania also joined the United Nations Foundation board of directors"
+      ]
+    },
+    {
+      "organizations": [
+        "UNICEF"
+      ],
+      "roles": [
+        "Eminent Advocate for Children"
+      ],
+      "time_markers": [
+        "January 2007"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In January 2007, Rania was named UNICEF's first Eminent Advocate for Children"
+      ]
+    },
+    {
+      "organizations": [
+        "Children's Museum Jordan"
+      ],
+      "roles": [
+        "chairperson"
+      ],
+      "time_markers": [
+        "opened May 2007"
+      ],
+      "event_type": "organizational_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Queen is chairperson of Jordan's first interactive children's museum, which opened in May 2007"
+      ]
+    },
+    {
+      "organizations": [
+        "Madrasati Initiative"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "April 2008"
+      ],
+      "event_type": "initiative_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In April 2008, the Queen launched 'Madrasati' ('My School'), a public-private initiative aimed at refurbishing 500 of Jordan's public schools"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations Girls' Education Initiative (UNGEI)"
+      ],
+      "roles": [
+        "Honorary Global Chair"
+      ],
+      "time_markers": [
+        "August 2009"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In August 2009, Rania became Honorary Global Chair of the United Nations Girls' Education Initiative (UNGEI)"
+      ]
+    },
+    {
+      "organizations": [
+        "Global Campaign for Education"
+      ],
+      "roles": [
+        "Honorary Chairperson for Global Action Week"
+      ],
+      "time_markers": [
+        "April 2009"
+      ],
+      "event_type": "international_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "For their Global Action Week in April 2009, the Global Campaign for Education named Rania their honorary chairperson"
+      ]
+    },
+    {
+      "organizations": [
+        "Queen Rania Teacher Academy"
+      ],
+      "roles": [
+        "founder"
+      ],
+      "time_markers": [
+        "June 2009"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "The Queen Rania Teacher Academy, which was launched in June 2009, provides professional development programs for current and new teachers"
+      ]
+    },
+    {
+      "organizations": [
+        "1GOAL: Education for All"
+      ],
+      "roles": [
+        "co-founder",
+        "global co-chair"
+      ],
+      "time_markers": [
+        "August 20, 2009"
+      ],
+      "event_type": "campaign_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On 20 August 2009, Rania co-founded and led the launch of the '1GOAL: Education for All' campaign",
+        "In August 2009, Rania was named co-founder and global co-chair of 1GOAL"
+      ]
+    },
+    {
+      "organizations": [
+        "Queen Rania Children's Hospital"
+      ],
+      "roles": [
+        "founder/patron"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "organizational_founding",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2011, the first specialized medical building for children was built in Jordan, Queen Rania Children's Hospital"
+      ]
+    },
+    {
+      "organizations": [
+        "Earthshot Prize Council"
+      ],
+      "roles": [
+        "council member"
+      ],
+      "time_markers": [
+        "October 2020"
+      ],
+      "event_type": "appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In October 2020, Rania was named as a member of the Earthshot Prize Council, an initiative of Prince William"
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "board of trustees member"
+      ],
+      "time_markers": [
+        "as of 2024"
+      ],
+      "event_type": "board_appointment",
+      "confidence": "high",
+      "supporting_quotes": [
+        "As of 2024, she is a member of the board of trustees of the World Economic Forum"
+      ]
+    },
+    {
+      "organizations": [
+        "International Osteoporosis Foundation"
+      ],
+      "roles": [
+        "Life Achievement Award recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001: Life Achievement Award of International Osteoporosis Foundation, Italy"
+      ]
+    },
+    {
+      "organizations": [
+        "Municipality of Milan"
+      ],
+      "roles": [
+        "Ambrogino D'Oro Award recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002: Ambrogino D'Oro Award from the Municipality of Milan, Italy"
+      ]
+    },
+    {
+      "organizations": [
+        "Pio Manzù International Research Centre"
+      ],
+      "roles": [
+        "Gold Medal of the President of the Italian Republic recipient"
+      ],
+      "time_markers": [
+        "2002"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2002: Gold Medal of the President of the Italian Republic from Pio Manzù International Research Centre, Italy"
+      ]
+    },
+    {
+      "organizations": [
+        "Deutscher Medienpreis"
+      ],
+      "roles": [
+        "German Media Award recipient"
+      ],
+      "time_markers": [
+        "2003"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2003: German Media Award from Deutscher Medienpreis, Germany"
+      ]
+    },
+    {
+      "organizations": [
+        "Academy of Achievement"
+      ],
+      "roles": [
+        "Golden Plate Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2005: Golden Plate Award, Academy of Achievement, USA"
+      ]
+    },
+    {
+      "organizations": [
+        "Sesame Workshop"
+      ],
+      "roles": [
+        "Sesame Workshop Award recipient"
+      ],
+      "time_markers": [
+        "2005"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2005: Sesame Workshop Award from Sesame Workshop, USA"
+      ]
+    },
+    {
+      "organizations": [
+        "Seeds of Peace"
+      ],
+      "roles": [
+        "John Wallach Humanitarian Award and PeaceMaker Award recipient"
+      ],
+      "time_markers": [
+        "2007"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2007: John Wallach Humanitarian Award and PeaceMaker Award from the non-profit Seeds of Peace, USA"
+      ]
+    },
+    {
+      "organizations": [
+        "YouTube"
+      ],
+      "roles": [
+        "YouTube Visionary Award recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008: First ever YouTube Visionary Award"
+      ]
+    },
+    {
+      "organizations": [
+        "Council of Europe"
+      ],
+      "roles": [
+        "North-South Prize recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009: North-South Prize by the North-South Prize, Portugal"
+      ]
+    },
+    {
+      "organizations": [
+        "FIFA"
+      ],
+      "roles": [
+        "FIFA Presidential Award recipient"
+      ],
+      "time_markers": [
+        "2009"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2009: FIFA Presidential Award, Switzerland"
+      ]
+    },
+    {
+      "organizations": [
+        "The New York Times"
+      ],
+      "roles": [
+        "Best Seller list - children's books"
+      ],
+      "time_markers": [
+        "May 2010"
+      ],
+      "event_type": "publication_achievement",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2010, the book went to the top of the New York Times Best Seller list for children's books"
+      ]
+    },
+    {
+      "organizations": [
+        "Forbes"
+      ],
+      "roles": [
+        "ranked among world's 100 most powerful women"
+      ],
+      "time_markers": [
+        "2011"
+      ],
+      "event_type": "recognition",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2011: Forbes magazine ranked Rania as one of the world's 100 most powerful women"
+      ]
+    },
+    {
+      "organizations": [
+        "Atlantic Council"
+      ],
+      "roles": [
+        "Global Citizen Award recipient"
+      ],
+      "time_markers": [
+        "2013"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2013: Atlantic Council's Global Citizen Awards, USA"
+      ]
+    },
+    {
+      "organizations": [
+        "Walther Rathenau Institut"
+      ],
+      "roles": [
+        "Walther Rathenau Award recipient"
+      ],
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2015: Walther Rathenau Award from Walther Rathenau Institut, Germany"
+      ]
+    },
+    {
+      "organizations": [
+        "Zayed Award for Human Fraternity"
+      ],
+      "roles": [
+        "award recipient"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2022: Zayed Award for Human Fraternity 2022"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Exeter"
+      ],
+      "roles": [
+        "Honorary Doctorate in Law (LLD) recipient"
+      ],
+      "time_markers": [
+        "2001"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2001 Honorary Doctorate in Law (LLD) from the University of Exeter, UK"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Jordan"
+      ],
+      "roles": [
+        "Honorary Doctorate in Educational Sciences recipient"
+      ],
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Honorary Doctorate Degree in Educational Sciences from the University of Jordan"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Malaya"
+      ],
+      "roles": [
+        "Honorary Doctorate in International Relations recipient"
+      ],
+      "location": "Malaysia",
+      "time_markers": [
+        "2008"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2008 Honorary Doctorate in International Relations from the University of Malaya, Malaysia"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Sapienza"
+      ],
+      "roles": [
+        "Honorary Doctorate in Science Development and International Cooperation recipient"
+      ],
+      "location": "Italy",
+      "time_markers": [
+        "2015"
+      ],
+      "event_type": "honorary_degree",
+      "confidence": "high",
+      "supporting_quotes": [
+        "2015 Honorary Doctorate in 'Science Development and International Cooperation' from the University of Sapienza, Italy"
+      ]
+    },
+    {
+      "organizations": [
+        "Arab Open University"
+      ],
+      "roles": [
+        "co-chair"
+      ],
+      "event_type": "organizational_leadership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania is co-chair of the Arab Open University"
+      ]
+    },
+    {
+      "organizations": [
+        "INJAZ Al-Arab"
+      ],
+      "roles": [
+        "regional ambassador"
+      ],
+      "event_type": "ambassadorial_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her capacity as regional ambassador of INJAZ Al-Arab, Rania has taught classes and engaged in dialogue with young people"
+      ]
+    },
+    {
+      "organizations": [
+        "GAVI Alliance"
+      ],
+      "roles": [
+        "Every Child Council member"
+      ],
+      "event_type": "council_membership",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania was a member of the Every Child Council for the GAVI Alliance"
+      ]
+    },
+    {
+      "organizations": [
+        "International Center for Research on Women (ICRW)"
+      ],
+      "roles": [
+        "Honorary Member of International Advisory Council"
+      ],
+      "event_type": "advisory_role",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Rania was an Honorary Member of the International Advisory Council for the International Center for Research on Women (ICRW)"
+      ]
+    },
+    {
+      "organizations": [
+        "Operation Smile"
+      ],
+      "roles": [
+        "Honorary Chairperson of Jordanian Chapter"
+      ],
+      "event_type": "honorary_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was Honorary Chairperson of the Jordanian Chapter of Operation Smile"
+      ]
+    }
+  ]
+}

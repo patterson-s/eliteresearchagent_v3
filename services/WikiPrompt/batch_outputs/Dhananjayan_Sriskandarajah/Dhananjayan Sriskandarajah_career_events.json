@@ -1,0 +1,223 @@
+{
+  "person_name": "Dhananjayan Sriskandarajah",
+  "career_events": [
+    {
+      "organizations": [
+        "James Ruse Agricultural High School"
+      ],
+      "roles": [
+        "student",
+        "school captain"
+      ],
+      "time_markers": [
+        "graduating in 1993"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah was educated at James Ruse Agricultural High School in Carlingford, New South Wales, Australia, graduating in 1993. He was the school captain"
+      ]
+    },
+    {
+      "organizations": [
+        "University of Sydney",
+        "Wesley College"
+      ],
+      "roles": [
+        "student",
+        "Bachelor of Economics and Social Science graduate",
+        "resident of Wesley College"
+      ],
+      "time_markers": [
+        "graduated 1998",
+        "resided 1995-1996"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah then attended the University of Sydney, from which he graduated with a Bachelor of Economics and Social Science in 1998.",
+        "During 1995 and 1996, he resided at Wesley College, a residential college within, but separate from, the university."
+      ]
+    },
+    {
+      "organizations": [
+        "Rhodes Trust"
+      ],
+      "roles": [
+        "Rhodes Scholar"
+      ],
+      "time_markers": [
+        "1998"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After becoming the first Asian Australian to win a Rhodes scholarship in 1998"
+      ]
+    },
+    {
+      "organizations": [
+        "Magdalen College",
+        "University of Oxford"
+      ],
+      "roles": [
+        "student",
+        "M.Phil. in international development graduate",
+        "D.Phil. in international development graduate"
+      ],
+      "time_markers": [
+        "after 1998"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah then matriculated to Magdalen College, a constituent college of the University of Oxford, to read for an M.Phil. and then a D.Phil. in international development. His research focused on inequalities and ethnic conflict in Sri Lanka."
+      ]
+    },
+    {
+      "organizations": [
+        "Institute for Public Policy Research"
+      ],
+      "roles": [
+        "Deputy Director"
+      ],
+      "time_markers": [
+        "2004 to 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah held various posts from 2004 to 2009, including Deputy Director of the left-leaning think tank, the Institute for Public Policy Research."
+      ]
+    },
+    {
+      "organizations": [
+        "Royal Commonwealth Society"
+      ],
+      "roles": [
+        "Director General"
+      ],
+      "time_markers": [
+        "2009 to 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was Director General of the Royal Commonwealth Society, from 2009 to 2012, the youngest ever person and the first non-Briton to head this 140-year-old organisation."
+      ]
+    },
+    {
+      "organizations": [
+        "World Economic Forum"
+      ],
+      "roles": [
+        "Young Global Leader"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2012, he was named a Young Global Leader by the World Economic Forum."
+      ]
+    },
+    {
+      "organizations": [
+        "CIVICUS"
+      ],
+      "roles": [
+        "Secretary General"
+      ],
+      "time_markers": [
+        "January 2013 to December 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was the Secretary General of CIVICUS, a global alliance of civil society organisations from January 2013 to December 2018. He was the fourth person to hold this position"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of High Level Panel on Humanitarian Finance"
+      ],
+      "time_markers": [
+        "2015 to 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was previously a member of the High Level Panel on Humanitarian Finance from 2015 to 2016."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "member of UN Secretary General's High Level Panel on Digital Cooperation"
+      ],
+      "time_markers": [
+        "announced July 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In July 2018, Sriskandarajah was announced as a member of the UN Secretary General's High Level Panel on Digital Cooperation, co-chaired by Jack Ma and Melinda Gates."
+      ]
+    },
+    {
+      "organizations": [
+        "Oxfam GB"
+      ],
+      "roles": [
+        "Chief Executive"
+      ],
+      "time_markers": [
+        "January 2019 to December 2023"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Sriskandarajah was Chief Executive of Oxfam GB from January 2019 to December 2023."
+      ]
+    },
+    {
+      "organizations": [
+        "New Economics Foundation"
+      ],
+      "roles": [
+        "Chief Executive"
+      ],
+      "time_markers": [
+        "appointed January 2024"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was appointed Chief Executive of the New Economics Foundation in January 2024.",
+        "is a Tamil Sri Lankan-born British-Australian activist who is the Chief Executive of the New Economics Foundation."
+      ]
+    },
+    {
+      "organizations": [
+        "Headline Publishing"
+      ],
+      "roles": [
+        "author"
+      ],
+      "time_markers": [
+        "published 2024"
+      ],
+      "event_type": "publication",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He is the author of the 2024 book Power to the People (subtitled 'Use Your Voice, Change the World'), published by Headline."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "person_name": "Nikolai Astrup",
+  "career_events": [
+    {
+      "organizations": [
+        "Institut Le Rosey"
+      ],
+      "roles": [
+        "student"
+      ],
+      "degrees_earned": [
+        "International General Certificate of Secondary Education"
+      ],
+      "time_markers": [
+        "1995"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup graduated from Institut Le Rosey with an International General Certificate of Secondary Education (1995)"
+      ]
+    },
+    {
+      "organizations": [
+        "Berg Upper Secondary School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "degrees_earned": [
+        "International Baccalaureate"
+      ],
+      "time_markers": [
+        "1997"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from Berg Upper Secondary School with an International Baccalaureate (1997)"
+      ]
+    },
+    {
+      "organizations": [
+        "London School of Economics and Political Science"
+      ],
+      "roles": [
+        "student"
+      ],
+      "degrees_earned": [
+        "bachelor's degree in International Relations",
+        "master's degree in European Politics and Governance"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He holds a master's degree in European Politics and Governance and a bachelor's degree in International Relations, both from the London School of Economics and Political Science (LSE)."
+      ]
+    },
+    {
+      "organizations": [
+        "Arkwright"
+      ],
+      "roles": [
+        "management consultant"
+      ],
+      "time_markers": [
+        "2000 until 2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup worked in management consulting at Arkwright from 2000 until 2002."
+      ]
+    },
+    {
+      "organizations": [
+        "Minerva"
+      ],
+      "roles": [
+        "editor"
+      ],
+      "time_markers": [
+        "2001 and 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Between 2001 and 2008 he was the editor of the conservative periodical Minerva."
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party parliamentary group"
+      ],
+      "roles": [
+        "political adviser"
+      ],
+      "time_markers": [
+        "2008 until 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup worked as political adviser for the Conservative Party parliamentary group... from 2008 until 2009."
+      ]
+    },
+    {
+      "organizations": [
+        "Oslo city government"
+      ],
+      "roles": [
+        "political adviser to the Governing Mayor of Oslo Erling Lae"
+      ],
+      "time_markers": [
+        "2008 until 2009"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "political adviser to the Governing Mayor of Oslo Erling Lae from 2008 until 2009."
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament (Storting)"
+      ],
+      "roles": [
+        "Member of Parliament for Oslo constituency"
+      ],
+      "time_markers": [
+        "elected 2009",
+        "assumed office 1 October 2009",
+        "incumbent"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was elected Member of Parliament in 2009",
+        "Member of the Norwegian Parliament Incumbent Assumed office 1 October 2009"
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament - Standing Committee on Energy and the Environment"
+      ],
+      "roles": [
+        "committee member"
+      ],
+      "time_markers": [
+        "2009 to 2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup sat on the Standing Committee on Energy and the Environment from 2009 to 2015"
+      ]
+    },
+    {
+      "organizations": [
+        "Pactum AS"
+      ],
+      "roles": [
+        "Member of the Board"
+      ],
+      "time_markers": [
+        "2010–2015"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Pactum AS, Member of the Board (2010–2015)"
+      ]
+    },
+    {
+      "organizations": [
+        "JEF Norway"
+      ],
+      "roles": [
+        "European of the Year award recipient"
+      ],
+      "time_markers": [
+        "March 2011"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In March 2011, Astrup was named the 'European of the Year' by the JEF Norway."
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party in Oslo"
+      ],
+      "roles": [
+        "Leader"
+      ],
+      "time_markers": [
+        "28 January 2012",
+        "27 January 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "leader of the Conservative Party in Oslo in 2012",
+        "Leader of the Oslo Conservatives In office 28 January 2012 – 27 January 2018"
+      ]
+    },
+    {
+      "organizations": [
+        "European Movement in Norway"
+      ],
+      "roles": [
+        "Vice-President"
+      ],
+      "time_markers": [
+        "2012–2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "European Movement in Norway, Vice-President (2012–2013)"
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party Parliamentary Group"
+      ],
+      "roles": [
+        "deputy leader"
+      ],
+      "time_markers": [
+        "2013",
+        "2017",
+        "until January 2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed as deputy leader of the Conservative Party Parliamentary Group, and he was re-appointed to this position after the 2017 election. He held this position until his government appointment in January 2018."
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament - Standing Committee on Transport and Communication"
+      ],
+      "roles": [
+        "chair"
+      ],
+      "time_markers": [
+        "2016 to 2017"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "from 2016 to 2017 he chaired the Standing Committee on Transport and Communication"
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Parliament - Standing Committee on Finance"
+      ],
+      "roles": [
+        "chair",
+        "Conservative Party spokesperson on finance"
+      ],
+      "time_markers": [
+        "after 2017 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "After the election in 2017 he was appointed chair of the Standing Committee on Finance and is the Conservative's spokesperson on issues relating to these issues."
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Government"
+      ],
+      "roles": [
+        "Minister of International Development"
+      ],
+      "time_markers": [
+        "17 January 2018",
+        "22 January 2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed minister of international development, the first person to hold the post in five years.",
+        "Minister of International Development In office 17 January 2018 – 22 January 2019"
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations High-level Panel on Digital Cooperation"
+      ],
+      "roles": [
+        "panel member"
+      ],
+      "time_markers": [
+        "2018"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed by United Nations Secretary General António Guterres in 2018 to the High-level Panel on Digital Cooperation, co-chaired by Melinda Gates and Jack Ma."
+      ]
+    },
+    {
+      "organizations": [
+        "Asian Infrastructure Investment Bank"
+      ],
+      "roles": [
+        "Ex-Officio Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "2018–2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Asian Infrastructure Investment Bank (AIIB), Ex-Officio Member of the Board of Governors (2018–2019)"
+      ]
+    },
+    {
+      "organizations": [
+        "Multilateral Investment Guarantee Agency",
+        "World Bank Group"
+      ],
+      "roles": [
+        "Ex-Officio Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "2018-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Multilateral Investment Guarantee Agency (MIGA), World Bank Group, Ex-Officio Member of the Board of Governors (2018-2019)"
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "Ex-Officio Member of the Board of Governors"
+      ],
+      "time_markers": [
+        "2018-2019"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "World Bank, Ex-Officio Member of the Board of Governors (2018-2019)"
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Government"
+      ],
+      "roles": [
+        "Minister of Digitalisation"
+      ],
+      "time_markers": [
+        "22 January 2019",
+        "24 January 2020"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Astrup was appointed minister of digitalisation, the first of its kind.",
+        "Minister of Digitalisation In office 22 January 2019 – 24 January 2020"
+      ]
+    },
+    {
+      "organizations": [
+        "Norwegian Government"
+      ],
+      "roles": [
+        "Minister of Local Government"
+      ],
+      "time_markers": [
+        "24 January 2020",
+        "14 October 2021"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He served as Minister of Local Government from 2020 to 2021.",
+        "Minister of Local Government In office 24 January 2020 – 14 October 2021"
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "spokesperson for energy and environmental policy"
+      ],
+      "time_markers": [
+        "after 2021 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Following the cabinet's defeat at the 2021 election, he was appointed spokesperson for energy and environmental policy."
+      ]
+    },
+    {
+      "organizations": [
+        "Organisation for Economic Co-operation and Development - Development Assistance Committee"
+      ],
+      "roles": [
+        "candidate for chair"
+      ],
+      "time_markers": [
+        "2022"
+      ],
+      "event_type": "candidacy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 2022, Astrup was Norway's candidate to succeed Susanna Moorehead as chair of the Organisation for Economic Co-operation and Development's Development Assistance Committee. In the final vote, he lost to Carsten Staur"
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "financial spokesperson"
+      ],
+      "time_markers": [
+        "following 2025 election"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He became the party's financial spokesperson following the 2025 election."
+      ]
+    },
+    {
+      "organizations": [
+        "Conservative Party"
+      ],
+      "roles": [
+        "candidate for party leader"
+      ],
+      "time_markers": [
+        "announced October 2025",
+        "withdrawn November 2025"
+      ],
+      "event_type": "candidacy",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He officially announced his candidacy in October, stating that the party 'needs to find back to itself'.",
+        "He withdrew his candidacy the next month and endorsed Ine Eriksen Søreide."
+      ]
+    }
+  ]
+}

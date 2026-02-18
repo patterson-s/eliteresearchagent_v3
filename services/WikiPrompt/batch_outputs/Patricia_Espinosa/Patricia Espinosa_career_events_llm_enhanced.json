@@ -1,0 +1,552 @@
+{
+  "person_name": "Patricia Espinosa Cantellano",
+  "career_events": [
+    {
+      "organizations": [
+        "El Colegio de México"
+      ],
+      "roles": [
+        "student",
+        "Bachelor's degree in International Relations graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Patricia Espinosa Cantellano graduated with a bachelor's degree in International Relations from El Colegio de México"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or any other field. The text only confirms that Patricia Espinosa Cantellano graduated with a bachelor's degree in International Relations from El Colegio de México, but provides no temporal information about when this education occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Graduate Institute of International and Development Studies"
+      ],
+      "roles": [
+        "student",
+        "Diploma in International Law recipient"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "earned a diploma in International Law at the Graduate Institute of International and Development Studies in Switzerland"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years are mentioned in the supporting quote or career event data. The quote only states that a diploma was earned at the Graduate Institute, but provides no temporal information to determine when this occurred."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Foreign Service"
+      ],
+      "roles": [
+        "Foreign Service Officer"
+      ],
+      "time_markers": [
+        "September 16, 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Espinosa Cantellano joined the Foreign Service on September 16, 1981."
+      ],
+      "time_start": 1981,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The person joined the Mexican Foreign Service on September 16, 1981, which establishes 1981 as the start year. There is no information indicating when this position ended, and joining a foreign service typically represents the beginning of an ongoing career rather than a fixed-term position. Therefore, time_finish is set to null to indicate the position may be ongoing or the end date is unknown."
+      }
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Mexico to UN, Geneva"
+      ],
+      "roles": [
+        "Officer responsible for economic affairs"
+      ],
+      "time_markers": [
+        "1982-1988"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Ambassador Cantellano has served as responsible for economic affairs, Permanent Mission of Mexico to UN, Geneva (1982-88)"
+      ],
+      "time_start": 1982,
+      "time_finish": 1988,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1982-1988' clearly indicates a date range, and the supporting quote confirms this period with '(1982-88)'. The position at the Permanent Mission of Mexico to UN, Geneva started in 1982 and ended in 1988."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Head of Cabinet to Undersecretary of Foreign Affairs"
+      ],
+      "time_markers": [
+        "1989-1991"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Head, Cabinet to Undersecretary of Foreign Affairs (1989-91)"
+      ],
+      "time_start": 1989,
+      "time_finish": 1991,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1989-1991' and supporting quote 'Head, Cabinet to Undersecretary of Foreign Affairs (1989-91)' clearly indicate the position started in 1989 and ended in 1991."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Director of International Organizations"
+      ],
+      "time_markers": [
+        "1991-1993"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Director of International Organizations (1991-93)"
+      ],
+      "time_start": 1991,
+      "time_finish": 1993,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1991-1993' and supporting quote 'Director of International Organizations (1991-93)' clearly indicate the position started in 1991 and ended in 1993."
+      }
+    },
+    {
+      "organizations": [
+        "Permanent Mission of Mexico to UN, New York"
+      ],
+      "roles": [
+        "Diplomat assigned to Permanent Mission"
+      ],
+      "time_markers": [
+        "1993-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "assigned to Permanent Mission of Mexico to UN, New York (1993-97)"
+      ],
+      "time_start": 1993,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_markers field clearly indicates '1993-1997' and the supporting quote confirms this range with '(1993-97)', showing the diplomat was assigned to this position from 1993 through 1997."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations General Assembly"
+      ],
+      "roles": [
+        "President of the Third Committee"
+      ],
+      "time_markers": [
+        "1996-1997"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "President of the Third Committee, UN General Assembly (1996-97)"
+      ],
+      "time_start": 1996,
+      "time_finish": 1997,
+      "metadata": {
+        "timeline_reasoning": "The time_marker '1996-1997' and supporting quote 'President of the Third Committee, UN General Assembly (1996-97)' clearly indicate this position started in 1996 and ended in 1997. This aligns with the typical one-year term for UN General Assembly committee presidencies."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "General Director of Regional Organizations of the Americas",
+        "Coordinator for Rio Group, Iberoamerican Summit, Summit of Americas and Summit of Latin America and Caribbean with European Union"
+      ],
+      "time_markers": [
+        "1997-1999"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "General Director of Regional Organizations of the Americas, Ministry of Foreign Affairs, Coordinator for Rio Group, Iberoamerican Summit, Summit of Americas and Summit of Latin America and Caribbean with European Union (1997-99)"
+      ],
+      "time_start": 1997,
+      "time_finish": 1999,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array clearly indicates '1997-1999' and the supporting quote confirms this date range with '(1997-99)', showing the position started in 1997 and ended in 1999."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Foreign Service"
+      ],
+      "roles": [
+        "Ambassador (rank promotion)"
+      ],
+      "time_markers": [
+        "2000"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was promoted to Ambassador within the Foreign Service in 2000"
+      ],
+      "time_start": 2000,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The event describes a rank promotion to Ambassador in 2000. This is a permanent rank advancement within the Foreign Service, not a time-bound position. Once promoted to the rank of Ambassador, the person retains that rank for the remainder of their career in the Foreign Service. Therefore, time_start is 2000 when the promotion occurred, and time_finish is null as this is an ongoing status."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Embassy in Germany"
+      ],
+      "roles": [
+        "Ambassador of Mexico to Germany"
+      ],
+      "time_markers": [
+        "January 2001 to June 2002"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served at the Mexican Embassy in Germany from January 2001 to June 2002"
+      ],
+      "time_start": 2001,
+      "time_finish": 2002,
+      "metadata": {
+        "timeline_reasoning": "The time_marker clearly states 'January 2001 to June 2002', indicating the position started in 2001 and ended in 2002. This is corroborated by the supporting quote which uses the same date range."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Embassy in Austria",
+        "International organizations in Vienna"
+      ],
+      "roles": [
+        "Ambassador of Mexico to Austria",
+        "Concurrent Ambassador to Slovenia",
+        "Concurrent Ambassador to Slovakia",
+        "Representative to international organizations in Vienna"
+      ],
+      "time_markers": [
+        "2002 to 2006"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "leaving the post to serve as Ambassador to Austria, concurrently with a number of international organizations based in Vienna, from 2002 to 2006."
+      ],
+      "time_start": 2002,
+      "time_finish": 2006,
+      "metadata": {
+        "timeline_reasoning": "The time_markers array explicitly states '2002 to 2006' and the supporting quote confirms this timeframe with 'from 2002 to 2006.' This clearly indicates the position started in 2002 and ended in 2006."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Government",
+        "Mexican Ministry of Foreign Affairs"
+      ],
+      "roles": [
+        "Secretary of Foreign Affairs"
+      ],
+      "time_markers": [
+        "December 1, 2006 – December 1, 2012"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "On November 28, 2006, President-elect Felipe Calderón announced that she would serve as his Secretary of Foreign Affairs starting on December 1, 2006.",
+        "In office December 1, 2006 – December 1, 2012"
+      ],
+      "time_start": 2006,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "The time_markers and supporting_quotes clearly indicate the position started on December 1, 2006 and ended on December 1, 2012. Both the start year (2006) and finish year (2012) are explicitly stated and confirmed across multiple data points."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Government"
+      ],
+      "roles": [
+        "Ambassador Emeritus of Mexico"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Because of her outstanding career as a Mexican diplomat, she was appointed Ambassador Emeritus of Mexico in 2012.",
+        "Ambassador Emeritus of Mexico – highest honor given to five outstanding Mexican diplomats."
+      ],
+      "time_start": 2012,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The award 'Ambassador Emeritus of Mexico' was appointed in 2012. This is an honorary title ('Emeritus') that typically remains with the recipient permanently once granted, rather than having an end date. The supporting quote confirms this was appointed in 2012 as recognition of an outstanding career, and such emeritus titles are generally held for life."
+      }
+    },
+    {
+      "organizations": [
+        "German Sustainability Prize"
+      ],
+      "roles": [
+        "German Sustainability Prize recipient"
+      ],
+      "time_markers": [
+        "2012"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Awarded the German Sustainability Prize in 2012"
+      ],
+      "time_start": 2012,
+      "time_finish": 2012,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2012). Awards are typically one-time recognitions received in a specific year, so both time_start and time_finish are set to 2012."
+      }
+    },
+    {
+      "organizations": [
+        "Mexican Embassy in Germany"
+      ],
+      "roles": [
+        "Ambassador of Mexico to Germany"
+      ],
+      "time_markers": [
+        "2012 to 2016",
+        "September 6, 2013 – July 18, 2016"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2012 to 2016, she was again Ambassador of Mexico to Germany.",
+        "Ambassador of Mexico to Germany In office 6 September 2013 – 18 July 2016"
+      ],
+      "time_start": 2013,
+      "time_finish": 2016,
+      "metadata": {
+        "timeline_reasoning": "There are two conflicting time markers: '2012 to 2016' and 'September 6, 2013 – July 18, 2016'. The second marker is more precise with exact dates and comes from what appears to be an official 'In office' record, which typically provides the most accurate information. Therefore, I'm using 2013 as time_start (when officially in office began on September 6) and 2016 as time_finish (when the term ended on July 18)."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations Framework Convention on Climate Change"
+      ],
+      "roles": [
+        "Executive Secretary"
+      ],
+      "time_markers": [
+        "July 18, 2016 – July 15, 2022"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In May 2016, Espinosa was selected by United Nations Secretary-General Ban Ki-moon to be the Executive Secretary of the United Nations Framework Convention on Climate Change.",
+        "Executive Secretary of the United Nations Framework Convention on Climate Change In office 18 July 2016 – 15 July 2022"
+      ],
+      "time_start": 2016,
+      "time_finish": 2022,
+      "metadata": {
+        "timeline_reasoning": "The time_markers clearly indicate the position started on July 18, 2016 and ended on July 15, 2022. This is confirmed by the supporting quote stating 'In office 18 July 2016 – 15 July 2022'. The position has ended, so time_finish is set to 2022."
+      }
+    },
+    {
+      "organizations": [
+        "Saxon Hans-Carl von Carlowitz Society"
+      ],
+      "roles": [
+        "Sustainability Prize recipient"
+      ],
+      "time_markers": [
+        "2019"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Awarded the Sustainability Prize in 2019 by the Saxon Hans-Carl von Carlowitz Society."
+      ],
+      "time_start": 2019,
+      "time_finish": 2019,
+      "metadata": {
+        "timeline_reasoning": "This is an award event with a single year mentioned (2019). Awards are typically one-time recognitions that occur in a specific year rather than ongoing positions, so both time_start and time_finish are set to 2019."
+      }
+    },
+    {
+      "organizations": [
+        "Governments of Germany, Argentina, Austria, Chile, Colombia, Denmark, El Salvador, Guatemala, Netherlands, Paraguay and Peru"
+      ],
+      "roles": [
+        "Recipient of government decorations"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Decorated by the governments of Germany, Argentina, Austria, Chile, Colombia, Denmark, El Salvador, Guatemala, Netherlands, Paraguay and Peru."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No specific years or time markers are provided in the career event data. The supporting quote only indicates that the person was decorated by multiple governments, but does not specify when these decorations were received. Without temporal information, both time_start and time_finish must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Member of the High-Level Panel of Eminent Persons on the 2030 Agenda"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the High-Level Panel of Eminent Persons on the 2030 Agenda."
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "The career event mentions membership in the High-Level Panel of Eminent Persons on the 2030 Agenda, but no specific years are provided in the supporting quotes or other fields. The '2030 Agenda' refers to the UN's Sustainable Development Goals agenda, but this is the subject matter rather than a time indicator. Without explicit temporal information, I cannot determine when this panel membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "Global Commission of Adaptation"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Commissioner at the Global Commission of Adaptation"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "InsuResilience Global Partnership"
+      ],
+      "roles": [
+        "Member of High-Level Consultative Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "High-Level Consultative Group for the InsuResilience Global Partnership"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "International Gender Champions"
+      ],
+      "roles": [
+        "Founder of Berlin-Bonn chapter"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Founder of the Berlin-Bonn chapter of the International Gender Champions"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role as 'Founder of the Berlin-Bonn chapter' but contains no dates, time markers, or contextual clues about when this founding occurred or if the position is ongoing. Without specific year information, both fields must be set to null."
+      }
+    },
+    {
+      "organizations": [
+        "Mary Robinson Foundation – Climate Justice"
+      ],
+      "roles": [
+        "Member of Advisory Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the Advisory Board of the Mary Robinson Foundation – Climate Justice"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this advisory board membership began or ended."
+      }
+    },
+    {
+      "organizations": [
+        "OECD"
+      ],
+      "roles": [
+        "Member of High-Level Advisory Group"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of the OECD High-Level Advisory Group"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the role and organization but contains no dates, time markers, or contextual clues about when this position started or ended."
+      }
+    },
+    {
+      "organizations": [
+        "The Global Covenant of Mayors for Climate & Energy"
+      ],
+      "roles": [
+        "Board Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Member of The Global Covenant of Mayors for Climate & Energy Board"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms the board membership role but contains no dates, time markers, or contextual clues about when this position started or ended. Following the conservative approach guideline, both values are set to null."
+      }
+    },
+    {
+      "organizations": [
+        "International Gender Champions"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "International Gender Champions (IGC), Member"
+      ],
+      "time_start": null,
+      "time_finish": null,
+      "metadata": {
+        "timeline_reasoning": "No temporal information is provided in the career event data. The supporting quote only confirms membership in International Gender Champions but contains no dates, time markers, or contextual clues about when this membership began or ended."
+      }
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "person_name": "Mary Chinery-Hesse",
+  "career_events": [
+    {
+      "organizations": [
+        "Wesley Girls' Senior High School"
+      ],
+      "roles": [
+        "student"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She had her secondary education at the Wesley Girls' Senior High School in Cape Coast."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Ghana"
+      ],
+      "roles": [
+        "student",
+        "BA (Hons) in Sociology and Economics graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She also holds a BA (Hons) in Sociology and Economics... from the University of Ghana"
+      ]
+    },
+    {
+      "organizations": [
+        "Trinity College Dublin"
+      ],
+      "roles": [
+        "postgraduate student in Development Economics"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "she did postgraduate training in Development Economics at Trinity College Dublin."
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank Institute"
+      ],
+      "roles": [
+        "Fellow of the Institute"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "At the World Bank Institute in Washington D.C., she was inscribed as a Fellow of the Institute."
+      ]
+    },
+    {
+      "organizations": [
+        "Ministry of Finance and Economic Planning"
+      ],
+      "roles": [
+        "principal secretary"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her early career, Mary Chinery-Hesse was a principal secretary at the Ministry of Finance and Economic Planning"
+      ]
+    },
+    {
+      "organizations": [
+        "National Economic Planning Council"
+      ],
+      "roles": [
+        "secretary"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In her early career, Mary Chinery-Hesse was... secretary of the National Economic Planning Council."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "UNDP"
+      ],
+      "roles": [
+        "first African woman Resident Coordinator of the United Nations System",
+        "Resident Representative of UNDP to Sierra Leone, Tanzania, Seychelles, and Uganda"
+      ],
+      "time_markers": [
+        "joined 1981"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She joined the UN in 1981, where she held the appointment of the first African woman Resident Coordinator of the United Nations System and Resident Representative of UNDP to many countries, including Sierra Leone, Tanzania, the Seychelles, and Uganda."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Head of Consultative Committee on Programme and Operational Questions (CCPOQ)"
+      ],
+      "time_markers": [
+        "1993 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She headed the Consultative Committee on Programme and Operational Questions (CCPOQ) of the United Nations from 1993 to 1998"
+      ]
+    },
+    {
+      "organizations": [
+        "Commonwealth"
+      ],
+      "roles": [
+        "member of Commonwealth Expert Group of Eminent Persons on Structural Adjustment and Women"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Commonwealth Expert Group of Eminent Persons on Structural Adjustment and Women, and was instrumental in the published report, Engendering Adjustment."
+      ]
+    },
+    {
+      "organizations": [
+        "World Bank"
+      ],
+      "roles": [
+        "member of Council of African Advisers"
+      ],
+      "time_markers": [
+        "1992 to 1998"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She belonged to the Council of African Advisers of the World Bank between 1992 and 1998."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations"
+      ],
+      "roles": [
+        "Chair of High-Level Panel of Eminent Persons on Review of Progress in the Implementation of the Programme for the Least Developed Countries"
+      ],
+      "time_markers": [
+        "1990s"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In the 1990s, she chaired the High-Level Panel of Eminent Persons on Review of Progress in the Implementation of the Programme for the Least Developed Countries."
+      ]
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "member of Eminent Persons' Advisory Panel"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was a member of the Eminent Persons' Advisory Panel of the African Union"
+      ]
+    },
+    {
+      "organizations": [
+        "Zedillo Commission (Distinguished High-Level Panel of Eminent Persons on Financing for Development)"
+      ],
+      "roles": [
+        "member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "served on the Zedillo Commission, more formally known as the Distinguished High-Level Panel of Eminent Persons on Financing for Development."
+      ]
+    },
+    {
+      "organizations": [
+        "International Labour Organization"
+      ],
+      "roles": [
+        "first woman Deputy Director-General",
+        "Under-Secretary-General rank (first African woman)"
+      ],
+      "time_markers": [
+        "appointed 1989"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1989, she was appointed as the first woman Deputy Director-General of the International Labour Organization in Geneva, Switzerland.",
+        "She was also the first woman to attain the rank of Under-Secretary-General of the United Nations in the history of the international organisation."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Ghana"
+      ],
+      "roles": [
+        "advisor to President John Kufour"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She served as an advisor to John Kufour, the former President of Ghana."
+      ]
+    },
+    {
+      "organizations": [
+        "National Development Planning Commission"
+      ],
+      "roles": [
+        "vice chairman"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was the vice chairman of the National Development Planning Commission."
+      ]
+    },
+    {
+      "organizations": [
+        "Centre for Policy Analysis"
+      ],
+      "roles": [
+        "board member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She has served on several boards, including those at the Centre for Policy Analysis"
+      ]
+    },
+    {
+      "organizations": [
+        "UN High Commissioner for Human Rights"
+      ],
+      "roles": [
+        "board member of Voluntary Fund for Technical Cooperation"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "the Voluntary Fund for Technical Cooperation of the UN High Commissioner for Human Rights."
+      ]
+    },
+    {
+      "organizations": [
+        "Public Utilities Regulatory Commission"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also a Commissioner at the Public Utilities Regulatory Commission"
+      ]
+    },
+    {
+      "organizations": [
+        "Commission on HIV/AIDS and Governance in Africa"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and at the Commission on HIV/AIDS and Governance in Africa."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Ghana (John Kufuor administration)"
+      ],
+      "roles": [
+        "Chair of Chinery-Hesse Committee on Article 71 officer holders' benefits"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was commissioned by the erstwhile Government of former President John Kufour to determine the end-of-service benefits and emoluments of Article 71 officer holders."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Ghana"
+      ],
+      "roles": [
+        "Chancellor (first woman)"
+      ],
+      "time_markers": [
+        "appointed to succeed Kofi Annan",
+        "assumed office 1 August 2018",
+        "first term 2018-2023",
+        "reappointed July 2023",
+        "second term 1 August 2023 to 31 July 2028"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was appointed Chancellor of the University of Ghana succeeding Kofi Annan, former UN Secretary-General.",
+        "She assumed this position on 1 August 2018 and served for the first 5-year term. She was reappointed in July 2023 and is currently serving a second term which commenced on 1 August 2023 and would conclude 31 July 2028."
+      ]
+    },
+    {
+      "organizations": [
+        "Kofi Annan International Peacekeeping Training Centre"
+      ],
+      "roles": [
+        "Chair of Goodwill Ambassadors"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She serves as the Chair of the Goodwill Ambassadors of the Kofi Annan International Peacekeeping Training Centre"
+      ]
+    },
+    {
+      "organizations": [
+        "Centre for Regional Integration in Africa"
+      ],
+      "roles": [
+        "Chair of the Board"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and is also the Chair of the Board of the Centre for Regional Integration in Africa."
+      ]
+    },
+    {
+      "organizations": [
+        "African Union"
+      ],
+      "roles": [
+        "member of Panel of the Wise (consultative body for West Africa)"
+      ],
+      "time_markers": [
+        "2010 to 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "From 2010 to 2013, she was a member of the Panel of the Wise, a consultative body of the African Union for West Africa"
+      ]
+    },
+    {
+      "organizations": [
+        "Zenith Bank, Ghana"
+      ],
+      "roles": [
+        "board chairman"
+      ],
+      "time_markers": [
+        "2010 to 2013"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "and the board chairman for Zenith Bank, Ghana."
+      ]
+    },
+    {
+      "organizations": [
+        "Komla Dumor Foundation"
+      ],
+      "roles": [
+        "Chair of Board of Trustees"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Chinery-Hesse To Chair Board Of Trustees For Komla Dumor Foundation"
+      ]
+    },
+    {
+      "organizations": [
+        "Council on Foreign Relations-Ghana"
+      ],
+      "roles": [
+        "founder/launcher of CFR-Ghana Memoirs Project Fund"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chinery-Hesse launched the Council on Foreign Relations-Ghana (CFR-Ghana) Memoirs Project Fund."
+      ]
+    },
+    {
+      "organizations": [
+        "Government of Ghana"
+      ],
+      "roles": [
+        "Order of the Star of Ghana recipient"
+      ],
+      "time_markers": [
+        "under John Kufour's administration"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Chinery-Hesse received the highest national award in Ghana the Order of the Star of Ghana under John Kufour's administration."
+      ]
+    },
+    {
+      "organizations": [
+        "Gusi Peace Prize Foundation"
+      ],
+      "roles": [
+        "Gusi Peace Prize recipient for International Diplomacy and Humanitarianism"
+      ],
+      "time_markers": [
+        "24 November 2010",
+        "Manila, Philippines"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "She was also awarded the Gusi Peace Prize for International Diplomacy and Humanitarianism in Manila, Philippines, on 24 November 2010."
+      ]
+    },
+    {
+      "organizations": [
+        "University of Ghana"
+      ],
+      "roles": [
+        "Honorary Doctor of Law degree recipient (first female graduate to receive this honor)"
+      ],
+      "time_markers": [
+        "1991"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In 1991, the University of Ghana bestowed an Honorary Doctor of Law degree upon Mrs. Chinery-Hesse, making her the first female graduate of the University of Ghana to receive this prestigious honor."
+      ]
+    },
+    {
+      "organizations": [
+        "University of London"
+      ],
+      "roles": [
+        "Honorary Doctorate recipient"
+      ],
+      "time_markers": [
+        "November 2021"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "In November 2021, she was awarded an Honorary Doctorate by the University of London for her contributions to public service."
+      ]
+    },
+    {
+      "organizations": [
+        "African Academy of Sciences"
+      ],
+      "roles": [
+        "Honorary Fellow"
+      ],
+      "event_type": "award",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Mary Akuokor Chinery-Hesse, FAAS, OSG",
+        "Fellow of the African Academy of Sciences"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "person_name": "Wang Yingfan",
+  "personal_details": {
+    "birth_date": "April 1942",
+    "birthplace": "Inner-Mongolia Autonomous Region, People's Republic of China",
+    "nationality": "Chinese",
+    "political_party": "Chinese Communist Party"
+  },
+  "career_events": [
+    {
+      "organizations": [
+        "Beijing Foreign Studies University"
+      ],
+      "roles": [
+        "student",
+        "graduate"
+      ],
+      "event_type": "education",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wang graduated from Beijing Foreign Studies University"
+      ]
+    },
+    {
+      "organizations": [
+        "People's Republic of China",
+        "Philippines"
+      ],
+      "roles": [
+        "Chinese Ambassador to the Philippines"
+      ],
+      "time_markers": [
+        "1985 to 1990"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "He was also the Chinese Ambassador to the Philippines from 1985 to 1990."
+      ]
+    },
+    {
+      "organizations": [
+        "United Nations",
+        "People's Republic of China"
+      ],
+      "roles": [
+        "Permanent Representative of China to the United Nations",
+        "Ambassador"
+      ],
+      "time_markers": [
+        "October 2000 to June 2003"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wang Yingfan is a Chinese diplomat who served as Permanent Representative of China to the United Nations from 2000 to 2003.",
+        "Wang served as Permanent Representative of China to the United Nations from 2000 to 2003.",
+        "In office October 2000 – June 2003"
+      ],
+      "preceded_by": "Qin Huasun",
+      "succeeded_by": "Wang Guangya"
+    },
+    {
+      "organizations": [
+        "National People's Congress Foreign Affairs Committee"
+      ],
+      "roles": [
+        "Vice-Chairman"
+      ],
+      "time_markers": [
+        "2003 to 2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Wang was Vice-Chairman of the National People's Congress Foreign Affairs Committee from 2003 to 2008."
+      ]
+    },
+    {
+      "organizations": [
+        "Standing Committee of the 10th National People's Congress"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "time_markers": [
+        "approximately 2003-2008"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Members of the Standing Committee of the 10th National People's Congress"
+      ]
+    },
+    {
+      "organizations": [
+        "Preparatory Committee for the Hong Kong Special Administrative Region"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "event_type": "career_position",
+      "confidence": "high",
+      "supporting_quotes": [
+        "Members of the Preparatory Committee for the Hong Kong Special Administrative Region"
+      ]
+    },
+    {
+      "organizations": [
+        "International Commission on Nuclear Non-proliferation and Disarmament"
+      ],
+      "roles": [
+        "Commissioner"
+      ],
+      "event_type": "career_position",
+      "confidence": "medium",
+      "supporting_quotes": [
+        "Commissioners - International Commission on Nuclear Non-proliferation and Disarmament"
+      ]
+    }
+  ]
+}
