@@ -1,0 +1,557 @@
+{
+  "person_dir_name": "Andris_Piebalgs",
+  "person_db_name": "Andris Piebalgs",
+  "question_id": "sectors",
+  "question_display": "Main Sectors of Expertise (Functional Mobility)",
+  "run_timestamp": "2026-02-25T18:30:05.517992+00:00",
+  "input": {
+    "hlp_name": "United Nations High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 55,
+    "birth_year": "1957",
+    "nationality": [
+      "Latvian"
+    ]
+  },
+  "retrieval": {
+    "query": "Andris Piebalgs expertise sector field development finance human rights environment health diplomacy technology science trade",
+    "chunks_in_db": 21,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3182,
+        "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+        "domain": "cov.com",
+        "similarity": 0.5488,
+        "rerank_score": 0.7111
+      },
+      {
+        "chunk_id": 3175,
+        "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5933,
+        "rerank_score": 0.6523
+      },
+      {
+        "chunk_id": 3181,
+        "url": "https://www.eui.eu/people?id=andris-piebalgs",
+        "domain": "eui.eu",
+        "similarity": 0.4863,
+        "rerank_score": 0.6464
+      },
+      {
+        "chunk_id": 3186,
+        "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+        "domain": "live.worldbank.org",
+        "similarity": 0.543,
+        "rerank_score": 0.4903
+      },
+      {
+        "chunk_id": 3184,
+        "url": "https://www.un.org/sg/en/management/bios/Piebalgs.shtml",
+        "domain": "un.org",
+        "similarity": 0.49,
+        "rerank_score": 0.4506
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3182,
+      "chunk_index": 0,
+      "source_id": 1171,
+      "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+      "domain": "cov.com",
+      "similarity": 0.5488005403424148,
+      "rerank_score": 0.71113056,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Andris Piebalgs has worked in energy policy, sustainability, development, finance, education, and diplomacy. Step 2 — Evidence linking: Energy policy (European Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory), sustainability (UN Secretary General’s High Level Panel on the Post-2015 Development Agenda), development (European Commissioner for Development), finance (Minister of Finance), education (Minister of Education), diplomacy (Ambassador to the EU). Step 3 — Prominence assessment: Energy policy and development are primary sectors due to multiple roles and long-term engagement. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"European Commissioner for Development, UN Secretary General’s High Level Panel on the Post-2015 Development Agenda\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Specializing in global energy policy, sustainability, and development; UN Secretary General’s High Level Panel on the Post-2015 Development Agenda\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"European Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Minister of Finance\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"Minister of Education\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Ambassador to the EU, Deputy Secretary of State for EU affairs\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"energy\",\n  \"supporting_quote\": \"Andris served as European Commissioner for Energy between 2004 and 2009 where he was instrumental in designing and implementing the “Third Energy Package,\\\"\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Andris Piebalgs has worked in energy policy, sustainability, development, finance, education, and diplomacy. Step 2 — Evidence linking: Energy policy (European Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory), sustainability (UN Secretary General’s High Level Panel on the Post-2015 Development Agenda), development (European Commissioner for Development), finance (Minister of Finance), education (Minister of Education), diplomacy (Ambassador to the EU). Step 3 — Prominence assessment: Energy policy and development are primary sectors due to multiple roles and long-term engagement. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "European Commissioner for Development, UN Secretary General’s High Level Panel on the Post-2015 Development Agenda",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Specializing in global energy policy, sustainability, and development; UN Secretary General’s High Level Panel on the Post-2015 Development Agenda",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "energy",
+            "evidence": "European Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "finance",
+            "evidence": "Minister of Finance",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "education",
+            "evidence": "Minister of Education",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Ambassador to the EU, Deputy Secretary of State for EU affairs",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "energy",
+        "supporting_quote": "Andris served as European Commissioner for Energy between 2004 and 2009 where he was instrumental in designing and implementing the “Third Energy Package,\"",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3175,
+      "chunk_index": 0,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5932899039199493,
+      "rerank_score": 0.6522641,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of development, energy, education, and government. Step 2 — Evidence linking: He served as European Commissioner for Development (2010-2014), Commissioner for Energy (2004-2009), worked as a teacher and headmaster, and served as director in the Ministry of Education. Step 3 — Prominence assessment: Development and energy are primary sectors due to long-term roles; education and government are secondary. Step 4 — Taxonomy mapping: Sectors mapped accordingly.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"European Commissioner for Development (2010-2014)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"European Commissioner for Energy (2004-2009)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"Teacher and headmaster of the 1st Secondary School of Valmiera (1980–1990)\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Director of the department in the Ministry of Education\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Andris Piebalgs served as European Commissioner for Development at the European Commission from 2010 until 2014.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of development, energy, education, and government. Step 2 — Evidence linking: He served as European Commissioner for Development (2010-2014), Commissioner for Energy (2004-2009), worked as a teacher and headmaster, and served as director in the Ministry of Education. Step 3 — Prominence assessment: Development and energy are primary sectors due to long-term roles; education and government are secondary. Step 4 — Taxonomy mapping: Sectors mapped accordingly.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "European Commissioner for Development (2010-2014)",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "energy",
+            "evidence": "European Commissioner for Energy (2004-2009)",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "education",
+            "evidence": "Teacher and headmaster of the 1st Secondary School of Valmiera (1980–1990)",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Director of the department in the Ministry of Education",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Andris Piebalgs served as European Commissioner for Development at the European Commission from 2010 until 2014.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3181,
+      "chunk_index": 0,
+      "source_id": 1170,
+      "url": "https://www.eui.eu/people?id=andris-piebalgs",
+      "domain": "eui.eu",
+      "similarity": 0.4863226575438322,
+      "rerank_score": 0.64639384,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of energy and development, as evidenced by his roles as Commissioner for Energy and Commissioner for Development, as well as his research and publications on energy policy and regulation. Step 2 — Evidence linking: His roles as Commissioner for Energy and Development, Senior Fellow at FSR, and Part-time Professor at the Robert Schuman Centre, along with his research on energy, directly link him to these sectors. Step 3 — Prominence assessment: Energy appears to be the primary sector due to multiple roles and long-term engagement, while development is secondary. Step 4 — Taxonomy mapping: Energy falls under 'environment', and development is directly listed.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Commissioner for Energy, research on energy regulation, oil and gas, and energy policy\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Commissioner for Development, research on supporting Ukraine's energy sector in the context of EU accession\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"environment\",\n  \"supporting_quote\": \"former Commissioner for Energy (Barroso I) and for Development (Barroso II).\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of energy and development, as evidenced by his roles as Commissioner for Energy and Commissioner for Development, as well as his research and publications on energy policy and regulation. Step 2 — Evidence linking: His roles as Commissioner for Energy and Development, Senior Fellow at FSR, and Part-time Professor at the Robert Schuman Centre, along with his research on energy, directly link him to these sectors. Step 3 — Prominence assessment: Energy appears to be the primary sector due to multiple roles and long-term engagement, while development is secondary. Step 4 — Taxonomy mapping: Energy falls under 'environment', and development is directly listed.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "Commissioner for Energy, research on energy regulation, oil and gas, and energy policy",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "development",
+            "evidence": "Commissioner for Development, research on supporting Ukraine's energy sector in the context of EU accession",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "environment",
+        "supporting_quote": "former Commissioner for Energy (Barroso I) and for Development (Barroso II).",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3186,
+      "chunk_index": 0,
+      "source_id": 1174,
+      "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5429581953772278,
+      "rerank_score": 0.4902606,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of energy, education, finance, and development. Step 2 — Evidence linking: Energy (European Commissioner for Energy, awards for energy policy), Education (Minister of Education, Director in Ministry of Education, teacher and headmaster), Finance (Finance Minister and Deputy Prime Minister, Chairman of Budget and Finance Committee), Development (European Commissioner for Development). Step 3 — Prominence assessment: Energy and development are primary sectors due to high-level roles and long-term engagement. Education and finance are secondary. Step 4 — Taxonomy mapping: Energy maps to environment, education to education, finance to finance, and development to development.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"European Commissioner for Energy, led development of sustainable energy system, awarded for energy policy\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"Minister of Education, Director in Ministry of Education, teacher and headmaster\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Finance Minister, Deputy Prime Minister, Chairman of Budget and Finance Committee\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"European Commissioner for Development\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"environment\",\n  \"supporting_quote\": \"During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of energy, education, finance, and development. Step 2 — Evidence linking: Energy (European Commissioner for Energy, awards for energy policy), Education (Minister of Education, Director in Ministry of Education, teacher and headmaster), Finance (Finance Minister and Deputy Prime Minister, Chairman of Budget and Finance Committee), Development (European Commissioner for Development). Step 3 — Prominence assessment: Energy and development are primary sectors due to high-level roles and long-term engagement. Education and finance are secondary. Step 4 — Taxonomy mapping: Energy maps to environment, education to education, finance to finance, and development to development.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "European Commissioner for Energy, led development of sustainable energy system, awarded for energy policy",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "education",
+            "evidence": "Minister of Education, Director in Ministry of Education, teacher and headmaster",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "sector": "finance",
+            "evidence": "Finance Minister, Deputy Prime Minister, Chairman of Budget and Finance Committee",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "sector": "development",
+            "evidence": "European Commissioner for Development",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "environment",
+        "supporting_quote": "During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3184,
+      "chunk_index": 0,
+      "source_id": 1172,
+      "url": "https://www.un.org/sg/en/management/bios/Piebalgs.shtml",
+      "domain": "un.org",
+      "similarity": 0.4899723728308806,
+      "rerank_score": 0.45057756,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles held by Andris Piebalgs. Step 2: Linked evidence to each sector via specific roles. Step 3: Assessed prominence based on role duration and frequency. Step 4: Mapped sectors to standard taxonomy.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Commissioner for Development for the European Commission\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"European Commissioner for Energy (2004-2009)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Minister of Finance of Latvia (1994-1995)\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"Minister of Education of Latvia (1990-1993)\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Deputy Secretary of State, Ministry of Foreign Affairs of Latvia (2003-2004)\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Mr. Piebalgs is currently the Commissioner for Development for the European Commission.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles held by Andris Piebalgs. Step 2: Linked evidence to each sector via specific roles. Step 3: Assessed prominence based on role duration and frequency. Step 4: Mapped sectors to standard taxonomy.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Commissioner for Development for the European Commission",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "energy",
+            "evidence": "European Commissioner for Energy (2004-2009)",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "finance",
+            "evidence": "Minister of Finance of Latvia (1994-1995)",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "sector": "education",
+            "evidence": "Minister of Education of Latvia (1990-1993)",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Deputy Secretary of State, Ministry of Foreign Affairs of Latvia (2003-2004)",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Mr. Piebalgs is currently the Commissioner for Development for the European Commission.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3190,
+      "chunk_index": 0,
+      "source_id": 1176,
+      "url": "https://fsr.eui.eu/people/andris-piebalgs/",
+      "domain": "fsr.eui.eu",
+      "similarity": 0.4275681469404051,
+      "rerank_score": 0.43438992,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of energy, gas, development, and environment. Step 2 — Evidence linking: His roles as EU Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory, and publications on energy and climate topics link him to energy and environment. His role as EU Commissioner for Development links him to development. Step 3 — Prominence assessment: Energy is the most dominant sector due to multiple roles and long-term engagement. Development and environment are secondary. Step 4 — Taxonomy mapping: Energy is mapped to 'environment' as it is closely related to climate and sustainability.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"European Union Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory, publications on energy and climate\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"European Union Commissioner for Development\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"environment\",\n  \"supporting_quote\": \"Andris Piebalgs is a Professor at the European University Institute and serves as the Chairman of the Implementation Committee of the International Methane Emissions Observatory.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of energy, gas, development, and environment. Step 2 — Evidence linking: His roles as EU Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory, and publications on energy and climate topics link him to energy and environment. His role as EU Commissioner for Development links him to development. Step 3 — Prominence assessment: Energy is the most dominant sector due to multiple roles and long-term engagement. Development and environment are secondary. Step 4 — Taxonomy mapping: Energy is mapped to 'environment' as it is closely related to climate and sustainability.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "European Union Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory, publications on energy and climate",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "development",
+            "evidence": "European Union Commissioner for Development",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "environment",
+        "supporting_quote": "Andris Piebalgs is a Professor at the European University Institute and serves as the Chairman of the Implementation Committee of the International Methane Emissions Observatory.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3176,
+      "chunk_index": 1,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4572356732295579,
+      "rerank_score": 0.43122545,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Andris Piebalgs has worked in education, finance, diplomacy, and energy. Step 2 — Evidence linking: Minister of Education, Minister of Finance, ambassador roles, EU Commissioner for Energy. Step 3 — Prominence assessment: Diplomacy and government are primary due to multiple roles and long-term engagement. Energy is secondary due to a single role. Education and finance are secondary due to brief engagement. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"Minister of Education, established the first independent education system in Latvia\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs was appointed as Minister of Education in the new Government\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Minister of Finance and deputy prime minister, chairman of the budget and finance committee\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In September 1994, he became Latvia's Minister of Finance and deputy prime minister\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Ambassador to Estonia, Ambassador to the EU, Deputy Secretary of State for EU affairs\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 1995 until 2003, he worked in the Latvian Diplomatic service\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"European Commissioner for Energy, led the development of a competitive and sustainable European energy system\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"During the first Barroso Commission, he was the European Commissioner for Energy\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Minister of Education, Minister of Finance, deputy prime minister, various government roles\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs was appointed as Minister of Education in the new Government\"\n    }\n  ],\n  \"primary_sector\": \"diplomacy\",\n  \"supporting_quote\": \"From 1995 until 2003, he worked in the Latvian Diplomatic service\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Andris Piebalgs has worked in education, finance, diplomacy, and energy. Step 2 — Evidence linking: Minister of Education, Minister of Finance, ambassador roles, EU Commissioner for Energy. Step 3 — Prominence assessment: Diplomacy and government are primary due to multiple roles and long-term engagement. Energy is secondary due to a single role. Education and finance are secondary due to brief engagement. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "education",
+            "evidence": "Minister of Education, established the first independent education system in Latvia",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs was appointed as Minister of Education in the new Government"
+          },
+          {
+            "sector": "finance",
+            "evidence": "Minister of Finance and deputy prime minister, chairman of the budget and finance committee",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "In September 1994, he became Latvia's Minister of Finance and deputy prime minister"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Ambassador to Estonia, Ambassador to the EU, Deputy Secretary of State for EU affairs",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "From 1995 until 2003, he worked in the Latvian Diplomatic service"
+          },
+          {
+            "sector": "energy",
+            "evidence": "European Commissioner for Energy, led the development of a competitive and sustainable European energy system",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "During the first Barroso Commission, he was the European Commissioner for Energy"
+          },
+          {
+            "sector": "government",
+            "evidence": "Minister of Education, Minister of Finance, deputy prime minister, various government roles",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs was appointed as Minister of Education in the new Government"
+          }
+        ],
+        "primary_sector": "diplomacy",
+        "supporting_quote": "From 1995 until 2003, he worked in the Latvian Diplomatic service",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3195,
+      "chunk_index": 1,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.42659213666536816,
+      "rerank_score": 0.41478088,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of development, energy, and diplomacy. Step 2 — Evidence linking: He served as EU Development Commissioner, EU Commissioner for Energy, and was instrumental in Latvia’s accession to the EU. Step 3 — Prominence assessment: Development and energy are primary sectors due to his long-term roles; diplomacy is secondary. Step 4 — Taxonomy mapping: Development and energy are mapped directly; diplomacy is mapped to the closest standard label.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"EU Development Commissioner (2010-2014), led 'Agenda for change' with focus on nutrition\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"EU Commissioner for Energy (2004-2009), key figure in EU’s sustainable energy policies\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Prominent Latvian politician and diplomat, instrumental in Latvia’s accession to the EU\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Andris Piebalgs has served as EU Development Commissioner (2010-2014). Under his leadership a new European Commission’s development policy 'Agenda for change' has been adopted with a prominent focus on nutrition.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Andris Piebalgs has worked in the sectors of development, energy, and diplomacy. Step 2 — Evidence linking: He served as EU Development Commissioner, EU Commissioner for Energy, and was instrumental in Latvia’s accession to the EU. Step 3 — Prominence assessment: Development and energy are primary sectors due to his long-term roles; diplomacy is secondary. Step 4 — Taxonomy mapping: Development and energy are mapped directly; diplomacy is mapped to the closest standard label.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "EU Development Commissioner (2010-2014), led 'Agenda for change' with focus on nutrition",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "energy",
+            "evidence": "EU Commissioner for Energy (2004-2009), key figure in EU’s sustainable energy policies",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Prominent Latvian politician and diplomat, instrumental in Latvia’s accession to the EU",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Andris Piebalgs has served as EU Development Commissioner (2010-2014). Under his leadership a new European Commission’s development policy 'Agenda for change' has been adopted with a prominent focus on nutrition.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3185,
+      "url": "https://www.europarl.europa.eu/press/audicom2004/cv/cv_piebalgs.pdf",
+      "domain": "europarl.europa.eu",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text provides a detailed professional background of Andris Piebalgs, covering various roles and responsibilities. It is highly relevant to his substantive work and expertise. Step 2 — Sector confirmation: The source does not mention any roles or activities directly related to the 'energy' sector, which is the candidate's primary sector. However, it does mention roles related to 'development' indirectly through his positions in the European Union and Latvia's Ministry of Foreign Affairs. Step 3 — New sectors found: The source highlights expertise in 'agriculture and fisheries' (via Head of Cabinet of Commissioner Kalniete), 'foreign affairs and diplomacy' (via Deputy Secretary of State and Ambassador roles), 'finance' (via Minister of Finance and Chairman of the Budget and Finance Committee), and 'education' (via Minister of Education and related roles). These sectors were not mentioned in the candidate findings. Step 4 — Confidence: The source clearly speaks to Andris Piebalgs's sectoral expertise in the newly identified areas but does not confirm the primary sector of 'energy'.\",\n  \"confirms\": false,\n  \"confirmed_sectors\": [],\n  \"new_sectors_found\": [\"agriculture and fisheries\", \"foreign affairs and diplomacy\", \"finance\", \"education\"],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"The first Latvian Commissioner Kalniete is working with Commissioner Fischler in the area of agriculture and fisheries.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text provides a detailed professional background of Andris Piebalgs, covering various roles and responsibilities. It is highly relevant to his substantive work and expertise. Step 2 — Sector confirmation: The source does not mention any roles or activities directly related to the 'energy' sector, which is the candidate's primary sector. However, it does mention roles related to 'development' indirectly through his positions in the European Union and Latvia's Ministry of Foreign Affairs. Step 3 — New sectors found: The source highlights expertise in 'agriculture and fisheries' (via Head of Cabinet of Commissioner Kalniete), 'foreign affairs and diplomacy' (via Deputy Secretary of State and Ambassador roles), 'finance' (via Minister of Finance and Chairman of the Budget and Finance Committee), and 'education' (via Minister of Education and related roles). These sectors were not mentioned in the candidate findings. Step 4 — Confidence: The source clearly speaks to Andris Piebalgs's sectoral expertise in the newly identified areas but does not confirm the primary sector of 'energy'.",
+        "confirms": false,
+        "confirmed_sectors": [],
+        "new_sectors_found": [
+          "agriculture and fisheries",
+          "foreign affairs and diplomacy",
+          "finance",
+          "education"
+        ],
+        "confidence": "medium",
+        "supporting_quote": "The first Latvian Commissioner Kalniete is working with Commissioner Fischler in the area of agriculture and fisheries."
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "The first Latvian Commissioner Kalniete is working with Commissioner Fischler in the area of agriculture and fisheries.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3177,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text describes Andris Piebalgs's substantive work and expertise in energy and development, detailing his roles, priorities, and achievements. Step 2 — Sector confirmation: The source confirms Piebalgs's work in the energy sector through his role as Commissioner Designate for Energy, awards, and policy focus. It also confirms his work in development through his role as Commissioner Designate for Development and his priorities in achieving Millennium Development Goals. Step 3 — New sectors found: No new sectors are mentioned beyond energy and development. Step 4 — Confidence: The source provides clear and detailed evidence of Piebalgs's expertise in both sectors.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"energy\", \"development\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"On 15 November 2004 when questioned by the European Parliament as the Commissioner Designate for Energy, Piebalgs stressed the importance of environmental considerations in energy policy\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text describes Andris Piebalgs's substantive work and expertise in energy and development, detailing his roles, priorities, and achievements. Step 2 — Sector confirmation: The source confirms Piebalgs's work in the energy sector through his role as Commissioner Designate for Energy, awards, and policy focus. It also confirms his work in development through his role as Commissioner Designate for Development and his priorities in achieving Millennium Development Goals. Step 3 — New sectors found: No new sectors are mentioned beyond energy and development. Step 4 — Confidence: The source provides clear and detailed evidence of Piebalgs's expertise in both sectors.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "energy",
+          "development"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "On 15 November 2004 when questioned by the European Parliament as the Commissioner Designate for Energy, Piebalgs stressed the importance of environmental considerations in energy policy"
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "On 15 November 2004 when questioned by the European Parliament as the Commissioner Designate for Energy, Piebalgs stressed the importance of environmental considerations in energy policy",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Andris served as European Commissioner for Energy between 2004 and 2009 where he was instrumental in designing and implementing the “Third Energy Package,\"",
+    "confirmation_count": 1,
+    "primary_source_domain": "cov.com",
+    "notes": null,
+    "sectors": [
+      {
+        "sector": "development",
+        "evidence": "European Commissioner for Development, UN Secretary General’s High Level Panel on the Post-2015 Development Agenda",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "environment",
+        "evidence": "Specializing in global energy policy, sustainability, and development; UN Secretary General’s High Level Panel on the Post-2015 Development Agenda",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "energy",
+        "evidence": "European Commissioner for Energy, Chairman of the Implementation Committee of the International Methane Emissions Observatory",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "finance",
+        "evidence": "Minister of Finance",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "education",
+        "evidence": "Minister of Education",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "diplomacy",
+        "evidence": "Ambassador to the EU, Deputy Secretary of State for EU affairs",
+        "prominence": "secondary",
+        "confidence": "medium"
+      }
+    ],
+    "primary_sector": "energy"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

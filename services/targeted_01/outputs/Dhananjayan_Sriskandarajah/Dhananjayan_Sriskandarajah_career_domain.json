@@ -1,0 +1,64 @@
+{
+  "person_dir_name": "Dhananjayan_Sriskandarajah",
+  "person_db_name": "Dhananjayan Sriskandarajah",
+  "question_id": "career_domain",
+  "question_display": "Career Domain (Archetypes)",
+  "run_timestamp": "2026-02-25T17:58:51.902573+00:00",
+  "input": {
+    "birth_year": "1975",
+    "nationality": [
+      "Australian",
+      "Sri Lankan"
+    ]
+  },
+  "synthesis_inputs": {
+    "HLP_JOB_RESULT": "[loaded from hlp_job_title]",
+    "EDUCATION_RESULT": "[loaded from education]",
+    "LOCATIONS_RESULT": "[loaded from locations]",
+    "JOBS_RESULT": "[loaded from jobs]",
+    "SECTORS_RESULT": "[loaded from sectors]",
+    "NETWORKS_RESULT": "[loaded from networks]"
+  },
+  "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Jobs review: All primary roles (Chief Executive, Secretary General, Director) fall under the civil_society domain. Secondary roles (Trustee positions) also align with civil_society. Step 2 — Duration weighting: While exact durations are not always provided, the roles span multiple years, with significant tenure in civil_society organizations. Step 3 — Sectors cross-check: The primary sector is 'development,' which aligns strongly with civil_society, particularly given roles in NGOs like Oxfam GB and CIVICUS. Secondary sectors like human_rights and migration also reinforce civil_society engagement. Step 4 — Networks cross-check: Affiliations are predominantly with civil_society organizations (e.g., Guy’s & St Thomas’ Foundation, Comic Relief) and advisory roles in inquiries related to civil_society. Step 5 — Dominant domain identification: The career is overwhelmingly characterized by civil_society roles. Step 6 — Hybrid test: No other domain accounts for a comparable share of the career, and there is no evidence of a genuine hybrid institutional context.\",\n  \"domain_evidence\": {\n    \"academic\": \"\",\n    \"civil_society\": \"All primary and secondary roles are in NGOs, think-tanks, and civil society organizations. Primary sector is 'development,' with roles in Oxfam GB, CIVICUS, and New Economics Foundation. Affiliations are with civil_society organizations and related advisory roles.\",\n    \"corporate\": \"\",\n    \"diplomatic\": \"\",\n    \"political\": \"\",\n    \"international\": \"\",\n    \"other\": \"\"\n  },\n  \"dominant_domain\": \"civil_society\",\n  \"is_hybrid\": false,\n  \"hybrid_domains\": [],\n  \"alternative_domain_suggestion\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+  "parsed": {
+    "reasoning": "Step 1 — Jobs review: All primary roles (Chief Executive, Secretary General, Director) fall under the civil_society domain. Secondary roles (Trustee positions) also align with civil_society. Step 2 — Duration weighting: While exact durations are not always provided, the roles span multiple years, with significant tenure in civil_society organizations. Step 3 — Sectors cross-check: The primary sector is 'development,' which aligns strongly with civil_society, particularly given roles in NGOs like Oxfam GB and CIVICUS. Secondary sectors like human_rights and migration also reinforce civil_society engagement. Step 4 — Networks cross-check: Affiliations are predominantly with civil_society organizations (e.g., Guy’s & St Thomas’ Foundation, Comic Relief) and advisory roles in inquiries related to civil_society. Step 5 — Dominant domain identification: The career is overwhelmingly characterized by civil_society roles. Step 6 — Hybrid test: No other domain accounts for a comparable share of the career, and there is no evidence of a genuine hybrid institutional context.",
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "All primary and secondary roles are in NGOs, think-tanks, and civil society organizations. Primary sector is 'development,' with roles in Oxfam GB, CIVICUS, and New Economics Foundation. Affiliations are with civil_society organizations and related advisory roles.",
+      "corporate": "",
+      "diplomatic": "",
+      "political": "",
+      "international": "",
+      "other": ""
+    },
+    "dominant_domain": "civil_society",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "alternative_domain_suggestion": null,
+    "confidence": "high",
+    "cannot_determine": false
+  },
+  "result": {
+    "status": "found",
+    "dominant_domain": "civil_society",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "All primary and secondary roles are in NGOs, think-tanks, and civil society organizations. Primary sector is 'development,' with roles in Oxfam GB, CIVICUS, and New Economics Foundation. Affiliations are with civil_society organizations and related advisory roles.",
+      "corporate": "",
+      "diplomatic": "",
+      "political": "",
+      "international": "",
+      "other": ""
+    },
+    "alternative_domain_suggestion": null,
+    "confidence": "high"
+  },
+  "meta": {
+    "mode": "synthesis",
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "David_Hannay",
+  "person_db_name": "David Hannay",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:16:10.289849+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Threats, Challenges and Change",
+    "hlp_year": "2003-2004",
+    "nomination_year": 2003,
+    "hlp_nomination_age": 68,
+    "birth_year": "1935",
+    "nationality": [
+      "British"
+    ]
+  },
+  "retrieval": {
+    "query": "David Hannay job title position role career 2003 appointed nominated serving",
+    "chunks_in_db": 23,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 213,
+        "url": "https://en.wikipedia.org/wiki/David_Hannay,_Baron_Hannay_of_Chiswick",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5594,
+        "rerank_score": 0.7668
+      },
+      {
+        "chunk_id": 219,
+        "url": "http://www.kwaku.org.uk/Speakers/2018-2019/David%20Hannay%20Bio.html",
+        "domain": "kwaku.org.uk",
+        "similarity": 0.4663,
+        "rerank_score": 0.6789
+      },
+      {
+        "chunk_id": 217,
+        "url": "https://digitallibrary.un.org/record/503175?ln=en",
+        "domain": "digitallibrary.un.org",
+        "similarity": 0.4762,
+        "rerank_score": 0.6748
+      },
+      {
+        "chunk_id": 220,
+        "url": "https://www.salzburgglobal.org/person/david-hannay",
+        "domain": "salzburgglobal.org",
+        "similarity": 0.457,
+        "rerank_score": 0.6673
+      },
+      {
+        "chunk_id": 211,
+        "url": "https://europeanleadershipnetwork.org/person/david-hannay/",
+        "domain": "europeanleadershipnetwork.org",
+        "similarity": 0.4692,
+        "rerank_score": 0.6159
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 213,
+      "chunk_index": 0,
+      "source_id": 396,
+      "url": "https://en.wikipedia.org/wiki/David_Hannay,_Baron_Hannay_of_Chiswick",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5594151885429446,
+      "rerank_score": 0.7668008,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that Hannay was United Nations Special Representative for Cyprus 'between 1996 and 2003', which directly overlaps with the nomination year 2003. Step 2 — Role identification: The text explicitly states 'United Nations Special Representative for Cyprus'. Step 3 — Organization identification: The organization is clearly the 'United Nations'. Step 4 — Temporal match assessment: The role's end year (2003) matches the nomination year, making it the role held at nomination. Step 5 — Confidence assessment: High confidence due to explicit date range matching 2003.\",\n  \"job_title_at_nomination\": \"United Nations Special Representative for Cyprus\",\n  \"organization_at_nomination\": \"United Nations\",\n  \"year_reference\": \"1996–2003\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"United Nations Special Representative for Cyprus between 1996 and 2003\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that Hannay was United Nations Special Representative for Cyprus 'between 1996 and 2003', which directly overlaps with the nomination year 2003. Step 2 — Role identification: The text explicitly states 'United Nations Special Representative for Cyprus'. Step 3 — Organization identification: The organization is clearly the 'United Nations'. Step 4 — Temporal match assessment: The role's end year (2003) matches the nomination year, making it the role held at nomination. Step 5 — Confidence assessment: High confidence due to explicit date range matching 2003.",
+        "job_title_at_nomination": "United Nations Special Representative for Cyprus",
+        "organization_at_nomination": "United Nations",
+        "year_reference": "1996–2003",
+        "confidence": "high",
+        "supporting_quote": "United Nations Special Representative for Cyprus between 1996 and 2003",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "United Nations Special Representative for Cyprus",
+      "organization_at_nomination": "United Nations",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 219,
+      "url": "http://www.kwaku.org.uk/Speakers/2018-2019/David%20Hannay%20Bio.html",
+      "domain": "kwaku.org.uk",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about David Hannay and discusses his career and biography, including his roles as a diplomat and his service in various positions. Step 2 — Title match assessment: The text explicitly mentions that David Hannay served as the 'Special Representative for Cyprus' between 1996 and 2003, which is an exact match to the claimed title. Step 3 — Temporal alignment: The role of Special Representative for Cyprus is stated to have been held until 2003, which aligns with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Between 1996 and 2003, he served as the Special Representative for Cyprus\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about David Hannay and discusses his career and biography, including his roles as a diplomat and his service in various positions. Step 2 — Title match assessment: The text explicitly mentions that David Hannay served as the 'Special Representative for Cyprus' between 1996 and 2003, which is an exact match to the claimed title. Step 3 — Temporal alignment: The role of Special Representative for Cyprus is stated to have been held until 2003, which aligns with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Between 1996 and 2003, he served as the Special Representative for Cyprus",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Between 1996 and 2003, he served as the Special Representative for Cyprus",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 217,
+      "url": "https://digitallibrary.un.org/record/503175?ln=en",
+      "domain": "digitallibrary.un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is an interview with Sir David Hannay, discussing his career and biography, including his roles at the United Nations. It is directly relevant to the claim. Step 2 — Title match assessment: The text explicitly states that Hannay was appointed 'Special Representative for Cyprus' in 1996, serving until 2003. This matches the claimed title 'United Nations Special Representative for Cyprus' at the United Nations. Step 3 — Temporal alignment: The role is explicitly stated to have ended in 2003, aligning with the claim's time frame. Step 4 — Alternative title: No alternative title is mentioned for 2003, as the role ended that year and he transitioned to the UN High Level Panel.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"In 1996 he was reassigned and appointed Special Representative for Cyprus, serving in this capacity until 2003\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is an interview with Sir David Hannay, discussing his career and biography, including his roles at the United Nations. It is directly relevant to the claim. Step 2 — Title match assessment: The text explicitly states that Hannay was appointed 'Special Representative for Cyprus' in 1996, serving until 2003. This matches the claimed title 'United Nations Special Representative for Cyprus' at the United Nations. Step 3 — Temporal alignment: The role is explicitly stated to have ended in 2003, aligning with the claim's time frame. Step 4 — Alternative title: No alternative title is mentioned for 2003, as the role ended that year and he transitioned to the UN High Level Panel.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "In 1996 he was reassigned and appointed Special Representative for Cyprus, serving in this capacity until 2003",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "In 1996 he was reassigned and appointed Special Representative for Cyprus, serving in this capacity until 2003",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 220,
+      "url": "https://www.salzburgglobal.org/person/david-hannay",
+      "domain": "salzburgglobal.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about David Hannay and discusses his career and biography, including his roles in the British Foreign Service and as a member of the House of Lords. Step 2 — Title match assessment: The text mentions that David Hannay was the 'British Government's Special Representative for Cyprus' from 1996 to 2003, which is a compatible match with the claim of 'United Nations Special Representative for Cyprus' as it refers to the same role but under the British Government's auspices. Step 3 — Temporal alignment: The role is explicitly stated to have ended in 2003, aligning with the claim's time frame. Step 4 — Alternative title: The source does not mention a different primary role for David Hannay at 2003 that would contradict the claim.\",\n  \"confirms\": true,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"from 1996 to 2003, he was the British Government's Special Representative for Cyprus.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about David Hannay and discusses his career and biography, including his roles in the British Foreign Service and as a member of the House of Lords. Step 2 — Title match assessment: The text mentions that David Hannay was the 'British Government's Special Representative for Cyprus' from 1996 to 2003, which is a compatible match with the claim of 'United Nations Special Representative for Cyprus' as it refers to the same role but under the British Government's auspices. Step 3 — Temporal alignment: The role is explicitly stated to have ended in 2003, aligning with the claim's time frame. Step 4 — Alternative title: The source does not mention a different primary role for David Hannay at 2003 that would contradict the claim.",
+        "confirms": true,
+        "confidence": "medium",
+        "supporting_quote": "from 1996 to 2003, he was the British Government's Special Representative for Cyprus.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "medium",
+      "supporting_quote": "from 1996 to 2003, he was the British Government's Special Representative for Cyprus.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "United Nations Special Representative for Cyprus",
+    "organization_at_nomination": "United Nations",
+    "confidence": "high",
+    "supporting_quote": "United Nations Special Representative for Cyprus between 1996 and 2003",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

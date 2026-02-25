@@ -1,0 +1,26 @@
+{
+  "person_dir_name": "Benjamin_W._Mkapa",
+  "person_db_name": "Benjamin W. Mkapa",
+  "question_id": "hlp_job_title",
+  "run_timestamp": "2026-02-25T16:15:46.059324+00:00",
+  "input": {
+    "hlp_name": null,
+    "hlp_year": null,
+    "hlp_nomination_age": null,
+    "birth_year": "1938",
+    "nationality": [
+      "Tanzanian"
+    ]
+  },
+  "retrieval": {},
+  "extraction_trace": [],
+  "verification_trace": [],
+  "result": {
+    "status": "skipped"
+  },
+  "meta": {
+    "skipped": true,
+    "skip_reason": "hlp_year is null in base.json",
+    "error": null
+  }
+}

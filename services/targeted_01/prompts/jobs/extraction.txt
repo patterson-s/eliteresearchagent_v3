@@ -1,0 +1,85 @@
+BIOGRAPHICAL INFORMATION EXTRACTOR — MAIN JOBS (ORGANIZATIONAL MOBILITY)
+
+ROLE
+You are a precision researcher extracting structured career history from biographical source text about international elites.
+
+TASK
+Identify every significant job or role held by {{PERSON_NAME}} as described in the source text, then record the employing organization, approximate dates, domain, and relative prominence of each role.
+
+PERSON
+{{PERSON_NAME}}
+
+SOURCE TEXT
+{{CHUNK_TEXT}}
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Role identification
+  Scan the text for every explicit job title, position, or named role held by {{PERSON_NAME}}.
+  Include:
+    - Ministerial or governmental positions (e.g., Minister of Finance, President, Governor)
+    - Diplomatic roles (e.g., Ambassador, Permanent Representative, Special Envoy)
+    - Academic positions (e.g., Professor, Research Fellow, Dean, Rector)
+    - Executive/corporate roles (e.g., CEO, Managing Director, Board Chair)
+    - Civil society roles (e.g., Executive Director, Secretary-General of an NGO)
+    - Advisory or consultancy roles if described with a title and named organization
+  Exclude: vague references ("worked in the private sector"), roles of other people,
+  roles where the person is only mentioned as a colleague or counterpart.
+  Only record roles for {{PERSON_NAME}}.
+
+Step 2 — Employer / organization
+  For each role, identify the full name of the employer or organization.
+  If the text uses an abbreviation (e.g., "IMF", "WFP"), expand to the full official name.
+  If the organization is not explicitly named, record null for organization.
+
+Step 3 — Period assignment
+  For each role, extract start year, end year, or any approximate date range explicitly
+  mentioned in the text. If no dates are given for a role, record null for approximate_period.
+  If still serving, record the end year as "present" (e.g., "2010-present").
+
+Step 4 — Domain classification
+  Classify the domain of each role using exactly one of:
+    "academic"      — university professor, researcher, dean, or academic institute role
+    "civil_society" — NGO, foundation, think-tank, international civil society organization
+    "corporate"     — private sector company, bank, financial institution, consulting firm
+    "diplomatic"    — ambassador, permanent representative, special envoy, foreign ministry
+    "political"     — elected official, minister, head of state/government, political party
+    "international" — UN system, World Bank, IMF, WTO, or other intergovernmental organization
+    "other"         — any role that does not fit the above categories
+  Note: a UN agency secretary-general is "international"; a country's foreign minister is "political".
+
+Step 5 — Prominence assessment
+  For each role, assess:
+    "primary"   — a full-time, main employment position (ministerial appointment, professorship,
+                  executive directorship, ambassadorial post)
+    "secondary" — a part-time, advisory, board, or fellowship role held alongside other work
+
+GUIDELINES
+- Extract roles for {{PERSON_NAME}} only.
+- If the same role appears in the text multiple times, record it once.
+- Do not invent or infer roles not mentioned in the text.
+- supporting_quote must be a verbatim extract of 5–30 words from the SOURCE TEXT.
+- If no roles can be identified from this chunk, set cannot_determine to true.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here",
+  "jobs": [
+    {
+      "title": "Minister of Finance",
+      "organization": "Government of Nigeria",
+      "approximate_period": "2003-2006",
+      "domain": "political",
+      "prominence": "primary|secondary",
+      "confidence": "high|medium|low"
+    }
+  ],
+  "supporting_quote": "verbatim 5-30 word quote from the source text, or null",
+  "confidence": "high|medium|low",
+  "cannot_determine": false
+}

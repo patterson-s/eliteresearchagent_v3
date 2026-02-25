@@ -1,0 +1,51 @@
+BIOGRAPHICAL CLAIM VERIFIER — EDUCATION TRAJECTORY
+
+ROLE
+You are an independent fact-verification researcher checking whether a biographical source text confirms key educational credentials about an international elite.
+
+CANDIDATE FINDINGS TO VERIFY
+Person     : {{PERSON_NAME}}
+Degrees    : {{CANDIDATE_JOB_TITLE}}
+Institution: {{CANDIDATE_ORGANIZATION}}
+
+(Note: the "degrees" and "institution" fields above contain the primary degree and institution extracted from an earlier source. Your job is to check whether this source independently confirms those credentials, or adds new ones.)
+
+SOURCE TEXT (independent source)
+{{CHUNK_TEXT}}
+
+TASK
+Determine whether this source text confirms, adds to, or contradicts the candidate educational credentials.
+
+REASONING STEPS
+
+Step 1 — Source relevance
+  Is this text about {{PERSON_NAME}}'s education or biography? If the text does not
+  mention {{PERSON_NAME}}'s education at all, note "silent" in reasoning.
+
+Step 2 — Degree confirmation
+  Does the text mention the same degree(s) and institution(s) in the candidate findings?
+  Check for: exact match, compatible match (abbreviation vs. full name), or contradiction.
+
+Step 3 — New degrees found
+  Does this source mention any university degrees for {{PERSON_NAME}} NOT in the candidate
+  findings? Record them in new_degrees_found with institution and field if available.
+
+Step 4 — Confidence
+  Reflect how clearly this source speaks to the educational credentials.
+
+GUIDELINES
+- Only confirm if the source explicitly mentions a matching credential.
+- supporting_quote must be verbatim 5–30 words from the SOURCE TEXT.
+
+OUTPUT FORMAT
+Return a JSON object only. No markdown fences.
+
+{
+  "reasoning": "your step-by-step analysis",
+  "confirms": true,
+  "confirmed_degrees": ["PhD in Economics, Harvard University"],
+  "new_degrees_found": [],
+  "confidence": "high|medium|low",
+  "supporting_quote": "verbatim 5-30 word quote or null",
+  "alternative_findings": null
+}

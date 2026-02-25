@@ -1,0 +1,619 @@
+{
+  "person_dir_name": "Dhananjayan_Sriskandarajah",
+  "person_db_name": "Dhananjayan Sriskandarajah",
+  "question_id": "locations",
+  "question_display": "Main Locations (Geographical Mobility)",
+  "run_timestamp": "2026-02-25T17:57:08.504047+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Humanitarian Finance",
+    "hlp_year": "2015-2016",
+    "nomination_year": 2015,
+    "hlp_nomination_age": 40,
+    "birth_year": "1975",
+    "nationality": [
+      "Australian",
+      "Sri Lankan"
+    ]
+  },
+  "retrieval": {
+    "query": "Dhananjayan Sriskandarajah lived based located city country worked residence office career",
+    "chunks_in_db": 15,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1182,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6256,
+        "rerank_score": 0.8212
+      },
+      {
+        "chunk_id": 1193,
+        "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+        "domain": "cpsummit.ngo",
+        "similarity": 0.4446,
+        "rerank_score": 0.7585
+      },
+      {
+        "chunk_id": 1189,
+        "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+        "domain": "opengovpartnership.org",
+        "similarity": 0.5056,
+        "rerank_score": 0.7559
+      },
+      {
+        "chunk_id": 1186,
+        "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+        "domain": "live.worldbank.org",
+        "similarity": 0.5251,
+        "rerank_score": 0.7434
+      },
+      {
+        "chunk_id": 1183,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4828,
+        "rerank_score": 0.5727
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1182,
+      "chunk_index": 0,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6255782113325994,
+      "rerank_score": 0.82117355,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Colombo\",\n      \"country\": \"Sri Lanka\",\n      \"approximate_period\": \"1975-1980s\",\n      \"role_context\": \"Born and early childhood\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Dhananjayan Sriskandarajah was born in Sri Lanka, the son of Sri Lankan Tamil parents who first moved to Australia as doctoral students.\"\n    },\n    {\n      \"city\": \"Sydney\",\n      \"country\": \"Australia\",\n      \"approximate_period\": \"1980s-1998\",\n      \"role_context\": \"Education at James Ruse Agricultural High School and University of Sydney\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Sriskandarajah was educated at James Ruse Agricultural High School in Carlingford, New South Wales, Australia, graduating in 1993. He then attended the University of Sydney.\"\n    },\n    {\n      \"city\": \"Oxford\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"1998-2001\",\n      \"role_context\": \"Rhodes Scholar at Magdalen College, University of Oxford\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"After becoming the first Asian Australian to win a Rhodes scholarship in 1998, Sriskandarajah then matriculated to Magdalen College, a constituent college of the University of Oxford.\"\n    },\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"2000s-2010s\",\n      \"role_context\": \"Head of the Royal Commonwealth Society and other roles\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He was the first non-British and youngest person to head the Royal Commonwealth Society, a large non-governmental organisation (NGO) devoted to Commonwealth affairs, based in London, England.\"\n    }\n  ],\n  \"countries\": [\"Sri Lanka\", \"Australia\", \"United Kingdom\"],\n  \"supporting_quote\": \"Dhananjayan Sriskandarajah is a Tamil Sri Lankan-born British-Australian activist who is the Chief Executive of the New Economics Foundation.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Colombo",
+            "country": "Sri Lanka",
+            "approximate_period": "1975-1980s",
+            "role_context": "Born and early childhood",
+            "confidence": "medium",
+            "supporting_quote": "Dhananjayan Sriskandarajah was born in Sri Lanka, the son of Sri Lankan Tamil parents who first moved to Australia as doctoral students."
+          },
+          {
+            "city": "Sydney",
+            "country": "Australia",
+            "approximate_period": "1980s-1998",
+            "role_context": "Education at James Ruse Agricultural High School and University of Sydney",
+            "confidence": "high",
+            "supporting_quote": "Sriskandarajah was educated at James Ruse Agricultural High School in Carlingford, New South Wales, Australia, graduating in 1993. He then attended the University of Sydney."
+          },
+          {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "approximate_period": "1998-2001",
+            "role_context": "Rhodes Scholar at Magdalen College, University of Oxford",
+            "confidence": "high",
+            "supporting_quote": "After becoming the first Asian Australian to win a Rhodes scholarship in 1998, Sriskandarajah then matriculated to Magdalen College, a constituent college of the University of Oxford."
+          },
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": "2000s-2010s",
+            "role_context": "Head of the Royal Commonwealth Society and other roles",
+            "confidence": "high",
+            "supporting_quote": "He was the first non-British and youngest person to head the Royal Commonwealth Society, a large non-governmental organisation (NGO) devoted to Commonwealth affairs, based in London, England."
+          }
+        ],
+        "countries": [
+          "Sri Lanka",
+          "Australia",
+          "United Kingdom"
+        ],
+        "supporting_quote": "Dhananjayan Sriskandarajah is a Tamil Sri Lankan-born British-Australian activist who is the Chief Executive of the New Economics Foundation.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1193,
+      "chunk_index": 0,
+      "source_id": 662,
+      "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+      "domain": "cpsummit.ngo",
+      "similarity": 0.44459301837186144,
+      "rerank_score": 0.75852895,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Johannesburg\",\n      \"country\": \"South Africa\",\n      \"approximate_period\": \"2013-present\",\n      \"role_context\": \"Secretary General and CEO of CIVICUS\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013. Headquartered in Johannesburg\"\n    },\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"1998-2012\",\n      \"role_context\": \"Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, Deputy Director of the Institute for Public Policy Research\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Prior to moving to South Africa, Danny was based in the UK for 15 years\"\n    },\n    {\n      \"city\": \"Sydney\",\n      \"country\": \"Australia\",\n      \"approximate_period\": null,\n      \"role_context\": \"University degree program\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Danny holds a degree from the University of Sydney\"\n    },\n    {\n      \"city\": \"Oxford\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"MPhil and DPhil programs\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Danny holds... an MPhil and DPhil from the University of Oxford\"\n    }\n  ],\n  \"countries\": [\"South Africa\", \"United Kingdom\", \"Australia\", \"Sri Lanka\"],\n  \"supporting_quote\": \"Born in Sri Lanka and a national of Australia, Dr Sriskandarajah has lived and worked in five continents\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "approximate_period": "2013-present",
+            "role_context": "Secretary General and CEO of CIVICUS",
+            "confidence": "high",
+            "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013. Headquartered in Johannesburg"
+          },
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": "1998-2012",
+            "role_context": "Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, Deputy Director of the Institute for Public Policy Research",
+            "confidence": "high",
+            "supporting_quote": "Prior to moving to South Africa, Danny was based in the UK for 15 years"
+          },
+          {
+            "city": "Sydney",
+            "country": "Australia",
+            "approximate_period": null,
+            "role_context": "University degree program",
+            "confidence": "medium",
+            "supporting_quote": "Danny holds a degree from the University of Sydney"
+          },
+          {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "MPhil and DPhil programs",
+            "confidence": "medium",
+            "supporting_quote": "Danny holds... an MPhil and DPhil from the University of Oxford"
+          }
+        ],
+        "countries": [
+          "South Africa",
+          "United Kingdom",
+          "Australia",
+          "Sri Lanka"
+        ],
+        "supporting_quote": "Born in Sri Lanka and a national of Australia, Dr Sriskandarajah has lived and worked in five continents",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1189,
+      "chunk_index": 0,
+      "source_id": 658,
+      "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+      "domain": "opengovpartnership.org",
+      "similarity": 0.505631788119841,
+      "rerank_score": 0.7559439,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate periods where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Johannesburg\",\n      \"country\": \"South Africa\",\n      \"approximate_period\": \"2013-present\",\n      \"role_context\": \"Secretary General and CEO of CIVICUS, headquartered in Johannesburg\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013. Headquartered in Johannesburg\"\n    },\n    {\n      \"city\": \"Sydney\",\n      \"country\": \"Australia\",\n      \"approximate_period\": null,\n      \"role_context\": \"Holds a degree from the University of Sydney\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Danny holds a degree from the University of Sydney\"\n    },\n    {\n      \"city\": \"Oxford\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"Holds MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Danny holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"Sri Lanka\",\n      \"approximate_period\": null,\n      \"role_context\": \"Born in Sri Lanka\",\n      \"confidence\": \"low\",\n      \"supporting_quote\": \"Born in Sri Lanka and a national of Australia\"\n    }\n  ],\n  \"countries\": [\"South Africa\", \"Australia\", \"United Kingdom\", \"Sri Lanka\"],\n  \"supporting_quote\": \"Born in Sri Lanka and a national of Australia, Dr Sriskandarajah has lived and worked in five continents\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate periods where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "approximate_period": "2013-present",
+            "role_context": "Secretary General and CEO of CIVICUS, headquartered in Johannesburg",
+            "confidence": "high",
+            "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013. Headquartered in Johannesburg"
+          },
+          {
+            "city": "Sydney",
+            "country": "Australia",
+            "approximate_period": null,
+            "role_context": "Holds a degree from the University of Sydney",
+            "confidence": "medium",
+            "supporting_quote": "Danny holds a degree from the University of Sydney"
+          },
+          {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "Holds MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar",
+            "confidence": "medium",
+            "supporting_quote": "Danny holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar"
+          },
+          {
+            "city": null,
+            "country": "Sri Lanka",
+            "approximate_period": null,
+            "role_context": "Born in Sri Lanka",
+            "confidence": "low",
+            "supporting_quote": "Born in Sri Lanka and a national of Australia"
+          }
+        ],
+        "countries": [
+          "South Africa",
+          "Australia",
+          "United Kingdom",
+          "Sri Lanka"
+        ],
+        "supporting_quote": "Born in Sri Lanka and a national of Australia, Dr Sriskandarajah has lived and worked in five continents",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1186,
+      "chunk_index": 0,
+      "source_id": 655,
+      "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5251455800353048,
+      "rerank_score": 0.7434107,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Assessed duration for each location, assuming 6+ months for full-time roles and education. Step 3: Assigned approximate year ranges based on context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Sydney\",\n      \"country\": \"Australia\",\n      \"approximate_period\": null,\n      \"role_context\": \"Holds a first class degree from the University of Sydney\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Danny holds a first class degree from the University of Sydney\"\n    },\n    {\n      \"city\": \"Oxford\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"Holds an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Danny holds an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"Before 2019 (15 years before relocating to South Africa)\",\n      \"role_context\": \"Lived and worked in the UK for 15 years\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Danny lived and worked in the UK for the 15 years before relocating to South Africa\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"South Africa\",\n      \"approximate_period\": \"2019-present (relocated with CIVICUS)\",\n      \"role_context\": \"Relocated to South Africa with CIVICUS\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Danny lived and worked in the UK for the 15 years before relocating to South Africa with CIVICUS\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"Sri Lanka\",\n      \"approximate_period\": null,\n      \"role_context\": \"Born in Sri Lanka\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Born in Sri Lanka and a national of Australia\"\n    }\n  ],\n  \"countries\": [\"Australia\", \"United Kingdom\", \"South Africa\", \"Sri Lanka\"],\n  \"supporting_quote\": \"Danny lived and worked in the UK for the 15 years before relocating to South Africa with CIVICUS\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Assessed duration for each location, assuming 6+ months for full-time roles and education. Step 3: Assigned approximate year ranges based on context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Sydney",
+            "country": "Australia",
+            "approximate_period": null,
+            "role_context": "Holds a first class degree from the University of Sydney",
+            "confidence": "high",
+            "supporting_quote": "Danny holds a first class degree from the University of Sydney"
+          },
+          {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "Holds an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar",
+            "confidence": "high",
+            "supporting_quote": "Danny holds an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar"
+          },
+          {
+            "city": null,
+            "country": "United Kingdom",
+            "approximate_period": "Before 2019 (15 years before relocating to South Africa)",
+            "role_context": "Lived and worked in the UK for 15 years",
+            "confidence": "medium",
+            "supporting_quote": "Danny lived and worked in the UK for the 15 years before relocating to South Africa"
+          },
+          {
+            "city": null,
+            "country": "South Africa",
+            "approximate_period": "2019-present (relocated with CIVICUS)",
+            "role_context": "Relocated to South Africa with CIVICUS",
+            "confidence": "medium",
+            "supporting_quote": "Danny lived and worked in the UK for the 15 years before relocating to South Africa with CIVICUS"
+          },
+          {
+            "city": null,
+            "country": "Sri Lanka",
+            "approximate_period": null,
+            "role_context": "Born in Sri Lanka",
+            "confidence": "high",
+            "supporting_quote": "Born in Sri Lanka and a national of Australia"
+          }
+        ],
+        "countries": [
+          "Australia",
+          "United Kingdom",
+          "South Africa",
+          "Sri Lanka"
+        ],
+        "supporting_quote": "Danny lived and worked in the UK for the 15 years before relocating to South Africa with CIVICUS",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1183,
+      "chunk_index": 1,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.48281060942300064,
+      "rerank_score": 0.5726516,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on explicit dates or inferred timelines. Step 4: Assigned confidence levels based on clarity of information. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"2004-2009\",\n      \"role_context\": \"Deputy Director of the Institute for Public Policy Research\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Sriskandarajah held various posts from 2004 to 2009, including Deputy Director of the left-leaning think tank, the Institute for Public Policy Research.\"\n    },\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"2009-2012\",\n      \"role_context\": \"Director General of the Royal Commonwealth Society\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He was Director General of the Royal Commonwealth Society, from 2009 to 2012, the youngest ever person and the first non-Briton to head this 140-year-old organisation.\"\n    },\n    {\n      \"city\": \"Johannesburg\",\n      \"country\": \"South Africa\",\n      \"approximate_period\": \"2013-2018\",\n      \"role_context\": \"Secretary General of CIVICUS\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"He was the Secretary General of CIVICUS, a global alliance of civil society organisations from January 2013 to December 2018.\"\n    },\n    {\n      \"city\": \"Oxford\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"2019-2023\",\n      \"role_context\": \"Chief Executive of Oxfam GB\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Sriskandarajah was Chief Executive of Oxfam GB from January 2019 to December 2023.\"\n    },\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"2024-present\",\n      \"role_context\": \"Chief Executive of the New Economics Foundation\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He was appointed Chief Executive of the New Economics Foundation in January 2024.\"\n    },\n    {\n      \"city\": \"Trinidad\",\n      \"country\": \"Trinidad and Tobago\",\n      \"approximate_period\": \"2003\",\n      \"role_context\": \"Marriage location, implies short-term residence\",\n      \"confidence\": \"low\",\n      \"supporting_quote\": \"On 16 August 2003, Sriskandarajah married Trinidadian barrister Suzanne Julia Lambert in Trinidad, West Indies.\"\n    }\n  ],\n  \"countries\": [\"United Kingdom\", \"South Africa\", \"Trinidad and Tobago\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on explicit dates or inferred timelines. Step 4: Assigned confidence levels based on clarity of information. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": "2004-2009",
+            "role_context": "Deputy Director of the Institute for Public Policy Research",
+            "confidence": "high",
+            "supporting_quote": "Sriskandarajah held various posts from 2004 to 2009, including Deputy Director of the left-leaning think tank, the Institute for Public Policy Research."
+          },
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": "2009-2012",
+            "role_context": "Director General of the Royal Commonwealth Society",
+            "confidence": "high",
+            "supporting_quote": "He was Director General of the Royal Commonwealth Society, from 2009 to 2012, the youngest ever person and the first non-Briton to head this 140-year-old organisation."
+          },
+          {
+            "city": "Johannesburg",
+            "country": "South Africa",
+            "approximate_period": "2013-2018",
+            "role_context": "Secretary General of CIVICUS",
+            "confidence": "medium",
+            "supporting_quote": "He was the Secretary General of CIVICUS, a global alliance of civil society organisations from January 2013 to December 2018."
+          },
+          {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "approximate_period": "2019-2023",
+            "role_context": "Chief Executive of Oxfam GB",
+            "confidence": "high",
+            "supporting_quote": "Sriskandarajah was Chief Executive of Oxfam GB from January 2019 to December 2023."
+          },
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": "2024-present",
+            "role_context": "Chief Executive of the New Economics Foundation",
+            "confidence": "high",
+            "supporting_quote": "He was appointed Chief Executive of the New Economics Foundation in January 2024."
+          },
+          {
+            "city": "Trinidad",
+            "country": "Trinidad and Tobago",
+            "approximate_period": "2003",
+            "role_context": "Marriage location, implies short-term residence",
+            "confidence": "low",
+            "supporting_quote": "On 16 August 2003, Sriskandarajah married Trinidadian barrister Suzanne Julia Lambert in Trinidad, West Indies."
+          }
+        ],
+        "countries": [
+          "United Kingdom",
+          "South Africa",
+          "Trinidad and Tobago"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1195,
+      "chunk_index": 0,
+      "source_id": 663,
+      "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+      "domain": "resolvepoverty.org",
+      "similarity": 0.3549496882732802,
+      "rerank_score": 0.5189612,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. The text mentions his roles in the UK (New Economics Foundation, Oxfam GB, Royal Commonwealth Society, Commonwealth Foundation, Institute for Public Policy Research) and Australia (University of Sydney). Step 2: Assessed duration for each location. Full-time roles and degree programs imply 6+ months. Step 3: Assigned approximate periods based on context. Step 4: Confidence is high for UK and Australia due to explicit roles and education. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"Chief Executive, New Economics Foundation; CEO of Oxfam GB; Director of the Royal Commonwealth Society; Interim Director of the Commonwealth Foundation; various posts at the Institute for Public Policy Research\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Sydney\",\n      \"country\": \"Australia\",\n      \"approximate_period\": null,\n      \"role_context\": \"undergraduate degree from the University of Sydney\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Oxford\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"Masters and Doctorate from Oxford University\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"countries\": [\"United Kingdom\", \"Australia\"],\n  \"supporting_quote\": \"Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. The text mentions his roles in the UK (New Economics Foundation, Oxfam GB, Royal Commonwealth Society, Commonwealth Foundation, Institute for Public Policy Research) and Australia (University of Sydney). Step 2: Assessed duration for each location. Full-time roles and degree programs imply 6+ months. Step 3: Assigned approximate periods based on context. Step 4: Confidence is high for UK and Australia due to explicit roles and education. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "Chief Executive, New Economics Foundation; CEO of Oxfam GB; Director of the Royal Commonwealth Society; Interim Director of the Commonwealth Foundation; various posts at the Institute for Public Policy Research",
+            "confidence": "high"
+          },
+          {
+            "city": "Sydney",
+            "country": "Australia",
+            "approximate_period": null,
+            "role_context": "undergraduate degree from the University of Sydney",
+            "confidence": "high"
+          },
+          {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "Masters and Doctorate from Oxford University",
+            "confidence": "high"
+          }
+        ],
+        "countries": [
+          "United Kingdom",
+          "Australia"
+        ],
+        "supporting_quote": "Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1192,
+      "chunk_index": 0,
+      "source_id": 661,
+      "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+      "domain": "lse.ac.uk",
+      "similarity": 0.5085398899598091,
+      "rerank_score": 0.42005292,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions roles at various organizations but does not explicitly state locations for most. However, it mentions 'Oxfam GB' and 'Royal Commonwealth Society', which are based in the UK. The 'Commonwealth Foundation' is also UK-based. 'New Economics Foundation' is headquartered in London, UK. Step 2: Full-time roles as CEO and Director General imply 6+ months. Step 3: No explicit dates are provided for these roles, so approximate periods are set to null. Step 4: Confidence is medium as the country (UK) is inferred from the organizations' headquarters, but the city (London) is also inferred. Step 5: The only country identified is the UK.\",\n  \"locations\": [\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"Chief Executive Officer of New Economics Foundation, Chief Executive of Oxfam GB, Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"countries\": [\"United Kingdom\"],\n  \"supporting_quote\": \"Dr Dhananjayan Sriskandarajah is Chief Executive Officer of New Economics Foundation. Prior to that he spent five years as Chief Executive of Oxfam GB.\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions roles at various organizations but does not explicitly state locations for most. However, it mentions 'Oxfam GB' and 'Royal Commonwealth Society', which are based in the UK. The 'Commonwealth Foundation' is also UK-based. 'New Economics Foundation' is headquartered in London, UK. Step 2: Full-time roles as CEO and Director General imply 6+ months. Step 3: No explicit dates are provided for these roles, so approximate periods are set to null. Step 4: Confidence is medium as the country (UK) is inferred from the organizations' headquarters, but the city (London) is also inferred. Step 5: The only country identified is the UK.",
+        "locations": [
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "Chief Executive Officer of New Economics Foundation, Chief Executive of Oxfam GB, Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation",
+            "confidence": "medium"
+          }
+        ],
+        "countries": [
+          "United Kingdom"
+        ],
+        "supporting_quote": "Dr Dhananjayan Sriskandarajah is Chief Executive Officer of New Economics Foundation. Prior to that he spent five years as Chief Executive of Oxfam GB.",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1185,
+      "chunk_index": 3,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5843813699086702,
+      "rerank_score": 0.41948205,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. The text explicitly mentions London and implies Sydney and Oxford through educational institutions. Step 2: Assessed duration for each location. Full-time education at University of Sydney and Magdalen College, Oxford implies 6+ months. Step 3: Assigned approximate year ranges based on birth year (1975) and typical education timelines. Step 4: Confidence is medium for Sydney and Oxford due to inferred city residence, and low for London as it is only mentioned in passing. Step 5: Compiled de-duplicated country list based on identified locations.\",\n  \"locations\": [\n    {\n      \"city\": \"Sydney\",\n      \"country\": \"Australia\",\n      \"approximate_period\": \"1993-1997\",\n      \"role_context\": \"University of Sydney alumni\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": \"Oxford\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": \"1997-2000\",\n      \"role_context\": \"Alumni of Magdalen College, Oxford\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"in conversation at The Conduit, London\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"countries\": [\"Australia\", \"United Kingdom\"],\n  \"supporting_quote\": \"Alumni of Magdalen College, Oxford, University of Sydney alumni, at The Conduit, London\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Dhananjayan Sriskandarajah's work, career, or residence. The text explicitly mentions London and implies Sydney and Oxford through educational institutions. Step 2: Assessed duration for each location. Full-time education at University of Sydney and Magdalen College, Oxford implies 6+ months. Step 3: Assigned approximate year ranges based on birth year (1975) and typical education timelines. Step 4: Confidence is medium for Sydney and Oxford due to inferred city residence, and low for London as it is only mentioned in passing. Step 5: Compiled de-duplicated country list based on identified locations.",
+        "locations": [
+          {
+            "city": "Sydney",
+            "country": "Australia",
+            "approximate_period": "1993-1997",
+            "role_context": "University of Sydney alumni",
+            "confidence": "medium"
+          },
+          {
+            "city": "Oxford",
+            "country": "United Kingdom",
+            "approximate_period": "1997-2000",
+            "role_context": "Alumni of Magdalen College, Oxford",
+            "confidence": "medium"
+          },
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "in conversation at The Conduit, London",
+            "confidence": "low"
+          }
+        ],
+        "countries": [
+          "Australia",
+          "United Kingdom"
+        ],
+        "supporting_quote": "Alumni of Magdalen College, Oxford, University of Sydney alumni, at The Conduit, London",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1190,
+      "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+      "domain": "qc.foundation",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text discusses Dhananjayan Sriskandarajah's career, including his roles and achievements. Step 2: The text mentions his roles as Secretary General of CIVICUS and Director of the Royal Commonwealth Society, but does not specify the locations for these roles. It also mentions his time at the Institute for Public Policy Research without specifying a location. Step 3: No new locations are explicitly mentioned in connection with his employment or residence. Step 4: The confidence is medium, as the source confirms some roles but lacks explicit location details.\",\n  \"confirms\": false,\n  \"confirmed_locations\": [],\n  \"new_locations_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text discusses Dhananjayan Sriskandarajah's career, including his roles and achievements. Step 2: The text mentions his roles as Secretary General of CIVICUS and Director of the Royal Commonwealth Society, but does not specify the locations for these roles. It also mentions his time at the Institute for Public Policy Research without specifying a location. Step 3: No new locations are explicitly mentioned in connection with his employment or residence. Step 4: The confidence is medium, as the source confirms some roles but lacks explicit location details.",
+        "confirms": false,
+        "confirmed_locations": [],
+        "new_locations_found": [],
+        "confidence": "medium",
+        "supporting_quote": null
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 0,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "locations": [
+      {
+        "city": "London",
+        "country": "United Kingdom",
+        "approximate_period": "2004-2009",
+        "role_context": "Deputy Director of the Institute for Public Policy Research",
+        "confidence": "high",
+        "supporting_quote": "Sriskandarajah held various posts from 2004 to 2009, including Deputy Director of the left-leaning think tank, the Institute for Public Policy Research."
+      },
+      {
+        "city": "London",
+        "country": "United Kingdom",
+        "approximate_period": "2009-2012",
+        "role_context": "Director General of the Royal Commonwealth Society",
+        "confidence": "high",
+        "supporting_quote": "He was Director General of the Royal Commonwealth Society, from 2009 to 2012, the youngest ever person and the first non-Briton to head this 140-year-old organisation."
+      },
+      {
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "approximate_period": "2013-2018",
+        "role_context": "Secretary General of CIVICUS",
+        "confidence": "medium",
+        "supporting_quote": "He was the Secretary General of CIVICUS, a global alliance of civil society organisations from January 2013 to December 2018."
+      },
+      {
+        "city": "Oxford",
+        "country": "United Kingdom",
+        "approximate_period": "2019-2023",
+        "role_context": "Chief Executive of Oxfam GB",
+        "confidence": "high",
+        "supporting_quote": "Sriskandarajah was Chief Executive of Oxfam GB from January 2019 to December 2023."
+      },
+      {
+        "city": "London",
+        "country": "United Kingdom",
+        "approximate_period": "2024-present",
+        "role_context": "Chief Executive of the New Economics Foundation",
+        "confidence": "high",
+        "supporting_quote": "He was appointed Chief Executive of the New Economics Foundation in January 2024."
+      },
+      {
+        "city": "Trinidad",
+        "country": "Trinidad and Tobago",
+        "approximate_period": "2003",
+        "role_context": "Marriage location, implies short-term residence",
+        "confidence": "low",
+        "supporting_quote": "On 16 August 2003, Sriskandarajah married Trinidadian barrister Suzanne Julia Lambert in Trinidad, West Indies."
+      }
+    ],
+    "countries": [
+      "United Kingdom",
+      "South Africa",
+      "Trinidad and Tobago"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 1,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

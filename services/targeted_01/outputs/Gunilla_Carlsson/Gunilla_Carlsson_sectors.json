@@ -1,0 +1,572 @@
+{
+  "person_dir_name": "Gunilla_Carlsson",
+  "person_db_name": "Gunilla Carlsson",
+  "question_id": "sectors",
+  "question_display": "Main Sectors of Expertise (Functional Mobility)",
+  "run_timestamp": "2026-02-25T18:02:57.299738+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 49,
+    "birth_year": "1963",
+    "nationality": [
+      "Swedish"
+    ]
+  },
+  "retrieval": {
+    "query": "Gunilla Carlsson expertise sector field development finance human rights environment health diplomacy technology science trade",
+    "chunks_in_db": 22,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3375,
+        "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+        "domain": "unaids.org",
+        "similarity": 0.544,
+        "rerank_score": 0.69
+      },
+      {
+        "chunk_id": 3377,
+        "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+        "domain": "gcsp.ch",
+        "similarity": 0.6225,
+        "rerank_score": 0.6364
+      },
+      {
+        "chunk_id": 3389,
+        "url": "https://www.europarl.europa.eu/meps/en/2261/GUNILLA_CARLSSON/history/5",
+        "domain": "europarl.europa.eu",
+        "similarity": 0.4949,
+        "rerank_score": 0.5435
+      },
+      {
+        "chunk_id": 3387,
+        "url": "https://www.bitprop.com/team/gunilla-carlsson",
+        "domain": "bitprop.com",
+        "similarity": 0.5712,
+        "rerank_score": 0.5413
+      },
+      {
+        "chunk_id": 3378,
+        "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+        "domain": "gcsp.ch",
+        "similarity": 0.4822,
+        "rerank_score": 0.5134
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3375,
+      "chunk_index": 0,
+      "source_id": 1240,
+      "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+      "domain": "unaids.org",
+      "similarity": 0.5439643782222543,
+      "rerank_score": 0.6899958,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, titles, and activities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on breadth and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Minister for International Development Cooperation, member of World Bank High-Level Advisory Council on Women’s Economic Empowerment, served on UN High-Level Panel on Post-2015 Development Agenda\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Deputy Executive Director at UNAIDS, member of UNAIDS and Lancet Commission, affiliated member of Gavi, the Vaccine Alliance\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Chair of the Commission on Climate Change and Development, member of UN High-Level Panel for Global Sustainability\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Deputy Executive Director for Management and Governance at UNAIDS, extensive experience in policy reforms and efficiency in complex organizations\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Minister for International Development Cooperation, elected member of the European Parliament, policy development on foreign policy\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Policy development on human rights\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Minister for International Development Cooperation from 2006 to 2013 and member of the World Bank High-Level Advisory Council on Women’s Economic Empowerment.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, titles, and activities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on breadth and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Minister for International Development Cooperation, member of World Bank High-Level Advisory Council on Women’s Economic Empowerment, served on UN High-Level Panel on Post-2015 Development Agenda",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Deputy Executive Director at UNAIDS, member of UNAIDS and Lancet Commission, affiliated member of Gavi, the Vaccine Alliance",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Chair of the Commission on Climate Change and Development, member of UN High-Level Panel for Global Sustainability",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Deputy Executive Director for Management and Governance at UNAIDS, extensive experience in policy reforms and efficiency in complex organizations",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Minister for International Development Cooperation, elected member of the European Parliament, policy development on foreign policy",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Policy development on human rights",
+            "prominence": "secondary",
+            "confidence": "low"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Minister for International Development Cooperation from 2006 to 2013 and member of the World Bank High-Level Advisory Council on Women’s Economic Empowerment.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3377,
+      "chunk_index": 0,
+      "source_id": 1242,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "similarity": 0.6224587443159545,
+      "rerank_score": 0.6364215,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: The text highlights Gunilla Carlsson's roles in international development cooperation, EU and international politics, and negotiation. Step 2 — Evidence linking: Her roles as Minister of International Development Cooperation and member of the UN Secretary-General’s High-Level Panel on the Post-2015 Development Agenda directly link her to the development sector. Her work in EU and international politics is evident through her roles as Member of Parliament, member of the European Parliament, and Vice Chair of the conservative party. Step 3 — Prominence assessment: The development sector is primary due to her ministerial role and UN panel membership. Diplomacy and government are secondary sectors based on her political roles. Step 4 — Taxonomy mapping: Development is mapped to 'development', diplomacy to 'diplomacy', and government to 'government'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Minister of International Development Cooperation, member of the UN Secretary-General’s High-Level Panel on the Post-2015 Development Agenda\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Member of European Parliament, Vice Chair of conservative party, extensive experience in EU and international politics\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Member of Parliament, 1st vice Chair of conservative party\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Former Minister of International Development Cooperation of Sweden and member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: The text highlights Gunilla Carlsson's roles in international development cooperation, EU and international politics, and negotiation. Step 2 — Evidence linking: Her roles as Minister of International Development Cooperation and member of the UN Secretary-General’s High-Level Panel on the Post-2015 Development Agenda directly link her to the development sector. Her work in EU and international politics is evident through her roles as Member of Parliament, member of the European Parliament, and Vice Chair of the conservative party. Step 3 — Prominence assessment: The development sector is primary due to her ministerial role and UN panel membership. Diplomacy and government are secondary sectors based on her political roles. Step 4 — Taxonomy mapping: Development is mapped to 'development', diplomacy to 'diplomacy', and government to 'government'.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Minister of International Development Cooperation, member of the UN Secretary-General’s High-Level Panel on the Post-2015 Development Agenda",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Member of European Parliament, Vice Chair of conservative party, extensive experience in EU and international politics",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Member of Parliament, 1st vice Chair of conservative party",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Former Minister of International Development Cooperation of Sweden and member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3389,
+      "chunk_index": 0,
+      "source_id": 1248,
+      "url": "https://www.europarl.europa.eu/meps/en/2261/GUNILLA_CARLSSON/history/5",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.49492441253927194,
+      "rerank_score": 0.54346967,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Gunilla Carlsson's roles include membership in the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy, and delegations to EU-Lithuania, EU-Latvia, and EU-Poland Joint Parliamentary Committees. She also served on the Committee on Industry, External Trade, Research and Energy, Committee on Employment and Social Affairs, and Committee on the Environment, Public Health and Consumer Policy. Step 2 — Evidence linking: Her roles in foreign affairs, human rights, security, trade, employment, environment, and public health provide evidence of sector engagement. Step 3 — Prominence assessment: Foreign affairs and human rights appear most prominent due to repeated committee membership. Step 4 — Taxonomy mapping: Foreign affairs map to 'diplomacy', human rights map to 'human_rights', trade maps to 'trade', environment maps to 'environment', and public health maps to 'global_health'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Member of the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Member of the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"trade\",\n      \"evidence\": \"Member of the Committee on Industry, External Trade, Research and Energy\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Member of the Committee on the Environment, Public Health and Consumer Policy\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Member of the Committee on the Environment, Public Health and Consumer Policy\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"diplomacy\",\n  \"supporting_quote\": \"Member of the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Gunilla Carlsson's roles include membership in the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy, and delegations to EU-Lithuania, EU-Latvia, and EU-Poland Joint Parliamentary Committees. She also served on the Committee on Industry, External Trade, Research and Energy, Committee on Employment and Social Affairs, and Committee on the Environment, Public Health and Consumer Policy. Step 2 — Evidence linking: Her roles in foreign affairs, human rights, security, trade, employment, environment, and public health provide evidence of sector engagement. Step 3 — Prominence assessment: Foreign affairs and human rights appear most prominent due to repeated committee membership. Step 4 — Taxonomy mapping: Foreign affairs map to 'diplomacy', human rights map to 'human_rights', trade maps to 'trade', environment maps to 'environment', and public health maps to 'global_health'.",
+        "sectors": [
+          {
+            "sector": "diplomacy",
+            "evidence": "Member of the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Member of the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "trade",
+            "evidence": "Member of the Committee on Industry, External Trade, Research and Energy",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Member of the Committee on the Environment, Public Health and Consumer Policy",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Member of the Committee on the Environment, Public Health and Consumer Policy",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "diplomacy",
+        "supporting_quote": "Member of the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3387,
+      "chunk_index": 0,
+      "source_id": 1244,
+      "url": "https://www.bitprop.com/team/gunilla-carlsson",
+      "domain": "bitprop.com",
+      "similarity": 0.5711839487706759,
+      "rerank_score": 0.5412882,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors from the text including development, human rights, foreign policy, employment, research, security and defence, economic policy, sustainability, and global health. Step 2: Linked evidence to each sector based on roles and activities described. Step 3: Assessed prominence based on the frequency and depth of engagement. Step 4: Mapped sectors to standard labels. Development emerged as the most dominant sector due to multiple roles and long-term engagement.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Minister of International Development Cooperation, member of World Bank Gender Advisory Council, high-level panel for global development goals post 2015\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Worked with human rights as part of foreign policy and development roles\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Chair of Swedish initiated Commission on Climate Change and Development, high-level panel for global sustainability\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Extensive experience in domestic, EU, and international politics and negotiation, member of European Parliament, Vice Chair of European People's Party\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Unaffiliated member of the GAVI board, advisory board of Bill & Melinda Gates Foundation Europe\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Gunilla Carlsson is a centre-right politician... with extensive experience of domestic, EU and international politics and negotiation. She was an elected Member of Swedish Parliament and Minister of International Development Cooperation 2006-2013.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors from the text including development, human rights, foreign policy, employment, research, security and defence, economic policy, sustainability, and global health. Step 2: Linked evidence to each sector based on roles and activities described. Step 3: Assessed prominence based on the frequency and depth of engagement. Step 4: Mapped sectors to standard labels. Development emerged as the most dominant sector due to multiple roles and long-term engagement.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Minister of International Development Cooperation, member of World Bank Gender Advisory Council, high-level panel for global development goals post 2015",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Worked with human rights as part of foreign policy and development roles",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Chair of Swedish initiated Commission on Climate Change and Development, high-level panel for global sustainability",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Extensive experience in domestic, EU, and international politics and negotiation, member of European Parliament, Vice Chair of European People's Party",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Unaffiliated member of the GAVI board, advisory board of Bill & Melinda Gates Foundation Europe",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Gunilla Carlsson is a centre-right politician... with extensive experience of domestic, EU and international politics and negotiation. She was an elected Member of Swedish Parliament and Minister of International Development Cooperation 2006-2013.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3378,
+      "chunk_index": 1,
+      "source_id": 1242,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "similarity": 0.4822487299982758,
+      "rerank_score": 0.5134007,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: The text mentions Gunilla Carlsson's involvement in foreign policy, human rights, employment, research, security and defense policy, economic commission work, development, sustainability, and global health (via GAVI). Step 2 — Evidence linking: Each sector is supported by specific roles or activities described in the text. Step 3 — Prominence assessment: 'Development' and 'environment' are primary due to multiple roles and long-term engagement. Other sectors are secondary. Step 4 — Taxonomy mapping: Sectors are mapped to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Worked on development and implementation of policy reforms, extensive experience in development, member of GAVI\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Chair of Swedish initiated Commission on Climate Change and Development, high-level panel for global sustainability\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Worked with human rights policy development\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Worked with foreign policy, extensive network domestically and internationally in politics\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Independent member of GAVI\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Worked on efficiency and accountability in complex organisations\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Ms Carlsson has worked with foreign policy, human rights, employment, research, security and defense policy development as well as economic commission work.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: The text mentions Gunilla Carlsson's involvement in foreign policy, human rights, employment, research, security and defense policy, economic commission work, development, sustainability, and global health (via GAVI). Step 2 — Evidence linking: Each sector is supported by specific roles or activities described in the text. Step 3 — Prominence assessment: 'Development' and 'environment' are primary due to multiple roles and long-term engagement. Other sectors are secondary. Step 4 — Taxonomy mapping: Sectors are mapped to standard labels.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Worked on development and implementation of policy reforms, extensive experience in development, member of GAVI",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Chair of Swedish initiated Commission on Climate Change and Development, high-level panel for global sustainability",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Worked with human rights policy development",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Worked with foreign policy, extensive network domestically and internationally in politics",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Independent member of GAVI",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Worked on efficiency and accountability in complex organisations",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Ms Carlsson has worked with foreign policy, human rights, employment, research, security and defense policy development as well as economic commission work.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3369,
+      "chunk_index": 0,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5910141096124237,
+      "rerank_score": 0.5120832,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on duration and depth of engagement. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Minister for International Development Cooperation (2006-2013), career in international development\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Member of the Riksdag (2002-2006), deputy chairman of the Moderate Party (2003-2015)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Member of the European Parliament, Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy (1999-2002)\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Committee on Economic and Monetary Affairs and Industrial Policy (1995-1999)\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"She served as Minister for International Development Cooperation from 2006 to 2013, member of the Swedish Riksdag from 2002 to 2013 and deputy chairman of her party from 2003 to 2015.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on duration and depth of engagement. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Minister for International Development Cooperation (2006-2013), career in international development",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "government",
+            "evidence": "Member of the Riksdag (2002-2006), deputy chairman of the Moderate Party (2003-2015)",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Member of the European Parliament, Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy (1999-2002)",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "finance",
+            "evidence": "Committee on Economic and Monetary Affairs and Industrial Policy (1995-1999)",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "She served as Minister for International Development Cooperation from 2006 to 2013, member of the Swedish Riksdag from 2002 to 2013 and deputy chairman of her party from 2003 to 2015.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3388,
+      "chunk_index": 0,
+      "source_id": 1246,
+      "url": "https://www.concordia.net/community/gunilla-carlsson/",
+      "domain": "concordia.net",
+      "similarity": 0.4945827625482988,
+      "rerank_score": 0.5059329,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Executive Director, UNAIDS; Deputy Executive Director for Management and Governance at UNAIDS; strong leader in global health\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Minister for International Development Cooperation; served on UN High-Level Panel on the Post-2015 Development Agenda\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"appointed to UN high-level panel for global sustainability\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"elected member of the Swedish Parliament; elected member of the European Parliament\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"A strong leader in global health and development, Ms Carlsson served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "global_health",
+            "evidence": "Executive Director, UNAIDS; Deputy Executive Director for Management and Governance at UNAIDS; strong leader in global health",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "development",
+            "evidence": "Minister for International Development Cooperation; served on UN High-Level Panel on the Post-2015 Development Agenda",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "appointed to UN high-level panel for global sustainability",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "elected member of the Swedish Parliament; elected member of the European Parliament",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "A strong leader in global health and development, Ms Carlsson served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3380,
+      "chunk_index": 1,
+      "source_id": 1243,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "similarity": 0.572174776596754,
+      "rerank_score": 0.4547875,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provides limited information about Gunilla Carlsson's specific roles or expertise. However, it mentions her as a center-right politician and highlights her views on health, particularly sexual and reproductive health and rights, and her celebration of Sweden's EU membership. Based on this, the most identifiable sector is global_health, with a secondary inference to diplomacy due to her comments on EU membership. However, the evidence is minimal, leading to low confidence.\",\n  \"sectors\": [\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Health is a fundamental human right. Strong health systems and sexual and reproductive health and rights are essential for people to live free...\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"low\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Grattis Sverige! I år har vi varit medlemmar av EU i 30 år. Det är värt att fira. Tack vare det europeiska samarbetet är vi idag säkrare, rikare...\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"Health is a fundamental human right. Strong health systems and sexual and reproductive health and rights are essential for people to live free...\",\n  \"confidence\": \"low\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "The source text provides limited information about Gunilla Carlsson's specific roles or expertise. However, it mentions her as a center-right politician and highlights her views on health, particularly sexual and reproductive health and rights, and her celebration of Sweden's EU membership. Based on this, the most identifiable sector is global_health, with a secondary inference to diplomacy due to her comments on EU membership. However, the evidence is minimal, leading to low confidence.",
+        "sectors": [
+          {
+            "sector": "global_health",
+            "evidence": "Health is a fundamental human right. Strong health systems and sexual and reproductive health and rights are essential for people to live free...",
+            "prominence": "primary",
+            "confidence": "low"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Grattis Sverige! I år har vi varit medlemmar av EU i 30 år. Det är värt att fira. Tack vare det europeiska samarbetet är vi idag säkrare, rikare...",
+            "prominence": "secondary",
+            "confidence": "low"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "Health is a fundamental human right. Strong health systems and sexual and reproductive health and rights are essential for people to live free...",
+        "confidence": "low",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3372,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text lists Gunilla Carlsson's board and committee memberships in organizations related to global health and development. It does not mention her in passing but focuses on her roles. Step 2 — Sector confirmation: The source confirms her involvement in development through her positions at the Global Fund to Fight AIDS, Tuberculosis and Malaria, GAVI Alliance, and Center for Global Development. Step 3 — New sectors found: No new sectors are explicitly mentioned beyond development and global health, which are already covered in the candidate findings. Step 4 — Confidence: The source clearly supports her expertise in development through specific organizational roles.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"development\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Global Fund to Fight AIDS, Tuberculosis and Malaria, Governance Committee, GAVI Alliance, Center for Global Development\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text lists Gunilla Carlsson's board and committee memberships in organizations related to global health and development. It does not mention her in passing but focuses on her roles. Step 2 — Sector confirmation: The source confirms her involvement in development through her positions at the Global Fund to Fight AIDS, Tuberculosis and Malaria, GAVI Alliance, and Center for Global Development. Step 3 — New sectors found: No new sectors are explicitly mentioned beyond development and global health, which are already covered in the candidate findings. Step 4 — Confidence: The source clearly supports her expertise in development through specific organizational roles.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "development"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "Global Fund to Fight AIDS, Tuberculosis and Malaria, Governance Committee, GAVI Alliance, Center for Global Development"
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Global Fund to Fight AIDS, Tuberculosis and Malaria, Governance Committee, GAVI Alliance, Center for Global Development",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3376,
+      "url": "https://www.un.org/sg/en/management/bios/Carlsson.shtml",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text describes Gunilla Carlsson's current role and past senior posts, focusing on her professional activity. Step 2 — Sector confirmation: The source confirms her role as Minister for International Development Cooperation, aligning with the 'development' sector. Step 3 — New sectors found: No new sectors are mentioned beyond those already listed in candidate findings. Step 4 — Confidence: The source clearly and directly confirms her expertise in development.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"development\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Ms. Carlsson is the current Minister for International Development Cooperation of Sweden.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text describes Gunilla Carlsson's current role and past senior posts, focusing on her professional activity. Step 2 — Sector confirmation: The source confirms her role as Minister for International Development Cooperation, aligning with the 'development' sector. Step 3 — New sectors found: No new sectors are mentioned beyond those already listed in candidate findings. Step 4 — Confidence: The source clearly and directly confirms her expertise in development.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "development"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "Ms. Carlsson is the current Minister for International Development Cooperation of Sweden."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Ms. Carlsson is the current Minister for International Development Cooperation of Sweden.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Minister for International Development Cooperation from 2006 to 2013 and member of the World Bank High-Level Advisory Council on Women’s Economic Empowerment.",
+    "confirmation_count": 2,
+    "primary_source_domain": "unaids.org",
+    "notes": null,
+    "sectors": [
+      {
+        "sector": "development",
+        "evidence": "Minister for International Development Cooperation, member of World Bank High-Level Advisory Council on Women’s Economic Empowerment, served on UN High-Level Panel on Post-2015 Development Agenda",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "global_health",
+        "evidence": "Deputy Executive Director at UNAIDS, member of UNAIDS and Lancet Commission, affiliated member of Gavi, the Vaccine Alliance",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "environment",
+        "evidence": "Chair of the Commission on Climate Change and Development, member of UN High-Level Panel for Global Sustainability",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "government",
+        "evidence": "Deputy Executive Director for Management and Governance at UNAIDS, extensive experience in policy reforms and efficiency in complex organizations",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "diplomacy",
+        "evidence": "Minister for International Development Cooperation, elected member of the European Parliament, policy development on foreign policy",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "human_rights",
+        "evidence": "Policy development on human rights",
+        "prominence": "secondary",
+        "confidence": "low"
+      }
+    ],
+    "primary_sector": "development"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

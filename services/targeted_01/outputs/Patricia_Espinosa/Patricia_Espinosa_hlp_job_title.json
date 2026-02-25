@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Patricia_Espinosa",
+  "person_db_name": "Patricia Espinosa",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:25:23.883312+00:00",
+  "input": {
+    "hlp_name": "United Nations High-Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2012-2015",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 54,
+    "birth_year": "1958",
+    "nationality": [
+      "Mexican"
+    ]
+  },
+  "retrieval": {
+    "query": "Patricia Espinosa job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 12,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3196,
+        "url": "https://en.wikipedia.org/wiki/Patricia_Espinosa",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5904,
+        "rerank_score": 0.8225
+      },
+      {
+        "chunk_id": 3201,
+        "url": "https://www.edp.com/en/europe/portugal/patricia-espinosa",
+        "domain": "edp.com",
+        "similarity": 0.4947,
+        "rerank_score": 0.7714
+      },
+      {
+        "chunk_id": 3206,
+        "url": "https://www.graduateinstitute.ch/inspiring-stories/patricia-espinosa",
+        "domain": "graduateinstitute.ch",
+        "similarity": 0.5203,
+        "rerank_score": 0.7712
+      },
+      {
+        "chunk_id": 3204,
+        "url": "https://giwps.georgetown.edu/awardee/patricia-espinosa/",
+        "domain": "giwps.georgetown.edu",
+        "similarity": 0.4833,
+        "rerank_score": 0.7701
+      },
+      {
+        "chunk_id": 3202,
+        "url": "https://londonspeakerbureau.com/speaker-profile/patricia-espinosa/",
+        "domain": "londonspeakerbureau.com",
+        "similarity": 0.5032,
+        "rerank_score": 0.7133
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3196,
+      "chunk_index": 0,
+      "source_id": 1179,
+      "url": "https://en.wikipedia.org/wiki/Patricia_Espinosa",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5903825422748902,
+      "rerank_score": 0.82254606,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly states that Patricia Espinosa served as Secretary of Foreign Affairs from December 1, 2006, to December 1, 2012, which directly overlaps with the nomination year of 2012. Step 2 — Role identification: The text clearly identifies her role as 'Secretary of Foreign Affairs'. Step 3 — Organization identification: The organization linked to this role is implied to be the Mexican government, as she served in the cabinet of President Felipe Calderón. Step 4 — Temporal match assessment: The role's end date is exactly in 2012, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence due to the explicit date range matching the nomination year.\",\n  \"job_title_at_nomination\": \"Secretary of Foreign Affairs\",\n  \"organization_at_nomination\": \"Mexican Government\",\n  \"year_reference\": \"2006–2012\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Secretary of Foreign Affairs in office December 1, 2006 – December 1, 2012\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly states that Patricia Espinosa served as Secretary of Foreign Affairs from December 1, 2006, to December 1, 2012, which directly overlaps with the nomination year of 2012. Step 2 — Role identification: The text clearly identifies her role as 'Secretary of Foreign Affairs'. Step 3 — Organization identification: The organization linked to this role is implied to be the Mexican government, as she served in the cabinet of President Felipe Calderón. Step 4 — Temporal match assessment: The role's end date is exactly in 2012, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence due to the explicit date range matching the nomination year.",
+        "job_title_at_nomination": "Secretary of Foreign Affairs",
+        "organization_at_nomination": "Mexican Government",
+        "year_reference": "2006–2012",
+        "confidence": "high",
+        "supporting_quote": "Secretary of Foreign Affairs in office December 1, 2006 – December 1, 2012",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Secretary of Foreign Affairs",
+      "organization_at_nomination": "Mexican Government",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3201,
+      "url": "https://www.edp.com/en/europe/portugal/patricia-espinosa",
+      "domain": "edp.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Patricia Espinosa and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text explicitly mentions 'Secretary of Foreign Affairs of Mexico (2006-2012)', which is an exact match to the claim. Step 3 — Temporal alignment: The role of Secretary of Foreign Affairs is stated to have been held from 2006 to 2012, which aligns with the nomination year of 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Secretary of Foreign Affairs of Mexico (2006-2012)\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Patricia Espinosa and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text explicitly mentions 'Secretary of Foreign Affairs of Mexico (2006-2012)', which is an exact match to the claim. Step 3 — Temporal alignment: The role of Secretary of Foreign Affairs is stated to have been held from 2006 to 2012, which aligns with the nomination year of 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Secretary of Foreign Affairs of Mexico (2006-2012)",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Secretary of Foreign Affairs of Mexico (2006-2012)",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3206,
+      "url": "https://www.graduateinstitute.ch/inspiring-stories/patricia-espinosa",
+      "domain": "graduateinstitute.ch",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Patricia Espinosa and discusses her career and biography. Step 2 — Title match assessment: The text mentions that Patricia Espinosa served as 'Mexico's Minister of Foreign Affairs from 2006 to 2012,' which is a compatible match with 'Secretary of Foreign Affairs' at 'Mexican Government.' Step 3 — Temporal alignment: The role of Minister of Foreign Affairs is explicitly stated to have been held until 2012, aligning with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"serving as Mexico's Minister of Foreign Affairs from 2006 to 2012.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Patricia Espinosa and discusses her career and biography. Step 2 — Title match assessment: The text mentions that Patricia Espinosa served as 'Mexico's Minister of Foreign Affairs from 2006 to 2012,' which is a compatible match with 'Secretary of Foreign Affairs' at 'Mexican Government.' Step 3 — Temporal alignment: The role of Minister of Foreign Affairs is explicitly stated to have been held until 2012, aligning with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "serving as Mexico's Minister of Foreign Affairs from 2006 to 2012.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "serving as Mexico's Minister of Foreign Affairs from 2006 to 2012.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3204,
+      "url": "https://giwps.georgetown.edu/awardee/patricia-espinosa/",
+      "domain": "giwps.georgetown.edu",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Patricia Espinosa and discusses her career and biography, including her roles in international relations and diplomacy. Step 2 — Title match assessment: The text mentions that Espinosa served as 'Minister of Foreign Affairs of Mexico,' which is a compatible match with 'Secretary of Foreign Affairs' at 'Mexican Government.' Step 3 — Temporal alignment: The text specifies that she held this role 'from 2006 to 2012,' which aligns with the nomination year of 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"as Minister of Foreign Affairs of Mexico from 2006 to 2012.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Patricia Espinosa and discusses her career and biography, including her roles in international relations and diplomacy. Step 2 — Title match assessment: The text mentions that Espinosa served as 'Minister of Foreign Affairs of Mexico,' which is a compatible match with 'Secretary of Foreign Affairs' at 'Mexican Government.' Step 3 — Temporal alignment: The text specifies that she held this role 'from 2006 to 2012,' which aligns with the nomination year of 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "as Minister of Foreign Affairs of Mexico from 2006 to 2012.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "as Minister of Foreign Affairs of Mexico from 2006 to 2012.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Secretary of Foreign Affairs",
+    "organization_at_nomination": "Mexican Government",
+    "confidence": "high",
+    "supporting_quote": "Secretary of Foreign Affairs in office December 1, 2006 – December 1, 2012",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

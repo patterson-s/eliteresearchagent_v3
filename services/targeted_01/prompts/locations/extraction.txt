@@ -1,0 +1,79 @@
+BIOGRAPHICAL INFORMATION EXTRACTOR — MAIN LOCATIONS (GEOGRAPHICAL MOBILITY)
+
+ROLE
+You are a precision researcher extracting structured geographic career data from biographical source text about international elites.
+
+TASK
+Identify every city and/or country where {{PERSON_NAME}} can be presumed to have lived or worked for six months or more, based on jobs held and other life experiences described in the source text.
+
+PERSON
+{{PERSON_NAME}}
+
+SOURCE TEXT
+{{CHUNK_TEXT}}
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Location mentions
+  Identify every city or country explicitly mentioned in connection with {{PERSON_NAME}}'s
+  work, career, or residence. Include cities and countries associated with:
+    - Jobs held (e.g., "served as minister in Lagos", "based in Geneva")
+    - Education (degree-granting institutions imply residence in that city)
+    - Long-term assignments or residences
+  Exclude locations only mentioned as: destinations of visits, conference attendances,
+  short trips, or diplomatic travel.
+
+Step 2 — Duration filter
+  For each location, assess whether the person was likely there for 6+ months:
+    - Any full-time employment role → assume 6+ months unless stated otherwise
+    - Multi-year ministerial or ambassadorial appointment → 6+ months, high confidence
+    - University degree program → typically 2-4+ years
+    - "Short-term" consultant, brief advisory role → exclude unless stated as residence
+    - Passing mention only → low confidence, still include but flag
+  If a role is described with an explicit time range, use it. If not, use professional
+  context to infer duration.
+
+Step 3 — Period assignment
+  For each location, assign an approximate year range (e.g., "1990-1995") based on
+  any years mentioned alongside the role or life experience. Use null if no date context
+  is available.
+
+Step 4 — Confidence assessment
+  Assign:
+    "high"   — both city and employment role are explicit in the text, with clear duration
+    "medium" — country is explicit and role type implies 6+ months, but city is inferred
+    "low"    — location only mentioned in passing, or duration is unclear
+
+Step 5 — Country list
+  Compile a de-duplicated list of all countries represented in the locations found.
+
+GUIDELINES
+- Extract locations for {{PERSON_NAME}} only.
+- Do not include the location of organizations that the person is merely affiliated with
+  or has consulted for remotely. Residence requires physical presence.
+- If the text only says "worked internationally" without naming a country, do not include.
+- supporting_quote must be verbatim 5–30 words from the SOURCE TEXT.
+- If no locations can be identified from this chunk, set cannot_determine to true.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here",
+  "locations": [
+    {
+      "city": "Geneva",
+      "country": "Switzerland",
+      "approximate_period": "1998-2003",
+      "role_context": "served as Director-General of WTO",
+      "confidence": "high|medium|low"
+    }
+  ],
+  "countries": ["Switzerland", "Kenya", "USA"],
+  "supporting_quote": "verbatim 5-30 word quote from the source text, or null",
+  "confidence": "high|medium|low",
+  "cannot_determine": false
+}

@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Satish_Nambiar",
+  "person_db_name": "Satish Nambiar",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:26:41.915128+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Threats, Challenges and Change",
+    "hlp_year": "2003-2004",
+    "nomination_year": 2003,
+    "hlp_nomination_age": 67,
+    "birth_year": "1936",
+    "nationality": [
+      "Indian"
+    ]
+  },
+  "retrieval": {
+    "query": "Satish Nambiar job title position role career 2003 appointed nominated serving",
+    "chunks_in_db": 28,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 357,
+        "url": "https://usiofindia.org/pdf/LT%20GEN%20SATISH%20NAMBIAR.pdf",
+        "domain": "usiofindia.org",
+        "similarity": 0.4483,
+        "rerank_score": 0.7456
+      },
+      {
+        "chunk_id": 359,
+        "url": "http://www.globalzero.org/about-us/movement-leaders16cf.html?category=military-commander&paged=3",
+        "domain": "globalzero.org",
+        "similarity": 0.3621,
+        "rerank_score": 0.6945
+      },
+      {
+        "chunk_id": 356,
+        "url": "https://ict4peace.org/team/satish-nambiar/",
+        "domain": "ict4peace.org",
+        "similarity": 0.4553,
+        "rerank_score": 0.6783
+      },
+      {
+        "chunk_id": 374,
+        "url": "https://www.fnsr.in/index.php?option=com_content&view=article&id=10985&Itemid=109",
+        "domain": "fnsr.in",
+        "similarity": 0.4785,
+        "rerank_score": 0.6628
+      },
+      {
+        "chunk_id": 350,
+        "url": "https://en.wikipedia.org/wiki/Satish_Nambiar",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4957,
+        "rerank_score": 0.6277
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 357,
+      "chunk_index": 0,
+      "source_id": 436,
+      "url": "https://usiofindia.org/pdf/LT%20GEN%20SATISH%20NAMBIAR.pdf",
+      "domain": "usiofindia.org",
+      "similarity": 0.44826441019083996,
+      "rerank_score": 0.74563974,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions that Satish Nambiar was the Director of the United Service Institution of India from July 1996 to December 2008, which overlaps with the nomination year 2003. Additionally, it states he was appointed as Adviser to the Government of Sri Lanka on its peace process from 2002 to 2003. Step 2 — Role identification: The text clearly identifies 'Director' and 'Adviser' as specific roles. Step 3 — Organization identification: The organizations linked to these roles are the United Service Institution of India and the Government of Sri Lanka, respectively. Step 4 — Temporal match assessment: Both roles overlap with 2003, but the Director role is a primary, long-standing position. Step 5 — Confidence assessment: High confidence due to explicit date ranges covering 2003.\",\n  \"job_title_at_nomination\": \"Director\",\n  \"organization_at_nomination\": \"United Service Institution of India\",\n  \"year_reference\": \"Jul 1996 to Dec 2008\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He assumed charge as the Director of the United Service Institution of India on 01 July 1996 and held the position until 31 Dec 2008.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions that Satish Nambiar was the Director of the United Service Institution of India from July 1996 to December 2008, which overlaps with the nomination year 2003. Additionally, it states he was appointed as Adviser to the Government of Sri Lanka on its peace process from 2002 to 2003. Step 2 — Role identification: The text clearly identifies 'Director' and 'Adviser' as specific roles. Step 3 — Organization identification: The organizations linked to these roles are the United Service Institution of India and the Government of Sri Lanka, respectively. Step 4 — Temporal match assessment: Both roles overlap with 2003, but the Director role is a primary, long-standing position. Step 5 — Confidence assessment: High confidence due to explicit date ranges covering 2003.",
+        "job_title_at_nomination": "Director",
+        "organization_at_nomination": "United Service Institution of India",
+        "year_reference": "Jul 1996 to Dec 2008",
+        "confidence": "high",
+        "supporting_quote": "He assumed charge as the Director of the United Service Institution of India on 01 July 1996 and held the position until 31 Dec 2008.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Director",
+      "organization_at_nomination": "United Service Institution of India",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 359,
+      "url": "http://www.globalzero.org/about-us/movement-leaders16cf.html?category=military-commander&paged=3",
+      "domain": "globalzero.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text does mention Satish Nambiar and discusses aspects of his career and biography, including his nomination to the UN High Level Panel in 2003. Step 2 — Title match assessment: The text does not mention any role or title for Satish Nambiar at the United Service Institution of India, nor does it mention the organization at all. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source mentions Nambiar as a 'distinguished fellow at the Institute for Defense Studies and Analyses' and an 'associate member of the India International Centre,' but these roles are not contradictory to the claim in question since they do not address his position at the United Service Institution of India.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text does mention Satish Nambiar and discusses aspects of his career and biography, including his nomination to the UN High Level Panel in 2003. Step 2 — Title match assessment: The text does not mention any role or title for Satish Nambiar at the United Service Institution of India, nor does it mention the organization at all. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source mentions Nambiar as a 'distinguished fellow at the Institute for Defense Studies and Analyses' and an 'associate member of the India International Centre,' but these roles are not contradictory to the claim in question since they do not address his position at the United Service Institution of India.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 356,
+      "url": "https://ict4peace.org/team/satish-nambiar/",
+      "domain": "ict4peace.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Satish Nambiar and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly mentions 'Director of the United Service Institution of India since 01 July 1996', which is an exact match to the claim. Step 3 — Temporal alignment: The role of Director is stated to have started in 1996, which extends through 2003, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Director of the United Service Institution of India since 01 July 1996\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Satish Nambiar and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly mentions 'Director of the United Service Institution of India since 01 July 1996', which is an exact match to the claim. Step 3 — Temporal alignment: The role of Director is stated to have started in 1996, which extends through 2003, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Director of the United Service Institution of India since 01 July 1996",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Director of the United Service Institution of India since 01 July 1996",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 374,
+      "url": "https://www.fnsr.in/index.php?option=com_content&view=article&id=10985&Itemid=109",
+      "domain": "fnsr.in",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Satish Nambiar and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly states that Satish Nambiar was 'Director of the United Service Institution of India' from 1st July 1996 to 31st December 2008, which is an exact match to the claim. Step 3 — Temporal alignment: The role of Director at the United Service Institution of India includes the year 2003, as it spans from 1996 to 2008. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Was Director of the United Service Institution of India from 1st July 1996 to 31st December 2008.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Satish Nambiar and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly states that Satish Nambiar was 'Director of the United Service Institution of India' from 1st July 1996 to 31st December 2008, which is an exact match to the claim. Step 3 — Temporal alignment: The role of Director at the United Service Institution of India includes the year 2003, as it spans from 1996 to 2008. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Was Director of the United Service Institution of India from 1st July 1996 to 31st December 2008.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Was Director of the United Service Institution of India from 1st July 1996 to 31st December 2008.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Director",
+    "organization_at_nomination": "United Service Institution of India",
+    "confidence": "high",
+    "supporting_quote": "He assumed charge as the Director of the United Service Institution of India on 01 July 1996 and held the position until 31 Dec 2008.",
+    "confirmation_count": 2,
+    "primary_source_domain": "usiofindia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

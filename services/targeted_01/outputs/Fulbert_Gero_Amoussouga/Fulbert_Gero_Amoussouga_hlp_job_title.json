@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Fulbert_Gero_Amoussouga",
+  "person_db_name": "Fulbert Gero Amoussouga",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:18:11.366517+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel for the Post-2015 Development Agenda",
+    "hlp_year": "2012-2015",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 60,
+    "birth_year": "1952",
+    "nationality": [
+      "Beninese"
+    ]
+  },
+  "retrieval": {
+    "query": "Fulbert Gero Amoussouga job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 22,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 2919,
+        "url": "https://fr.wikipedia.org/wiki/Fulbert_G%C3%A9ro_Amoussouga",
+        "domain": "fr.wikipedia.org",
+        "similarity": 0.6169,
+        "rerank_score": 0.8266
+      },
+      {
+        "chunk_id": 2909,
+        "url": "https://cdn.modernghana.com/images/content/report_content/list_of_highlevel_panel_members.pdf",
+        "domain": "cdn.modernghana.com",
+        "similarity": 0.3848,
+        "rerank_score": 0.6955
+      },
+      {
+        "chunk_id": 2907,
+        "url": "https://www.un.org/sg/en/management/bios/Amoussouga.shtml",
+        "domain": "un.org",
+        "similarity": 0.4999,
+        "rerank_score": 0.6945
+      },
+      {
+        "chunk_id": 2908,
+        "url": "https://sdgs.un.org/panelists/he-mr-fulbert-macaire-amoussouga-gero-29217",
+        "domain": "sdgs.un.org",
+        "similarity": 0.4817,
+        "rerank_score": 0.5824
+      },
+      {
+        "chunk_id": 2920,
+        "url": "https://fr.wikipedia.org/wiki/Fulbert_G%C3%A9ro_Amoussouga",
+        "domain": "fr.wikipedia.org",
+        "similarity": 0.5381,
+        "rerank_score": 0.491
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 2919,
+      "chunk_index": 0,
+      "source_id": 1074,
+      "url": "https://fr.wikipedia.org/wiki/Fulbert_G%C3%A9ro_Amoussouga",
+      "domain": "fr.wikipedia.org",
+      "similarity": 0.616931487317912,
+      "rerank_score": 0.8266142,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that Fulbert Géro Amoussouga was nominated to the UN High Level Panel for the Post-2015 Development Agenda in July 2012. It also states he was president of the Conseil d'Analyse Économique du Bénin from 2006 to October 2013, which overlaps with 2012. Step 2 — Role identification: The text explicitly names 'président du Conseil d'Analyse Économique du Bénin' as one of his roles. Step 3 — Organization identification: The organization linked to this role is 'Conseil d'Analyse Économique du Bénin'. Step 4 — Temporal match assessment: The role as president of the Conseil d'Analyse Économique du Bénin overlaps with 2012, making it plausible as the nomination-time role. Step 5 — Confidence assessment: High confidence due to explicit date range overlapping with 2012.\",\n  \"job_title_at_nomination\": \"président du Conseil d'Analyse Économique du Bénin\",\n  \"organization_at_nomination\": \"Conseil d'Analyse Économique du Bénin\",\n  \"year_reference\": \"2006 à octobre 2013\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"il est président du Conseil d'Analyse Économique du Bénin de 2006 à octobre 2013\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that Fulbert Géro Amoussouga was nominated to the UN High Level Panel for the Post-2015 Development Agenda in July 2012. It also states he was president of the Conseil d'Analyse Économique du Bénin from 2006 to October 2013, which overlaps with 2012. Step 2 — Role identification: The text explicitly names 'président du Conseil d'Analyse Économique du Bénin' as one of his roles. Step 3 — Organization identification: The organization linked to this role is 'Conseil d'Analyse Économique du Bénin'. Step 4 — Temporal match assessment: The role as president of the Conseil d'Analyse Économique du Bénin overlaps with 2012, making it plausible as the nomination-time role. Step 5 — Confidence assessment: High confidence due to explicit date range overlapping with 2012.",
+        "job_title_at_nomination": "président du Conseil d'Analyse Économique du Bénin",
+        "organization_at_nomination": "Conseil d'Analyse Économique du Bénin",
+        "year_reference": "2006 à octobre 2013",
+        "confidence": "high",
+        "supporting_quote": "il est président du Conseil d'Analyse Économique du Bénin de 2006 à octobre 2013",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "président du Conseil d'Analyse Économique du Bénin",
+      "organization_at_nomination": "Conseil d'Analyse Économique du Bénin",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 2909,
+      "url": "https://cdn.modernghana.com/images/content/report_content/list_of_highlevel_panel_members.pdf",
+      "domain": "cdn.modernghana.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is relevant as it discusses Fulbert Gero Amoussouga's career and biography in the context of his nomination to the UN High Level Panel. Step 2 — Title match assessment: The text does not mention 'président du Conseil d'Analyse Économique du Bénin' or 'Conseil d'Analyse Économique du Bénin'. Instead, it states he 'heads the Economic Analysis Unit of the President of the Republic of Benin' and is 'Director of the Graduate School of the Faculty of Economics and Management at the University of Abomey'. This does not match or is compatible with the claimed title. Step 3 — Temporal alignment: Not applicable as no matching title was found. Step 4 — Alternative title: The source provides a different primary role for 2012, which is 'heads the Economic Analysis Unit of the President of the Republic of Benin' and 'Director of the Graduate School of the Faculty of Economics and Management at the University of Abomey'.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Mr. Gero Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin, current chair of the African Union.\",\n  \"alternative_title\": \"heads the Economic Analysis Unit of the President of the Republic of Benin; Director of the Graduate School of the Faculty of Economics and Management\",\n  \"alternative_organization\": \"Economic Analysis Unit of the President of the Republic of Benin; University of Abomey\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is relevant as it discusses Fulbert Gero Amoussouga's career and biography in the context of his nomination to the UN High Level Panel. Step 2 — Title match assessment: The text does not mention 'président du Conseil d'Analyse Économique du Bénin' or 'Conseil d'Analyse Économique du Bénin'. Instead, it states he 'heads the Economic Analysis Unit of the President of the Republic of Benin' and is 'Director of the Graduate School of the Faculty of Economics and Management at the University of Abomey'. This does not match or is compatible with the claimed title. Step 3 — Temporal alignment: Not applicable as no matching title was found. Step 4 — Alternative title: The source provides a different primary role for 2012, which is 'heads the Economic Analysis Unit of the President of the Republic of Benin' and 'Director of the Graduate School of the Faculty of Economics and Management at the University of Abomey'.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": "Mr. Gero Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin, current chair of the African Union.",
+        "alternative_title": "heads the Economic Analysis Unit of the President of the Republic of Benin; Director of the Graduate School of the Faculty of Economics and Management",
+        "alternative_organization": "Economic Analysis Unit of the President of the Republic of Benin; University of Abomey"
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": "Mr. Gero Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin, current chair of the African Union.",
+      "alternative_title": "heads the Economic Analysis Unit of the President of the Republic of Benin; Director of the Graduate School of the Faculty of Economics and Management",
+      "alternative_organization": "Economic Analysis Unit of the President of the Republic of Benin; University of Abomey",
+      "error": null
+    },
+    {
+      "chunk_id": 2907,
+      "url": "https://www.un.org/sg/en/management/bios/Amoussouga.shtml",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Fulbert Gero Amoussouga and discusses his career and biography, making it relevant. Step 2 — Title match assessment: The text mentions that Mr. Amoussouga 'heads the Economic Analysis Unit of the President of the Republic of Benin' but does not mention 'président du Conseil d'Analyse Économique du Bénin' or 'Conseil d'Analyse Économique du Bénin'. This is neither an exact nor a compatible match. Step 3 — Temporal alignment: Not applicable as no matching title was found. Step 4 — Alternative title: The source names a different role, 'heads the Economic Analysis Unit of the President of the Republic of Benin', but it is unclear if this is the primary role or if it contradicts the claim for 2012.\",\n  \"confirms\": false,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Mr. Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin\",\n  \"alternative_title\": \"heads the Economic Analysis Unit of the President of the Republic of Benin\",\n  \"alternative_organization\": \"President of the Republic of Benin\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Fulbert Gero Amoussouga and discusses his career and biography, making it relevant. Step 2 — Title match assessment: The text mentions that Mr. Amoussouga 'heads the Economic Analysis Unit of the President of the Republic of Benin' but does not mention 'président du Conseil d'Analyse Économique du Bénin' or 'Conseil d'Analyse Économique du Bénin'. This is neither an exact nor a compatible match. Step 3 — Temporal alignment: Not applicable as no matching title was found. Step 4 — Alternative title: The source names a different role, 'heads the Economic Analysis Unit of the President of the Republic of Benin', but it is unclear if this is the primary role or if it contradicts the claim for 2012.",
+        "confirms": false,
+        "confidence": "medium",
+        "supporting_quote": "Mr. Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin",
+        "alternative_title": "heads the Economic Analysis Unit of the President of the Republic of Benin",
+        "alternative_organization": "President of the Republic of Benin"
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "Mr. Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin",
+      "alternative_title": "heads the Economic Analysis Unit of the President of the Republic of Benin",
+      "alternative_organization": "President of the Republic of Benin",
+      "error": null
+    },
+    {
+      "chunk_id": 2908,
+      "url": "https://sdgs.un.org/panelists/he-mr-fulbert-macaire-amoussouga-gero-29217",
+      "domain": "sdgs.un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Fulbert Gero Amoussouga, discussing his career and roles, making it relevant. Step 2 — Title match assessment: The text mentions Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin, which is a compatible match to 'président du Conseil d'Analyse Économique du Bénin' as it implies a leadership role in economic analysis. However, it does not explicitly state the title or organization as claimed. Step 3 — Temporal alignment: The text does not provide explicit dates but suggests current roles, which could align with 2012. Step 4 — Alternative title: The source names Amoussouga as 'Minister of MDGs policies and Sustainable Development, Benin,' which is a different primary role but does not explicitly contradict the claim for 2012.\",\n  \"confirms\": false,\n  \"confidence\": \"low\",\n  \"supporting_quote\": \"Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin\",\n  \"alternative_title\": \"Minister of MDGs policies and Sustainable Development\",\n  \"alternative_organization\": \"Benin\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Fulbert Gero Amoussouga, discussing his career and roles, making it relevant. Step 2 — Title match assessment: The text mentions Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin, which is a compatible match to 'président du Conseil d'Analyse Économique du Bénin' as it implies a leadership role in economic analysis. However, it does not explicitly state the title or organization as claimed. Step 3 — Temporal alignment: The text does not provide explicit dates but suggests current roles, which could align with 2012. Step 4 — Alternative title: The source names Amoussouga as 'Minister of MDGs policies and Sustainable Development, Benin,' which is a different primary role but does not explicitly contradict the claim for 2012.",
+        "confirms": false,
+        "confidence": "low",
+        "supporting_quote": "Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin",
+        "alternative_title": "Minister of MDGs policies and Sustainable Development",
+        "alternative_organization": "Benin"
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": "Amoussouga heads the Economic Analysis Unit of the President of the Republic of Benin",
+      "alternative_title": "Minister of MDGs policies and Sustainable Development",
+      "alternative_organization": "Benin",
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "job_title_at_nomination": "président du Conseil d'Analyse Économique du Bénin",
+    "organization_at_nomination": "Conseil d'Analyse Économique du Bénin",
+    "confidence": "high",
+    "supporting_quote": "il est président du Conseil d'Analyse Économique du Bénin de 2006 à octobre 2013",
+    "confirmation_count": 0,
+    "primary_source_domain": "fr.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

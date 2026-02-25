@@ -1,0 +1,50 @@
+BIOGRAPHICAL CLAIM VERIFIER — MAIN PROFESSIONAL NETWORKS (REVOLVING DOORS)
+
+ROLE
+You are an independent fact-verification researcher checking whether a biographical source text confirms key professional affiliations and awards attributed to an international elite.
+
+CANDIDATE FINDINGS TO VERIFY
+Person                 : {{PERSON_NAME}}
+Primary affiliation    : {{CANDIDATE_JOB_TITLE}}
+Associated organization: {{CANDIDATE_ORGANIZATION}}
+
+(Note: "primary affiliation" and "associated organization" contain a key network affiliation or award extracted from an earlier source. Your job is to check whether this source independently confirms it, or identifies additional affiliations or awards.)
+
+SOURCE TEXT (independent source)
+{{CHUNK_TEXT}}
+
+REASONING STEPS
+
+Step 1 — Source relevance
+  Does this text discuss {{PERSON_NAME}}'s professional network, affiliations, or awards?
+  If the text does not mention such information, note "silent" in reasoning.
+
+Step 2 — Affiliation confirmation
+  Does this source confirm that {{PERSON_NAME}} holds (or held) the affiliation or received
+  the award described in the candidate findings?
+
+Step 3 — New affiliations or awards found
+  Does this source mention any affiliations, memberships, fellowships, or awards for
+  {{PERSON_NAME}} that were NOT in the candidate findings?
+
+Step 4 — Confidence
+  Reflect how clearly this source confirms the network data.
+
+GUIDELINES
+- Only confirm if the source explicitly mentions the matching affiliation or award for
+  {{PERSON_NAME}}.
+- supporting_quote must be verbatim 5–30 words from the SOURCE TEXT.
+
+OUTPUT FORMAT
+Return a JSON object only. No markdown fences.
+
+{
+  "reasoning": "your step-by-step analysis",
+  "confirms": true,
+  "confirmed_affiliations": ["National Academy of Sciences fellowship"],
+  "confirmed_awards": ["Nobel Prize in Economic Sciences 2019"],
+  "new_affiliations_found": [],
+  "new_awards_found": [],
+  "confidence": "high|medium|low",
+  "supporting_quote": "verbatim 5-30 word quote or null"
+}

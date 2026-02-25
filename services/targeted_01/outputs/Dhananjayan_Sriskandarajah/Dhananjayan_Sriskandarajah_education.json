@@ -1,0 +1,618 @@
+{
+  "person_dir_name": "Dhananjayan_Sriskandarajah",
+  "person_db_name": "Dhananjayan Sriskandarajah",
+  "question_id": "education",
+  "question_display": "Education Trajectory",
+  "run_timestamp": "2026-02-25T17:57:08.503084+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Humanitarian Finance",
+    "hlp_year": "2015-2016",
+    "nomination_year": 2015,
+    "hlp_nomination_age": 40,
+    "birth_year": "1975",
+    "nationality": [
+      "Australian",
+      "Sri Lankan"
+    ]
+  },
+  "retrieval": {
+    "query": "Dhananjayan Sriskandarajah university degree education BA MA PhD diploma studies graduated",
+    "chunks_in_db": 15,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1182,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5854,
+        "rerank_score": 0.8239
+      },
+      {
+        "chunk_id": 1189,
+        "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+        "domain": "opengovpartnership.org",
+        "similarity": 0.4971,
+        "rerank_score": 0.7496
+      },
+      {
+        "chunk_id": 1193,
+        "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+        "domain": "cpsummit.ngo",
+        "similarity": 0.438,
+        "rerank_score": 0.7405
+      },
+      {
+        "chunk_id": 1186,
+        "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+        "domain": "live.worldbank.org",
+        "similarity": 0.4997,
+        "rerank_score": 0.7265
+      },
+      {
+        "chunk_id": 1190,
+        "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+        "domain": "qc.foundation",
+        "similarity": 0.4961,
+        "rerank_score": 0.7143
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1182,
+      "chunk_index": 0,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.585437421285583,
+      "rerank_score": 0.82391036,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a Bachelor of Economics and Social Science from the University of Sydney and attended the University of Oxford as a Rhodes Scholar, though the specific degree is not explicitly stated. Step 2: Determined countries for each institution (Australia and UK). Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite and University of Sydney as peripheral. Step 5: Synthesized disciplines as economics and social science.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"BA\",\n      \"field\": \"economics and social science\",\n      \"institution\": \"University of Sydney\",\n      \"institution_country\": \"Australia\",\n      \"year_completed\": \"1998\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"economics\", \"social science\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"University of Oxford\"],\n  \"peripheral_institutions_found\": [\"University of Sydney\"],\n  \"supporting_quote\": \"Sriskandarajah then attended the University of Sydney, from which he graduated with a Bachelor of Economics and Social Science in 1998.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a Bachelor of Economics and Social Science from the University of Sydney and attended the University of Oxford as a Rhodes Scholar, though the specific degree is not explicitly stated. Step 2: Determined countries for each institution (Australia and UK). Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite and University of Sydney as peripheral. Step 5: Synthesized disciplines as economics and social science.",
+        "degrees_found": [
+          {
+            "degree_type": "BA",
+            "field": "economics and social science",
+            "institution": "University of Sydney",
+            "institution_country": "Australia",
+            "year_completed": "1998",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "economics",
+          "social science"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "University of Oxford"
+        ],
+        "peripheral_institutions_found": [
+          "University of Sydney"
+        ],
+        "supporting_quote": "Sriskandarajah then attended the University of Sydney, from which he graduated with a Bachelor of Economics and Social Science in 1998.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1189,
+      "chunk_index": 0,
+      "source_id": 658,
+      "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+      "domain": "opengovpartnership.org",
+      "similarity": 0.49705425313201573,
+      "rerank_score": 0.74961954,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford. Step 2: Determined the countries of the institutions. University of Sydney is in Australia, and University of Oxford is in the UK. Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite and University of Sydney as peripheral. Step 5: Synthesized disciplines, but the field of study is not explicitly mentioned for the University of Sydney degree. The MPhil and DPhil are assumed to be in a related field, likely social sciences or humanities, based on his career and publications.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"unknown\",\n      \"institution\": \"University of Sydney\",\n      \"institution_country\": \"Australia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPhil\",\n      \"field\": \"unknown\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"DPhil\",\n      \"field\": \"unknown\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"unknown\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"University of Oxford\"],\n  \"peripheral_institutions_found\": [\"University of Sydney\"],\n  \"supporting_quote\": \"Danny holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford. Step 2: Determined the countries of the institutions. University of Sydney is in Australia, and University of Oxford is in the UK. Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite and University of Sydney as peripheral. Step 5: Synthesized disciplines, but the field of study is not explicitly mentioned for the University of Sydney degree. The MPhil and DPhil are assumed to be in a related field, likely social sciences or humanities, based on his career and publications.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "unknown",
+            "institution": "University of Sydney",
+            "institution_country": "Australia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPhil",
+            "field": "unknown",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "DPhil",
+            "field": "unknown",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "unknown"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "University of Oxford"
+        ],
+        "peripheral_institutions_found": [
+          "University of Sydney"
+        ],
+        "supporting_quote": "Danny holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1193,
+      "chunk_index": 0,
+      "source_id": 662,
+      "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+      "domain": "cpsummit.ngo",
+      "similarity": 0.438033351685855,
+      "rerank_score": 0.740494,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford. Step 2: Determined the countries of the institutions. University of Sydney is in Australia, and University of Oxford is in the UK. Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite and University of Sydney as elite. Step 5: Synthesized disciplines but the field of the degree from the University of Sydney is not specified, so it is marked as 'other'.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"other\",\n      \"institution\": \"University of Sydney\",\n      \"institution_country\": \"Australia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPhil\",\n      \"field\": \"other\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"DPhil\",\n      \"field\": \"other\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"other\"],\n  \"institution_prestige\": \"elite\",\n  \"elite_institutions_found\": [\"University of Sydney\", \"University of Oxford\"],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"Danny holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford. Step 2: Determined the countries of the institutions. University of Sydney is in Australia, and University of Oxford is in the UK. Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite and University of Sydney as elite. Step 5: Synthesized disciplines but the field of the degree from the University of Sydney is not specified, so it is marked as 'other'.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "other",
+            "institution": "University of Sydney",
+            "institution_country": "Australia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPhil",
+            "field": "other",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "DPhil",
+            "field": "other",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "other"
+        ],
+        "institution_prestige": "elite",
+        "elite_institutions_found": [
+          "University of Sydney",
+          "University of Oxford"
+        ],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "Danny holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1186,
+      "chunk_index": 0,
+      "source_id": 655,
+      "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+      "domain": "live.worldbank.org",
+      "similarity": 0.4997049371417365,
+      "rerank_score": 0.7265231,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a first class degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford. Step 2: Determined the countries of the institutions: University of Sydney is in Australia, and University of Oxford is in the UK. Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite, and University of Sydney as elite. Step 5: Disciplines were not explicitly stated, so they are categorized as 'other'.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"BA\",\n      \"field\": \"other\",\n      \"institution\": \"University of Sydney\",\n      \"institution_country\": \"Australia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPhil\",\n      \"field\": \"other\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"DPhil\",\n      \"field\": \"other\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"other\"],\n  \"institution_prestige\": \"elite\",\n  \"elite_institutions_found\": [\"University of Sydney\", \"University of Oxford\"],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"He holds a first class degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text. Dhananjayan Sriskandarajah holds a first class degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford. Step 2: Determined the countries of the institutions: University of Sydney is in Australia, and University of Oxford is in the UK. Step 3: Classified both institutions as Global North. Step 4: Classified University of Oxford as elite, and University of Sydney as elite. Step 5: Disciplines were not explicitly stated, so they are categorized as 'other'.",
+        "degrees_found": [
+          {
+            "degree_type": "BA",
+            "field": "other",
+            "institution": "University of Sydney",
+            "institution_country": "Australia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPhil",
+            "field": "other",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "DPhil",
+            "field": "other",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "other"
+        ],
+        "institution_prestige": "elite",
+        "elite_institutions_found": [
+          "University of Sydney",
+          "University of Oxford"
+        ],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "He holds a first class degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1190,
+      "chunk_index": 0,
+      "source_id": 659,
+      "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+      "domain": "qc.foundation",
+      "similarity": 0.49612644239215137,
+      "rerank_score": 0.71425,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text - Masters, Doctorate from Oxford University, and an undergraduate degree from the University of Sydney. Step 2: Assigned countries to institutions - Oxford University (UK), University of Sydney (Australia). Step 3: Classified institutions as Global North. Step 4: Classified Oxford as elite, University of Sydney as elite. Step 5: Disciplines not explicitly stated, assumed based on context.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"Masters\",\n      \"field\": \"other\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": \"other\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"BA\",\n      \"field\": \"other\",\n      \"institution\": \"University of Sydney\",\n      \"institution_country\": \"Australia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"other\"],\n  \"institution_prestige\": \"elite\",\n  \"elite_institutions_found\": [\"University of Oxford\", \"University of Sydney\"],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text - Masters, Doctorate from Oxford University, and an undergraduate degree from the University of Sydney. Step 2: Assigned countries to institutions - Oxford University (UK), University of Sydney (Australia). Step 3: Classified institutions as Global North. Step 4: Classified Oxford as elite, University of Sydney as elite. Step 5: Disciplines not explicitly stated, assumed based on context.",
+        "degrees_found": [
+          {
+            "degree_type": "Masters",
+            "field": "other",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "PhD",
+            "field": "other",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "BA",
+            "field": "other",
+            "institution": "University of Sydney",
+            "institution_country": "Australia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "other"
+        ],
+        "institution_prestige": "elite",
+        "elite_institutions_found": [
+          "University of Oxford",
+          "University of Sydney"
+        ],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1195,
+      "chunk_index": 0,
+      "source_id": 663,
+      "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+      "domain": "resolvepoverty.org",
+      "similarity": 0.3554934281551679,
+      "rerank_score": 0.70336664,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text - Masters, Doctorate from Oxford University, and an undergraduate degree from the University of Sydney. Step 2: Determined countries for each institution - Oxford University (UK), University of Sydney (Australia). Step 3: Classified both institutions as Global North. Step 4: Classified Oxford University as elite and University of Sydney as elite. Step 5: Unable to determine specific disciplines for the degrees, but noted that a Doctorate and Masters typically imply a focused field of study, though not explicitly stated in the text.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"Masters\",\n      \"field\": null,\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": null,\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"other\",\n      \"field\": null,\n      \"institution\": \"University of Sydney\",\n      \"institution_country\": \"Australia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"elite\",\n  \"elite_institutions_found\": [\"University of Oxford\", \"University of Sydney\"],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text - Masters, Doctorate from Oxford University, and an undergraduate degree from the University of Sydney. Step 2: Determined countries for each institution - Oxford University (UK), University of Sydney (Australia). Step 3: Classified both institutions as Global North. Step 4: Classified Oxford University as elite and University of Sydney as elite. Step 5: Unable to determine specific disciplines for the degrees, but noted that a Doctorate and Masters typically imply a focused field of study, though not explicitly stated in the text.",
+        "degrees_found": [
+          {
+            "degree_type": "Masters",
+            "field": null,
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "PhD",
+            "field": null,
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "other",
+            "field": null,
+            "institution": "University of Sydney",
+            "institution_country": "Australia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [],
+        "institution_prestige": "elite",
+        "elite_institutions_found": [
+          "University of Oxford",
+          "University of Sydney"
+        ],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1188,
+      "chunk_index": 0,
+      "source_id": 656,
+      "url": "http://sdgs.un.org/panelists/mr-danny-sriskandarajah-29228",
+      "domain": "sdgs.un.org",
+      "similarity": 0.4572159194658101,
+      "rerank_score": 0.6826801,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text - a degree from the University of Sydney, and MPhil and DPhil from the University of Oxford. Step 2: Determined countries for each institution - Australia for the University of Sydney and the UK for the University of Oxford. Step 3: Classified both institutions as Global North. Step 4: Classified the University of Oxford as elite and the University of Sydney as peripheral. Step 5: Unable to determine the specific disciplines for the degrees from the provided text, except for the implication of a focus on international migration and economic development.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"cannot_determine\",\n      \"institution\": \"University of Sydney\",\n      \"institution_country\": \"Australia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPhil\",\n      \"field\": \"cannot_determine\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"DPhil\",\n      \"field\": \"cannot_determine\",\n      \"institution\": \"University of Oxford\",\n      \"institution_country\": \"UK\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"cannot_determine\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"University of Oxford\"],\n  \"peripheral_institutions_found\": [\"University of Sydney\"],\n  \"supporting_quote\": \"He holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text - a degree from the University of Sydney, and MPhil and DPhil from the University of Oxford. Step 2: Determined countries for each institution - Australia for the University of Sydney and the UK for the University of Oxford. Step 3: Classified both institutions as Global North. Step 4: Classified the University of Oxford as elite and the University of Sydney as peripheral. Step 5: Unable to determine the specific disciplines for the degrees from the provided text, except for the implication of a focus on international migration and economic development.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "cannot_determine",
+            "institution": "University of Sydney",
+            "institution_country": "Australia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPhil",
+            "field": "cannot_determine",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "DPhil",
+            "field": "cannot_determine",
+            "institution": "University of Oxford",
+            "institution_country": "UK",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "cannot_determine"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "University of Oxford"
+        ],
+        "peripheral_institutions_found": [
+          "University of Sydney"
+        ],
+        "supporting_quote": "He holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1183,
+      "chunk_index": 1,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.47500354756943775,
+      "rerank_score": 0.62879556,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees - M.Phil. and D.Phil. in international development. No institution or year details provided. Step 2: Institution country cannot be determined. Step 3: Geographic category cannot be determined due to lack of institution information. Step 4: Institution prestige cannot be determined. Step 5: Discipline is international development, categorized under 'other'.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"MPhil\",\n      \"field\": \"international development\",\n      \"institution\": null,\n      \"institution_country\": null,\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"DPhil\",\n      \"field\": \"international development\",\n      \"institution\": null,\n      \"institution_country\": null,\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [\"international development\"],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"an M.Phil. and then a D.Phil. in international development.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees - M.Phil. and D.Phil. in international development. No institution or year details provided. Step 2: Institution country cannot be determined. Step 3: Geographic category cannot be determined due to lack of institution information. Step 4: Institution prestige cannot be determined. Step 5: Discipline is international development, categorized under 'other'.",
+        "degrees_found": [
+          {
+            "degree_type": "MPhil",
+            "field": "international development",
+            "institution": null,
+            "institution_country": null,
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "DPhil",
+            "field": "international development",
+            "institution": null,
+            "institution_country": null,
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "cannot_determine",
+        "disciplines": [
+          "international development"
+        ],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "an M.Phil. and then a D.Phil. in international development.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1191,
+      "url": "https://neweconomics.org/profile/danny-sriskandarajah",
+      "domain": "neweconomics.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text is about Dhananjayan Sriskandarajah's biography and mentions his education. Step 2 — Degree confirmation: The text confirms he holds degrees from the University of Oxford (Masters and Doctorate) and the University of Sydney (undergraduate), matching the candidate findings. Step 3 — New degrees found: No new degrees are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly confirms the educational credentials.\",\n  \"confirms\": true,\n  \"confirmed_degrees\": [\"MPhil unknown, University of Oxford\", \"DPhil unknown, University of Oxford\", \"other unknown, University of Sydney\"],\n  \"new_degrees_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney\",\n  \"alternative_findings\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text is about Dhananjayan Sriskandarajah's biography and mentions his education. Step 2 — Degree confirmation: The text confirms he holds degrees from the University of Oxford (Masters and Doctorate) and the University of Sydney (undergraduate), matching the candidate findings. Step 3 — New degrees found: No new degrees are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly confirms the educational credentials.",
+        "confirms": true,
+        "confirmed_degrees": [
+          "MPhil unknown, University of Oxford",
+          "DPhil unknown, University of Oxford",
+          "other unknown, University of Sydney"
+        ],
+        "new_degrees_found": [],
+        "confidence": "high",
+        "supporting_quote": "Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney",
+        "alternative_findings": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Danny holds a Masters and Doctorate from Oxford University, and an undergraduate degree from the University of Sydney",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1192,
+      "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+      "domain": "lse.ac.uk",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text is a aD S about Dhan a Dhan Dhan a Dhan a Dhan to Dhan to Dhan to Dhan to Dhan to \"The text to \"The text to \"The text to \"The text to \"The text to \"The text to \"the text to\"the text to\"the text to\" the text to \"the text to \"the text to \"the text to \" the text to \" the text to \" \" \" \" \"The text to \" \" \" \"the text to \"the text to \"the text to \"the text to \"the \"the \"the to\"the to \"the \"the \"the \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"\", \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"\": \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"\": \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"\": \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"\":\": \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"\": \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" { to the { to the \" { to the \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" { \" \" \" \" \" \" \" { to \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \" \"",
+      "parsed": null,
+      "confirms": false,
+      "confidence": null,
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": "JSON parse failure"
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Danny holds a degree from the University of Sydney, and an MPhil and DPhil from the University of Oxford, where he was a Rhodes Scholar.",
+    "confirmation_count": 1,
+    "primary_source_domain": "opengovpartnership.org",
+    "notes": null,
+    "degrees_found": [
+      {
+        "degree_type": "other",
+        "field": "unknown",
+        "institution": "University of Sydney",
+        "institution_country": "Australia",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      },
+      {
+        "degree_type": "MPhil",
+        "field": "unknown",
+        "institution": "University of Oxford",
+        "institution_country": "UK",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      },
+      {
+        "degree_type": "DPhil",
+        "field": "unknown",
+        "institution": "University of Oxford",
+        "institution_country": "UK",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      }
+    ],
+    "geographic_category": "global_north",
+    "disciplines": [
+      "unknown"
+    ],
+    "institution_prestige": "both",
+    "elite_institutions_found": [
+      "University of Oxford"
+    ],
+    "peripheral_institutions_found": [
+      "University of Sydney"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

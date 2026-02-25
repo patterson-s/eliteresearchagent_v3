@@ -1,0 +1,1183 @@
+{
+  "person_dir_name": "Gunilla_Carlsson",
+  "person_db_name": "Gunilla Carlsson",
+  "question_id": "jobs",
+  "question_display": "Main Jobs (Organizational Mobility)",
+  "run_timestamp": "2026-02-25T18:02:57.297740+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 49,
+    "birth_year": "1963",
+    "nationality": [
+      "Swedish"
+    ]
+  },
+  "retrieval": {
+    "query": "Gunilla Carlsson job title director minister professor CEO secretary general career appointment position employer organization",
+    "chunks_in_db": 22,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3388,
+        "url": "https://www.concordia.net/community/gunilla-carlsson/",
+        "domain": "concordia.net",
+        "similarity": 0.5364,
+        "rerank_score": 0.694
+      },
+      {
+        "chunk_id": 3375,
+        "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+        "domain": "unaids.org",
+        "similarity": 0.5817,
+        "rerank_score": 0.6822
+      },
+      {
+        "chunk_id": 3376,
+        "url": "https://www.un.org/sg/en/management/bios/Carlsson.shtml",
+        "domain": "un.org",
+        "similarity": 0.609,
+        "rerank_score": 0.6252
+      },
+      {
+        "chunk_id": 3369,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6428,
+        "rerank_score": 0.617
+      },
+      {
+        "chunk_id": 3371,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5613,
+        "rerank_score": 0.6072
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3388,
+      "chunk_index": 0,
+      "source_id": 1246,
+      "url": "https://www.concordia.net/community/gunilla-carlsson/",
+      "domain": "concordia.net",
+      "similarity": 0.5364169206358188,
+      "rerank_score": 0.69399214,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Deputy Executive Director for Management and Governance, Assistant Secretary-General of the United Nations, Executive Director a.i., elected member of the Swedish Parliament, Minister for International Development Cooperation, and elected member of the European Parliament. Step 2: Organizations are UNAIDS, United Nations, Swedish Parliament, and European Parliament. Step 3: Extracted approximate periods for each role. Step 4: Classified domains based on role descriptions. Step 5: Assessed prominence as primary for all roles except advisory roles, which are secondary.\",\n  \"jobs\": [\n    {\n      \"title\": \"Deputy Executive Director for Management and Governance\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": \"2018-2019\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Assistant Secretary-General of the United Nations\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2018-2019\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Executive Director a.i.\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": \"2019-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Elected Member\",\n      \"organization\": \"Swedish Parliament\",\n      \"approximate_period\": \"2002-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister for International Development Cooperation\",\n      \"organization\": \"Government of Sweden\",\n      \"approximate_period\": \"2006-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Elected Member\",\n      \"organization\": \"European Parliament\",\n      \"approximate_period\": \"1995-2002\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"High-Level Panel Member for Global Sustainability\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2012\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Member, High-Level Panel on the Post-2015 Development Agenda\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2012-2013\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"supporting_quote\": \"Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance and Assistant Secretary-General of the United Nations and was appointed Executive Director a.i. in May 2019.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Deputy Executive Director for Management and Governance, Assistant Secretary-General of the United Nations, Executive Director a.i., elected member of the Swedish Parliament, Minister for International Development Cooperation, and elected member of the European Parliament. Step 2: Organizations are UNAIDS, United Nations, Swedish Parliament, and European Parliament. Step 3: Extracted approximate periods for each role. Step 4: Classified domains based on role descriptions. Step 5: Assessed prominence as primary for all roles except advisory roles, which are secondary.",
+        "jobs": [
+          {
+            "title": "Deputy Executive Director for Management and Governance",
+            "organization": "UNAIDS",
+            "approximate_period": "2018-2019",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Assistant Secretary-General of the United Nations",
+            "organization": "United Nations",
+            "approximate_period": "2018-2019",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Executive Director a.i.",
+            "organization": "UNAIDS",
+            "approximate_period": "2019-present",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Elected Member",
+            "organization": "Swedish Parliament",
+            "approximate_period": "2002-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister for International Development Cooperation",
+            "organization": "Government of Sweden",
+            "approximate_period": "2006-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Elected Member",
+            "organization": "European Parliament",
+            "approximate_period": "1995-2002",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "High-Level Panel Member for Global Sustainability",
+            "organization": "United Nations",
+            "approximate_period": "2012",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Member, High-Level Panel on the Post-2015 Development Agenda",
+            "organization": "United Nations",
+            "approximate_period": "2012-2013",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "supporting_quote": "Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance and Assistant Secretary-General of the United Nations and was appointed Executive Director a.i. in May 2019.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3375,
+      "chunk_index": 0,
+      "source_id": 1240,
+      "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+      "domain": "unaids.org",
+      "similarity": 0.5817301076435105,
+      "rerank_score": 0.6821721,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Deputy Executive Director at UNAIDS, Assistant Secretary-General of the UN, Executive Director a.i. at UNAIDS, Member of the Swedish Parliament, Minister for International Development Cooperation, Member of the European Parliament, Chair of the Commission on Climate Change and Development, Member of the UN High-Level Panel on Global Sustainability, Member of the UN High-Level Panel on the Post-2015 Development Agenda, Member of the UNAIDS and Lancet Commission, Member of the World Bank High-Level Advisory Council, Member of the African Development Bank's High-Level Panel, Affiliated Member and Vice-Chair of Gavi, the Vaccine Alliance. Step 2: Organizations were explicitly named in the text. Step 3: Dates were extracted where available. Step 4: Domains were classified based on the nature of each role. Step 5: Prominence was assessed based on the role's nature and time commitment.\",\n  \"jobs\": [\n    {\n      \"title\": \"Deputy Executive Director, Management and Governance\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": \"2018-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance\"\n    },\n    {\n      \"title\": \"Assistant Secretary-General\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2018-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director... and Assistant Secretary-General of the United Nations\"\n    },\n    {\n      \"title\": \"Executive Director, a.i.\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": \"2019\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was appointed as UNAIDS Executive Director, a.i., from May to October 2019\"\n    },\n    {\n      \"title\": \"Member of the Swedish Parliament\",\n      \"organization\": \"Swedish Parliament\",\n      \"approximate_period\": \"2002-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Ms Carlsson served as an elected member of the Swedish Parliament from 2002 to 2013\"\n    },\n    {\n      \"title\": \"Minister for International Development Cooperation\",\n      \"organization\": \"Government of Sweden\",\n      \"approximate_period\": \"2006-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Ms Carlsson served... as the Minister for International Development Cooperation from 2006 to 2013\"\n    },\n    {\n      \"title\": \"Member of the European Parliament\",\n      \"organization\": \"European Parliament\",\n      \"approximate_period\": \"1995-2002\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Ms Carlsson served as an elected member of the European Parliament from 1995 to 2002\"\n    },\n    {\n      \"title\": \"Chair\",\n      \"organization\": \"Commission on Climate Change and Development\",\n      \"approximate_period\": \"2007\",\n      \"domain\": \"other\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Ms Carlsson was the Chair of the Swedish-initiated Commission on Climate Change and Development in 2007\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"UN High-Level Panel on Global Sustainability\",\n      \"approximate_period\": \"2012\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was appointed by United Nations Secretary-General Ban Ki-moon to a high-level panel for global sustainability ahead of the United Nations Conference on Sustainable Development held in 2012\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"UN High-Level Panel on the Post-2015 Development Agenda\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She served on the United Nations High-Level Panel on the Post-2015 Development Agenda\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was a member of the UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"World Bank High-Level Advisory Council on Women’s Economic Empowerment\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was a member of the World Bank High-Level Advisory Council on Women’s Economic Empowerment\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"African Development Bank's High-Level Panel on Fragile States\",\n      \"approximate_period\": \"2013-2014\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She served on the African Development Bank’s three-member High-Level Panel on Fragile States in 2013 and 2014\"\n    },\n    {\n      \"title\": \"Affiliated Member and Vice-Chair\",\n      \"organization\": \"Gavi, the Vaccine Alliance\",\n      \"approximate_period\": \"2017-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She is an affiliated member of the board of Gavi, the Vaccine Alliance, and has served as its Vice-Chair since June 2017\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Deputy Executive Director at UNAIDS, Assistant Secretary-General of the UN, Executive Director a.i. at UNAIDS, Member of the Swedish Parliament, Minister for International Development Cooperation, Member of the European Parliament, Chair of the Commission on Climate Change and Development, Member of the UN High-Level Panel on Global Sustainability, Member of the UN High-Level Panel on the Post-2015 Development Agenda, Member of the UNAIDS and Lancet Commission, Member of the World Bank High-Level Advisory Council, Member of the African Development Bank's High-Level Panel, Affiliated Member and Vice-Chair of Gavi, the Vaccine Alliance. Step 2: Organizations were explicitly named in the text. Step 3: Dates were extracted where available. Step 4: Domains were classified based on the nature of each role. Step 5: Prominence was assessed based on the role's nature and time commitment.",
+        "jobs": [
+          {
+            "title": "Deputy Executive Director, Management and Governance",
+            "organization": "UNAIDS",
+            "approximate_period": "2018-present",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance"
+          },
+          {
+            "title": "Assistant Secretary-General",
+            "organization": "United Nations",
+            "approximate_period": "2018-present",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director... and Assistant Secretary-General of the United Nations"
+          },
+          {
+            "title": "Executive Director, a.i.",
+            "organization": "UNAIDS",
+            "approximate_period": "2019",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "She was appointed as UNAIDS Executive Director, a.i., from May to October 2019"
+          },
+          {
+            "title": "Member of the Swedish Parliament",
+            "organization": "Swedish Parliament",
+            "approximate_period": "2002-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Ms Carlsson served as an elected member of the Swedish Parliament from 2002 to 2013"
+          },
+          {
+            "title": "Minister for International Development Cooperation",
+            "organization": "Government of Sweden",
+            "approximate_period": "2006-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Ms Carlsson served... as the Minister for International Development Cooperation from 2006 to 2013"
+          },
+          {
+            "title": "Member of the European Parliament",
+            "organization": "European Parliament",
+            "approximate_period": "1995-2002",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Ms Carlsson served as an elected member of the European Parliament from 1995 to 2002"
+          },
+          {
+            "title": "Chair",
+            "organization": "Commission on Climate Change and Development",
+            "approximate_period": "2007",
+            "domain": "other",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Ms Carlsson was the Chair of the Swedish-initiated Commission on Climate Change and Development in 2007"
+          },
+          {
+            "title": "Member",
+            "organization": "UN High-Level Panel on Global Sustainability",
+            "approximate_period": "2012",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "She was appointed by United Nations Secretary-General Ban Ki-moon to a high-level panel for global sustainability ahead of the United Nations Conference on Sustainable Development held in 2012"
+          },
+          {
+            "title": "Member",
+            "organization": "UN High-Level Panel on the Post-2015 Development Agenda",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "She served on the United Nations High-Level Panel on the Post-2015 Development Agenda"
+          },
+          {
+            "title": "Member",
+            "organization": "UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "She was a member of the UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health"
+          },
+          {
+            "title": "Member",
+            "organization": "World Bank High-Level Advisory Council on Women’s Economic Empowerment",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "She was a member of the World Bank High-Level Advisory Council on Women’s Economic Empowerment"
+          },
+          {
+            "title": "Member",
+            "organization": "African Development Bank's High-Level Panel on Fragile States",
+            "approximate_period": "2013-2014",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "She served on the African Development Bank’s three-member High-Level Panel on Fragile States in 2013 and 2014"
+          },
+          {
+            "title": "Affiliated Member and Vice-Chair",
+            "organization": "Gavi, the Vaccine Alliance",
+            "approximate_period": "2017-present",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "She is an affiliated member of the board of Gavi, the Vaccine Alliance, and has served as its Vice-Chair since June 2017"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3376,
+      "chunk_index": 0,
+      "source_id": 1241,
+      "url": "https://www.un.org/sg/en/management/bios/Carlsson.shtml",
+      "domain": "un.org",
+      "similarity": 0.6089617207384532,
+      "rerank_score": 0.62523276,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Minister for International Development Cooperation of Sweden, senior posts in the Swedish Government, and former member of the European Parliament. Step 2: Organizations are the Swedish Government and the European Parliament. Step 3: No specific dates are provided, so approximate_period is null. Step 4: Classified domains as 'political' for ministerial roles and 'international' for European Parliament. Step 5: Assessed prominence as 'primary' for all roles based on their full-time nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Minister for International Development Cooperation\",\n      \"organization\": \"Swedish Government\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Senior posts in foreign affairs, EU affairs, and education\",\n      \"organization\": \"Swedish Government\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Member of the European Parliament\",\n      \"organization\": \"European Parliament\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Ms. Carlsson is the current Minister for International Development Cooperation of Sweden. She has held a number of senior posts in the Swedish Government... and is a former member of the European Parliament.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Minister for International Development Cooperation of Sweden, senior posts in the Swedish Government, and former member of the European Parliament. Step 2: Organizations are the Swedish Government and the European Parliament. Step 3: No specific dates are provided, so approximate_period is null. Step 4: Classified domains as 'political' for ministerial roles and 'international' for European Parliament. Step 5: Assessed prominence as 'primary' for all roles based on their full-time nature.",
+        "jobs": [
+          {
+            "title": "Minister for International Development Cooperation",
+            "organization": "Swedish Government",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Senior posts in foreign affairs, EU affairs, and education",
+            "organization": "Swedish Government",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Member of the European Parliament",
+            "organization": "European Parliament",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Ms. Carlsson is the current Minister for International Development Cooperation of Sweden. She has held a number of senior posts in the Swedish Government... and is a former member of the European Parliament.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3369,
+      "chunk_index": 0,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6427701516725712,
+      "rerank_score": 0.61695945,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Minister for International Development Cooperation, Member of the Riksdag, Member of the European Parliament, deputy chairman of the Moderate Party, chairperson of the Moderate Youth League district, and vice chairman of the Moderate Youth League. Step 2: Organizations include Swedish Government, Riksdag, European Parliament, Moderate Party, and Moderate Youth League. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as political or civil_society. Step 5: Assessed prominence as primary for most roles and secondary for party positions.\",\n  \"jobs\": [\n    {\n      \"title\": \"Minister for International Development Cooperation\",\n      \"organization\": \"Swedish Government\",\n      \"approximate_period\": \"2006-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Riksdag\",\n      \"organization\": \"Riksdag\",\n      \"approximate_period\": \"2002-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the European Parliament\",\n      \"organization\": \"European Parliament\",\n      \"approximate_period\": \"1995-2002\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Deputy Chairman of the Moderate Party\",\n      \"organization\": \"Moderate Party\",\n      \"approximate_period\": \"2003-2015\",\n      \"domain\": \"political\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chairperson of the Moderate Youth League district\",\n      \"organization\": \"Moderate Youth League\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Vice Chairman of the Moderate Youth League\",\n      \"organization\": \"Moderate Youth League\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"supporting_quote\": \"She served as Minister for International Development Cooperation from 2006 to 2013, member of the Swedish Riksdag from 2002 to 2013 and deputy chairman of her party from 2003 to 2015.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Minister for International Development Cooperation, Member of the Riksdag, Member of the European Parliament, deputy chairman of the Moderate Party, chairperson of the Moderate Youth League district, and vice chairman of the Moderate Youth League. Step 2: Organizations include Swedish Government, Riksdag, European Parliament, Moderate Party, and Moderate Youth League. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as political or civil_society. Step 5: Assessed prominence as primary for most roles and secondary for party positions.",
+        "jobs": [
+          {
+            "title": "Minister for International Development Cooperation",
+            "organization": "Swedish Government",
+            "approximate_period": "2006-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Riksdag",
+            "organization": "Riksdag",
+            "approximate_period": "2002-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the European Parliament",
+            "organization": "European Parliament",
+            "approximate_period": "1995-2002",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Deputy Chairman of the Moderate Party",
+            "organization": "Moderate Party",
+            "approximate_period": "2003-2015",
+            "domain": "political",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chairperson of the Moderate Youth League district",
+            "organization": "Moderate Youth League",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Vice Chairman of the Moderate Youth League",
+            "organization": "Moderate Youth League",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "supporting_quote": "She served as Minister for International Development Cooperation from 2006 to 2013, member of the Swedish Riksdag from 2002 to 2013 and deputy chairman of her party from 2003 to 2015.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3371,
+      "chunk_index": 2,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5612997278853291,
+      "rerank_score": 0.6072213,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include ministerial positions, advisory roles, executive roles, and board memberships. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods from the text. Step 4: Classified domains based on the nature of each organization. Step 5: Assessed prominence as primary or secondary based on role descriptions.\",\n  \"jobs\": [\n    {\n      \"title\": \"Minister\",\n      \"organization\": \"Swedish Government\",\n      \"approximate_period\": \"2012-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In her final year as minister from 2012 until 2013\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"High-level Panel on Post-2015 Development Agenda\",\n      \"approximate_period\": \"2012-2013\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"served on the High-level Panel on Post-2015 Development Agenda\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"African Development Bank's High Level Panel on Fragile States\",\n      \"approximate_period\": \"2013-2014\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"served on the African Development Bank’s three-member High Level Panel on Fragile States\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"UNAIDS–Lancet Commission on Defeating AIDS\",\n      \"approximate_period\": \"2013-2015\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"she was a member of the UNAIDS–Lancet Commission on Defeating AIDS\"\n    },\n    {\n      \"title\": \"UNAIDS Deputy Executive Director, Management and Governance\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2017-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"appointed Carlsson as the UNAIDS deputy executive director, management and governance\"\n    },\n    {\n      \"title\": \"Assistant Secretary-General of the United Nations\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2017-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Assistant Secretary-General of the United Nations\"\n    },\n    {\n      \"title\": \"Executive Director ad interim\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": \"2019\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"she briefly served as executive director ad interim from May until August 2019\"\n    },\n    {\n      \"title\": \"Chair of the Governing Board\",\n      \"organization\": \"Swedish International Development Cooperation Agency (SIDA)\",\n      \"approximate_period\": \"2023-present\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"appointed Carlsson as the new Chair of the Governing Board of the Swedish International Development Cooperation Agency\"\n    },\n    {\n      \"title\": \"Member of the Board of Directors\",\n      \"organization\": \"Tundra Fonder\",\n      \"approximate_period\": \"2017-present\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Tundra Fonder, Member of the Board of Directors (since 2017)\"\n    },\n    {\n      \"title\": \"Member of the Board of Directors\",\n      \"organization\": \"Annexin Pharmaceuticals\",\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Annexin Pharmaceuticals, Member of the Board of Directors\"\n    },\n    {\n      \"title\": \"Independent Member of the Board of Directors\",\n      \"organization\": \"NGS Group AB\",\n      \"approximate_period\": \"2015-present\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"NGS Group AB, Independent Member of the Board of Directors (since 2015)\"\n    },\n    {\n      \"title\": \"Independent Member of the Board of Directors\",\n      \"organization\": \"IFS AB\",\n      \"approximate_period\": \"2015-2016\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"IFS AB, Independent Member of the Board of Directors (2015-2016)\"\n    },\n    {\n      \"title\": \"Member of the Board\",\n      \"organization\": \"Internationella Engelska Skolan (IES)\",\n      \"approximate_period\": \"2017-2019\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Internationella Engelska Skolan (IES), Member of the Board (2017-2019)\"\n    },\n    {\n      \"title\": \"Member of the High-Level Group of Personalities on Africa-Europe Relations\",\n      \"organization\": \"Africa Europe Foundation (AEF)\",\n      \"approximate_period\": \"2020-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)\"\n    },\n    {\n      \"title\": \"Member of the Board of Governors\",\n      \"organization\": \"United Nations System Staff College (UNSSC)\",\n      \"approximate_period\": \"2017-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"United Nations System Staff College (UNSSC), Member of the Board of Governors (since 2017)\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"European Council on Foreign Relations (ECFR)\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"European Council on Foreign Relations (ECFR), Member\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include ministerial positions, advisory roles, executive roles, and board memberships. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods from the text. Step 4: Classified domains based on the nature of each organization. Step 5: Assessed prominence as primary or secondary based on role descriptions.",
+        "jobs": [
+          {
+            "title": "Minister",
+            "organization": "Swedish Government",
+            "approximate_period": "2012-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "In her final year as minister from 2012 until 2013"
+          },
+          {
+            "title": "Member",
+            "organization": "High-level Panel on Post-2015 Development Agenda",
+            "approximate_period": "2012-2013",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "served on the High-level Panel on Post-2015 Development Agenda"
+          },
+          {
+            "title": "Member",
+            "organization": "African Development Bank's High Level Panel on Fragile States",
+            "approximate_period": "2013-2014",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "served on the African Development Bank’s three-member High Level Panel on Fragile States"
+          },
+          {
+            "title": "Member",
+            "organization": "UNAIDS–Lancet Commission on Defeating AIDS",
+            "approximate_period": "2013-2015",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "she was a member of the UNAIDS–Lancet Commission on Defeating AIDS"
+          },
+          {
+            "title": "UNAIDS Deputy Executive Director, Management and Governance",
+            "organization": "United Nations",
+            "approximate_period": "2017-present",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "appointed Carlsson as the UNAIDS deputy executive director, management and governance"
+          },
+          {
+            "title": "Assistant Secretary-General of the United Nations",
+            "organization": "United Nations",
+            "approximate_period": "2017-present",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Assistant Secretary-General of the United Nations"
+          },
+          {
+            "title": "Executive Director ad interim",
+            "organization": "UNAIDS",
+            "approximate_period": "2019",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "she briefly served as executive director ad interim from May until August 2019"
+          },
+          {
+            "title": "Chair of the Governing Board",
+            "organization": "Swedish International Development Cooperation Agency (SIDA)",
+            "approximate_period": "2023-present",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "appointed Carlsson as the new Chair of the Governing Board of the Swedish International Development Cooperation Agency"
+          },
+          {
+            "title": "Member of the Board of Directors",
+            "organization": "Tundra Fonder",
+            "approximate_period": "2017-present",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Tundra Fonder, Member of the Board of Directors (since 2017)"
+          },
+          {
+            "title": "Member of the Board of Directors",
+            "organization": "Annexin Pharmaceuticals",
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Annexin Pharmaceuticals, Member of the Board of Directors"
+          },
+          {
+            "title": "Independent Member of the Board of Directors",
+            "organization": "NGS Group AB",
+            "approximate_period": "2015-present",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "NGS Group AB, Independent Member of the Board of Directors (since 2015)"
+          },
+          {
+            "title": "Independent Member of the Board of Directors",
+            "organization": "IFS AB",
+            "approximate_period": "2015-2016",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "IFS AB, Independent Member of the Board of Directors (2015-2016)"
+          },
+          {
+            "title": "Member of the Board",
+            "organization": "Internationella Engelska Skolan (IES)",
+            "approximate_period": "2017-2019",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Internationella Engelska Skolan (IES), Member of the Board (2017-2019)"
+          },
+          {
+            "title": "Member of the High-Level Group of Personalities on Africa-Europe Relations",
+            "organization": "Africa Europe Foundation (AEF)",
+            "approximate_period": "2020-present",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
+          },
+          {
+            "title": "Member of the Board of Governors",
+            "organization": "United Nations System Staff College (UNSSC)",
+            "approximate_period": "2017-present",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "United Nations System Staff College (UNSSC), Member of the Board of Governors (since 2017)"
+          },
+          {
+            "title": "Member",
+            "organization": "European Council on Foreign Relations (ECFR)",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "European Council on Foreign Relations (ECFR), Member"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3377,
+      "chunk_index": 0,
+      "source_id": 1242,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "similarity": 0.5847740610735848,
+      "rerank_score": 0.59372765,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Minister of International Development Cooperation of Sweden, member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda, Associate Fellow within the Global Fellowship Initiative of the GCSP, Member of Parliament, 1st vice Chair of conservative party, and member of European Parliament. Step 2: Organizations include Government of Sweden, UN, GCSP, and the conservative party (assumed to be the Moderate Party of Sweden). Step 3: Approximate periods are not explicitly stated for most roles, except for the UN panel which is implied to be around 2015. Step 4: Domains classified as political for ministerial and parliamentary roles, international for UN roles, and civil_society for GCSP fellowship. Step 5: Prominence assessed as primary for ministerial and parliamentary roles, secondary for UN panel and GCSP fellowship.\",\n  \"jobs\": [\n    {\n      \"title\": \"Minister of International Development Cooperation\",\n      \"organization\": \"Government of Sweden\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2012-2013\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Associate Fellow within the Global Fellowship Initiative\",\n      \"organization\": \"Geneva Centre for Security Policy (GCSP)\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of Parliament\",\n      \"organization\": \"Government of Sweden\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"1st vice Chair of conservative party\",\n      \"organization\": \"Moderate Party of Sweden\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Member of European Parliament\",\n      \"organization\": \"European Parliament\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Ms Gunilla Carlsson is an Associate Fellow within the Global Fellowship Initiative of the GCSP.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Minister of International Development Cooperation of Sweden, member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda, Associate Fellow within the Global Fellowship Initiative of the GCSP, Member of Parliament, 1st vice Chair of conservative party, and member of European Parliament. Step 2: Organizations include Government of Sweden, UN, GCSP, and the conservative party (assumed to be the Moderate Party of Sweden). Step 3: Approximate periods are not explicitly stated for most roles, except for the UN panel which is implied to be around 2015. Step 4: Domains classified as political for ministerial and parliamentary roles, international for UN roles, and civil_society for GCSP fellowship. Step 5: Prominence assessed as primary for ministerial and parliamentary roles, secondary for UN panel and GCSP fellowship.",
+        "jobs": [
+          {
+            "title": "Minister of International Development Cooperation",
+            "organization": "Government of Sweden",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+            "organization": "United Nations",
+            "approximate_period": "2012-2013",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Associate Fellow within the Global Fellowship Initiative",
+            "organization": "Geneva Centre for Security Policy (GCSP)",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of Parliament",
+            "organization": "Government of Sweden",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "1st vice Chair of conservative party",
+            "organization": "Moderate Party of Sweden",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Member of European Parliament",
+            "organization": "European Parliament",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Ms Gunilla Carlsson is an Associate Fellow within the Global Fellowship Initiative of the GCSP.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3387,
+      "chunk_index": 0,
+      "source_id": 1244,
+      "url": "https://www.bitprop.com/team/gunilla-carlsson",
+      "domain": "bitprop.com",
+      "similarity": 0.5384574191473066,
+      "rerank_score": 0.5820878,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Senior Advisor at Bitprop, Member of Swedish Parliament, Minister of International Development Cooperation, 1st Vice Chair of Conservative Party, Member of European Parliament, Vice Chair of European People's Party, Member of World Bank Gender Advisory Council, Chair of Swedish initiated Commission on Climate Change and Development, Member of GAVI board, Advisory Board Member of Bill & Melinda Gates Foundation Europe, Member of European Center for Foreign Relations, and Fellow at Geneva Center for Security Policy. Step 2: Organizations were explicitly named for each role. Step 3: Approximate periods were extracted where available. Step 4: Domains were classified based on the nature of each organization. Step 5: Prominence was assessed based on the role's nature and context.\",\n  \"jobs\": [\n    {\n      \"title\": \"Senior Advisor\",\n      \"organization\": \"Bitprop\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of Swedish Parliament\",\n      \"organization\": \"Swedish Parliament\",\n      \"approximate_period\": \"2006-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister of International Development Cooperation\",\n      \"organization\": \"Government of Sweden\",\n      \"approximate_period\": \"2006-2013\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"1st Vice Chair of Conservative Party\",\n      \"organization\": \"Conservative Party (Sweden)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"political\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of European Parliament\",\n      \"organization\": \"European Parliament\",\n      \"approximate_period\": \"1995-2002\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Vice Chair of European People's Party\",\n      \"organization\": \"European People's Party (EPP)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"political\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of World Bank Gender Advisory Council\",\n      \"organization\": \"World Bank\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chair of Swedish initiated Commission on Climate Change and Development\",\n      \"organization\": \"Commission on Climate Change and Development\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of GAVI board\",\n      \"organization\": \"GAVI\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Advisory Board Member\",\n      \"organization\": \"Bill & Melinda Gates Foundation Europe\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"European Center for Foreign Relations (ECFR)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"Geneva Center for Security Policy (GCSP)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Gunilla Carlsson is a centre-right politician born 1963 in Sweden, with extensive experience of domestic, EU and international politics and negotiation.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Senior Advisor at Bitprop, Member of Swedish Parliament, Minister of International Development Cooperation, 1st Vice Chair of Conservative Party, Member of European Parliament, Vice Chair of European People's Party, Member of World Bank Gender Advisory Council, Chair of Swedish initiated Commission on Climate Change and Development, Member of GAVI board, Advisory Board Member of Bill & Melinda Gates Foundation Europe, Member of European Center for Foreign Relations, and Fellow at Geneva Center for Security Policy. Step 2: Organizations were explicitly named for each role. Step 3: Approximate periods were extracted where available. Step 4: Domains were classified based on the nature of each organization. Step 5: Prominence was assessed based on the role's nature and context.",
+        "jobs": [
+          {
+            "title": "Senior Advisor",
+            "organization": "Bitprop",
+            "approximate_period": "null",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of Swedish Parliament",
+            "organization": "Swedish Parliament",
+            "approximate_period": "2006-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister of International Development Cooperation",
+            "organization": "Government of Sweden",
+            "approximate_period": "2006-2013",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "1st Vice Chair of Conservative Party",
+            "organization": "Conservative Party (Sweden)",
+            "approximate_period": "null",
+            "domain": "political",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of European Parliament",
+            "organization": "European Parliament",
+            "approximate_period": "1995-2002",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Vice Chair of European People's Party",
+            "organization": "European People's Party (EPP)",
+            "approximate_period": "null",
+            "domain": "political",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of World Bank Gender Advisory Council",
+            "organization": "World Bank",
+            "approximate_period": "null",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chair of Swedish initiated Commission on Climate Change and Development",
+            "organization": "Commission on Climate Change and Development",
+            "approximate_period": "null",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of GAVI board",
+            "organization": "GAVI",
+            "approximate_period": "null",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Advisory Board Member",
+            "organization": "Bill & Melinda Gates Foundation Europe",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "European Center for Foreign Relations (ECFR)",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Fellow",
+            "organization": "Geneva Center for Security Policy (GCSP)",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Gunilla Carlsson is a centre-right politician born 1963 in Sweden, with extensive experience of domestic, EU and international politics and negotiation.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3372,
+      "chunk_index": 3,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5465937925646046,
+      "rerank_score": 0.56460327,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles explicitly mentioned for Gunilla Carlsson, including board memberships, advisory positions, and executive roles. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate dates where available. Step 4: Classified domains based on organization type. Step 5: Assessed prominence as primary or secondary based on role nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Member of the Board and of the Governance Committee\",\n      \"organization\": \"Global Fund to Fight AIDS, Tuberculosis and Malaria\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Non-voting Member of the Board\",\n      \"organization\": \"Center for Global Development\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the European Advisory Group\",\n      \"organization\": \"Center for Global Development\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the World Bank Group Advisory Council on Women’s Economic Empowerment\",\n      \"organization\": \"World Bank Group\",\n      \"approximate_period\": \"2008\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the High-level Panel on Post-2015 Development Agenda\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": \"2012\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"High-Level Advisor on Fragility\",\n      \"organization\": \"African Development Bank\",\n      \"approximate_period\": \"2015\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Lancet Commission on Defeating AIDS\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Deputy Executive Director, Management and Governance\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": \"2017-2019\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Executive Director, a.i.\",\n      \"organization\": \"UNAIDS\",\n      \"approximate_period\": \"2019\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director-General and Chair of the Board\",\n      \"organization\": \"Sida (Swedish International Development Cooperation Agency)\",\n      \"approximate_period\": \"2023\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Tundra Fonder\",\n      \"approximate_period\": \"2017\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Annexin Pharmaceuticals\",\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the High-Level Group of Personalities on Africa-Europe Relations\",\n      \"organization\": \"Africa Europe Foundation (AEF)\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Board of Governors\",\n      \"organization\": \"United Nations System Staff College (UNSSC)\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"European Council on Foreign Relations\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Governance Committee\",\n      \"organization\": \"GAVI Alliance\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"UNAIDS welcomes Gunilla Carlsson as new Deputy Executive Director, Management and Governance\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles explicitly mentioned for Gunilla Carlsson, including board memberships, advisory positions, and executive roles. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate dates where available. Step 4: Classified domains based on organization type. Step 5: Assessed prominence as primary or secondary based on role nature.",
+        "jobs": [
+          {
+            "title": "Member of the Board and of the Governance Committee",
+            "organization": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Non-voting Member of the Board",
+            "organization": "Center for Global Development",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the European Advisory Group",
+            "organization": "Center for Global Development",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the World Bank Group Advisory Council on Women’s Economic Empowerment",
+            "organization": "World Bank Group",
+            "approximate_period": "2008",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the High-level Panel on Post-2015 Development Agenda",
+            "organization": "United Nations",
+            "approximate_period": "2012",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "High-Level Advisor on Fragility",
+            "organization": "African Development Bank",
+            "approximate_period": "2015",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Lancet Commission on Defeating AIDS",
+            "organization": "UNAIDS",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Deputy Executive Director, Management and Governance",
+            "organization": "UNAIDS",
+            "approximate_period": "2017-2019",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Executive Director, a.i.",
+            "organization": "UNAIDS",
+            "approximate_period": "2019",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director-General and Chair of the Board",
+            "organization": "Sida (Swedish International Development Cooperation Agency)",
+            "approximate_period": "2023",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Tundra Fonder",
+            "approximate_period": "2017",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Annexin Pharmaceuticals",
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the High-Level Group of Personalities on Africa-Europe Relations",
+            "organization": "Africa Europe Foundation (AEF)",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Board of Governors",
+            "organization": "United Nations System Staff College (UNSSC)",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "European Council on Foreign Relations",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Governance Committee",
+            "organization": "GAVI Alliance",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "UNAIDS welcomes Gunilla Carlsson as new Deputy Executive Director, Management and Governance",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3381,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text discusses Gunilla Carlsson's career and professional history in detail, listing various roles and positions she has held. Step 2 — Job confirmation: The text does not mention the roles of 'Minister, Swedish Government (2012-2013)', 'Member, High-level Panel on Post-2015 Development Agenda (2012-2013)', or 'Member, African Development Bank's High Level Panel on Fragile States (2013-2014)' explicitly. Step 3 — New jobs found: The text mentions several roles not listed in the candidate findings, such as Co-Chair of the Africa Europe Foundation Strategy Group on Health, Member of The High-Level Group of Personalities on Africa-Europe, and others. Step 4 — Confidence: The source does not confirm the specific roles mentioned in the candidate findings but provides a comprehensive list of other positions held by Gunilla Carlsson.\",\n  \"confirms\": false,\n  \"confirmed_jobs\": [],\n  \"new_jobs_found\": [\n    {\n      \"title\": \"Co-Chair of the Africa Europe Foundation Strategy Group on Health\",\n      \"organization\": \"Africa-Europe Foundation\",\n      \"domain\": null\n    },\n    {\n      \"title\": \"Member, The High-Level Group of Personalities on Africa-Europe\",\n      \"organization\": \"Friends of Europe\",\n      \"domain\": null\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"European Council on Foreign Relations\",\n      \"domain\": null\n    },\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"Geneva Centre for Security Policy\",\n      \"domain\": \"Politik\"\n    },\n    {\n      \"title\": \"International Organizations Co-ordinator\",\n      \"organization\": \"Vaccine Forward\",\n      \"domain\": \"Hälsa\"\n    },\n    {\n      \"title\": \"Member of the Advisory Group\",\n      \"organization\": \"Bill & Melinda Gates Foundation\",\n      \"domain\": null\n    }\n  ],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text discusses Gunilla Carlsson's career and professional history in detail, listing various roles and positions she has held. Step 2 — Job confirmation: The text does not mention the roles of 'Minister, Swedish Government (2012-2013)', 'Member, High-level Panel on Post-2015 Development Agenda (2012-2013)', or 'Member, African Development Bank's High Level Panel on Fragile States (2013-2014)' explicitly. Step 3 — New jobs found: The text mentions several roles not listed in the candidate findings, such as Co-Chair of the Africa Europe Foundation Strategy Group on Health, Member of The High-Level Group of Personalities on Africa-Europe, and others. Step 4 — Confidence: The source does not confirm the specific roles mentioned in the candidate findings but provides a comprehensive list of other positions held by Gunilla Carlsson.",
+        "confirms": false,
+        "confirmed_jobs": [],
+        "new_jobs_found": [
+          {
+            "title": "Co-Chair of the Africa Europe Foundation Strategy Group on Health",
+            "organization": "Africa-Europe Foundation",
+            "domain": null
+          },
+          {
+            "title": "Member, The High-Level Group of Personalities on Africa-Europe",
+            "organization": "Friends of Europe",
+            "domain": null
+          },
+          {
+            "title": "Board Member",
+            "organization": "European Council on Foreign Relations",
+            "domain": null
+          },
+          {
+            "title": "Fellow",
+            "organization": "Geneva Centre for Security Policy",
+            "domain": "Politik"
+          },
+          {
+            "title": "International Organizations Co-ordinator",
+            "organization": "Vaccine Forward",
+            "domain": "Hälsa"
+          },
+          {
+            "title": "Member of the Advisory Group",
+            "organization": "Bill & Melinda Gates Foundation",
+            "domain": null
+          }
+        ],
+        "confidence": "medium",
+        "supporting_quote": null
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3378,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text discusses Gunilla Carlsson's career and professional history, including her roles and expertise. Step 2 — Job confirmation: The text does not explicitly confirm the roles of 'Minister, Swedish Government (2012-2013)' or 'Member, African Development Bank's High Level Panel on Fragile States (2013-2014)'. However, it mentions her appointment to high-level panels, which partially aligns with 'Member, High-level Panel on Post-2015 Development Agenda (2012-2013)'. Step 3 — New jobs found: The text mentions new roles not listed in candidate findings. Step 4 — Confidence: Medium, as some roles are partially confirmed or not mentioned.\",\n  \"confirms\": false,\n  \"confirmed_jobs\": [],\n  \"new_jobs_found\": [\n    {\n      \"title\": \"Member, World Bank Gender Advisory Council\",\n      \"organization\": \"World Bank\",\n      \"domain\": null\n    },\n    {\n      \"title\": \"Chair, Commission on Climate Change and Development\",\n      \"organization\": \"Swedish initiated Commission\",\n      \"domain\": \"Copenhagen 2007\"\n    },\n    {\n      \"title\": \"Member, High-level Panel for Global Sustainability\",\n      \"organization\": \"UN\",\n      \"domain\": \"Rio de Janeiro 2012\"\n    },\n    {\n      \"title\": \"Member, High-level Panel for Global Development Goals\",\n      \"organization\": \"UN\",\n      \"domain\": \"2013\"\n    },\n    {\n      \"title\": \"Independent Member\",\n      \"organization\": \"GAVI\",\n      \"domain\": null\n    }\n  ],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"She was also appointed by UN Secretary General Ban Ki-Moon to the high level panel for global sustainability ahead of conference in Rio de Janero 2012 and high-level panel for global development goals 2013.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text discusses Gunilla Carlsson's career and professional history, including her roles and expertise. Step 2 — Job confirmation: The text does not explicitly confirm the roles of 'Minister, Swedish Government (2012-2013)' or 'Member, African Development Bank's High Level Panel on Fragile States (2013-2014)'. However, it mentions her appointment to high-level panels, which partially aligns with 'Member, High-level Panel on Post-2015 Development Agenda (2012-2013)'. Step 3 — New jobs found: The text mentions new roles not listed in candidate findings. Step 4 — Confidence: Medium, as some roles are partially confirmed or not mentioned.",
+        "confirms": false,
+        "confirmed_jobs": [],
+        "new_jobs_found": [
+          {
+            "title": "Member, World Bank Gender Advisory Council",
+            "organization": "World Bank",
+            "domain": null
+          },
+          {
+            "title": "Chair, Commission on Climate Change and Development",
+            "organization": "Swedish initiated Commission",
+            "domain": "Copenhagen 2007"
+          },
+          {
+            "title": "Member, High-level Panel for Global Sustainability",
+            "organization": "UN",
+            "domain": "Rio de Janeiro 2012"
+          },
+          {
+            "title": "Member, High-level Panel for Global Development Goals",
+            "organization": "UN",
+            "domain": "2013"
+          },
+          {
+            "title": "Independent Member",
+            "organization": "GAVI",
+            "domain": null
+          }
+        ],
+        "confidence": "medium",
+        "supporting_quote": "She was also appointed by UN Secretary General Ban Ki-Moon to the high level panel for global sustainability ahead of conference in Rio de Janero 2012 and high-level panel for global development goals 2013."
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "She was also appointed by UN Secretary General Ban Ki-Moon to the high level panel for global sustainability ahead of conference in Rio de Janero 2012 and high-level panel for global development goals 2013.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 0,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "jobs": [
+      {
+        "title": "Minister",
+        "organization": "Swedish Government",
+        "approximate_period": "2012-2013",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "In her final year as minister from 2012 until 2013"
+      },
+      {
+        "title": "Member",
+        "organization": "High-level Panel on Post-2015 Development Agenda",
+        "approximate_period": "2012-2013",
+        "domain": "international",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "served on the High-level Panel on Post-2015 Development Agenda"
+      },
+      {
+        "title": "Member",
+        "organization": "African Development Bank's High Level Panel on Fragile States",
+        "approximate_period": "2013-2014",
+        "domain": "international",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "served on the African Development Bank’s three-member High Level Panel on Fragile States"
+      },
+      {
+        "title": "Member",
+        "organization": "UNAIDS–Lancet Commission on Defeating AIDS",
+        "approximate_period": "2013-2015",
+        "domain": "international",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "she was a member of the UNAIDS–Lancet Commission on Defeating AIDS"
+      },
+      {
+        "title": "UNAIDS Deputy Executive Director, Management and Governance",
+        "organization": "United Nations",
+        "approximate_period": "2017-present",
+        "domain": "international",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "appointed Carlsson as the UNAIDS deputy executive director, management and governance"
+      },
+      {
+        "title": "Assistant Secretary-General of the United Nations",
+        "organization": "United Nations",
+        "approximate_period": "2017-present",
+        "domain": "international",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "Assistant Secretary-General of the United Nations"
+      },
+      {
+        "title": "Executive Director ad interim",
+        "organization": "UNAIDS",
+        "approximate_period": "2019",
+        "domain": "international",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "she briefly served as executive director ad interim from May until August 2019"
+      },
+      {
+        "title": "Chair of the Governing Board",
+        "organization": "Swedish International Development Cooperation Agency (SIDA)",
+        "approximate_period": "2023-present",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "appointed Carlsson as the new Chair of the Governing Board of the Swedish International Development Cooperation Agency"
+      },
+      {
+        "title": "Member of the Board of Directors",
+        "organization": "Tundra Fonder",
+        "approximate_period": "2017-present",
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Tundra Fonder, Member of the Board of Directors (since 2017)"
+      },
+      {
+        "title": "Member of the Board of Directors",
+        "organization": "Annexin Pharmaceuticals",
+        "approximate_period": null,
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Annexin Pharmaceuticals, Member of the Board of Directors"
+      },
+      {
+        "title": "Independent Member of the Board of Directors",
+        "organization": "NGS Group AB",
+        "approximate_period": "2015-present",
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "NGS Group AB, Independent Member of the Board of Directors (since 2015)"
+      },
+      {
+        "title": "Independent Member of the Board of Directors",
+        "organization": "IFS AB",
+        "approximate_period": "2015-2016",
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "IFS AB, Independent Member of the Board of Directors (2015-2016)"
+      },
+      {
+        "title": "Member of the Board",
+        "organization": "Internationella Engelska Skolan (IES)",
+        "approximate_period": "2017-2019",
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Internationella Engelska Skolan (IES), Member of the Board (2017-2019)"
+      },
+      {
+        "title": "Member of the High-Level Group of Personalities on Africa-Europe Relations",
+        "organization": "Africa Europe Foundation (AEF)",
+        "approximate_period": "2020-present",
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Africa Europe Foundation (AEF), Member of the High-Level Group of Personalities on Africa-Europe Relations (since 2020)"
+      },
+      {
+        "title": "Member of the Board of Governors",
+        "organization": "United Nations System Staff College (UNSSC)",
+        "approximate_period": "2017-present",
+        "domain": "international",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "United Nations System Staff College (UNSSC), Member of the Board of Governors (since 2017)"
+      },
+      {
+        "title": "Member",
+        "organization": "European Council on Foreign Relations (ECFR)",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "European Council on Foreign Relations (ECFR), Member"
+      }
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

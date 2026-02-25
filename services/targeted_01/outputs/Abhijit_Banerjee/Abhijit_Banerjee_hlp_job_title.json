@@ -1,0 +1,168 @@
+{
+  "person_dir_name": "Abhijit_Banerjee",
+  "person_db_name": "Abhijit Banerjee",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T17:00:50.908093+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2013-2015",
+    "nomination_year": 2013,
+    "hlp_nomination_age": 52,
+    "birth_year": "1961",
+    "nationality": [
+      "Indian",
+      "American"
+    ]
+  },
+  "retrieval": {
+    "query": "Abhijit Banerjee job title position role career 2013 appointed nominated serving",
+    "chunks_in_db": 60,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3117,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4081,
+        "rerank_score": 0.5675
+      },
+      {
+        "chunk_id": 3126,
+        "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+        "domain": "economics.mit.edu",
+        "similarity": 0.4967,
+        "rerank_score": 0.5314
+      },
+      {
+        "chunk_id": 3115,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5451,
+        "rerank_score": 0.5033
+      },
+      {
+        "chunk_id": 3160,
+        "url": "https://www.povertyactionlab.org/person/banerjee",
+        "domain": "povertyactionlab.org",
+        "similarity": 0.4488,
+        "rerank_score": 0.475
+      },
+      {
+        "chunk_id": 3118,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.418,
+        "rerank_score": 0.3754
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3117,
+      "chunk_index": 2,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.40811475736018193,
+      "rerank_score": 0.5674818,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that in 2013, Abhijit Banerjee was named to a UN panel, which provides a clear temporal marker. Step 2 — Role identification: The text states that Banerjee is currently the Ford Foundation International Professor of Economics at MIT. Step 3 — Organization identification: The organization linked to this role is the Massachusetts Institute of Technology (MIT). Step 4 — Temporal match assessment: The role is described as 'currently' held, and there is no indication that it ended before 2013. Step 5 — Confidence assessment: The confidence is high because the role is explicitly stated and the temporal marker (2013) is clear.\",\n  \"job_title_at_nomination\": \"Ford Foundation International Professor of Economics\",\n  \"organization_at_nomination\": \"Massachusetts Institute of Technology\",\n  \"year_reference\": \"2013\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Banerjee is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology;\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that in 2013, Abhijit Banerjee was named to a UN panel, which provides a clear temporal marker. Step 2 — Role identification: The text states that Banerjee is currently the Ford Foundation International Professor of Economics at MIT. Step 3 — Organization identification: The organization linked to this role is the Massachusetts Institute of Technology (MIT). Step 4 — Temporal match assessment: The role is described as 'currently' held, and there is no indication that it ended before 2013. Step 5 — Confidence assessment: The confidence is high because the role is explicitly stated and the temporal marker (2013) is clear.",
+        "job_title_at_nomination": "Ford Foundation International Professor of Economics",
+        "organization_at_nomination": "Massachusetts Institute of Technology",
+        "year_reference": "2013",
+        "confidence": "high",
+        "supporting_quote": "Banerjee is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology;",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Ford Foundation International Professor of Economics",
+      "organization_at_nomination": "Massachusetts Institute of Technology",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3126,
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+      "domain": "economics.mit.edu",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is a curriculum vitae (CV) for Abhijit Banerjee, detailing his education, honors, and professional experience. It is directly relevant to his career and biography. Step 2 — Title match assessment: The CV explicitly lists 'Ford Foundation International Professor of Economics, M.I.T.' under 'ACADEMIC POSITIONS'. This is an exact match for the claimed title and organization. Step 3 — Temporal alignment: The role is listed with a start year of 2003, which extends through 2013, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"2003 - Ford Foundation International Professor of Economics, M.I.T.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is a curriculum vitae (CV) for Abhijit Banerjee, detailing his education, honors, and professional experience. It is directly relevant to his career and biography. Step 2 — Title match assessment: The CV explicitly lists 'Ford Foundation International Professor of Economics, M.I.T.' under 'ACADEMIC POSITIONS'. This is an exact match for the claimed title and organization. Step 3 — Temporal alignment: The role is listed with a start year of 2003, which extends through 2013, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "2003 - Ford Foundation International Professor of Economics, M.I.T.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "2003 - Ford Foundation International Professor of Economics, M.I.T.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3160,
+      "url": "https://www.povertyactionlab.org/person/banerjee",
+      "domain": "povertyactionlab.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is directly about Abhijit Banerjee and discusses his career and biography, including his academic and professional roles. Step 2 — Title match assessment: The text explicitly mentions 'Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology,' which is an exact match to the claim. Step 3 — Temporal alignment: The text states 'He is currently the Ford Foundation International Professor of Economics,' indicating the role was held at the time of writing, which aligns with the 2013 nomination period. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is directly about Abhijit Banerjee and discusses his career and biography, including his academic and professional roles. Step 2 — Title match assessment: The text explicitly mentions 'Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology,' which is an exact match to the claim. Step 3 — Temporal alignment: The text states 'He is currently the Ford Foundation International Professor of Economics,' indicating the role was held at the time of writing, which aligns with the 2013 nomination period. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3170,
+      "url": "https://www.carnegie.org/awards/honoree/abhijit-banerjee/",
+      "domain": "carnegie.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Abhijit Banerjee and discusses his career and biography, including his role at MIT. Step 2 — Title match assessment: The text explicitly states that Banerjee is the 'Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT)', which is an exact match to the claim. Step 3 — Temporal alignment: While the text does not provide a specific year for this title, it is presented as a current role without any contradicting information, making it consistent with the 2013 timeframe.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT).\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Abhijit Banerjee and discusses his career and biography, including his role at MIT. Step 2 — Title match assessment: The text explicitly states that Banerjee is the 'Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT)', which is an exact match to the claim. Step 3 — Temporal alignment: While the text does not provide a specific year for this title, it is presented as a current role without any contradicting information, making it consistent with the 2013 timeframe.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT).",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT).",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Banerjee is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology;",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "job_title_at_nomination": "Ford Foundation International Professor of Economics",
+    "organization_at_nomination": "Massachusetts Institute of Technology",
+    "year_reference": "2013"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

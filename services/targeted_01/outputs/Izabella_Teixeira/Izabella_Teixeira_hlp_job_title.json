@@ -1,0 +1,266 @@
+{
+  "person_dir_name": "Izabella_Teixeira",
+  "person_db_name": "Izabella Teixeira",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:20:17.718898+00:00",
+  "input": {
+    "hlp_name": "High-Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2012-2015",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 51,
+    "birth_year": "1961",
+    "nationality": [
+      "Brazilian"
+    ]
+  },
+  "retrieval": {
+    "query": "Izabella Teixeira job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 17,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 2945,
+        "url": "https://council.science/profile/izabella-teixeira/",
+        "domain": "council.science",
+        "similarity": 0.5442,
+        "rerank_score": 0.8492
+      },
+      {
+        "chunk_id": 2929,
+        "url": "https://cebri.org/en/especialista/63/izabella-teixeira",
+        "domain": "cebri.org",
+        "similarity": 0.4846,
+        "rerank_score": 0.8259
+      },
+      {
+        "chunk_id": 2934,
+        "url": "https://en.wikipedia.org/wiki/Izabella_Teixeira",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5807,
+        "rerank_score": 0.7465
+      },
+      {
+        "chunk_id": 2939,
+        "url": "https://www.woodwellclimate.org/staff/izabella-teixeira/",
+        "domain": "woodwellclimate.org",
+        "similarity": 0.5362,
+        "rerank_score": 0.715
+      },
+      {
+        "chunk_id": 2943,
+        "url": "https://www.americasquarterly.org/aq-author/izabella-teixeira/",
+        "domain": "americasquarterly.org",
+        "similarity": 0.447,
+        "rerank_score": 0.7019
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 2945,
+      "chunk_index": 0,
+      "source_id": 1086,
+      "url": "https://council.science/profile/izabella-teixeira/",
+      "domain": "council.science",
+      "similarity": 0.5441661303171449,
+      "rerank_score": 0.84918517,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions that Izabella Teixeira was appointed to the High-Level Panel of Eminent Persons for the Post-2015 Development Agenda in 2012. Step 2 — Role identification: The text states she was 'Former Minister of Environment' and 'co-chair of the International Resource Panel' but does not specify the exact timing of these roles relative to 2012. Step 3 — Organization identification: The organization linked to her role as co-chair is the International Resource Panel of the UN Environment (IRP/UNEP). Step 4 — Temporal match assessment: While the text does not explicitly state the timing of her co-chair role, it is mentioned alongside her appointment to the panel in 2012, suggesting it was a concurrent or immediately preceding role. Step 5 — Confidence assessment: The confidence is medium because the temporal link is implicit but consistent with the nomination period.\",\n  \"job_title_at_nomination\": \"co-chair of the International Resource Panel\",\n  \"organization_at_nomination\": \"International Resource Panel of the UN Environment (IRP/UNEP)\",\n  \"year_reference\": \"2012\",\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Izabella Teixeira is Co-Chair of the International Resource Panel of the UN Environment (IRP/UNEP); ... appointed, in 2012, to serve on the High-Level Panel of Eminent Persons for the Post-2015 Development Agenda.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions that Izabella Teixeira was appointed to the High-Level Panel of Eminent Persons for the Post-2015 Development Agenda in 2012. Step 2 — Role identification: The text states she was 'Former Minister of Environment' and 'co-chair of the International Resource Panel' but does not specify the exact timing of these roles relative to 2012. Step 3 — Organization identification: The organization linked to her role as co-chair is the International Resource Panel of the UN Environment (IRP/UNEP). Step 4 — Temporal match assessment: While the text does not explicitly state the timing of her co-chair role, it is mentioned alongside her appointment to the panel in 2012, suggesting it was a concurrent or immediately preceding role. Step 5 — Confidence assessment: The confidence is medium because the temporal link is implicit but consistent with the nomination period.",
+        "job_title_at_nomination": "co-chair of the International Resource Panel",
+        "organization_at_nomination": "International Resource Panel of the UN Environment (IRP/UNEP)",
+        "year_reference": "2012",
+        "confidence": "medium",
+        "supporting_quote": "Izabella Teixeira is Co-Chair of the International Resource Panel of the UN Environment (IRP/UNEP); ... appointed, in 2012, to serve on the High-Level Panel of Eminent Persons for the Post-2015 Development Agenda.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "co-chair of the International Resource Panel",
+      "organization_at_nomination": "International Resource Panel of the UN Environment (IRP/UNEP)",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 2929,
+      "chunk_index": 0,
+      "source_id": 1079,
+      "url": "https://cebri.org/en/especialista/63/izabella-teixeira",
+      "domain": "cebri.org",
+      "similarity": 0.48461518138313386,
+      "rerank_score": 0.8259413,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions that Izabella Teixeira was appointed to the High-Level Panel of Eminent Persons for the Post-2015 Development Agenda in 2012. Additionally, her role as Minister of Environment is dated from 2010-2016, which overlaps with 2012. Step 2 — Role identification: The text clearly identifies her as 'Minister of Environment'. Step 3 — Organization identification: The organization linked to this role is implied to be the Brazilian government, as she is referred to as 'Minister of Environment' without specifying a different country. Step 4 — Temporal match assessment: The role of Minister of Environment (2010-2016) directly overlaps with the nomination year 2012. Step 5 — Confidence assessment: High confidence, as the role is explicitly stated with a date range covering 2012.\",\n  \"job_title_at_nomination\": \"Minister of Environment\",\n  \"organization_at_nomination\": \"Brazilian Government\",\n  \"year_reference\": \"2010-2016\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Minister of Environment (2010-2016)\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions that Izabella Teixeira was appointed to the High-Level Panel of Eminent Persons for the Post-2015 Development Agenda in 2012. Additionally, her role as Minister of Environment is dated from 2010-2016, which overlaps with 2012. Step 2 — Role identification: The text clearly identifies her as 'Minister of Environment'. Step 3 — Organization identification: The organization linked to this role is implied to be the Brazilian government, as she is referred to as 'Minister of Environment' without specifying a different country. Step 4 — Temporal match assessment: The role of Minister of Environment (2010-2016) directly overlaps with the nomination year 2012. Step 5 — Confidence assessment: High confidence, as the role is explicitly stated with a date range covering 2012.",
+        "job_title_at_nomination": "Minister of Environment",
+        "organization_at_nomination": "Brazilian Government",
+        "year_reference": "2010-2016",
+        "confidence": "high",
+        "supporting_quote": "Minister of Environment (2010-2016)",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Minister of Environment",
+      "organization_at_nomination": "Brazilian Government",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 2934,
+      "chunk_index": 0,
+      "source_id": 1080,
+      "url": "https://en.wikipedia.org/wiki/Izabella_Teixeira",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5806941577970283,
+      "rerank_score": 0.74652773,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text states Izabella Teixeira was appointed Minister of the Environment in March 2010 and held the position until May 2016, which includes the nomination year 2012. Step 2 — Role identification: The text explicitly names her role as 'Minister of the Environment'. Step 3 — Organization identification: The organization is implied as the Brazilian government, with the full title being 'Minister of the Environment of Brazil'. Step 4 — Temporal match assessment: The role's date range (2010–2016) overlaps with 2012, confirming it was her role at nomination. Step 5 — Confidence assessment: High confidence due to explicit date range and role title.\",\n  \"job_title_at_nomination\": \"Minister of the Environment\",\n  \"organization_at_nomination\": \"Government of Brazil\",\n  \"year_reference\": \"2010–2016\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"In office 30 March 2010 – 12 May 2016\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text states Izabella Teixeira was appointed Minister of the Environment in March 2010 and held the position until May 2016, which includes the nomination year 2012. Step 2 — Role identification: The text explicitly names her role as 'Minister of the Environment'. Step 3 — Organization identification: The organization is implied as the Brazilian government, with the full title being 'Minister of the Environment of Brazil'. Step 4 — Temporal match assessment: The role's date range (2010–2016) overlaps with 2012, confirming it was her role at nomination. Step 5 — Confidence assessment: High confidence due to explicit date range and role title.",
+        "job_title_at_nomination": "Minister of the Environment",
+        "organization_at_nomination": "Government of Brazil",
+        "year_reference": "2010–2016",
+        "confidence": "high",
+        "supporting_quote": "In office 30 March 2010 – 12 May 2016",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Minister of the Environment",
+      "organization_at_nomination": "Government of Brazil",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 2939,
+      "chunk_index": 0,
+      "source_id": 1081,
+      "url": "https://www.woodwellclimate.org/staff/izabella-teixeira/",
+      "domain": "woodwellclimate.org",
+      "similarity": 0.5362212590408201,
+      "rerank_score": 0.71496695,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly states that Izabella Teixeira was Brazil’s Minister of the Environment from 2010 to 2016, which overlaps with the nomination year 2012. Step 2 — Role identification: The text clearly identifies her role as 'Minister of the Environment'. Step 3 — Organization identification: The organization linked to this role is 'Brazil’s Ministry of the Environment'. Step 4 — Temporal match assessment: The role of Minister of the Environment falls within the period 2010-2016, which includes 2012. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2012.\",\n  \"job_title_at_nomination\": \"Minister of the Environment\",\n  \"organization_at_nomination\": \"Brazil’s Ministry of the Environment\",\n  \"year_reference\": \"2010 to 2016\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"She holds a Ph.D. in Energy Planning and was Brazil’s Minister of the Environment from 2010 to 2016.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly states that Izabella Teixeira was Brazil’s Minister of the Environment from 2010 to 2016, which overlaps with the nomination year 2012. Step 2 — Role identification: The text clearly identifies her role as 'Minister of the Environment'. Step 3 — Organization identification: The organization linked to this role is 'Brazil’s Ministry of the Environment'. Step 4 — Temporal match assessment: The role of Minister of the Environment falls within the period 2010-2016, which includes 2012. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2012.",
+        "job_title_at_nomination": "Minister of the Environment",
+        "organization_at_nomination": "Brazil’s Ministry of the Environment",
+        "year_reference": "2010 to 2016",
+        "confidence": "high",
+        "supporting_quote": "She holds a Ph.D. in Energy Planning and was Brazil’s Minister of the Environment from 2010 to 2016.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Minister of the Environment",
+      "organization_at_nomination": "Brazil’s Ministry of the Environment",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 2943,
+      "chunk_index": 0,
+      "source_id": 1085,
+      "url": "https://www.americasquarterly.org/aq-author/izabella-teixeira/",
+      "domain": "americasquarterly.org",
+      "similarity": 0.44695280320639535,
+      "rerank_score": 0.7018975,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text states Izabella Teixeira has served as Brazil’s minister of the environment since 2010, which overlaps with 2012. Step 2 — Role identification: The text explicitly names her role as 'minister of the environment'. Step 3 — Organization identification: The organization is identified as the Brazilian government, with the specific ministry being the Ministry of the Environment. Step 4 — Temporal match assessment: The role began in 2010 and continues through 2012, making it the role held at nomination. Step 5 — Confidence assessment: High confidence due to explicit date range and clear role description.\",\n  \"job_title_at_nomination\": \"minister of the environment\",\n  \"organization_at_nomination\": \"Ministry of the Environment, Brazil\",\n  \"year_reference\": \"2010\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Izabella Teixeira has served as Brazil’s minister of the environment since 2010.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text states Izabella Teixeira has served as Brazil’s minister of the environment since 2010, which overlaps with 2012. Step 2 — Role identification: The text explicitly names her role as 'minister of the environment'. Step 3 — Organization identification: The organization is identified as the Brazilian government, with the specific ministry being the Ministry of the Environment. Step 4 — Temporal match assessment: The role began in 2010 and continues through 2012, making it the role held at nomination. Step 5 — Confidence assessment: High confidence due to explicit date range and clear role description.",
+        "job_title_at_nomination": "minister of the environment",
+        "organization_at_nomination": "Ministry of the Environment, Brazil",
+        "year_reference": "2010",
+        "confidence": "high",
+        "supporting_quote": "Izabella Teixeira has served as Brazil’s minister of the environment since 2010.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "minister of the environment",
+      "organization_at_nomination": "Ministry of the Environment, Brazil",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 2935,
+      "url": "https://en.wikipedia.org/wiki/Izabella_Teixeira",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text is relevant as it discusses Izabella Teixeira's career and biography, focusing on her environmental initiatives and roles. Step 2: The text does not mention the title 'co-chair of the International Resource Panel' or any role at the International Resource Panel of the UN Environment (IRP/UNEP). Step 3: Since no matching title is found, temporal alignment is not applicable. Step 4: The source mentions her role as Environment Minister of Brazil, which is a different primary role but does not contradict the claim for 2012. The source is silent on the specific claim.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": \"Environment Minister\",\n  \"alternative_organization\": \"Brazil\"\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text is relevant as it discusses Izabella Teixeira's career and biography, focusing on her environmental initiatives and roles. Step 2: The text does not mention the title 'co-chair of the International Resource Panel' or any role at the International Resource Panel of the UN Environment (IRP/UNEP). Step 3: Since no matching title is found, temporal alignment is not applicable. Step 4: The source mentions her role as Environment Minister of Brazil, which is a different primary role but does not contradict the claim for 2012. The source is silent on the specific claim.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": "Environment Minister",
+        "alternative_organization": "Brazil"
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": "Environment Minister",
+      "alternative_organization": "Brazil",
+      "error": null
+    },
+    {
+      "chunk_id": 2936,
+      "url": "https://en.wikipedia.org/wiki/Izabella_Teixeira",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text is relevant as it discusses Izabella Teixeira's career, specifically her role as Minister of the Environment. Step 2 — The text does not mention the title 'co-chair of the International Resource Panel' or any role at IRP/UNEP, making it silent on the claim. Step 3 — Not applicable as no matching title is found. Step 4 — The source names a different primary role (Minister of Environment) for 2012, but this does not contradict the claim as it does not address the IRP/UNEP role.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": \"Minister of Environment\",\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text is relevant as it discusses Izabella Teixeira's career, specifically her role as Minister of the Environment. Step 2 — The text does not mention the title 'co-chair of the International Resource Panel' or any role at IRP/UNEP, making it silent on the claim. Step 3 — Not applicable as no matching title is found. Step 4 — The source names a different primary role (Minister of Environment) for 2012, but this does not contradict the claim as it does not address the IRP/UNEP role.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": "Minister of Environment",
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": "Minister of Environment",
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 2940,
+      "url": "https://iica.int/en/press/news/izabella-teixeira-former-minister-of-the-environment-of-brazil-and-a-globally-renowned-expert-on-the-relationship-between-economic-development-and-climate-recognized-as-an-iica-goodwill-ambass/",
+      "domain": "iica.int",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Izabella Teixeira and discusses her career and biography, including her roles as a biologist, former Minister of the Environment of Brazil, and IICA Goodwill Ambassador. Step 2 — Title match assessment: The text does not mention any role related to the 'co-chair of the International Resource Panel' at 'International Resource Panel of the UN Environment (IRP/UNEP)'. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source mentions her as 'former Minister of the Environment of Brazil' and 'IICA Goodwill Ambassador', but these roles are not contradictory to the claim as they do not pertain to the same period or organization. The source is silent on the specific claim.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Izabella Teixeira and discusses her career and biography, including her roles as a biologist, former Minister of the Environment of Brazil, and IICA Goodwill Ambassador. Step 2 — Title match assessment: The text does not mention any role related to the 'co-chair of the International Resource Panel' at 'International Resource Panel of the UN Environment (IRP/UNEP)'. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source mentions her as 'former Minister of the Environment of Brazil' and 'IICA Goodwill Ambassador', but these roles are not contradictory to the claim as they do not pertain to the same period or organization. The source is silent on the specific claim.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "job_title_at_nomination": "co-chair of the International Resource Panel",
+    "organization_at_nomination": "International Resource Panel of the UN Environment (IRP/UNEP)",
+    "confidence": "medium",
+    "supporting_quote": "Izabella Teixeira is Co-Chair of the International Resource Panel of the UN Environment (IRP/UNEP); ... appointed, in 2012, to serve on the High-Level Panel of Eminent Persons for the Post-2015 Development Agenda.",
+    "confirmation_count": 0,
+    "primary_source_domain": "council.science",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 5,
+    "chunks_scanned_verification": 3,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

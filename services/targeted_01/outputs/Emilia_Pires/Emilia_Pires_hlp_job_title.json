@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Emilia_Pires",
+  "person_db_name": "Emilia Pires",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:17:46.141029+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel of Eminent Persons on Post-2015 Development Agenda",
+    "hlp_year": "2012-2015",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 50,
+    "birth_year": "1962",
+    "nationality": [
+      "Timorese"
+    ]
+  },
+  "retrieval": {
+    "query": "Emilia Pires job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 36,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3424,
+        "url": "https://www.imf.org/external/np/seminars/eng/2013/timor/pdf/EPires.pdf",
+        "domain": "imf.org",
+        "similarity": 0.5166,
+        "rerank_score": 0.7973
+      },
+      {
+        "chunk_id": 3391,
+        "url": "https://en.wikipedia.org/wiki/Em%C3%ADlia_Pires",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5618,
+        "rerank_score": 0.7956
+      },
+      {
+        "chunk_id": 3398,
+        "url": "https://live.worldbank.org/en/experts/e/emilia-pires",
+        "domain": "live.worldbank.org",
+        "similarity": 0.4571,
+        "rerank_score": 0.7362
+      },
+      {
+        "chunk_id": 3425,
+        "url": "https://timor-leste.gov.tl/?p=7085&lang=en",
+        "domain": "timor-leste.gov.tl",
+        "similarity": 0.4463,
+        "rerank_score": 0.7348
+      },
+      {
+        "chunk_id": 3422,
+        "url": "https://www.forbes.com/global/2009/0907/power-women-09-east-timor-finance-emilia-pires.html",
+        "domain": "forbes.com",
+        "similarity": 0.3918,
+        "rerank_score": 0.7254
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3424,
+      "chunk_index": 0,
+      "source_id": 1257,
+      "url": "https://www.imf.org/external/np/seminars/eng/2013/timor/pdf/EPires.pdf",
+      "domain": "imf.org",
+      "similarity": 0.5165795036849778,
+      "rerank_score": 0.79732054,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions 'August 2012' as the time when Emilia Pires was reappointed as Finance Minister. This provides a clear year marker. Step 2 — Role identification: The text explicitly states 'Finance Minister' as her role. Step 3 — Organization identification: The organization is implied as the Timorese government, as she was reappointed in the new government formed in August 2012. Step 4 — Temporal match assessment: The role of Finance Minister overlaps with 2012, as she was reappointed in August 2012. Step 5 — Confidence assessment: High confidence, as the text explicitly states her role and provides a clear year marker.\",\n  \"job_title_at_nomination\": \"Finance Minister\",\n  \"organization_at_nomination\": \"Timorese government\",\n  \"year_reference\": \"2012\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"She was reappointed as Finance Minister in the new government formed in August 2012.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions 'August 2012' as the time when Emilia Pires was reappointed as Finance Minister. This provides a clear year marker. Step 2 — Role identification: The text explicitly states 'Finance Minister' as her role. Step 3 — Organization identification: The organization is implied as the Timorese government, as she was reappointed in the new government formed in August 2012. Step 4 — Temporal match assessment: The role of Finance Minister overlaps with 2012, as she was reappointed in August 2012. Step 5 — Confidence assessment: High confidence, as the text explicitly states her role and provides a clear year marker.",
+        "job_title_at_nomination": "Finance Minister",
+        "organization_at_nomination": "Timorese government",
+        "year_reference": "2012",
+        "confidence": "high",
+        "supporting_quote": "She was reappointed as Finance Minister in the new government formed in August 2012.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Finance Minister",
+      "organization_at_nomination": "Timorese government",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3391,
+      "url": "https://en.wikipedia.org/wiki/Em%C3%ADlia_Pires",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is a Wikipedia article about Emilia Pires, discussing her career and biography, including her role as Minister of Finance. Step 2 — Title match assessment: The text mentions 'Minister of Finance' which is a compatible match with 'Finance Minister' at the 'Timorese government'. Step 3 — Temporal alignment: The text explicitly states she held the position from April 2007 until 16 February 2015, which includes 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Emília Pires was East Timor's Minister of Finance from April 2007 until 16 February 2015.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is a Wikipedia article about Emilia Pires, discussing her career and biography, including her role as Minister of Finance. Step 2 — Title match assessment: The text mentions 'Minister of Finance' which is a compatible match with 'Finance Minister' at the 'Timorese government'. Step 3 — Temporal alignment: The text explicitly states she held the position from April 2007 until 16 February 2015, which includes 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Emília Pires was East Timor's Minister of Finance from April 2007 until 16 February 2015.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Emília Pires was East Timor's Minister of Finance from April 2007 until 16 February 2015.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3398,
+      "url": "https://live.worldbank.org/en/experts/e/emilia-pires",
+      "domain": "live.worldbank.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Emilia Pires and discusses her career, including her role as Minister of Finance in Timor-Leste. Step 2 — Title match assessment: The text mentions 'Minister of Finance' which is a compatible match with 'Finance Minister' at the 'Timorese government'. Step 3 — Temporal alignment: The text explicitly states she held this role from 2007 to 2015, which includes 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Emília Pires was Timor-Leste's Minister of Finance from 2007 to 2015 under the leadership of Prime Minister Xanana Gusmao.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Emilia Pires and discusses her career, including her role as Minister of Finance in Timor-Leste. Step 2 — Title match assessment: The text mentions 'Minister of Finance' which is a compatible match with 'Finance Minister' at the 'Timorese government'. Step 3 — Temporal alignment: The text explicitly states she held this role from 2007 to 2015, which includes 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Emília Pires was Timor-Leste's Minister of Finance from 2007 to 2015 under the leadership of Prime Minister Xanana Gusmao.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Emília Pires was Timor-Leste's Minister of Finance from 2007 to 2015 under the leadership of Prime Minister Xanana Gusmao.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3425,
+      "url": "https://timor-leste.gov.tl/?p=7085&lang=en",
+      "domain": "timor-leste.gov.tl",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Emilia Pires and discusses her appointment to the UN High-level Panel of Eminent Persons, which is relevant to her career. Step 2 — Title match assessment: The text does not mention 'Finance Minister' or any compatible title for Emilia Pires. Instead, it refers to her as 'Her Excellency Emilia Pires' without specifying her government role. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source does not provide an alternative title for 2012. The text is silent on her role in the Timorese government.\",\n  \"confirms\": false,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Emilia Pires and discusses her appointment to the UN High-level Panel of Eminent Persons, which is relevant to her career. Step 2 — Title match assessment: The text does not mention 'Finance Minister' or any compatible title for Emilia Pires. Instead, it refers to her as 'Her Excellency Emilia Pires' without specifying her government role. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source does not provide an alternative title for 2012. The text is silent on her role in the Timorese government.",
+        "confirms": false,
+        "confidence": "low",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Finance Minister",
+    "organization_at_nomination": "Timorese government",
+    "confidence": "high",
+    "supporting_quote": "She was reappointed as Finance Minister in the new government formed in August 2012.",
+    "confirmation_count": 2,
+    "primary_source_domain": "imf.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

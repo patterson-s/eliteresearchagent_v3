@@ -1,0 +1,63 @@
+{
+  "person_dir_name": "Gro_Harlem_Brundtland",
+  "person_db_name": "Gro Harlem Brundtland",
+  "question_id": "career_domain",
+  "question_display": "Career Domain (Archetypes)",
+  "run_timestamp": "2026-02-25T18:01:02.122189+00:00",
+  "input": {
+    "birth_year": "1939",
+    "nationality": [
+      "Norwegian"
+    ]
+  },
+  "synthesis_inputs": {
+    "HLP_JOB_RESULT": "[loaded from hlp_job_title]",
+    "EDUCATION_RESULT": "[loaded from education]",
+    "LOCATIONS_RESULT": "[loaded from locations]",
+    "JOBS_RESULT": "[loaded from jobs]",
+    "SECTORS_RESULT": "[loaded from sectors]",
+    "NETWORKS_RESULT": "[loaded from networks]"
+  },
+  "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Jobs review: Gro Harlem Brundtland's roles include 3 primary political roles (Minister of Environment, Prime Minister of Norway), 1 primary international role (Director-General of WHO), 1 primary diplomatic role (Special Envoy on Climate Change), 2 primary other roles (Physician), and several secondary roles in political, international, civil_society, and diplomatic domains. Primary roles are heavily weighted towards political and international domains. Step 2 — Duration weighting: Political roles span approximately 15 years (1974-1996), international role spans 5 years (1998-2003), and diplomatic role spans 3 years (2007-2010). Political domain has the longest duration. Step 3 — Sectors cross-check: Primary sector is global_health, which aligns with international and diplomatic roles, but her extensive political roles in government reinforce the political domain. Step 4 — Networks cross-check: Affiliations with UN, WHO, and advisory roles in international bodies reinforce international and diplomatic signals, but her long-standing political roles and networks (e.g., Prime Minister, Labour Party Leader) strongly support the political domain. Step 5 — Dominant domain identification: Political domain is the most dominant due to the number, duration, and prominence of roles. Step 6 — Hybrid test: While international and diplomatic roles are significant, they do not account for a comparable share of her career to warrant a hybrid classification.\",\n  \"domain_evidence\": {\n    \"academic\": \"\",\n    \"civil_society\": \"Secondary role as Deputy Chair of The Elders and affiliations with civil society organizations like the Council of Women Leaders.\",\n    \"corporate\": \"\",\n    \"diplomatic\": \"Primary role as Special Envoy on Climate Change and advisory roles in UN bodies.\",\n    \"political\": \"Three terms as Prime Minister of Norway, Minister of the Environment, and Leader of the Labour Party, spanning over 15 years.\",\n    \"international\": \"Primary role as Director-General of WHO and Chair of the Brundtland Commission.\",\n    \"other\": \"Early career as a physician in Norway.\"\n  },\n  \"dominant_domain\": \"political\",\n  \"is_hybrid\": false,\n  \"hybrid_domains\": [],\n  \"alternative_domain_suggestion\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+  "parsed": {
+    "reasoning": "Step 1 — Jobs review: Gro Harlem Brundtland's roles include 3 primary political roles (Minister of Environment, Prime Minister of Norway), 1 primary international role (Director-General of WHO), 1 primary diplomatic role (Special Envoy on Climate Change), 2 primary other roles (Physician), and several secondary roles in political, international, civil_society, and diplomatic domains. Primary roles are heavily weighted towards political and international domains. Step 2 — Duration weighting: Political roles span approximately 15 years (1974-1996), international role spans 5 years (1998-2003), and diplomatic role spans 3 years (2007-2010). Political domain has the longest duration. Step 3 — Sectors cross-check: Primary sector is global_health, which aligns with international and diplomatic roles, but her extensive political roles in government reinforce the political domain. Step 4 — Networks cross-check: Affiliations with UN, WHO, and advisory roles in international bodies reinforce international and diplomatic signals, but her long-standing political roles and networks (e.g., Prime Minister, Labour Party Leader) strongly support the political domain. Step 5 — Dominant domain identification: Political domain is the most dominant due to the number, duration, and prominence of roles. Step 6 — Hybrid test: While international and diplomatic roles are significant, they do not account for a comparable share of her career to warrant a hybrid classification.",
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "Secondary role as Deputy Chair of The Elders and affiliations with civil society organizations like the Council of Women Leaders.",
+      "corporate": "",
+      "diplomatic": "Primary role as Special Envoy on Climate Change and advisory roles in UN bodies.",
+      "political": "Three terms as Prime Minister of Norway, Minister of the Environment, and Leader of the Labour Party, spanning over 15 years.",
+      "international": "Primary role as Director-General of WHO and Chair of the Brundtland Commission.",
+      "other": "Early career as a physician in Norway."
+    },
+    "dominant_domain": "political",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "alternative_domain_suggestion": null,
+    "confidence": "high",
+    "cannot_determine": false
+  },
+  "result": {
+    "status": "found",
+    "dominant_domain": "political",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "Secondary role as Deputy Chair of The Elders and affiliations with civil society organizations like the Council of Women Leaders.",
+      "corporate": "",
+      "diplomatic": "Primary role as Special Envoy on Climate Change and advisory roles in UN bodies.",
+      "political": "Three terms as Prime Minister of Norway, Minister of the Environment, and Leader of the Labour Party, spanning over 15 years.",
+      "international": "Primary role as Director-General of WHO and Chair of the Brundtland Commission.",
+      "other": "Early career as a physician in Norway."
+    },
+    "alternative_domain_suggestion": null,
+    "confidence": "high"
+  },
+  "meta": {
+    "mode": "synthesis",
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

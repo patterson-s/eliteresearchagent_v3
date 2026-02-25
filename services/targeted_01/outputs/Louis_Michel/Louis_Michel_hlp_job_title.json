@@ -1,0 +1,164 @@
+{
+  "person_dir_name": "Louis_Michel",
+  "person_db_name": "Louis Michel",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:22:59.596499+00:00",
+  "input": {
+    "hlp_name": "United Nations High-level Panel on Systemwide Coherence",
+    "hlp_year": "2006",
+    "nomination_year": 2006,
+    "hlp_nomination_age": 59,
+    "birth_year": "1947",
+    "nationality": null
+  },
+  "retrieval": {
+    "query": "Louis Michel job title position role career 2006 appointed nominated serving",
+    "chunks_in_db": 42,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3863,
+        "url": "https://en.wikipedia.org/wiki/Louis_Michel",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5969,
+        "rerank_score": 0.7738
+      },
+      {
+        "chunk_id": 3898,
+        "url": "https://alchetron.com/Louis-Michel",
+        "domain": "alchetron.com",
+        "similarity": 0.5611,
+        "rerank_score": 0.7487
+      },
+      {
+        "chunk_id": 3899,
+        "url": "https://alchetron.com/Louis-Michel",
+        "domain": "alchetron.com",
+        "similarity": 0.5675,
+        "rerank_score": 0.6992
+      },
+      {
+        "chunk_id": 3871,
+        "url": "https://grokipedia.com/page/Louis_Michel",
+        "domain": "grokipedia.com",
+        "similarity": 0.5943,
+        "rerank_score": 0.6955
+      },
+      {
+        "chunk_id": 3864,
+        "url": "https://en.wikipedia.org/wiki/Louis_Michel",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5472,
+        "rerank_score": 0.6544
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3863,
+      "chunk_index": 0,
+      "source_id": 1379,
+      "url": "https://en.wikipedia.org/wiki/Louis_Michel",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5968918506597658,
+      "rerank_score": 0.7738498,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly states that Louis Michel served as European Commissioner for Development and Humanitarian Aid from 2004 to 2009, which includes the year 2006. Step 2 — Role identification: The specific job title 'European Commissioner for Development and Humanitarian Aid' is clearly mentioned. Step 3 — Organization identification: The organization is the European Commission, implied by the title 'European Commissioner'. Step 4 — Temporal match assessment: The role overlaps with 2006, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence due to explicit date range covering 2006.\",\n  \"job_title_at_nomination\": \"European Commissioner for Development and Humanitarian Aid\",\n  \"organization_at_nomination\": \"European Commission\",\n  \"year_reference\": \"2004–2009\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"European Commissioner for Development and Humanitarian Aid from 2004 to 2009\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly states that Louis Michel served as European Commissioner for Development and Humanitarian Aid from 2004 to 2009, which includes the year 2006. Step 2 — Role identification: The specific job title 'European Commissioner for Development and Humanitarian Aid' is clearly mentioned. Step 3 — Organization identification: The organization is the European Commission, implied by the title 'European Commissioner'. Step 4 — Temporal match assessment: The role overlaps with 2006, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence due to explicit date range covering 2006.",
+        "job_title_at_nomination": "European Commissioner for Development and Humanitarian Aid",
+        "organization_at_nomination": "European Commission",
+        "year_reference": "2004–2009",
+        "confidence": "high",
+        "supporting_quote": "European Commissioner for Development and Humanitarian Aid from 2004 to 2009",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "European Commissioner for Development and Humanitarian Aid",
+      "organization_at_nomination": "European Commission",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3898,
+      "url": "https://alchetron.com/Louis-Michel",
+      "domain": "alchetron.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Louis Michel and discusses his career and biography, including his roles as a politician and European Commissioner. Step 2 — Title match assessment: The text explicitly states that Louis Michel was 'European Commissioner for Development and Humanitarian Aid,' which is an exact match to the claim. Step 3 — Temporal alignment: The text provides the exact dates for this role as 2004 to 2009, which includes the year 2006, confirming temporal alignment.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"European Commissioner for Development and Humanitarian Aid from 2004 to 2009.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Louis Michel and discusses his career and biography, including his roles as a politician and European Commissioner. Step 2 — Title match assessment: The text explicitly states that Louis Michel was 'European Commissioner for Development and Humanitarian Aid,' which is an exact match to the claim. Step 3 — Temporal alignment: The text provides the exact dates for this role as 2004 to 2009, which includes the year 2006, confirming temporal alignment.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "European Commissioner for Development and Humanitarian Aid from 2004 to 2009.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "European Commissioner for Development and Humanitarian Aid from 2004 to 2009.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3899,
+      "url": "https://alchetron.com/Louis-Michel",
+      "domain": "alchetron.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Louis Michel and discusses his career, including his roles at the European Commission. Step 2 — Title match assessment: The text explicitly states that Michel 'served as the European Commissioner for Humanitarian Aid and Development,' which is a compatible match with the claimed title. Step 3 — Temporal alignment: The text indicates Michel took on this role after November 2004 and resigned in July 2009, which includes the year 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Michel completed Busquin's term as the European Commissioner for Science and Research and then served as the European Commissioner for Humanitarian Aid and Development.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Louis Michel and discusses his career, including his roles at the European Commission. Step 2 — Title match assessment: The text explicitly states that Michel 'served as the European Commissioner for Humanitarian Aid and Development,' which is a compatible match with the claimed title. Step 3 — Temporal alignment: The text indicates Michel took on this role after November 2004 and resigned in July 2009, which includes the year 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Michel completed Busquin's term as the European Commissioner for Science and Research and then served as the European Commissioner for Humanitarian Aid and Development.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Michel completed Busquin's term as the European Commissioner for Science and Research and then served as the European Commissioner for Humanitarian Aid and Development.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3871,
+      "url": "https://grokipedia.com/page/Louis_Michel",
+      "domain": "grokipedia.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is directly about Louis Michel and discusses his career and biography in detail. Step 2 — Title match assessment: The text explicitly mentions 'European Commissioner for Development and Humanitarian Aid' at the 'European Commission', which is an exact match to the claim. Step 3 — Temporal alignment: The role is stated to be held from 2004 to 2009, which includes the year 2006, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"From 2004 to 2009, Michel was the European Commissioner for Development and Humanitarian Aid\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is directly about Louis Michel and discusses his career and biography in detail. Step 2 — Title match assessment: The text explicitly mentions 'European Commissioner for Development and Humanitarian Aid' at the 'European Commission', which is an exact match to the claim. Step 3 — Temporal alignment: The role is stated to be held from 2004 to 2009, which includes the year 2006, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "From 2004 to 2009, Michel was the European Commissioner for Development and Humanitarian Aid",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "From 2004 to 2009, Michel was the European Commissioner for Development and Humanitarian Aid",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "European Commissioner for Development and Humanitarian Aid",
+    "organization_at_nomination": "European Commission",
+    "confidence": "high",
+    "supporting_quote": "European Commissioner for Development and Humanitarian Aid from 2004 to 2009",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

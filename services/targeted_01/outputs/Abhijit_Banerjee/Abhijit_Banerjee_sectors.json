@@ -1,0 +1,449 @@
+{
+  "person_dir_name": "Abhijit_Banerjee",
+  "person_db_name": "Abhijit Banerjee",
+  "question_id": "sectors",
+  "question_display": "Main Sectors of Expertise (Functional Mobility)",
+  "run_timestamp": "2026-02-25T17:05:09.640473+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2013-2015",
+    "nomination_year": 2013,
+    "hlp_nomination_age": 52,
+    "birth_year": "1961",
+    "nationality": [
+      "Indian",
+      "American"
+    ]
+  },
+  "retrieval": {
+    "query": "Abhijit Banerjee expertise sector field development finance human rights environment health diplomacy technology science trade",
+    "chunks_in_db": 60,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3115,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.529,
+        "rerank_score": 0.5718
+      },
+      {
+        "chunk_id": 3126,
+        "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+        "domain": "economics.mit.edu",
+        "similarity": 0.5141,
+        "rerank_score": 0.5513
+      },
+      {
+        "chunk_id": 3169,
+        "url": "https://live.worldbank.org/en/experts/a/abhijit-banerjee",
+        "domain": "live.worldbank.org",
+        "similarity": 0.4705,
+        "rerank_score": 0.5455
+      },
+      {
+        "chunk_id": 3157,
+        "url": "https://www.britannica.com/money/Abhijit-Banerjee",
+        "domain": "britannica.com",
+        "similarity": 0.5195,
+        "rerank_score": 0.5382
+      },
+      {
+        "chunk_id": 3116,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4372,
+        "rerank_score": 0.5156
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3115,
+      "chunk_index": 0,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.529048239429087,
+      "rerank_score": 0.5717911,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, research focus, and awards. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to standard taxonomy.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Co-founder and co-director of J-PAL, Nobel Prize for experimental approach to alleviating global poverty, research focus on poverty alleviation strategies.\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"economics\",\n      \"evidence\": \"Ford Foundation International Professor of Economics, Nobel Memorial Prize in Economic Sciences, research in development economics.\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"science\",\n      \"evidence\": \"Promoting the use of scientific evidence in poverty alleviation strategies through J-PAL.\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"He is co-founder and co-director of the Abdul Latif Jameel Poverty Action Lab (J-PAL), an MIT based global research center promoting the use of scientific evidence to inform poverty alleviation strategies.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, research focus, and awards. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to standard taxonomy.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Co-founder and co-director of J-PAL, Nobel Prize for experimental approach to alleviating global poverty, research focus on poverty alleviation strategies.",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "economics",
+            "evidence": "Ford Foundation International Professor of Economics, Nobel Memorial Prize in Economic Sciences, research in development economics.",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "science",
+            "evidence": "Promoting the use of scientific evidence in poverty alleviation strategies through J-PAL.",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "He is co-founder and co-director of the Abdul Latif Jameel Poverty Action Lab (J-PAL), an MIT based global research center promoting the use of scientific evidence to inform poverty alleviation strategies.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3126,
+      "chunk_index": 0,
+      "source_id": 1160,
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+      "domain": "economics.mit.edu",
+      "similarity": 0.5140671560246672,
+      "rerank_score": 0.5513086,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Abhijit Banerjee's work is primarily focused on economics, with specific emphasis on development, poverty, and health. His roles and awards are heavily centered around these areas. Step 2 — Evidence linking: His position as Ford Foundation International Professor of Economics and Director of the Abdul Latif Jameel Poverty Action Lab (J-PAL) directly links him to development and poverty. Grants and lectures related to health care and inequality further support his engagement in these sectors. Step 3 — Prominence assessment: Development and poverty are primary sectors due to his long-term roles and multiple recognitions. Health and inequality are secondary but still significant. Step 4 — Taxonomy mapping: The sectors are mapped to 'development' and 'global_health'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Ford Foundation International Professor of Economics, Director of J-PAL, and multiple awards related to poverty and development\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"National Institutes on Aging Grant for health care research in Rajasthan, India\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"2003 - Ford Foundation International Professor of Economics, M.I.T. 2003 - Director, Abdul Latif Jameel Poverty Action Lab,\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Abhijit Banerjee's work is primarily focused on economics, with specific emphasis on development, poverty, and health. His roles and awards are heavily centered around these areas. Step 2 — Evidence linking: His position as Ford Foundation International Professor of Economics and Director of the Abdul Latif Jameel Poverty Action Lab (J-PAL) directly links him to development and poverty. Grants and lectures related to health care and inequality further support his engagement in these sectors. Step 3 — Prominence assessment: Development and poverty are primary sectors due to his long-term roles and multiple recognitions. Health and inequality are secondary but still significant. Step 4 — Taxonomy mapping: The sectors are mapped to 'development' and 'global_health'.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Ford Foundation International Professor of Economics, Director of J-PAL, and multiple awards related to poverty and development",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "National Institutes on Aging Grant for health care research in Rajasthan, India",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "2003 - Ford Foundation International Professor of Economics, M.I.T. 2003 - Director, Abdul Latif Jameel Poverty Action Lab,",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3169,
+      "chunk_index": 0,
+      "source_id": 1165,
+      "url": "https://live.worldbank.org/en/experts/a/abhijit-banerjee",
+      "domain": "live.worldbank.org",
+      "similarity": 0.47052677596467885,
+      "rerank_score": 0.5455042,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors from the text including poverty & inequality, development economics, and economic theory. Step 2: Linked evidence to each sector, such as founding J-PAL, Nobel Prize for poverty alleviation, and research areas. Step 3: Assessed prominence based on recurring roles and long-term focus. Step 4: Mapped sectors to taxonomy, primarily 'development'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Founded J-PAL, Nobel Prize for experimental approach to alleviating global poverty, research in development economics\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Professor of Economics, research in economic theory\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Professor Banerjee is the recipient of the 2019 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, awarded jointly with Esther Duflo and Michael Kremer 'for their experimental approach to alleviating global poverty.'\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors from the text including poverty & inequality, development economics, and economic theory. Step 2: Linked evidence to each sector, such as founding J-PAL, Nobel Prize for poverty alleviation, and research areas. Step 3: Assessed prominence based on recurring roles and long-term focus. Step 4: Mapped sectors to taxonomy, primarily 'development'.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Founded J-PAL, Nobel Prize for experimental approach to alleviating global poverty, research in development economics",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "finance",
+            "evidence": "Professor of Economics, research in economic theory",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Professor Banerjee is the recipient of the 2019 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel, awarded jointly with Esther Duflo and Michael Kremer 'for their experimental approach to alleviating global poverty.'",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3157,
+      "chunk_index": 0,
+      "source_id": 1162,
+      "url": "https://www.britannica.com/money/Abhijit-Banerjee",
+      "domain": "britannica.com",
+      "similarity": 0.5194523552667375,
+      "rerank_score": 0.5382315,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Abhijit Banerjee's work is primarily focused on economics, specifically in the areas of poverty, economic development, and microcredit. Step 2 — Evidence linking: His roles include being an economist, conducting field experiments on poverty alleviation, and receiving the Nobel Prize in Economics for this work. Step 3 — Prominence assessment: The sector 'development' is primary due to its centrality in his career, including his Nobel Prize and extensive research. Other sectors like finance and education are mentioned but are not as dominant. Step 4 — Taxonomy mapping: The primary sector 'development' is mapped to the standard label 'development'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"awarded the 2019 Nobel Prize for Economics for helping to develop an innovative experimental approach to alleviating global poverty; focused on relatively small and specific problems that contributed to poverty\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"studied economics and taught economics, with some focus on household finance and investing mentioned in the source\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"taught economics at Princeton University and Harvard University\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"was awarded the 2019 Nobel Prize for Economics for helping to develop an innovative experimental approach to alleviating global poverty.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Abhijit Banerjee's work is primarily focused on economics, specifically in the areas of poverty, economic development, and microcredit. Step 2 — Evidence linking: His roles include being an economist, conducting field experiments on poverty alleviation, and receiving the Nobel Prize in Economics for this work. Step 3 — Prominence assessment: The sector 'development' is primary due to its centrality in his career, including his Nobel Prize and extensive research. Other sectors like finance and education are mentioned but are not as dominant. Step 4 — Taxonomy mapping: The primary sector 'development' is mapped to the standard label 'development'.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "awarded the 2019 Nobel Prize for Economics for helping to develop an innovative experimental approach to alleviating global poverty; focused on relatively small and specific problems that contributed to poverty",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "finance",
+            "evidence": "studied economics and taught economics, with some focus on household finance and investing mentioned in the source",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "education",
+            "evidence": "taught economics at Princeton University and Harvard University",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "was awarded the 2019 Nobel Prize for Economics for helping to develop an innovative experimental approach to alleviating global poverty.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3116,
+      "chunk_index": 1,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.437187927509614,
+      "rerank_score": 0.5155961,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: The text highlights Abhijit Banerjee's expertise in economics, particularly development economics. Step 2 — Evidence linking: His roles include being a fellow of the Econometric Society, a member of the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences. He received a Sloan Research Fellowship and is ranked among the top 75 researchers in economics by total research output. His academic background and appointments are in economics, with a focus on development. Step 3 — Prominence assessment: Given his extensive academic career, publications, and recognition in economics, particularly development economics, this sector is primary. Step 4 — Taxonomy mapping: The sector 'economics' is best mapped to 'development' given the context of his work.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"fellow of the Econometric Society, member of the National Academy of Sciences, fellow of the American Academy of Arts and Sciences, Sloan Research Fellowship, top 75 researchers in economics, focus on development economics\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"According to Research Papers in Economics, Banerjee is among the most productive development economists in the world, ranking in the top 75 researchers by total research output.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: The text highlights Abhijit Banerjee's expertise in economics, particularly development economics. Step 2 — Evidence linking: His roles include being a fellow of the Econometric Society, a member of the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences. He received a Sloan Research Fellowship and is ranked among the top 75 researchers in economics by total research output. His academic background and appointments are in economics, with a focus on development. Step 3 — Prominence assessment: Given his extensive academic career, publications, and recognition in economics, particularly development economics, this sector is primary. Step 4 — Taxonomy mapping: The sector 'economics' is best mapped to 'development' given the context of his work.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "fellow of the Econometric Society, member of the National Academy of Sciences, fellow of the American Academy of Arts and Sciences, Sloan Research Fellowship, top 75 researchers in economics, focus on development economics",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "According to Research Papers in Economics, Banerjee is among the most productive development economists in the world, ranking in the top 75 researchers by total research output.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3160,
+      "chunk_index": 0,
+      "source_id": 1164,
+      "url": "https://www.povertyactionlab.org/person/banerjee",
+      "domain": "povertyactionlab.org",
+      "similarity": 0.4861292178760805,
+      "rerank_score": 0.51310796,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, research focus, awards, and sector-specific activities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to standard taxonomy labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Founded J-PAL, research in development economics, Nobel Prize for alleviating global poverty, served on UN post-2015 development agenda panel.\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"Co-Chair of J-PAL’s Education sector, Chair of the Global Education Evidence Advisory Panel.\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal.\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Co-Chair of J-PAL's Innovations in Government Initiative.\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"His areas of research are development economics and economic theory.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, research focus, awards, and sector-specific activities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to standard taxonomy labels.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Founded J-PAL, research in development economics, Nobel Prize for alleviating global poverty, served on UN post-2015 development agenda panel.",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "education",
+            "evidence": "Co-Chair of J-PAL’s Education sector, Chair of the Global Education Evidence Advisory Panel.",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal.",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Co-Chair of J-PAL's Innovations in Government Initiative.",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "His areas of research are development economics and economic theory.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3174,
+      "chunk_index": 0,
+      "source_id": 1168,
+      "url": "https://economics.mit.edu/people/faculty/abhijit-banerjee/short-bio",
+      "domain": "economics.mit.edu",
+      "similarity": 0.4996376282051341,
+      "rerank_score": 0.43510985,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, research, awards, and organizational affiliations. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to taxonomy.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"co-founded Abdul Latif Jameel Poverty Action Lab (J-PAL); awarded Sveriges Riksbank Prize in Economic Sciences for development economics; served on U.N. Secretary-General’s High-level Panel on Post-2015 Development Agenda\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"education\",\n      \"evidence\": \"Chair of the Global Education Evidence Advisory Panel\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"science\",\n      \"evidence\": \"fellow of the National Academy of Sciences and the American Academy of Arts and Sciences\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"co-founded the Abdul Latif Jameel Poverty Action Lab (J-PAL) with Esther Duflo and Sendhil Mullainathan\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, research, awards, and organizational affiliations. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to taxonomy.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "co-founded Abdul Latif Jameel Poverty Action Lab (J-PAL); awarded Sveriges Riksbank Prize in Economic Sciences for development economics; served on U.N. Secretary-General’s High-level Panel on Post-2015 Development Agenda",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "education",
+            "evidence": "Chair of the Global Education Evidence Advisory Panel",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "science",
+            "evidence": "fellow of the National Academy of Sciences and the American Academy of Arts and Sciences",
+            "prominence": "secondary",
+            "confidence": "low"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "co-founded the Abdul Latif Jameel Poverty Action Lab (J-PAL) with Esther Duflo and Sendhil Mullainathan",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3125,
+      "chunk_index": 10,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5170035860547706,
+      "rerank_score": 0.41634628,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions Abhijit Banerjee's work in development economics, particularly in poverty alleviation and microfinance. Step 2: Evidence includes his role as a development economist, his Nobel Prize in Economics for experimental approaches to alleviating global poverty, and his association with microfinance. Step 3: Given the Nobel Prize and his long-term focus on poverty and development, this sector is primary. Step 4: The sector maps directly to 'development'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Nobel Prize in Economics for experimental approaches to alleviating global poverty; Indian microfinance people; development economists\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Indian Nobel laureates, Nobel laureates in Economics, Development economists, Indian microfinance people\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions Abhijit Banerjee's work in development economics, particularly in poverty alleviation and microfinance. Step 2: Evidence includes his role as a development economist, his Nobel Prize in Economics for experimental approaches to alleviating global poverty, and his association with microfinance. Step 3: Given the Nobel Prize and his long-term focus on poverty and development, this sector is primary. Step 4: The sector maps directly to 'development'.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Nobel Prize in Economics for experimental approaches to alleviating global poverty; Indian microfinance people; development economists",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Indian Nobel laureates, Nobel laureates in Economics, Development economists, Indian microfinance people",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3118,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text extensively describes Abhijit Banerjee's professional work, research, and expertise, focusing on his contributions to development economics and related fields. Step 2 — Sector confirmation: The source confirms Banerjee's primary sector of development through mentions of his Nobel Prize for alleviating global poverty, co-founding J-PAL, and leading the Lemann Center for Development, Education and Public Policy. Step 3 — New sectors found: No new sectors are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly supports Banerjee's expertise in development.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"development\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"That same year, was awarded the Nobel Prize in Economics... 'for their experimental approach to alleviating global poverty'.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text extensively describes Abhijit Banerjee's professional work, research, and expertise, focusing on his contributions to development economics and related fields. Step 2 — Sector confirmation: The source confirms Banerjee's primary sector of development through mentions of his Nobel Prize for alleviating global poverty, co-founding J-PAL, and leading the Lemann Center for Development, Education and Public Policy. Step 3 — New sectors found: No new sectors are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly supports Banerjee's expertise in development.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "development"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "That same year, was awarded the Nobel Prize in Economics... 'for their experimental approach to alleviating global poverty'."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "That same year, was awarded the Nobel Prize in Economics... 'for their experimental approach to alleviating global poverty'.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "His areas of research are development economics and economic theory.",
+    "confirmation_count": 1,
+    "primary_source_domain": "povertyactionlab.org",
+    "notes": null,
+    "sectors": [
+      {
+        "sector": "development",
+        "evidence": "Founded J-PAL, research in development economics, Nobel Prize for alleviating global poverty, served on UN post-2015 development agenda panel.",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "education",
+        "evidence": "Co-Chair of J-PAL’s Education sector, Chair of the Global Education Evidence Advisory Panel.",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "global_health",
+        "evidence": "Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal.",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "government",
+        "evidence": "Co-Chair of J-PAL's Innovations in Government Initiative.",
+        "prominence": "secondary",
+        "confidence": "medium"
+      }
+    ],
+    "primary_sector": "development"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 1,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

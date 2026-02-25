@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Josette_S._Sheeran",
+  "person_db_name": "Josette S. Sheeran",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:21:59.235737+00:00",
+  "input": {
+    "hlp_name": "United Nations High Level Panel on System-Wide Coherence",
+    "hlp_year": "2006",
+    "nomination_year": 2006,
+    "hlp_nomination_age": 52,
+    "birth_year": "1954",
+    "nationality": [
+      "American"
+    ]
+  },
+  "retrieval": {
+    "query": "Josette S. Sheeran job title position role career 2006 appointed nominated serving",
+    "chunks_in_db": 33,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3931,
+        "url": "https://en.wikipedia.org/wiki/Josette_Sheeran",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5883,
+        "rerank_score": 0.8156
+      },
+      {
+        "chunk_id": 3949,
+        "url": "https://www.wto.org/english/thewto_e/dg_e/dft_panel_e/josette_sheeran_bio_e.htm",
+        "domain": "wto.org",
+        "similarity": 0.4993,
+        "rerank_score": 0.8088
+      },
+      {
+        "chunk_id": 3953,
+        "url": "https://press.un.org/en/2006/sga1025.doc.htm",
+        "domain": "press.un.org",
+        "similarity": 0.5358,
+        "rerank_score": 0.807
+      },
+      {
+        "chunk_id": 3955,
+        "url": "https://www.tparents.org/Library/Unification/Talks5/Sheeran/Sheeran-190119.pdf",
+        "domain": "tparents.org",
+        "similarity": 0.5874,
+        "rerank_score": 0.7937
+      },
+      {
+        "chunk_id": 3932,
+        "url": "https://en.wikipedia.org/wiki/Josette_Sheeran",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4183,
+        "rerank_score": 0.6773
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3931,
+      "chunk_index": 0,
+      "source_id": 1399,
+      "url": "https://en.wikipedia.org/wiki/Josette_Sheeran",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5882600098941294,
+      "rerank_score": 0.8156003,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly states Josette S. Sheeran served as Under Secretary of State for Economic, Business, and Agricultural Affairs from August 23, 2005 – April 4, 2007, which overlaps with the nomination year 2006. Step 2 — Role identification: The role is clearly identified as 'Under Secretary of State for Economic, Business, and Agricultural Affairs'. Step 3 — Organization identification: The organization is the 'United States Department of State'. Step 4 — Temporal match assessment: The role's date range (2005–2007) directly overlaps with 2006, confirming it as the nomination-time role. Step 5 — Confidence assessment: High confidence due to explicit date range matching the nomination year.\",\n  \"job_title_at_nomination\": \"Under Secretary of State for Economic, Business, and Agricultural Affairs\",\n  \"organization_at_nomination\": \"United States Department of State\",\n  \"year_reference\": \"2005–2007\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Under Secretary of State for Economic, Business, and Agricultural Affairs, In office August 23, 2005 – April 4, 2007\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly states Josette S. Sheeran served as Under Secretary of State for Economic, Business, and Agricultural Affairs from August 23, 2005 – April 4, 2007, which overlaps with the nomination year 2006. Step 2 — Role identification: The role is clearly identified as 'Under Secretary of State for Economic, Business, and Agricultural Affairs'. Step 3 — Organization identification: The organization is the 'United States Department of State'. Step 4 — Temporal match assessment: The role's date range (2005–2007) directly overlaps with 2006, confirming it as the nomination-time role. Step 5 — Confidence assessment: High confidence due to explicit date range matching the nomination year.",
+        "job_title_at_nomination": "Under Secretary of State for Economic, Business, and Agricultural Affairs",
+        "organization_at_nomination": "United States Department of State",
+        "year_reference": "2005–2007",
+        "confidence": "high",
+        "supporting_quote": "Under Secretary of State for Economic, Business, and Agricultural Affairs, In office August 23, 2005 – April 4, 2007",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Under Secretary of State for Economic, Business, and Agricultural Affairs",
+      "organization_at_nomination": "United States Department of State",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3949,
+      "url": "https://www.wto.org/english/thewto_e/dg_e/dft_panel_e/josette_sheeran_bio_e.htm",
+      "domain": "wto.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Josette S. Sheeran and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text mentions 'Under-Secretary for Economic, Energy and Agricultural Affairs at the US Department of State,' which is a compatible match with the claimed title, as 'Economic, Business, and Agricultural Affairs' can be reasonably interpreted as synonymous with 'Economic, Energy and Agricultural Affairs.' Step 3 — Temporal alignment: The text states that in 2006, she was appointed to the High-level UN Panel on System-wide Coherence, implying the role at the US Department of State was held around the same time. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"She was Under-Secretary for Economic, Energy and Agricultural Affairs at the US Department of State\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Josette S. Sheeran and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text mentions 'Under-Secretary for Economic, Energy and Agricultural Affairs at the US Department of State,' which is a compatible match with the claimed title, as 'Economic, Business, and Agricultural Affairs' can be reasonably interpreted as synonymous with 'Economic, Energy and Agricultural Affairs.' Step 3 — Temporal alignment: The text states that in 2006, she was appointed to the High-level UN Panel on System-wide Coherence, implying the role at the US Department of State was held around the same time. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "She was Under-Secretary for Economic, Energy and Agricultural Affairs at the US Department of State",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "She was Under-Secretary for Economic, Energy and Agricultural Affairs at the US Department of State",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3953,
+      "url": "https://press.un.org/en/2006/sga1025.doc.htm",
+      "domain": "press.un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is directly about Josette S. Sheeran and discusses her career and biography, including her role at the time of the announcement. Step 2 — Title match assessment: The text explicitly states that Ms. Sheeran 'currently serves as Under Secretary of State for Economic, Business and Agricultural Affairs,' which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: The announcement was made on November 7, 2006, and the text uses the present tense ('currently serves'), indicating the role was held in 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Ms. Sheeran currently serves as Under Secretary of State for Economic, Business and Agricultural Affairs\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is directly about Josette S. Sheeran and discusses her career and biography, including her role at the time of the announcement. Step 2 — Title match assessment: The text explicitly states that Ms. Sheeran 'currently serves as Under Secretary of State for Economic, Business and Agricultural Affairs,' which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: The announcement was made on November 7, 2006, and the text uses the present tense ('currently serves'), indicating the role was held in 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Ms. Sheeran currently serves as Under Secretary of State for Economic, Business and Agricultural Affairs",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Ms. Sheeran currently serves as Under Secretary of State for Economic, Business and Agricultural Affairs",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3955,
+      "url": "https://www.tparents.org/Library/Unification/Talks5/Sheeran/Sheeran-190119.pdf",
+      "domain": "tparents.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Josette S. Sheeran and discusses her career and biography. Step 2 — Title match assessment: The text explicitly mentions 'Under Secretary of State for Economic, Business, and Agricultural Affairs,' which is an exact match to the claim. Step 3 — Temporal alignment: The text provides the exact dates for this role as August 23, 2005 – April 4, 2007, which includes the year 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Under Secretary of State for Economic, Business, and Agricultural Affairs, In office August 23, 2005 – April 4, 2007\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Josette S. Sheeran and discusses her career and biography. Step 2 — Title match assessment: The text explicitly mentions 'Under Secretary of State for Economic, Business, and Agricultural Affairs,' which is an exact match to the claim. Step 3 — Temporal alignment: The text provides the exact dates for this role as August 23, 2005 – April 4, 2007, which includes the year 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Under Secretary of State for Economic, Business, and Agricultural Affairs, In office August 23, 2005 – April 4, 2007",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Under Secretary of State for Economic, Business, and Agricultural Affairs, In office August 23, 2005 – April 4, 2007",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Under Secretary of State for Economic, Business, and Agricultural Affairs",
+    "organization_at_nomination": "United States Department of State",
+    "confidence": "high",
+    "supporting_quote": "Under Secretary of State for Economic, Business, and Agricultural Affairs, In office August 23, 2005 – April 4, 2007",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

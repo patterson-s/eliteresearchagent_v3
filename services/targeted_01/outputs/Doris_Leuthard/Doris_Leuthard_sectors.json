@@ -1,0 +1,568 @@
+{
+  "person_dir_name": "Doris_Leuthard",
+  "person_db_name": "Doris Leuthard",
+  "question_id": "sectors",
+  "question_display": "Main Sectors of Expertise (Functional Mobility)",
+  "run_timestamp": "2026-02-25T18:08:23.312485+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Digital Cooperation",
+    "hlp_year": "2018-2019",
+    "nomination_year": 2018,
+    "hlp_nomination_age": 55,
+    "birth_year": "1963",
+    "nationality": [
+      "Swiss"
+    ]
+  },
+  "retrieval": {
+    "query": "Doris Leuthard expertise sector field development finance human rights environment health diplomacy technology science trade",
+    "chunks_in_db": 17,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1007,
+        "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+        "domain": "wikigender.oecdcode.org",
+        "similarity": 0.5163,
+        "rerank_score": 0.5491
+      },
+      {
+        "chunk_id": 1004,
+        "url": "https://clubmadrid.org/who/members/leuthard-doris/",
+        "domain": "clubmadrid.org",
+        "similarity": 0.4736,
+        "rerank_score": 0.4433
+      },
+      {
+        "chunk_id": 999,
+        "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5252,
+        "rerank_score": 0.4423
+      },
+      {
+        "chunk_id": 1003,
+        "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5314,
+        "rerank_score": 0.4402
+      },
+      {
+        "chunk_id": 1009,
+        "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+        "domain": "bellfoodgroup.com",
+        "similarity": 0.4376,
+        "rerank_score": 0.4341
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1007,
+      "chunk_index": 0,
+      "source_id": 597,
+      "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+      "domain": "wikigender.oecdcode.org",
+      "similarity": 0.5163368475843441,
+      "rerank_score": 0.54913354,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Doris Leuthard's sectors include economic affairs, labor, agriculture, trade, and technology/innovation. Step 2 — Evidence linking: She heads the Federal Department of Economic Affairs (FDEA), oversees labor and agriculture offices, and is responsible for WTO negotiations. Step 3 — Prominence assessment: Economic affairs and trade are primary due to her long-term roles; labor, agriculture, and technology are secondary. Step 4 — Taxonomy mapping: Economic affairs map to 'finance' and 'government'; trade maps to 'trade'; labor, agriculture, and technology map to 'other'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Head of the Federal Department of Economic Affairs (FDEA)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"trade\",\n      \"evidence\": \"Responsible for Doha Round negotiations of the World Trade Organization\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"other\",\n      \"evidence\": \"Responsible for labor, professional education, technology, and innovation\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"other\",\n      \"evidence\": \"Oversees Federal Office for Agriculture and Federal Veterinary Office\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"finance\",\n  \"supporting_quote\": \"She is the Head of the Federal Department of Economic Affairs (FDEA).\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Doris Leuthard's sectors include economic affairs, labor, agriculture, trade, and technology/innovation. Step 2 — Evidence linking: She heads the Federal Department of Economic Affairs (FDEA), oversees labor and agriculture offices, and is responsible for WTO negotiations. Step 3 — Prominence assessment: Economic affairs and trade are primary due to her long-term roles; labor, agriculture, and technology are secondary. Step 4 — Taxonomy mapping: Economic affairs map to 'finance' and 'government'; trade maps to 'trade'; labor, agriculture, and technology map to 'other'.",
+        "sectors": [
+          {
+            "sector": "finance",
+            "evidence": "Head of the Federal Department of Economic Affairs (FDEA)",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "trade",
+            "evidence": "Responsible for Doha Round negotiations of the World Trade Organization",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "other",
+            "evidence": "Responsible for labor, professional education, technology, and innovation",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "other",
+            "evidence": "Oversees Federal Office for Agriculture and Federal Veterinary Office",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "finance",
+        "supporting_quote": "She is the Head of the Federal Department of Economic Affairs (FDEA).",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1004,
+      "chunk_index": 0,
+      "source_id": 595,
+      "url": "https://clubmadrid.org/who/members/leuthard-doris/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.47357964394017876,
+      "rerank_score": 0.44333586,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on Doris Leuthard's roles and responsibilities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on duration and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"President of Switzerland, member of the National Council, head of Federal Department of Economic Affairs, head of Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"economy\",\n      \"evidence\": \"head of Federal Department of Economic Affairs, responsible for labour market, vocational education, technology, innovation, agriculture, housing, national economic supply, and trade policy\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"head of Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"technology\",\n      \"evidence\": \"responsible for technology and innovation policy, appointed to High-level Panel on Digital Cooperation\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"trade\",\n      \"evidence\": \"represented Switzerland at WTO, OECD, and chaired the EFTA Council\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"government\",\n  \"supporting_quote\": \"Doris Leuthard was the President of Switzerland in 2010 and 2017.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on Doris Leuthard's roles and responsibilities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on duration and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.",
+        "sectors": [
+          {
+            "sector": "government",
+            "evidence": "President of Switzerland, member of the National Council, head of Federal Department of Economic Affairs, head of Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "economy",
+            "evidence": "head of Federal Department of Economic Affairs, responsible for labour market, vocational education, technology, innovation, agriculture, housing, national economic supply, and trade policy",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "head of Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "technology",
+            "evidence": "responsible for technology and innovation policy, appointed to High-level Panel on Digital Cooperation",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "trade",
+            "evidence": "represented Switzerland at WTO, OECD, and chaired the EFTA Council",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "government",
+        "supporting_quote": "Doris Leuthard was the President of Switzerland in 2010 and 2017.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 999,
+      "chunk_index": 0,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5252134606776008,
+      "rerank_score": 0.4423239,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on Doris Leuthard's roles and responsibilities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on duration and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Head of the Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"Head of the Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"transport\",\n      \"evidence\": \"Head of the Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"communications\",\n      \"evidence\": \"Head of the Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"Head of the Department of Economic Affairs\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Member of the Swiss Federal Council, President of the Swiss Confederation\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"environment\",\n  \"supporting_quote\": \"she became head of the Federal Department of Environment, Transport, Energy and Communications\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on Doris Leuthard's roles and responsibilities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on duration and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "energy",
+            "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "transport",
+            "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "communications",
+            "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "finance",
+            "evidence": "Head of the Department of Economic Affairs",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Member of the Swiss Federal Council, President of the Swiss Confederation",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "environment",
+        "supporting_quote": "she became head of the Federal Department of Environment, Transport, Energy and Communications",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1003,
+      "chunk_index": 4,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5314482012820325,
+      "rerank_score": 0.44015694,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles and responsibilities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration of engagement. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Ministers of environment, transport, energy and communications of Switzerland\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"transport\",\n      \"evidence\": \"Ministers of environment, transport, energy and communications of Switzerland\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"Ministers of environment, transport, energy and communications of Switzerland\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"communications\",\n      \"evidence\": \"Ministers of environment, transport, energy and communications of Switzerland\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"agriculture\",\n      \"evidence\": \"Agriculture ministers of Switzerland\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Members of the Federal Council (Switzerland), Presidents of the Swiss Confederation\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"environment\",\n  \"supporting_quote\": \"Ministers of environment, transport, energy and communications of Switzerland\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles and responsibilities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration of engagement. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "Ministers of environment, transport, energy and communications of Switzerland",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "transport",
+            "evidence": "Ministers of environment, transport, energy and communications of Switzerland",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "energy",
+            "evidence": "Ministers of environment, transport, energy and communications of Switzerland",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "communications",
+            "evidence": "Ministers of environment, transport, energy and communications of Switzerland",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "agriculture",
+            "evidence": "Agriculture ministers of Switzerland",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "sector": "government",
+            "evidence": "Members of the Federal Council (Switzerland), Presidents of the Swiss Confederation",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "environment",
+        "supporting_quote": "Ministers of environment, transport, energy and communications of Switzerland",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1009,
+      "chunk_index": 0,
+      "source_id": 598,
+      "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+      "domain": "bellfoodgroup.com",
+      "similarity": 0.4376060961624517,
+      "rerank_score": 0.434102,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Doris Leuthard's career spans multiple sectors including economic affairs, environment, transport, energy, communications, corporate governance, and law. Step 2 — Evidence linking: Her roles as head of the Federal Department of Economic Affairs and the Federal Department of Environment, Transport, Energy and Communications provide direct evidence. Her legal career and corporate board roles also indicate expertise in governance and law. Step 3 — Prominence assessment: 'Government' and 'environment' are primary due to long-term roles. 'Finance' and 'technology' are secondary through related departments. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Federal Councillor, head of Federal Department of Economic Affairs and Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"head of Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"head of Federal Department of Economic Affairs\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"technology\",\n      \"evidence\": \"Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"law\",\n      \"evidence\": \"Lawyer, Partner at Fricker Attorneys-at-Law\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"government\",\n  \"supporting_quote\": \"Federal Councillor; 2006–2018; in this position, head of the Federal Department of Economic Affairs (2006–2010) and the Federal Department of Environment, Transport, Energy and Communications (2010–2018)\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Doris Leuthard's career spans multiple sectors including economic affairs, environment, transport, energy, communications, corporate governance, and law. Step 2 — Evidence linking: Her roles as head of the Federal Department of Economic Affairs and the Federal Department of Environment, Transport, Energy and Communications provide direct evidence. Her legal career and corporate board roles also indicate expertise in governance and law. Step 3 — Prominence assessment: 'Government' and 'environment' are primary due to long-term roles. 'Finance' and 'technology' are secondary through related departments. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "government",
+            "evidence": "Federal Councillor, head of Federal Department of Economic Affairs and Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "head of Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "finance",
+            "evidence": "head of Federal Department of Economic Affairs",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "technology",
+            "evidence": "Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "law",
+            "evidence": "Lawyer, Partner at Fricker Attorneys-at-Law",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "government",
+        "supporting_quote": "Federal Councillor; 2006–2018; in this position, head of the Federal Department of Economic Affairs (2006–2010) and the Federal Department of Environment, Transport, Energy and Communications (2010–2018)",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1013,
+      "chunk_index": 0,
+      "source_id": 602,
+      "url": "https://www.cwf.ch/event/bscc-luncheon-with-doris-leuthard-former-president-of-the-swiss-confederation-and-swiss-federal-councillor/",
+      "domain": "cwf.ch",
+      "similarity": 0.38011838896598354,
+      "rerank_score": 0.41392776,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on Doris Leuthard's roles and responsibilities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the extent of her engagement. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Swiss Federal Councillor, President of the Swiss Confederation, head of Federal Department of Economic Affairs, head of Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"head of the Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"technology\",\n      \"evidence\": \"appointed to the High-level Panel on Digital Cooperation by the UN Secretary General\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"transport\",\n      \"evidence\": \"head of the Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"energy\",\n      \"evidence\": \"head of the Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"government\",\n  \"supporting_quote\": \"she headed the Federal Department of Economic Affairs and then went on to become head of the Federal Department of Environment, Transport, Energy and Communications.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on Doris Leuthard's roles and responsibilities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the extent of her engagement. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "government",
+            "evidence": "Swiss Federal Councillor, President of the Swiss Confederation, head of Federal Department of Economic Affairs, head of Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "head of the Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "technology",
+            "evidence": "appointed to the High-level Panel on Digital Cooperation by the UN Secretary General",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "transport",
+            "evidence": "head of the Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "energy",
+            "evidence": "head of the Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "government",
+        "supporting_quote": "she headed the Federal Department of Economic Affairs and then went on to become head of the Federal Department of Environment, Transport, Energy and Communications.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1010,
+      "chunk_index": 0,
+      "source_id": 599,
+      "url": "https://www.kofiannanfoundation.org/publication/doris-leuthard-joins-the-board-of-the-kofi-annan-foundation/",
+      "domain": "kofiannanfoundation.org",
+      "similarity": 0.47397386265714486,
+      "rerank_score": 0.37346497,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Doris Leuthard's sectors include government, diplomacy, technology, and development. Step 2 — Evidence linking: Her roles as President of the Swiss Confederation, member of the Swiss Federal Council, and head of the Federal Department of Economic Affairs link her to government and diplomacy. Her work on the UN Secretary General’s high-level panel on digital cooperation links her to technology. Her involvement with the Kofi Annan Foundation and its focus on sustainable development links her to development. Step 3 — Prominence assessment: Government is primary due to her long-term roles. Diplomacy, technology, and development are secondary. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"President of the Swiss Confederation, member of the Swiss Federal Council, head of the Federal Department of Economic Affairs\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"President of the Swiss Confederation, represented Switzerland internationally\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"technology\",\n      \"evidence\": \"member of the UN Secretary General’s high-level panel on digital cooperation\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"involvement with the Kofi Annan Foundation focusing on sustainable development\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"government\",\n  \"supporting_quote\": \"She has enjoyed a highly distinguished career in public life culminating in her assuming the presidency of the Swiss Confederation.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Doris Leuthard's sectors include government, diplomacy, technology, and development. Step 2 — Evidence linking: Her roles as President of the Swiss Confederation, member of the Swiss Federal Council, and head of the Federal Department of Economic Affairs link her to government and diplomacy. Her work on the UN Secretary General’s high-level panel on digital cooperation links her to technology. Her involvement with the Kofi Annan Foundation and its focus on sustainable development links her to development. Step 3 — Prominence assessment: Government is primary due to her long-term roles. Diplomacy, technology, and development are secondary. Step 4 — Taxonomy mapping: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "government",
+            "evidence": "President of the Swiss Confederation, member of the Swiss Federal Council, head of the Federal Department of Economic Affairs",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "President of the Swiss Confederation, represented Switzerland internationally",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "technology",
+            "evidence": "member of the UN Secretary General’s high-level panel on digital cooperation",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "development",
+            "evidence": "involvement with the Kofi Annan Foundation focusing on sustainable development",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "government",
+        "supporting_quote": "She has enjoyed a highly distinguished career in public life culminating in her assuming the presidency of the Swiss Confederation.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1001,
+      "chunk_index": 2,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5036559334872592,
+      "rerank_score": 0.34720555,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Doris Leuthard's sectors include environment, transport, energy, communications, and digital cooperation based on her role in the Federal Department of Environment, Transport, Energy and Communications and her appointment to the High-level Panel on Digital Cooperation. Step 2 — Evidence linking: Her role as minister in the Federal Department directly links her to environment, transport, energy, and communications. Her appointment to the UN panel links her to digital cooperation. Step 3 — Prominence assessment: Environment, transport, energy, and communications are primary due to her ministerial role. Digital cooperation is secondary due to a single appointment. Step 4 — Taxonomy mapping: Environment maps to 'environment', transport and energy map to 'other', communications maps to 'technology', and digital cooperation maps to 'technology'.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Federal Department of Environment, Transport, Energy and Communications\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"technology\",\n      \"evidence\": \"Federal Department of Environment, Transport, Energy and Communications; High-level Panel on Digital Cooperation\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"other\",\n      \"evidence\": \"Federal Department of Environment, Transport, Energy and Communications (transport and energy)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"environment\",\n  \"supporting_quote\": \"Federal Department of Environment, Transport, Energy and Communications\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Doris Leuthard's sectors include environment, transport, energy, communications, and digital cooperation based on her role in the Federal Department of Environment, Transport, Energy and Communications and her appointment to the High-level Panel on Digital Cooperation. Step 2 — Evidence linking: Her role as minister in the Federal Department directly links her to environment, transport, energy, and communications. Her appointment to the UN panel links her to digital cooperation. Step 3 — Prominence assessment: Environment, transport, energy, and communications are primary due to her ministerial role. Digital cooperation is secondary due to a single appointment. Step 4 — Taxonomy mapping: Environment maps to 'environment', transport and energy map to 'other', communications maps to 'technology', and digital cooperation maps to 'technology'.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "Federal Department of Environment, Transport, Energy and Communications",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "technology",
+            "evidence": "Federal Department of Environment, Transport, Energy and Communications; High-level Panel on Digital Cooperation",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "other",
+            "evidence": "Federal Department of Environment, Transport, Energy and Communications (transport and energy)",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "environment",
+        "supporting_quote": "Federal Department of Environment, Transport, Energy and Communications",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1015,
+      "url": "https://carnegiecouncil.org/people/doris-leuthard",
+      "domain": "carnegiecouncil.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text mentions Doris Leuthard's role as a former President of Switzerland and her membership in the Swiss Federal Council, but it does not describe her substantive work in the sectors of environment, energy, or transport. Instead, it focuses on her involvement in ethics and AI governance. Step 2 — Sector confirmation: The source does not confirm her work in the primary sector of environment or related areas. Step 3 — New sectors found: The source mentions her involvement in AI governance and ethics, suggesting a new sector of expertise. Step 4 — Confidence: The confidence is medium, as the source provides limited information on her sectoral expertise but introduces a new area of focus.\",\n  \"confirms\": false,\n  \"confirmed_sectors\": [],\n  \"new_sectors_found\": [\"AI governance and ethics\"],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"ICGAI Catalyzing Cooperation: Working Together Across AI Governance Initiatives\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text mentions Doris Leuthard's role as a former President of Switzerland and her membership in the Swiss Federal Council, but it does not describe her substantive work in the sectors of environment, energy, or transport. Instead, it focuses on her involvement in ethics and AI governance. Step 2 — Sector confirmation: The source does not confirm her work in the primary sector of environment or related areas. Step 3 — New sectors found: The source mentions her involvement in AI governance and ethics, suggesting a new sector of expertise. Step 4 — Confidence: The confidence is medium, as the source provides limited information on her sectoral expertise but introduces a new area of focus.",
+        "confirms": false,
+        "confirmed_sectors": [],
+        "new_sectors_found": [
+          "AI governance and ethics"
+        ],
+        "confidence": "medium",
+        "supporting_quote": "ICGAI Catalyzing Cooperation: Working Together Across AI Governance Initiatives"
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "ICGAI Catalyzing Cooperation: Working Together Across AI Governance Initiatives",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": "she became head of the Federal Department of Environment, Transport, Energy and Communications",
+    "confirmation_count": 0,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "sectors": [
+      {
+        "sector": "environment",
+        "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "energy",
+        "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "transport",
+        "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "communications",
+        "evidence": "Head of the Department of Environment, Transport, Energy and Communications",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "finance",
+        "evidence": "Head of the Department of Economic Affairs",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "government",
+        "evidence": "Member of the Swiss Federal Council, President of the Swiss Confederation",
+        "prominence": "primary",
+        "confidence": "high"
+      }
+    ],
+    "primary_sector": "environment"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 1,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

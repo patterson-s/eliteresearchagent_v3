@@ -1,0 +1,614 @@
+{
+  "person_dir_name": "Abhijit_Banerjee",
+  "person_db_name": "Abhijit Banerjee",
+  "question_id": "education",
+  "question_display": "Education Trajectory",
+  "run_timestamp": "2026-02-25T17:01:11.191829+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2013-2015",
+    "nomination_year": 2013,
+    "hlp_nomination_age": 52,
+    "birth_year": "1961",
+    "nationality": [
+      "Indian",
+      "American"
+    ]
+  },
+  "retrieval": {
+    "query": "Abhijit Banerjee university degree education BA MA PhD diploma studies graduated",
+    "chunks_in_db": 60,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3115,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.563,
+        "rerank_score": 0.7587
+      },
+      {
+        "chunk_id": 3126,
+        "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+        "domain": "economics.mit.edu",
+        "similarity": 0.4942,
+        "rerank_score": 0.7251
+      },
+      {
+        "chunk_id": 3157,
+        "url": "https://www.britannica.com/money/Abhijit-Banerjee",
+        "domain": "britannica.com",
+        "similarity": 0.4785,
+        "rerank_score": 0.6839
+      },
+      {
+        "chunk_id": 3116,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.489,
+        "rerank_score": 0.667
+      },
+      {
+        "chunk_id": 3160,
+        "url": "https://www.povertyactionlab.org/person/banerjee",
+        "domain": "povertyactionlab.org",
+        "similarity": 0.4911,
+        "rerank_score": 0.6644
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3115,
+      "chunk_index": 0,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5629625002394497,
+      "rerank_score": 0.7587435,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text - BSc from Presidency College, MA from Jawaharlal Nehru University, and PhD from Harvard University. Step 2: Determined countries for each institution - India for Presidency College and Jawaharlal Nehru University, USA for Harvard University. Step 3: Classified institutions as Global North (Harvard) and Global South (Presidency College, Jawaharlal Nehru University). Step 4: Classified Harvard as elite and the Indian institutions as peripheral. Step 5: Synthesized disciplines as economics. Confidence is high due to explicit information in the text.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"BSc\",\n      \"field\": \"economics\",\n      \"institution\": \"Presidency College\",\n      \"institution_country\": \"India\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MA\",\n      \"field\": \"economics\",\n      \"institution\": \"Jawaharlal Nehru University\",\n      \"institution_country\": \"India\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": \"economics\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1988\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"both\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"Presidency College\", \"Jawaharlal Nehru University\"],\n  \"supporting_quote\": \"Alma mater\\nPresidency College\\n(BSc)\\nJawaharlal Nehru University\\n(\\nMA\\n)\\nHarvard University\\n(\\nPhD\\n)\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text - BSc from Presidency College, MA from Jawaharlal Nehru University, and PhD from Harvard University. Step 2: Determined countries for each institution - India for Presidency College and Jawaharlal Nehru University, USA for Harvard University. Step 3: Classified institutions as Global North (Harvard) and Global South (Presidency College, Jawaharlal Nehru University). Step 4: Classified Harvard as elite and the Indian institutions as peripheral. Step 5: Synthesized disciplines as economics. Confidence is high due to explicit information in the text.",
+        "degrees_found": [
+          {
+            "degree_type": "BSc",
+            "field": "economics",
+            "institution": "Presidency College",
+            "institution_country": "India",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MA",
+            "field": "economics",
+            "institution": "Jawaharlal Nehru University",
+            "institution_country": "India",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "PhD",
+            "field": "economics",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1988",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "both",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "Presidency College",
+          "Jawaharlal Nehru University"
+        ],
+        "supporting_quote": "Alma mater\nPresidency College\n(BSc)\nJawaharlal Nehru University\n(\nMA\n)\nHarvard University\n(\nPhD\n)",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3126,
+      "chunk_index": 0,
+      "source_id": 1160,
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+      "domain": "economics.mit.edu",
+      "similarity": 0.4942478889701599,
+      "rerank_score": 0.7251239,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified three degrees (B.Sc., M.A., Ph.D.) from the education section. Step 2: Assigned countries to each institution (India, India, USA). Step 3: Classified institutions as both Global North and South. Step 4: Classified institutions as both elite and peripheral (Harvard is elite, Calcutta and Jawaharlal Nehru are peripheral). Step 5: Identified economics as the primary discipline.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"B.Sc.\",\n      \"field\": \"economics\",\n      \"institution\": \"University of Calcutta\",\n      \"institution_country\": \"India\",\n      \"year_completed\": \"1981\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"M.A.\",\n      \"field\": \"economics\",\n      \"institution\": \"Jawaharlal Nehru University\",\n      \"institution_country\": \"India\",\n      \"year_completed\": \"1983\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"Ph.D.\",\n      \"field\": \"economics\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1988\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"both\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Calcutta\", \"Jawaharlal Nehru University\"],\n  \"supporting_quote\": \"INSTITUTION    DEGREE   DATE\\nHarvard University   Ph.D.    1988\\nJawaharlal University   M.A.    1983\\nUniversity of Calcutta   B.Sc.    1981\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified three degrees (B.Sc., M.A., Ph.D.) from the education section. Step 2: Assigned countries to each institution (India, India, USA). Step 3: Classified institutions as both Global North and South. Step 4: Classified institutions as both elite and peripheral (Harvard is elite, Calcutta and Jawaharlal Nehru are peripheral). Step 5: Identified economics as the primary discipline.",
+        "degrees_found": [
+          {
+            "degree_type": "B.Sc.",
+            "field": "economics",
+            "institution": "University of Calcutta",
+            "institution_country": "India",
+            "year_completed": "1981",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "M.A.",
+            "field": "economics",
+            "institution": "Jawaharlal Nehru University",
+            "institution_country": "India",
+            "year_completed": "1983",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "Ph.D.",
+            "field": "economics",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1988",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "both",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Calcutta",
+          "Jawaharlal Nehru University"
+        ],
+        "supporting_quote": "INSTITUTION    DEGREE   DATE\nHarvard University   Ph.D.    1988\nJawaharlal University   M.A.    1983\nUniversity of Calcutta   B.Sc.    1981",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3157,
+      "chunk_index": 0,
+      "source_id": 1162,
+      "url": "https://www.britannica.com/money/Abhijit-Banerjee",
+      "domain": "britannica.com",
+      "similarity": 0.4785209758995548,
+      "rerank_score": 0.683948,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified three degrees from the text: B.Sc. from University of Calcutta, M.A. from Jawaharlal Nehru University, and Ph.D. from Harvard University. Step 2: Determined countries for each institution: India for Calcutta and Nehru, USA for Harvard. Step 3: Classified institutions as Global South (India) and Global North (USA). Step 4: Classified Harvard as elite, Calcutta and Nehru as peripheral. Step 5: Identified economics as the sole discipline.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"BSc\",\n      \"field\": \"economics\",\n      \"institution\": \"University of Calcutta\",\n      \"institution_country\": \"India\",\n      \"year_completed\": \"1981\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MA\",\n      \"field\": \"economics\",\n      \"institution\": \"Jawaharlal Nehru University\",\n      \"institution_country\": \"India\",\n      \"year_completed\": \"1983\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": \"economics\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1988\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"both\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Calcutta\", \"Jawaharlal Nehru University\"],\n  \"supporting_quote\": \"Banerjee studied economics at the University of Calcutta (B.Sc. 1981), Jawaharlal Nehru University (M.A. 1983), and Harvard University (Ph.D. 1988).\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified three degrees from the text: B.Sc. from University of Calcutta, M.A. from Jawaharlal Nehru University, and Ph.D. from Harvard University. Step 2: Determined countries for each institution: India for Calcutta and Nehru, USA for Harvard. Step 3: Classified institutions as Global South (India) and Global North (USA). Step 4: Classified Harvard as elite, Calcutta and Nehru as peripheral. Step 5: Identified economics as the sole discipline.",
+        "degrees_found": [
+          {
+            "degree_type": "BSc",
+            "field": "economics",
+            "institution": "University of Calcutta",
+            "institution_country": "India",
+            "year_completed": "1981",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MA",
+            "field": "economics",
+            "institution": "Jawaharlal Nehru University",
+            "institution_country": "India",
+            "year_completed": "1983",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "PhD",
+            "field": "economics",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1988",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "both",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Calcutta",
+          "Jawaharlal Nehru University"
+        ],
+        "supporting_quote": "Banerjee studied economics at the University of Calcutta (B.Sc. 1981), Jawaharlal Nehru University (M.A. 1983), and Harvard University (Ph.D. 1988).",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3116,
+      "chunk_index": 1,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.48900349285644024,
+      "rerank_score": 0.66699636,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text. Abhijit Banerjee holds a BSc (Honors) in Economics from Presidency College, Kolkata, and an MA in Economics from Jawaharlal Nehru University, New Delhi. Step 2: Determined the countries of the institutions: India for both Presidency College and Jawaharlal Nehru University. Step 3: Classified both institutions as Global South since India is in South Asia. Step 4: Classified Presidency College and Jawaharlal Nehru University as peripheral institutions, as they are not globally ranked elite institutions. Step 5: Synthesized disciplines, finding only Economics. Confidence is high as the information is explicit and clear.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"BSc\",\n      \"field\": \"economics\",\n      \"institution\": \"Presidency College, Kolkata\",\n      \"institution_country\": \"India\",\n      \"year_completed\": \"1981\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MA\",\n      \"field\": \"economics\",\n      \"institution\": \"Jawaharlal Nehru University, New Delhi\",\n      \"institution_country\": \"India\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_south\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"peripheral\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [\"Presidency College, Kolkata\", \"Jawaharlal Nehru University, New Delhi\"],\n  \"supporting_quote\": \"Banerjee spent three years at Presidency, receiving a BSc (Honors) in Economics in 1981. After completing his undergraduate studies, Banerjee pursued an MA in Economics at Jawaharlal Nehru University, New Delhi.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text. Abhijit Banerjee holds a BSc (Honors) in Economics from Presidency College, Kolkata, and an MA in Economics from Jawaharlal Nehru University, New Delhi. Step 2: Determined the countries of the institutions: India for both Presidency College and Jawaharlal Nehru University. Step 3: Classified both institutions as Global South since India is in South Asia. Step 4: Classified Presidency College and Jawaharlal Nehru University as peripheral institutions, as they are not globally ranked elite institutions. Step 5: Synthesized disciplines, finding only Economics. Confidence is high as the information is explicit and clear.",
+        "degrees_found": [
+          {
+            "degree_type": "BSc",
+            "field": "economics",
+            "institution": "Presidency College, Kolkata",
+            "institution_country": "India",
+            "year_completed": "1981",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MA",
+            "field": "economics",
+            "institution": "Jawaharlal Nehru University, New Delhi",
+            "institution_country": "India",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_south",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "peripheral",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [
+          "Presidency College, Kolkata",
+          "Jawaharlal Nehru University, New Delhi"
+        ],
+        "supporting_quote": "Banerjee spent three years at Presidency, receiving a BSc (Honors) in Economics in 1981. After completing his undergraduate studies, Banerjee pursued an MA in Economics at Jawaharlal Nehru University, New Delhi.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3160,
+      "chunk_index": 0,
+      "source_id": 1164,
+      "url": "https://www.povertyactionlab.org/person/banerjee",
+      "domain": "povertyactionlab.org",
+      "similarity": 0.491109461686153,
+      "rerank_score": 0.6643884,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified one explicit degree (PhD) from the text. Undergraduate institutions mentioned (University of Calcutta, Jawaharlal Nehru University) but no specific degrees stated, so not included. Step 2: Determined countries for all mentioned institutions. Step 3: Classified institutions based on Global North/South criteria. Step 4: Classified institutions as elite or peripheral. Step 5: Synthesized disciplines from identified degrees.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": \"economics\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1988\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"both\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Calcutta\", \"Jawaharlal Nehru University\"],\n  \"supporting_quote\": \"Abhijit Vinayak Banerjee was educated at the University of Calcutta, Jawaharlal Nehru University, and Harvard University, where he received his PhD in 1988.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified one explicit degree (PhD) from the text. Undergraduate institutions mentioned (University of Calcutta, Jawaharlal Nehru University) but no specific degrees stated, so not included. Step 2: Determined countries for all mentioned institutions. Step 3: Classified institutions based on Global North/South criteria. Step 4: Classified institutions as elite or peripheral. Step 5: Synthesized disciplines from identified degrees.",
+        "degrees_found": [
+          {
+            "degree_type": "PhD",
+            "field": "economics",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1988",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "both",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Calcutta",
+          "Jawaharlal Nehru University"
+        ],
+        "supporting_quote": "Abhijit Vinayak Banerjee was educated at the University of Calcutta, Jawaharlal Nehru University, and Harvard University, where he received his PhD in 1988.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3117,
+      "chunk_index": 2,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.42628303366663156,
+      "rerank_score": 0.5183761,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees include an undergraduate degree from Jawaharlal Nehru University (JNU) and a PhD from Harvard University. The field for both is economics. Step 2: JNU is in India, and Harvard is in the USA. Step 3: India is in the Global South, and the USA is in the Global North. Step 4: Harvard is elite, and JNU, while prominent in India, is considered peripheral globally. Step 5: The discipline is economics.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"economics\",\n      \"institution\": \"Jawaharlal Nehru University\",\n      \"institution_country\": \"India\",\n      \"year_completed\": \"1983\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": \"economics\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"both\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"Jawaharlal Nehru University\"],\n  \"supporting_quote\": \"He completed his degree in 1983, and was encouraged by his parents and teachers to apply for PhD programs in economics.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees include an undergraduate degree from Jawaharlal Nehru University (JNU) and a PhD from Harvard University. The field for both is economics. Step 2: JNU is in India, and Harvard is in the USA. Step 3: India is in the Global South, and the USA is in the Global North. Step 4: Harvard is elite, and JNU, while prominent in India, is considered peripheral globally. Step 5: The discipline is economics.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "economics",
+            "institution": "Jawaharlal Nehru University",
+            "institution_country": "India",
+            "year_completed": "1983",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "PhD",
+            "field": "economics",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "both",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "Jawaharlal Nehru University"
+        ],
+        "supporting_quote": "He completed his degree in 1983, and was encouraged by his parents and teachers to apply for PhD programs in economics.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3125,
+      "chunk_index": 10,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.45925839853485395,
+      "rerank_score": 0.51544976,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the source text. The text explicitly mentions Abhijit Banerjee's affiliation with Presidency University, Kolkata, University of Calcutta, Jawaharlal Nehru University, and Harvard University. However, it does not specify the degrees obtained from each institution. Based on common knowledge and typical academic trajectories, it is inferred that he likely holds a BA or equivalent from Presidency University or University of Calcutta, a MA or equivalent from Jawaharlal Nehru University, and a PhD from Harvard University. Step 2: Assigned countries to each institution. Step 3: Classified institutions as Global North or South. Step 4: Classified institutions as elite or peripheral. Step 5: Synthesized disciplines from inferred degrees.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"BA\",\n      \"field\": \"economics\",\n      \"institution\": \"Presidency University, Kolkata\",\n      \"institution_country\": \"India\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"medium\"\n    },\n    {\n      \"degree_type\": \"MA\",\n      \"field\": \"economics\",\n      \"institution\": \"Jawaharlal Nehru University\",\n      \"institution_country\": \"India\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"medium\"\n    },\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": \"economics\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1988\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"both\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"Presidency University, Kolkata\", \"Jawaharlal Nehru University\"],\n  \"supporting_quote\": \"Presidency University, Kolkata alumni, University of Calcutta alumni, Jawaharlal Nehru University alumni, Harvard Graduate School of Arts and Sciences alumni\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the source text. The text explicitly mentions Abhijit Banerjee's affiliation with Presidency University, Kolkata, University of Calcutta, Jawaharlal Nehru University, and Harvard University. However, it does not specify the degrees obtained from each institution. Based on common knowledge and typical academic trajectories, it is inferred that he likely holds a BA or equivalent from Presidency University or University of Calcutta, a MA or equivalent from Jawaharlal Nehru University, and a PhD from Harvard University. Step 2: Assigned countries to each institution. Step 3: Classified institutions as Global North or South. Step 4: Classified institutions as elite or peripheral. Step 5: Synthesized disciplines from inferred degrees.",
+        "degrees_found": [
+          {
+            "degree_type": "BA",
+            "field": "economics",
+            "institution": "Presidency University, Kolkata",
+            "institution_country": "India",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "medium"
+          },
+          {
+            "degree_type": "MA",
+            "field": "economics",
+            "institution": "Jawaharlal Nehru University",
+            "institution_country": "India",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "medium"
+          },
+          {
+            "degree_type": "PhD",
+            "field": "economics",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1988",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "both",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "Presidency University, Kolkata",
+          "Jawaharlal Nehru University"
+        ],
+        "supporting_quote": "Presidency University, Kolkata alumni, University of Calcutta alumni, Jawaharlal Nehru University alumni, Harvard Graduate School of Arts and Sciences alumni",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3169,
+      "chunk_index": 0,
+      "source_id": 1165,
+      "url": "https://live.worldbank.org/en/experts/a/abhijit-banerjee",
+      "domain": "live.worldbank.org",
+      "similarity": 0.38677803201341654,
+      "rerank_score": 0.50856906,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text. The source explicitly mentions a Ph.D. from Harvard University in 1988. Undergraduate degrees from the University of Calcutta and Jawaharlal Nehru University are implied but not explicitly stated as BA/BSc. Step 2: Assigned countries to institutions based on general knowledge. Step 3: Classified institutions as Global North (Harvard) and Global South (Calcutta, Jawaharlal Nehru). Step 4: Classified Harvard as elite and Calcutta/Jawaharlal Nehru as peripheral. Step 5: Synthesized disciplines, focusing on economics.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"PhD\",\n      \"field\": \"economics\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1988\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"both\",\n  \"disciplines\": [\"economics\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Calcutta\", \"Jawaharlal Nehru University\"],\n  \"supporting_quote\": \"Professor Abhijit Banerjee was educated at the University of Calcutta, Jawaharlal Nehru University and Harvard University, where he received his Ph.D in 1988.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text. The source explicitly mentions a Ph.D. from Harvard University in 1988. Undergraduate degrees from the University of Calcutta and Jawaharlal Nehru University are implied but not explicitly stated as BA/BSc. Step 2: Assigned countries to institutions based on general knowledge. Step 3: Classified institutions as Global North (Harvard) and Global South (Calcutta, Jawaharlal Nehru). Step 4: Classified Harvard as elite and Calcutta/Jawaharlal Nehru as peripheral. Step 5: Synthesized disciplines, focusing on economics.",
+        "degrees_found": [
+          {
+            "degree_type": "PhD",
+            "field": "economics",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1988",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "both",
+        "disciplines": [
+          "economics"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Calcutta",
+          "Jawaharlal Nehru University"
+        ],
+        "supporting_quote": "Professor Abhijit Banerjee was educated at the University of Calcutta, Jawaharlal Nehru University and Harvard University, where he received his Ph.D in 1988.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3170,
+      "url": "https://www.carnegie.org/awards/honoree/abhijit-banerjee/",
+      "domain": "carnegie.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text is about Abhijit Banerjee's biography and mentions his education, specifically his PhD. Step 2 — Degree confirmation: The text confirms the PhD in Economics from Harvard University. Step 3 — New degrees found: The text does not mention any degrees other than the PhD. Step 4 — Confidence: The source clearly and explicitly confirms the PhD credential.\",\n  \"confirms\": true,\n  \"confirmed_degrees\": [\"PhD in Economics, Harvard University\"],\n  \"new_degrees_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He came to the United States to pursue a PhD in economics at Harvard University, which he completed in 1988.\",\n  \"alternative_findings\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text is about Abhijit Banerjee's biography and mentions his education, specifically his PhD. Step 2 — Degree confirmation: The text confirms the PhD in Economics from Harvard University. Step 3 — New degrees found: The text does not mention any degrees other than the PhD. Step 4 — Confidence: The source clearly and explicitly confirms the PhD credential.",
+        "confirms": true,
+        "confirmed_degrees": [
+          "PhD in Economics, Harvard University"
+        ],
+        "new_degrees_found": [],
+        "confidence": "high",
+        "supporting_quote": "He came to the United States to pursue a PhD in economics at Harvard University, which he completed in 1988.",
+        "alternative_findings": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He came to the United States to pursue a PhD in economics at Harvard University, which he completed in 1988.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3171,
+      "url": "https://www.leighbureau.com/speakers/abanerjee",
+      "domain": "leighbureau.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text is relevant as it discusses Abhijit Banerjee's biography, including his education. Step 2 — The text confirms the PhD in Economics from Harvard University but does not explicitly mention the BSc from Presidency College or the MA from Jawaharlal Nehru University. Step 3 — No new degrees are mentioned beyond what is already in the candidate findings. Step 4 — Confidence is high for the confirmed credential due to explicit mention.\",\n  \"confirms\": true,\n  \"confirmed_degrees\": [\"PhD in Economics, Harvard University\"],\n  \"new_degrees_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"and was educated at the University of Calcutta, Jawaharlal Nehru University, and Harvard University, where he received his PhD.\",\n  \"alternative_findings\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text is relevant as it discusses Abhijit Banerjee's biography, including his education. Step 2 — The text confirms the PhD in Economics from Harvard University but does not explicitly mention the BSc from Presidency College or the MA from Jawaharlal Nehru University. Step 3 — No new degrees are mentioned beyond what is already in the candidate findings. Step 4 — Confidence is high for the confirmed credential due to explicit mention.",
+        "confirms": true,
+        "confirmed_degrees": [
+          "PhD in Economics, Harvard University"
+        ],
+        "new_degrees_found": [],
+        "confidence": "high",
+        "supporting_quote": "and was educated at the University of Calcutta, Jawaharlal Nehru University, and Harvard University, where he received his PhD.",
+        "alternative_findings": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "and was educated at the University of Calcutta, Jawaharlal Nehru University, and Harvard University, where he received his PhD.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Alma mater\nPresidency College\n(BSc)\nJawaharlal Nehru University\n(\nMA\n)\nHarvard University\n(\nPhD\n)",
+    "confirmation_count": 2,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "degrees_found": [
+      {
+        "degree_type": "BSc",
+        "field": "economics",
+        "institution": "Presidency College",
+        "institution_country": "India",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      },
+      {
+        "degree_type": "MA",
+        "field": "economics",
+        "institution": "Jawaharlal Nehru University",
+        "institution_country": "India",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      },
+      {
+        "degree_type": "PhD",
+        "field": "economics",
+        "institution": "Harvard University",
+        "institution_country": "USA",
+        "year_completed": "1988",
+        "year_started": null,
+        "confidence": "high"
+      }
+    ],
+    "geographic_category": "both",
+    "disciplines": [
+      "economics"
+    ],
+    "institution_prestige": "both",
+    "elite_institutions_found": [
+      "Harvard University"
+    ],
+    "peripheral_institutions_found": [
+      "Presidency College",
+      "Jawaharlal Nehru University"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

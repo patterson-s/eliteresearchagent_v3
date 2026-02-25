@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Keizo_Takemi",
+  "person_db_name": "Keizo Takemi",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:22:26.111108+00:00",
+  "input": {
+    "hlp_name": "High-level Panel on United Nations Systemwide Coherence",
+    "hlp_year": "2006",
+    "nomination_year": 2006,
+    "hlp_nomination_age": 55,
+    "birth_year": "1951",
+    "nationality": [
+      "Japanese"
+    ]
+  },
+  "retrieval": {
+    "query": "Keizo Takemi job title position role career 2006 appointed nominated serving",
+    "chunks_in_db": 14,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3965,
+        "url": "https://en.wikipedia.org/wiki/Keiz%C5%8D_Takemi",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6112,
+        "rerank_score": 0.8393
+      },
+      {
+        "chunk_id": 3975,
+        "url": "https://www.un.org/spanish/events/panel/html/takemi.html",
+        "domain": "un.org",
+        "similarity": 0.5396,
+        "rerank_score": 0.8063
+      },
+      {
+        "chunk_id": 3968,
+        "url": "https://japan.kantei.go.jp/101_kishida/meibo/daijin/takemi_keizo_e.html",
+        "domain": "japan.kantei.go.jp",
+        "similarity": 0.5302,
+        "rerank_score": 0.8018
+      },
+      {
+        "chunk_id": 3976,
+        "url": "https://www.globalgovernanceproject.org/author/keizo-takemi/",
+        "domain": "globalgovernanceproject.org",
+        "similarity": 0.4473,
+        "rerank_score": 0.7197
+      },
+      {
+        "chunk_id": 3974,
+        "url": "https://www.who.int/news/item/27-06-2019-a-new-who-goodwill-ambassador-for-universal-health-coverage",
+        "domain": "who.int",
+        "similarity": 0.4791,
+        "rerank_score": 0.7104
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3965,
+      "chunk_index": 0,
+      "source_id": 1410,
+      "url": "https://en.wikipedia.org/wiki/Keiz%C5%8D_Takemi",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6112221154155605,
+      "rerank_score": 0.83932644,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that Takemi served as Vice Minister of the Ministry of Health, Labour and Welfare from September 2006 until August 2007, which directly overlaps with the nomination year 2006. Step 2 — Role identification: The specific job title mentioned is 'Vice Minister'. Step 3 — Organization identification: The organization linked to this role is the 'Ministry of Health, Labour and Welfare'. Step 4 — Temporal match assessment: The role explicitly overlaps with 2006, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2006.\",\n  \"job_title_at_nomination\": \"Vice Minister\",\n  \"organization_at_nomination\": \"Ministry of Health, Labour and Welfare\",\n  \"year_reference\": \"2006–2007\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He served until July 2007, and was Vice Minister of Ministry of Health, Labour and Welfare of the Abe Cabinet from September 2006 until August 2007.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that Takemi served as Vice Minister of the Ministry of Health, Labour and Welfare from September 2006 until August 2007, which directly overlaps with the nomination year 2006. Step 2 — Role identification: The specific job title mentioned is 'Vice Minister'. Step 3 — Organization identification: The organization linked to this role is the 'Ministry of Health, Labour and Welfare'. Step 4 — Temporal match assessment: The role explicitly overlaps with 2006, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2006.",
+        "job_title_at_nomination": "Vice Minister",
+        "organization_at_nomination": "Ministry of Health, Labour and Welfare",
+        "year_reference": "2006–2007",
+        "confidence": "high",
+        "supporting_quote": "He served until July 2007, and was Vice Minister of Ministry of Health, Labour and Welfare of the Abe Cabinet from September 2006 until August 2007.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Vice Minister",
+      "organization_at_nomination": "Ministry of Health, Labour and Welfare",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3975,
+      "url": "https://www.un.org/spanish/events/panel/html/takemi.html",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Keizo Takemi and discusses his career and biography, including his roles in government and academia. Step 2 — Title match assessment: The text mentions 'Senior Vice-Minister of Health, Labour and Welfare,' which is a compatible match with the claimed title 'Vice Minister' at the same organization. Step 3 — Temporal alignment: The role is described without explicit dates but is consistent with his career period, and the source is from 2006, aligning with the nomination year. Step 4 — Alternative title: No contradictory title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Senior Vice-Minister of Health, Labour and Welfare\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Keizo Takemi and discusses his career and biography, including his roles in government and academia. Step 2 — Title match assessment: The text mentions 'Senior Vice-Minister of Health, Labour and Welfare,' which is a compatible match with the claimed title 'Vice Minister' at the same organization. Step 3 — Temporal alignment: The role is described without explicit dates but is consistent with his career period, and the source is from 2006, aligning with the nomination year. Step 4 — Alternative title: No contradictory title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Senior Vice-Minister of Health, Labour and Welfare",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Senior Vice-Minister of Health, Labour and Welfare",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3968,
+      "url": "https://japan.kantei.go.jp/101_kishida/meibo/daijin/takemi_keizo_e.html",
+      "domain": "japan.kantei.go.jp",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Keizo Takemi and discusses his career and biography in detail. Step 2 — Title match assessment: The text mentions 'State Minister of Health, Labour and Welfare' which is a compatible match with 'Vice Minister' at the same organization. Step 3 — Temporal alignment: The role of 'State Minister of Health, Labour and Welfare' is explicitly dated to September 2006, which aligns with the claim period. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Sep. 2006 State Minister of Health, Labour and Welfare (Abe Cabinet)\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Keizo Takemi and discusses his career and biography in detail. Step 2 — Title match assessment: The text mentions 'State Minister of Health, Labour and Welfare' which is a compatible match with 'Vice Minister' at the same organization. Step 3 — Temporal alignment: The role of 'State Minister of Health, Labour and Welfare' is explicitly dated to September 2006, which aligns with the claim period. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Sep. 2006 State Minister of Health, Labour and Welfare (Abe Cabinet)",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Sep. 2006 State Minister of Health, Labour and Welfare (Abe Cabinet)",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3976,
+      "url": "https://www.globalgovernanceproject.org/author/keizo-takemi/",
+      "domain": "globalgovernanceproject.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Keizo Takemi and discusses his career and biography, including his roles at the United Nations and in Japanese politics. Step 2 — Title match assessment: The text mentions that Keizo Takemi 'served as Japan’s senior vice minister for health, labour and welfare,' which is a compatible match with the claim of 'Vice Minister' at 'Ministry of Health, Labour and Welfare.' Step 3 — Temporal alignment: While the text does not provide explicit dates for this role, it is described as part of his career without contradicting information, making it consistent with the 2006 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He also served as Japan’s senior vice minister for health, labour and welfare\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Keizo Takemi and discusses his career and biography, including his roles at the United Nations and in Japanese politics. Step 2 — Title match assessment: The text mentions that Keizo Takemi 'served as Japan’s senior vice minister for health, labour and welfare,' which is a compatible match with the claim of 'Vice Minister' at 'Ministry of Health, Labour and Welfare.' Step 3 — Temporal alignment: While the text does not provide explicit dates for this role, it is described as part of his career without contradicting information, making it consistent with the 2006 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "He also served as Japan’s senior vice minister for health, labour and welfare",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He also served as Japan’s senior vice minister for health, labour and welfare",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Vice Minister",
+    "organization_at_nomination": "Ministry of Health, Labour and Welfare",
+    "confidence": "high",
+    "supporting_quote": "He served until July 2007, and was Vice Minister of Ministry of Health, Labour and Welfare of the Abe Cabinet from September 2006 until August 2007.",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

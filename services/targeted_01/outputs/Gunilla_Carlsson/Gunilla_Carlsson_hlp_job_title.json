@@ -1,0 +1,167 @@
+{
+  "person_dir_name": "Gunilla_Carlsson",
+  "person_db_name": "Gunilla Carlsson",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T18:02:57.297740+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 49,
+    "birth_year": "1963",
+    "nationality": [
+      "Swedish"
+    ]
+  },
+  "retrieval": {
+    "query": "Gunilla Carlsson job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 22,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3369,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6367,
+        "rerank_score": 0.767
+      },
+      {
+        "chunk_id": 3375,
+        "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+        "domain": "unaids.org",
+        "similarity": 0.5417,
+        "rerank_score": 0.7592
+      },
+      {
+        "chunk_id": 3371,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5383,
+        "rerank_score": 0.6999
+      },
+      {
+        "chunk_id": 3377,
+        "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+        "domain": "gcsp.ch",
+        "similarity": 0.5412,
+        "rerank_score": 0.6812
+      },
+      {
+        "chunk_id": 3388,
+        "url": "https://www.concordia.net/community/gunilla-carlsson/",
+        "domain": "concordia.net",
+        "similarity": 0.4969,
+        "rerank_score": 0.6755
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3369,
+      "chunk_index": 0,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6367390100082058,
+      "rerank_score": 0.76701033,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly states that Gunilla Carlsson served as Minister for International Development Cooperation from 2006 to 2013, which includes the year 2012. Step 2 — Role identification: The specific job title 'Minister for International Development Cooperation' is clearly mentioned. Step 3 — Organization identification: The organization is implied to be the Swedish government, as she is a minister. Step 4 — Temporal match assessment: The role overlaps with 2012, making it the nomination-time role. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2012.\",\n  \"job_title_at_nomination\": \"Minister for International Development Cooperation\",\n  \"organization_at_nomination\": \"Swedish Government\",\n  \"year_reference\": \"2006–2013\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"She served as Minister for International Development Cooperation from 2006 to 2013\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly states that Gunilla Carlsson served as Minister for International Development Cooperation from 2006 to 2013, which includes the year 2012. Step 2 — Role identification: The specific job title 'Minister for International Development Cooperation' is clearly mentioned. Step 3 — Organization identification: The organization is implied to be the Swedish government, as she is a minister. Step 4 — Temporal match assessment: The role overlaps with 2012, making it the nomination-time role. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2012.",
+        "job_title_at_nomination": "Minister for International Development Cooperation",
+        "organization_at_nomination": "Swedish Government",
+        "year_reference": "2006–2013",
+        "confidence": "high",
+        "supporting_quote": "She served as Minister for International Development Cooperation from 2006 to 2013",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Minister for International Development Cooperation",
+      "organization_at_nomination": "Swedish Government",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3375,
+      "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+      "domain": "unaids.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Gunilla Carlsson and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text explicitly mentions that Ms. Carlsson served as the 'Minister for International Development Cooperation' from 2006 to 2013, which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: The role of Minister for International Development Cooperation is stated to have been held from 2006 to 2013, which includes the year 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Before joining UNAIDS, Ms Carlsson served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Gunilla Carlsson and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text explicitly mentions that Ms. Carlsson served as the 'Minister for International Development Cooperation' from 2006 to 2013, which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: The role of Minister for International Development Cooperation is stated to have been held from 2006 to 2013, which includes the year 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Before joining UNAIDS, Ms Carlsson served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Before joining UNAIDS, Ms Carlsson served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3377,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Gunilla Carlsson and discusses her career and biography, including her political roles. Step 2 — Title match assessment: The text mentions 'Former Minister of International Development Cooperation of Sweden,' which is a compatible match with the claimed title 'Minister for International Development Cooperation' at 'Swedish Government.' Step 3 — Temporal alignment: While the text does not provide explicit dates, it describes the role as part of her career without contradicting information, making it consistent with the 2012 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Former Minister of International Development Cooperation of Sweden\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Gunilla Carlsson and discusses her career and biography, including her political roles. Step 2 — Title match assessment: The text mentions 'Former Minister of International Development Cooperation of Sweden,' which is a compatible match with the claimed title 'Minister for International Development Cooperation' at 'Swedish Government.' Step 3 — Temporal alignment: While the text does not provide explicit dates, it describes the role as part of her career without contradicting information, making it consistent with the 2012 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Former Minister of International Development Cooperation of Sweden",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Former Minister of International Development Cooperation of Sweden",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3388,
+      "url": "https://www.concordia.net/community/gunilla-carlsson/",
+      "domain": "concordia.net",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Gunilla Carlsson and discusses her career and biography, including her roles in the Swedish Parliament, European Parliament, and as Minister for International Development Cooperation. Step 2 — Title match assessment: The text explicitly mentions that Gunilla Carlsson served as the 'Minister for International Development Cooperation' from 2006 to 2013, which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: The role of Minister for International Development Cooperation is explicitly stated to span from 2006 to 2013, which includes the year 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Gunilla Carlsson and discusses her career and biography, including her roles in the Swedish Parliament, European Parliament, and as Minister for International Development Cooperation. Step 2 — Title match assessment: The text explicitly mentions that Gunilla Carlsson served as the 'Minister for International Development Cooperation' from 2006 to 2013, which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: The role of Minister for International Development Cooperation is explicitly stated to span from 2006 to 2013, which includes the year 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "served as an elected member of the Swedish Parliament from 2002 to 2013 and as the Minister for International Development Cooperation from 2006 to 2013.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "She served as Minister for International Development Cooperation from 2006 to 2013",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "job_title_at_nomination": "Minister for International Development Cooperation",
+    "organization_at_nomination": "Swedish Government",
+    "year_reference": "2006–2013"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

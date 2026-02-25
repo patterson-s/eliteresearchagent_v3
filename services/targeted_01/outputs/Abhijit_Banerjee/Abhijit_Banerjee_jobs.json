@@ -1,0 +1,848 @@
+{
+  "person_dir_name": "Abhijit_Banerjee",
+  "person_db_name": "Abhijit Banerjee",
+  "question_id": "jobs",
+  "question_display": "Main Jobs (Organizational Mobility)",
+  "run_timestamp": "2026-02-25T17:03:31.376773+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2013-2015",
+    "nomination_year": 2013,
+    "hlp_nomination_age": 52,
+    "birth_year": "1961",
+    "nationality": [
+      "Indian",
+      "American"
+    ]
+  },
+  "retrieval": {
+    "query": "Abhijit Banerjee job title director minister professor CEO secretary general career appointment position employer organization",
+    "chunks_in_db": 60,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3126,
+        "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+        "domain": "economics.mit.edu",
+        "similarity": 0.4984,
+        "rerank_score": 0.5372
+      },
+      {
+        "chunk_id": 3160,
+        "url": "https://www.povertyactionlab.org/person/banerjee",
+        "domain": "povertyactionlab.org",
+        "similarity": 0.4681,
+        "rerank_score": 0.528
+      },
+      {
+        "chunk_id": 3115,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.533,
+        "rerank_score": 0.5049
+      },
+      {
+        "chunk_id": 3174,
+        "url": "https://economics.mit.edu/people/faculty/abhijit-banerjee/short-bio",
+        "domain": "economics.mit.edu",
+        "similarity": 0.4765,
+        "rerank_score": 0.4552
+      },
+      {
+        "chunk_id": 3117,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.392,
+        "rerank_score": 0.4441
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3126,
+      "chunk_index": 0,
+      "source_id": 1160,
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+      "domain": "economics.mit.edu",
+      "similarity": 0.4984252746095581,
+      "rerank_score": 0.5372119,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles from the text including academic positions and directorships. Step 2: Matched each role to its employing organization. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as 'academic' for all roles due to their nature. Step 5: Assessed prominence as 'primary' for full-time positions and 'secondary' for part-time or advisory roles.\",\n  \"jobs\": [\n    {\n      \"title\": \"Ford Foundation International Professor of Economics\",\n      \"organization\": \"Massachusetts Institute of Technology (M.I.T.)\",\n      \"approximate_period\": \"2003-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director, Abdul Latif Jameel Poverty Action Lab\",\n      \"organization\": \"Massachusetts Institute of Technology (M.I.T.)\",\n      \"approximate_period\": \"2003-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"2003 - Ford Foundation International Professor of Economics, M.I.T.\\n2003 - Director, Abdul Latif Jameel Poverty Action Lab,\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles from the text including academic positions and directorships. Step 2: Matched each role to its employing organization. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as 'academic' for all roles due to their nature. Step 5: Assessed prominence as 'primary' for full-time positions and 'secondary' for part-time or advisory roles.",
+        "jobs": [
+          {
+            "title": "Ford Foundation International Professor of Economics",
+            "organization": "Massachusetts Institute of Technology (M.I.T.)",
+            "approximate_period": "2003-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director, Abdul Latif Jameel Poverty Action Lab",
+            "organization": "Massachusetts Institute of Technology (M.I.T.)",
+            "approximate_period": "2003-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "2003 - Ford Foundation International Professor of Economics, M.I.T.\n2003 - Director, Abdul Latif Jameel Poverty Action Lab,",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3160,
+      "chunk_index": 0,
+      "source_id": 1164,
+      "url": "https://www.povertyactionlab.org/person/banerjee",
+      "domain": "povertyactionlab.org",
+      "similarity": 0.4681304925720918,
+      "rerank_score": 0.52802294,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles such as Professor, Director, Scientific Director, Member of Executive Committee, Research Associate, Fellow, Trustee, Chair, and Co-Chair. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods where explicitly mentioned or inferred as 'present'. Step 4: Classified domains based on the nature of the organization. Step 5: Assessed prominence as primary or secondary based on the role's nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Ford Foundation International Professor of Economics\",\n      \"organization\": \"Massachusetts Institute of Technology\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.\"\n    },\n    {\n      \"title\": \"Director\",\n      \"organization\": \"J-PAL\",\n      \"approximate_period\": \"2003-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2003, he founded J-PAL along with Esther Duflo and Sendhil Mullainathan, and remains one of J-PAL’s directors.\"\n    },\n    {\n      \"title\": \"Scientific Director\",\n      \"organization\": \"J-PAL Europe\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In addition to serving as a Director of J-PAL, Abhijit serves as Scientific Director of J-PAL Europe.\"\n    },\n    {\n      \"title\": \"Member, Executive Committee\",\n      \"organization\": \"J-PAL\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a member of J-PAL's Executive Committee and previously served as Co-Chair of J-PAL’s Education sector.\"\n    },\n    {\n      \"title\": \"Research Associate\",\n      \"organization\": \"National Bureau of Economic Research (NBER)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Abhijit is a past president of the Bureau for the Research in the Economic Analysis of Development, a Research Associate of the NBER.\"\n    },\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a fellow of the American Academy of Arts and Sciences and the Econometric Society.\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Save the Children USA\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a trustee of Save the Children USA.\"\n    },\n    {\n      \"title\": \"Chair\",\n      \"organization\": \"Global Education Evidence Advisory Panel\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Chair of the Global Education Evidence Advisory Panel and the Global Advisory Board for Covid-19 Response of the government of West Bengal.\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles such as Professor, Director, Scientific Director, Member of Executive Committee, Research Associate, Fellow, Trustee, Chair, and Co-Chair. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods where explicitly mentioned or inferred as 'present'. Step 4: Classified domains based on the nature of the organization. Step 5: Assessed prominence as primary or secondary based on the role's nature.",
+        "jobs": [
+          {
+            "title": "Ford Foundation International Professor of Economics",
+            "organization": "Massachusetts Institute of Technology",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology."
+          },
+          {
+            "title": "Director",
+            "organization": "J-PAL",
+            "approximate_period": "2003-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "In 2003, he founded J-PAL along with Esther Duflo and Sendhil Mullainathan, and remains one of J-PAL’s directors."
+          },
+          {
+            "title": "Scientific Director",
+            "organization": "J-PAL Europe",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "In addition to serving as a Director of J-PAL, Abhijit serves as Scientific Director of J-PAL Europe."
+          },
+          {
+            "title": "Member, Executive Committee",
+            "organization": "J-PAL",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "He is a member of J-PAL's Executive Committee and previously served as Co-Chair of J-PAL’s Education sector."
+          },
+          {
+            "title": "Research Associate",
+            "organization": "National Bureau of Economic Research (NBER)",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Abhijit is a past president of the Bureau for the Research in the Economic Analysis of Development, a Research Associate of the NBER."
+          },
+          {
+            "title": "Fellow",
+            "organization": "American Academy of Arts and Sciences",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "a fellow of the American Academy of Arts and Sciences and the Econometric Society."
+          },
+          {
+            "title": "Trustee",
+            "organization": "Save the Children USA",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "He is a trustee of Save the Children USA."
+          },
+          {
+            "title": "Chair",
+            "organization": "Global Education Evidence Advisory Panel",
+            "approximate_period": "null",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "the Chair of the Global Education Evidence Advisory Panel and the Global Advisory Board for Covid-19 Response of the government of West Bengal."
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3115,
+      "chunk_index": 0,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5330453963184969,
+      "rerank_score": 0.50490767,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Professor at MIT, co-founder and co-director of J-PAL, and Professor at other universities. Step 2: Organizations are MIT, J-PAL, University of Zurich, NBER, Harvard University, and Princeton University. Step 3: Extracted approximate periods from the text. Step 4: Classified domains as 'academic' for all roles. Step 5: Assessed prominence as 'primary' for all roles except where explicitly stated otherwise.\",\n  \"jobs\": [\n    {\n      \"title\": \"Ford Foundation International Professor of Economics\",\n      \"organization\": \"Massachusetts Institute of Technology (MIT)\",\n      \"approximate_period\": \"1993-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Co-founder and Co-director\",\n      \"organization\": \"Abdul Latif Jameel Poverty Action Lab (J-PAL)\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"University of Zurich\",\n      \"approximate_period\": \"2026–\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"Harvard University\",\n      \"approximate_period\": \"1992-1993\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"Princeton University\",\n      \"approximate_period\": \"1988-1992\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Research Associate\",\n      \"organization\": \"National Bureau of Economic Research (NBER)\",\n      \"approximate_period\": \"2006–present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Professor at MIT, co-founder and co-director of J-PAL, and Professor at other universities. Step 2: Organizations are MIT, J-PAL, University of Zurich, NBER, Harvard University, and Princeton University. Step 3: Extracted approximate periods from the text. Step 4: Classified domains as 'academic' for all roles. Step 5: Assessed prominence as 'primary' for all roles except where explicitly stated otherwise.",
+        "jobs": [
+          {
+            "title": "Ford Foundation International Professor of Economics",
+            "organization": "Massachusetts Institute of Technology (MIT)",
+            "approximate_period": "1993-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Co-founder and Co-director",
+            "organization": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Professor",
+            "organization": "University of Zurich",
+            "approximate_period": "2026–",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Professor",
+            "organization": "Harvard University",
+            "approximate_period": "1992-1993",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Professor",
+            "organization": "Princeton University",
+            "approximate_period": "1988-1992",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Research Associate",
+            "organization": "National Bureau of Economic Research (NBER)",
+            "approximate_period": "2006–present",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3174,
+      "chunk_index": 0,
+      "source_id": 1168,
+      "url": "https://economics.mit.edu/people/faculty/abhijit-banerjee/short-bio",
+      "domain": "economics.mit.edu",
+      "similarity": 0.4765300000190174,
+      "rerank_score": 0.45522344,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Ford Foundation International Professor of Economics at MIT, co-founder and Director of J-PAL, fellow of multiple academies, U.N. Secretary-General's High-level Panel member, trustee of Save the Children USA and the British Museum, Chair of the Global Education Evidence Advisory Panel, and Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal. Step 2: Organizations were explicitly named in the text. Step 3: Approximate periods were extracted where available; ongoing roles noted as 'present'. Step 4: Domains classified based on role nature. Step 5: Prominence assessed as primary for full-time roles and secondary for part-time or advisory roles.\",\n  \"jobs\": [\n    {\n      \"title\": \"Ford Foundation International Professor of Economics\",\n      \"organization\": \"Massachusetts Institute of Technology (MIT)\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Co-founder and Director\",\n      \"organization\": \"Abdul Latif Jameel Poverty Action Lab (J-PAL)\",\n      \"approximate_period\": \"2003-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"National Academy of Sciences\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"Econometric Society\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"U.N. Secretary-General's High-level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Save the Children USA\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"British Museum\",\n      \"approximate_period\": null,\n      \"domain\": \"other\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chair\",\n      \"organization\": \"Global Education Evidence Advisory Panel\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chair\",\n      \"organization\": \"Global Advisory Board for Covid-19 Response of the government of West Bengal\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Abhijit Vinayak Banerjee is the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Ford Foundation International Professor of Economics at MIT, co-founder and Director of J-PAL, fellow of multiple academies, U.N. Secretary-General's High-level Panel member, trustee of Save the Children USA and the British Museum, Chair of the Global Education Evidence Advisory Panel, and Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal. Step 2: Organizations were explicitly named in the text. Step 3: Approximate periods were extracted where available; ongoing roles noted as 'present'. Step 4: Domains classified based on role nature. Step 5: Prominence assessed as primary for full-time roles and secondary for part-time or advisory roles.",
+        "jobs": [
+          {
+            "title": "Ford Foundation International Professor of Economics",
+            "organization": "Massachusetts Institute of Technology (MIT)",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Co-founder and Director",
+            "organization": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+            "approximate_period": "2003-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Fellow",
+            "organization": "National Academy of Sciences",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Fellow",
+            "organization": "American Academy of Arts and Sciences",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Fellow",
+            "organization": "Econometric Society",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "U.N. Secretary-General's High-level Panel of Eminent Persons on the Post-2015 Development Agenda",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Save the Children USA",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "British Museum",
+            "approximate_period": null,
+            "domain": "other",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chair",
+            "organization": "Global Education Evidence Advisory Panel",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chair",
+            "organization": "Global Advisory Board for Covid-19 Response of the government of West Bengal",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Abhijit Vinayak Banerjee is the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3117,
+      "chunk_index": 2,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.3919876914818046,
+      "rerank_score": 0.444059,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Ford Foundation International Professor of Economics at MIT, teaching positions at Harvard and Princeton, Guggenheim Fellow, Alfred P. Sloan Fellow, and serving on the Social Sciences jury for the Infosys Prize. Step 2: Organizations are MIT, Harvard, Princeton, Guggenheim Foundation, Alfred P. Sloan Foundation, and Infosys Prize. Step 3: Approximate periods are 'current' for MIT, and specific years for awards and jury service. Step 4: Domains are 'academic' for professorships and teaching, and 'civil_society' for fellowships. Step 5: Prominence is 'primary' for professorships and 'secondary' for fellowships and jury service.\",\n  \"jobs\": [\n    {\n      \"title\": \"Ford Foundation International Professor of Economics\",\n      \"organization\": \"Massachusetts Institute of Technology (MIT)\",\n      \"approximate_period\": \"present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"Harvard University\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"Princeton University\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Guggenheim Fellow\",\n      \"organization\": \"Guggenheim Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Alfred P. Sloan Fellow\",\n      \"organization\": \"Alfred P. Sloan Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Jury Member, Social Sciences\",\n      \"organization\": \"Infosys Prize\",\n      \"approximate_period\": \"2018\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Banerjee is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology; he has taught at Harvard University and Princeton University.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Ford Foundation International Professor of Economics at MIT, teaching positions at Harvard and Princeton, Guggenheim Fellow, Alfred P. Sloan Fellow, and serving on the Social Sciences jury for the Infosys Prize. Step 2: Organizations are MIT, Harvard, Princeton, Guggenheim Foundation, Alfred P. Sloan Foundation, and Infosys Prize. Step 3: Approximate periods are 'current' for MIT, and specific years for awards and jury service. Step 4: Domains are 'academic' for professorships and teaching, and 'civil_society' for fellowships. Step 5: Prominence is 'primary' for professorships and 'secondary' for fellowships and jury service.",
+        "jobs": [
+          {
+            "title": "Ford Foundation International Professor of Economics",
+            "organization": "Massachusetts Institute of Technology (MIT)",
+            "approximate_period": "present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Professor",
+            "organization": "Harvard University",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Professor",
+            "organization": "Princeton University",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Guggenheim Fellow",
+            "organization": "Guggenheim Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Alfred P. Sloan Fellow",
+            "organization": "Alfred P. Sloan Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Jury Member, Social Sciences",
+            "organization": "Infosys Prize",
+            "approximate_period": "2018",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Banerjee is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology; he has taught at Harvard University and Princeton University.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3118,
+      "chunk_index": 3,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.42266548025941686,
+      "rerank_score": 0.3793789,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Nobel Prize winner, faculty member at University of Zurich, co-director of Lemann Center, co-founder of Abdul Latif Jameel Poverty Action Lab, and member of academic advisory board at Plaksha University. Step 2: Organizations are Nobel Foundation, University of Zurich, Lemann Center, Abdul Latif Jameel Poverty Action Lab, and Plaksha University. Step 3: Approximate periods are 2023 for Nobel Prize, 2026 for University of Zurich and Lemann Center, and null for other roles. Step 4: Domains are 'academic' for all roles except Nobel Prize, which is 'other'. Step 5: Prominence is 'primary' for all roles except advisory board member, which is 'secondary'.\",\n  \"jobs\": [\n    {\n      \"title\": \"Nobel Prize Winner in Economics\",\n      \"organization\": \"Nobel Foundation\",\n      \"approximate_period\": \"2023\",\n      \"domain\": \"other\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Faculty Member\",\n      \"organization\": \"University of Zurich\",\n      \"approximate_period\": \"2026-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Co-director\",\n      \"organization\": \"Lemann Center for Development, Education and Public Policy\",\n      \"approximate_period\": \"2026-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Co-founder\",\n      \"organization\": \"Abdul Latif Jameel Poverty Action Lab\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Academic Advisory Board Member\",\n      \"organization\": \"Plaksha University\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"supporting_quote\": \"That same year, was awarded the Nobel Prize in Economics, together with Esther Duflo and Michael Kremer\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Nobel Prize winner, faculty member at University of Zurich, co-director of Lemann Center, co-founder of Abdul Latif Jameel Poverty Action Lab, and member of academic advisory board at Plaksha University. Step 2: Organizations are Nobel Foundation, University of Zurich, Lemann Center, Abdul Latif Jameel Poverty Action Lab, and Plaksha University. Step 3: Approximate periods are 2023 for Nobel Prize, 2026 for University of Zurich and Lemann Center, and null for other roles. Step 4: Domains are 'academic' for all roles except Nobel Prize, which is 'other'. Step 5: Prominence is 'primary' for all roles except advisory board member, which is 'secondary'.",
+        "jobs": [
+          {
+            "title": "Nobel Prize Winner in Economics",
+            "organization": "Nobel Foundation",
+            "approximate_period": "2023",
+            "domain": "other",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Faculty Member",
+            "organization": "University of Zurich",
+            "approximate_period": "2026-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Co-director",
+            "organization": "Lemann Center for Development, Education and Public Policy",
+            "approximate_period": "2026-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Co-founder",
+            "organization": "Abdul Latif Jameel Poverty Action Lab",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Academic Advisory Board Member",
+            "organization": "Plaksha University",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "supporting_quote": "That same year, was awarded the Nobel Prize in Economics, together with Esther Duflo and Michael Kremer",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3116,
+      "chunk_index": 1,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4749262740404137,
+      "rerank_score": 0.3625634,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include academic appointments and fellowships. No governmental, diplomatic, executive, or civil society roles were mentioned. Step 2: Organizations include Econometric Society, National Academy of Sciences, American Academy of Arts and Sciences, and Sloan Research Fellowship. Step 3: Only the Sloan Research Fellowship has a specific year (1994). Other roles lack explicit dates. Step 4: All roles fall under 'academic' domain. Step 5: Fellowships are 'secondary'; primary roles are not explicitly stated but implied through academic appointments.\",\n  \"jobs\": [\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"Econometric Society\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"National Academy of Sciences\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Fellow\",\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Sloan Research Fellow\",\n      \"organization\": \"Sloan Research Fellowship\",\n      \"approximate_period\": \"1994\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Banerjee is a fellow of the Econometric Society, a member of the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences. In 1994, he received a Sloan Research Fellowship.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include academic appointments and fellowships. No governmental, diplomatic, executive, or civil society roles were mentioned. Step 2: Organizations include Econometric Society, National Academy of Sciences, American Academy of Arts and Sciences, and Sloan Research Fellowship. Step 3: Only the Sloan Research Fellowship has a specific year (1994). Other roles lack explicit dates. Step 4: All roles fall under 'academic' domain. Step 5: Fellowships are 'secondary'; primary roles are not explicitly stated but implied through academic appointments.",
+        "jobs": [
+          {
+            "title": "Fellow",
+            "organization": "Econometric Society",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "National Academy of Sciences",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Fellow",
+            "organization": "American Academy of Arts and Sciences",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Sloan Research Fellow",
+            "organization": "Sloan Research Fellowship",
+            "approximate_period": "1994",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Banerjee is a fellow of the Econometric Society, a member of the National Academy of Sciences, and a fellow of the American Academy of Arts and Sciences. In 1994, he received a Sloan Research Fellowship.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3171,
+      "chunk_index": 0,
+      "source_id": 1167,
+      "url": "https://www.leighbureau.com/speakers/abanerjee",
+      "domain": "leighbureau.com",
+      "similarity": 0.41090014196091745,
+      "rerank_score": 0.309504,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Ford Foundation International Professor of Economics at MIT, Founding Director of J-PAL, member of U.N. Secretary-General's High-level Panel, research fellowships at NBER, CEPR, Kiel Institute, American Academy of Arts and Sciences, and Econometric Society, Trustee of Save the Children USA, Chair of the Global Education Evidence Advisory Panel, and former President of the Bureau for Research in the Economic Analysis of Development. Step 2: Organizations were explicitly named for each role. Step 3: Approximate periods were not provided for most roles, except for the Nobel Prize in 2019. Step 4: Classified domains based on the nature of each organization. Step 5: Assessed prominence based on the description of each role.\",\n  \"jobs\": [\n    {\n      \"title\": \"Ford Foundation International Professor of Economics\",\n      \"organization\": \"Massachusetts Institute of Technology (MIT)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Founding Director\",\n      \"organization\": \"Abdul Latif Jameel Poverty Action Lab (J-PAL)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"U.N. Secretary-General's High-level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Research Fellow\",\n      \"organization\": \"National Bureau of Economic Research (NBER)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Research Fellow\",\n      \"organization\": \"Centre for Economic Policy Research (CEPR)\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Research Fellow\",\n      \"organization\": \"Kiel Institute for the World Economy\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Research Fellow\",\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Research Fellow\",\n      \"organization\": \"Econometric Society\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Save the Children USA\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chair\",\n      \"organization\": \"Global Education Evidence Advisory Panel\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Former President\",\n      \"organization\": \"Bureau for Research in the Economic Analysis of Development\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Abhijit Vinayak Banerjee is a Nobel Prize winner and the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Ford Foundation International Professor of Economics at MIT, Founding Director of J-PAL, member of U.N. Secretary-General's High-level Panel, research fellowships at NBER, CEPR, Kiel Institute, American Academy of Arts and Sciences, and Econometric Society, Trustee of Save the Children USA, Chair of the Global Education Evidence Advisory Panel, and former President of the Bureau for Research in the Economic Analysis of Development. Step 2: Organizations were explicitly named for each role. Step 3: Approximate periods were not provided for most roles, except for the Nobel Prize in 2019. Step 4: Classified domains based on the nature of each organization. Step 5: Assessed prominence based on the description of each role.",
+        "jobs": [
+          {
+            "title": "Ford Foundation International Professor of Economics",
+            "organization": "Massachusetts Institute of Technology (MIT)",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Founding Director",
+            "organization": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "U.N. Secretary-General's High-level Panel of Eminent Persons on the Post-2015 Development Agenda",
+            "approximate_period": "null",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Research Fellow",
+            "organization": "National Bureau of Economic Research (NBER)",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Research Fellow",
+            "organization": "Centre for Economic Policy Research (CEPR)",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Research Fellow",
+            "organization": "Kiel Institute for the World Economy",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Research Fellow",
+            "organization": "American Academy of Arts and Sciences",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Research Fellow",
+            "organization": "Econometric Society",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Save the Children USA",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chair",
+            "organization": "Global Education Evidence Advisory Panel",
+            "approximate_period": "null",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Former President",
+            "organization": "Bureau for Research in the Economic Analysis of Development",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Abhijit Vinayak Banerjee is a Nobel Prize winner and the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3169,
+      "url": "https://live.worldbank.org/en/experts/a/abhijit-banerjee",
+      "domain": "live.worldbank.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text discusses Abhijit Banerjee's career, including his academic and professional roles. Step 2 — The text confirms his role as the Ford Foundation International Professor of Economics at MIT and as a Founding Director of J-PAL. Step 3 — No new roles are mentioned beyond what is already in the candidate findings. Step 4 — The source clearly and explicitly confirms the roles, providing high confidence.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\n    \"Ford Foundation International Professor of Economics, Massachusetts Institute of Technology (MIT)\",\n    \"Founding Director, Abdul Latif Jameel Poverty Action Lab (J-PAL)\"\n  ],\n  \"new_jobs_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology. In 2003 he founded the Abdul Latif Jameel Poverty Action Lab (J-PAL), along with Esther Duflo and Sendhil Mullainathan and remains one of the directors of the lab.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text discusses Abhijit Banerjee's career, including his academic and professional roles. Step 2 — The text confirms his role as the Ford Foundation International Professor of Economics at MIT and as a Founding Director of J-PAL. Step 3 — No new roles are mentioned beyond what is already in the candidate findings. Step 4 — The source clearly and explicitly confirms the roles, providing high confidence.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Ford Foundation International Professor of Economics, Massachusetts Institute of Technology (MIT)",
+          "Founding Director, Abdul Latif Jameel Poverty Action Lab (J-PAL)"
+        ],
+        "new_jobs_found": [],
+        "confidence": "high",
+        "supporting_quote": "He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology. In 2003 he founded the Abdul Latif Jameel Poverty Action Lab (J-PAL), along with Esther Duflo and Sendhil Mullainathan and remains one of the directors of the lab."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology. In 2003 he founded the Abdul Latif Jameel Poverty Action Lab (J-PAL), along with Esther Duflo and Sendhil Mullainathan and remains one of the directors of the lab.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3170,
+      "url": "https://www.carnegie.org/awards/honoree/abhijit-banerjee/",
+      "domain": "carnegie.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text discusses Abhijit Banerjee's career, including his academic and professional roles. Step 2 — Job confirmation: The text confirms his role as the Ford Foundation International Professor of Economics at MIT and as the cofounder of J-PAL. Step 3 — New jobs found: The text mentions additional roles such as trustee of Save the Children USA, trustee of the British Museum, and chair of the Global Education Evidence Advisory Panel, which were not in the candidate findings. Step 4 — Confidence: The source clearly confirms the primary roles and provides additional information with high confidence.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\n    \"Ford Foundation International Professor of Economics, Massachusetts Institute of Technology (MIT)\",\n    \"Founding Director, Abdul Latif Jameel Poverty Action Lab (J-PAL)\"\n  ],\n  \"new_jobs_found\": [\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Save the Children USA\",\n      \"domain\": \"Non-profit\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"British Museum\",\n      \"domain\": \"Cultural Institution\"\n    },\n    {\n      \"title\": \"Chair\",\n      \"organization\": \"Global Education Evidence Advisory Panel\",\n      \"domain\": \"Education\"\n    }\n  ],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT). In 2003, Banerjee cofounded the Abdul Latif Jameel Poverty Action Lab (J-PAL) at MIT.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text discusses Abhijit Banerjee's career, including his academic and professional roles. Step 2 — Job confirmation: The text confirms his role as the Ford Foundation International Professor of Economics at MIT and as the cofounder of J-PAL. Step 3 — New jobs found: The text mentions additional roles such as trustee of Save the Children USA, trustee of the British Museum, and chair of the Global Education Evidence Advisory Panel, which were not in the candidate findings. Step 4 — Confidence: The source clearly confirms the primary roles and provides additional information with high confidence.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Ford Foundation International Professor of Economics, Massachusetts Institute of Technology (MIT)",
+          "Founding Director, Abdul Latif Jameel Poverty Action Lab (J-PAL)"
+        ],
+        "new_jobs_found": [
+          {
+            "title": "Trustee",
+            "organization": "Save the Children USA",
+            "domain": "Non-profit"
+          },
+          {
+            "title": "Trustee",
+            "organization": "British Museum",
+            "domain": "Cultural Institution"
+          },
+          {
+            "title": "Chair",
+            "organization": "Global Education Evidence Advisory Panel",
+            "domain": "Education"
+          }
+        ],
+        "confidence": "high",
+        "supporting_quote": "He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT). In 2003, Banerjee cofounded the Abdul Latif Jameel Poverty Action Lab (J-PAL) at MIT."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT). In 2003, Banerjee cofounded the Abdul Latif Jameel Poverty Action Lab (J-PAL) at MIT.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Abhijit Vinayak Banerjee is a Nobel Prize winner and the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology.",
+    "confirmation_count": 2,
+    "primary_source_domain": "leighbureau.com",
+    "notes": null,
+    "jobs": [
+      {
+        "title": "Ford Foundation International Professor of Economics",
+        "organization": "Massachusetts Institute of Technology (MIT)",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Founding Director",
+        "organization": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Member",
+        "organization": "U.N. Secretary-General's High-level Panel of Eminent Persons on the Post-2015 Development Agenda",
+        "approximate_period": "null",
+        "domain": "international",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Research Fellow",
+        "organization": "National Bureau of Economic Research (NBER)",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Research Fellow",
+        "organization": "Centre for Economic Policy Research (CEPR)",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Research Fellow",
+        "organization": "Kiel Institute for the World Economy",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Research Fellow",
+        "organization": "American Academy of Arts and Sciences",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Research Fellow",
+        "organization": "Econometric Society",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Trustee",
+        "organization": "Save the Children USA",
+        "approximate_period": "null",
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Chair",
+        "organization": "Global Education Evidence Advisory Panel",
+        "approximate_period": "null",
+        "domain": "international",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Former President",
+        "organization": "Bureau for Research in the Economic Analysis of Development",
+        "approximate_period": "null",
+        "domain": "academic",
+        "prominence": "primary",
+        "confidence": "high"
+      }
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

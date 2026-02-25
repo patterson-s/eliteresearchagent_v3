@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Shaukat_Aziz",
+  "person_db_name": "Shaukat Aziz",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:27:33.203553+00:00",
+  "input": {
+    "hlp_name": "Secretary-General's High Level Panel on UN System-wide Coherence",
+    "hlp_year": "2004-2007",
+    "nomination_year": 2004,
+    "hlp_nomination_age": 55,
+    "birth_year": "1949",
+    "nationality": [
+      "Pakistani"
+    ]
+  },
+  "retrieval": {
+    "query": "Shaukat Aziz job title position role career 2004 appointed nominated serving",
+    "chunks_in_db": 36,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3565,
+        "url": "https://en.wikipedia.org/wiki/Shaukat_Aziz",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5757,
+        "rerank_score": 0.7877
+      },
+      {
+        "chunk_id": 3591,
+        "url": "https://berggruen.org/people/shaukat-aziz",
+        "domain": "berggruen.org",
+        "similarity": 0.5264,
+        "rerank_score": 0.7849
+      },
+      {
+        "chunk_id": 3566,
+        "url": "https://en.wikipedia.org/wiki/Shaukat_Aziz",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5819,
+        "rerank_score": 0.772
+      },
+      {
+        "chunk_id": 3595,
+        "url": "https://www.chartwellspeakers.com/speaker/shaukat-aziz/",
+        "domain": "chartwellspeakers.com",
+        "similarity": 0.4899,
+        "rerank_score": 0.7427
+      },
+      {
+        "chunk_id": 3593,
+        "url": "https://www.europarl.europa.eu/meetdocs/2004_2009/documents/dv/pmpakist/pmpakistan.pdf",
+        "domain": "europarl.europa.eu",
+        "similarity": 0.5418,
+        "rerank_score": 0.7364
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3565,
+      "chunk_index": 0,
+      "source_id": 1299,
+      "url": "https://en.wikipedia.org/wiki/Shaukat_Aziz",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5756555380378477,
+      "rerank_score": 0.7876867,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions Shaukat Aziz's term as Prime Minister of Pakistan from 28 August 2004 to 15 November 2007, and his role as Finance Minister from 6 November 1999 to 15 November 2007. Both roles overlap with the nomination year 2004. Step 2 — Role identification: The text clearly identifies Shaukat Aziz as the 15th Prime Minister of Pakistan and Finance Minister of Pakistan. Step 3 — Organization identification: The organizations linked to these roles are the Government of Pakistan for both positions. Step 4 — Temporal match assessment: Both roles are explicitly stated to be held in 2004. Step 5 — Confidence assessment: High confidence, as the text explicitly states the roles and their date ranges, which include 2004.\",\n  \"job_title_at_nomination\": \"Prime Minister of Pakistan\",\n  \"organization_at_nomination\": \"Government of Pakistan\",\n  \"year_reference\": \"2004–2007\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Shaukat Aziz... served as the 15th Prime Minister of Pakistan from 28 August 2004 to 15 November 2007.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions Shaukat Aziz's term as Prime Minister of Pakistan from 28 August 2004 to 15 November 2007, and his role as Finance Minister from 6 November 1999 to 15 November 2007. Both roles overlap with the nomination year 2004. Step 2 — Role identification: The text clearly identifies Shaukat Aziz as the 15th Prime Minister of Pakistan and Finance Minister of Pakistan. Step 3 — Organization identification: The organizations linked to these roles are the Government of Pakistan for both positions. Step 4 — Temporal match assessment: Both roles are explicitly stated to be held in 2004. Step 5 — Confidence assessment: High confidence, as the text explicitly states the roles and their date ranges, which include 2004.",
+        "job_title_at_nomination": "Prime Minister of Pakistan",
+        "organization_at_nomination": "Government of Pakistan",
+        "year_reference": "2004–2007",
+        "confidence": "high",
+        "supporting_quote": "Shaukat Aziz... served as the 15th Prime Minister of Pakistan from 28 August 2004 to 15 November 2007.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Prime Minister of Pakistan",
+      "organization_at_nomination": "Government of Pakistan",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3591,
+      "url": "https://berggruen.org/people/shaukat-aziz",
+      "domain": "berggruen.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is clearly about Shaukat Aziz and discusses his career and biography in detail. Step 2 — Title match assessment: The text explicitly mentions 'Prime Minister of Pakistan' multiple times, which is an exact match to the claimed title. Step 3 — Temporal alignment: The text states that Shaukat Aziz served as Prime Minister from 2004 to 2007, which aligns perfectly with the nomination year of 2004. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"His Excellency Mr. Shaukat Aziz was elected as Prime Minister of Pakistan and served from 2004 – 2007\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is clearly about Shaukat Aziz and discusses his career and biography in detail. Step 2 — Title match assessment: The text explicitly mentions 'Prime Minister of Pakistan' multiple times, which is an exact match to the claimed title. Step 3 — Temporal alignment: The text states that Shaukat Aziz served as Prime Minister from 2004 to 2007, which aligns perfectly with the nomination year of 2004. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "His Excellency Mr. Shaukat Aziz was elected as Prime Minister of Pakistan and served from 2004 – 2007",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "His Excellency Mr. Shaukat Aziz was elected as Prime Minister of Pakistan and served from 2004 – 2007",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3595,
+      "url": "https://www.chartwellspeakers.com/speaker/shaukat-aziz/",
+      "domain": "chartwellspeakers.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is clearly about Shaukat Aziz and discusses his career and biography, including his roles as Prime Minister of Pakistan and Finance Minister. Step 2 — Title match assessment: The text explicitly mentions 'Prime Minister of Pakistan,' which is an exact match to the claim. Step 3 — Temporal alignment: The text states that Shaukat Aziz served as Prime Minister of Pakistan between 2004 and 2007, which aligns with the nomination year of 2004. Step 4 — Alternative title: No alternative title is mentioned for the year 2004.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"served as Prime Minister of Pakistan between 2004 and 2007\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is clearly about Shaukat Aziz and discusses his career and biography, including his roles as Prime Minister of Pakistan and Finance Minister. Step 2 — Title match assessment: The text explicitly mentions 'Prime Minister of Pakistan,' which is an exact match to the claim. Step 3 — Temporal alignment: The text states that Shaukat Aziz served as Prime Minister of Pakistan between 2004 and 2007, which aligns with the nomination year of 2004. Step 4 — Alternative title: No alternative title is mentioned for the year 2004.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "served as Prime Minister of Pakistan between 2004 and 2007",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "served as Prime Minister of Pakistan between 2004 and 2007",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3593,
+      "url": "https://www.europarl.europa.eu/meetdocs/2004_2009/documents/dv/pmpakist/pmpakistan.pdf",
+      "domain": "europarl.europa.eu",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is directly about Shaukat Aziz and discusses his career and biography in detail. Step 2 — Title match assessment: The text explicitly states that Shaukat Aziz was sworn in as the 23rd Prime Minister of Pakistan on August 28, 2004, which is an exact match to the claim. Step 3 — Temporal alignment: The explicit date of August 28, 2004, aligns perfectly with the nomination year of 2004. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Shaukat Aziz was sworn in as 23rd Prime Minister of Pakistan on August 28, 2004.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is directly about Shaukat Aziz and discusses his career and biography in detail. Step 2 — Title match assessment: The text explicitly states that Shaukat Aziz was sworn in as the 23rd Prime Minister of Pakistan on August 28, 2004, which is an exact match to the claim. Step 3 — Temporal alignment: The explicit date of August 28, 2004, aligns perfectly with the nomination year of 2004. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Shaukat Aziz was sworn in as 23rd Prime Minister of Pakistan on August 28, 2004.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Shaukat Aziz was sworn in as 23rd Prime Minister of Pakistan on August 28, 2004.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Prime Minister of Pakistan",
+    "organization_at_nomination": "Government of Pakistan",
+    "confidence": "high",
+    "supporting_quote": "Shaukat Aziz... served as the 15th Prime Minister of Pakistan from 28 August 2004 to 15 November 2007.",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

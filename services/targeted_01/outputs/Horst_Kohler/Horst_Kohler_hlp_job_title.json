@@ -1,0 +1,191 @@
+{
+  "person_dir_name": "Horst_Kohler",
+  "person_db_name": "Horst Kohler",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:19:43.995814+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on the Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 69,
+    "birth_year": "1943",
+    "nationality": [
+      "German"
+    ]
+  },
+  "retrieval": {
+    "query": "Horst Kohler job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 36,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3008,
+        "url": "https://en.wikipedia.org/wiki/Horst_K%C3%B6hler",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5138,
+        "rerank_score": 0.6753
+      },
+      {
+        "chunk_id": 3029,
+        "url": "https://www.horstkoehler.de/en/vita-horst-koehler/",
+        "domain": "horstkoehler.de",
+        "similarity": 0.4734,
+        "rerank_score": 0.656
+      },
+      {
+        "chunk_id": 3031,
+        "url": "https://clubmadrid.org/who/members/koehler-horst/",
+        "domain": "clubmadrid.org",
+        "similarity": 0.4608,
+        "rerank_score": 0.6475
+      },
+      {
+        "chunk_id": 3039,
+        "url": "https://www.un.org/sg/en/management/bios/Kohler.shtml",
+        "domain": "un.org",
+        "similarity": 0.533,
+        "rerank_score": 0.6203
+      },
+      {
+        "chunk_id": 3028,
+        "url": "https://www.horstkoehler.de/en/vita-horst-koehler/",
+        "domain": "horstkoehler.de",
+        "similarity": 0.4673,
+        "rerank_score": 0.6161
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3008,
+      "chunk_index": 1,
+      "source_id": 1130,
+      "url": "https://en.wikipedia.org/wiki/Horst_K%C3%B6hler",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5137878874545214,
+      "rerank_score": 0.67527276,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that Köhler served on the UN High-level Panel on the Post-2015 Development Agenda from 2012 to 2013, which provides a clear temporal marker. However, we need to identify his role before or at the time of this nomination. The text does not explicitly state a role immediately before 2012 but mentions his previous roles up to 2010. Step 2 — Role identification: The text lists his roles as President of Germany (2004-2010), President of the European Bank for Reconstruction and Development (1998-2000), and head of the International Monetary Fund (2000-2004). Step 3 — Organization identification: The organizations linked to these roles are clearly stated. Step 4 — Temporal match assessment: The role of President of Germany ended in 2010, and no other role is explicitly mentioned for the period immediately before 2012. Step 5 — Confidence assessment: Since no role is explicitly stated for the period immediately before 2012, the confidence is low.\",\n  \"job_title_at_nomination\": null,\n  \"organization_at_nomination\": null,\n  \"year_reference\": \"2012-2013\",\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that Köhler served on the UN High-level Panel on the Post-2015 Development Agenda from 2012 to 2013, which provides a clear temporal marker. However, we need to identify his role before or at the time of this nomination. The text does not explicitly state a role immediately before 2012 but mentions his previous roles up to 2010. Step 2 — Role identification: The text lists his roles as President of Germany (2004-2010), President of the European Bank for Reconstruction and Development (1998-2000), and head of the International Monetary Fund (2000-2004). Step 3 — Organization identification: The organizations linked to these roles are clearly stated. Step 4 — Temporal match assessment: The role of President of Germany ended in 2010, and no other role is explicitly mentioned for the period immediately before 2012. Step 5 — Confidence assessment: Since no role is explicitly stated for the period immediately before 2012, the confidence is low.",
+        "job_title_at_nomination": null,
+        "organization_at_nomination": null,
+        "year_reference": "2012-2013",
+        "confidence": "low",
+        "supporting_quote": null,
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3029,
+      "chunk_index": 1,
+      "source_id": 1133,
+      "url": "https://www.horstkoehler.de/en/vita-horst-koehler/",
+      "domain": "horstkoehler.de",
+      "similarity": 0.4734284537425622,
+      "rerank_score": 0.65597594,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that in 2012, Horst Köhler was appointed as a member of the High Level Panel of Eminent Persons on the Post-2015 Development Agenda. This provides a clear temporal marker. Step 2 — Role identification: The text explicitly states that he was appointed as a 'member' of the panel. Step 3 — Organization identification: The organization is the 'High Level Panel of Eminent Persons on the Post-2015 Development Agenda' under the United Nations. Step 4 — Temporal match assessment: The role as a panel member is directly linked to the year 2012. Step 5 — Confidence assessment: High confidence due to the explicit mention of the role and year.\",\n  \"job_title_at_nomination\": \"member\",\n  \"organization_at_nomination\": \"High Level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n  \"year_reference\": \"2012\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"In 2012, then Secretary-General of the United Nations, Ban Ki-Moon, appointed Horst KÃ¶hler as a member of the High Level Panel of Eminent Persons on the Post-2015 Development Agenda.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that in 2012, Horst Köhler was appointed as a member of the High Level Panel of Eminent Persons on the Post-2015 Development Agenda. This provides a clear temporal marker. Step 2 — Role identification: The text explicitly states that he was appointed as a 'member' of the panel. Step 3 — Organization identification: The organization is the 'High Level Panel of Eminent Persons on the Post-2015 Development Agenda' under the United Nations. Step 4 — Temporal match assessment: The role as a panel member is directly linked to the year 2012. Step 5 — Confidence assessment: High confidence due to the explicit mention of the role and year.",
+        "job_title_at_nomination": "member",
+        "organization_at_nomination": "High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+        "year_reference": "2012",
+        "confidence": "high",
+        "supporting_quote": "In 2012, then Secretary-General of the United Nations, Ban Ki-Moon, appointed Horst KÃ¶hler as a member of the High Level Panel of Eminent Persons on the Post-2015 Development Agenda.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "member",
+      "organization_at_nomination": "High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3031,
+      "url": "https://clubmadrid.org/who/members/koehler-horst/",
+      "domain": "clubmadrid.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Horst Köhler and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly states that Horst Köhler was a 'member of the UN Secretary General’s High-Level Panel on the Post-2015 Development Agenda,' which is a compatible match with the claimed title and organization. Step 3 — Temporal alignment: The text specifies the period 'From 2012 to 2013' for this role, aligning with the claimed nomination year of 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"From 2012 to 2013, Horst Köhler was a member of the UN Secretary General’s High-Level Panel on the Post-2015 Development Agenda.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Horst Köhler and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly states that Horst Köhler was a 'member of the UN Secretary General’s High-Level Panel on the Post-2015 Development Agenda,' which is a compatible match with the claimed title and organization. Step 3 — Temporal alignment: The text specifies the period 'From 2012 to 2013' for this role, aligning with the claimed nomination year of 2012. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "From 2012 to 2013, Horst Köhler was a member of the UN Secretary General’s High-Level Panel on the Post-2015 Development Agenda.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "From 2012 to 2013, Horst Köhler was a member of the UN Secretary General’s High-Level Panel on the Post-2015 Development Agenda.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3039,
+      "url": "https://www.un.org/sg/en/management/bios/Kohler.shtml",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Horst Kohler and discusses his career and biography, including his roles as President of Germany, Managing Director of the IMF, and President of the EBRD. Step 2 — Title match assessment: The text does not mention any role related to the 'High Level Panel of Eminent Persons on the Post-2015 Development Agenda' or a title compatible with 'member'. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source names different roles but does not imply a contradictory role for 2012. The text is silent on the claim.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Horst Kohler and discusses his career and biography, including his roles as President of Germany, Managing Director of the IMF, and President of the EBRD. Step 2 — Title match assessment: The text does not mention any role related to the 'High Level Panel of Eminent Persons on the Post-2015 Development Agenda' or a title compatible with 'member'. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source names different roles but does not imply a contradictory role for 2012. The text is silent on the claim.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3007,
+      "url": "https://en.wikipedia.org/wiki/Horst_K%C3%B6hler",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is a Wikipedia article about Horst Köhler, detailing his early life, career, and post-presidency activities. It is directly relevant to his biography. Step 2 — Title match assessment: The text does not mention any role related to the 'High Level Panel of Eminent Persons on the Post-2015 Development Agenda' or a compatible title. Step 3 — Temporal alignment: Since no matching title is found, temporal alignment is not applicable. Step 4 — Alternative title: The source lists several roles, but none are contradictory for 2012 as the text does not cover his activities beyond his presidency (2004–2010).\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is a Wikipedia article about Horst Köhler, detailing his early life, career, and post-presidency activities. It is directly relevant to his biography. Step 2 — Title match assessment: The text does not mention any role related to the 'High Level Panel of Eminent Persons on the Post-2015 Development Agenda' or a compatible title. Step 3 — Temporal alignment: Since no matching title is found, temporal alignment is not applicable. Step 4 — Alternative title: The source lists several roles, but none are contradictory for 2012 as the text does not cover his activities beyond his presidency (2004–2010).",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "member",
+    "organization_at_nomination": "High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "confidence": "high",
+    "supporting_quote": "In 2012, then Secretary-General of the United Nations, Ban Ki-Moon, appointed Horst KÃ¶hler as a member of the High Level Panel of Eminent Persons on the Post-2015 Development Agenda.",
+    "confirmation_count": 1,
+    "primary_source_domain": "horstkoehler.de",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 2,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

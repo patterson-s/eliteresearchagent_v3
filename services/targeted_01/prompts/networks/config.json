@@ -1,0 +1,34 @@
+{
+  "question_id": "networks",
+  "display_name": "Main Professional Networks (Revolving Doors)",
+  "output_filename_suffix": "networks",
+  "skip_if_null": [],
+
+  "retrieval": {
+    "query_template": "{PERSON_NAME} board member fellow award association club membership prize distinction honorary advisory",
+    "similarity_top_k": 20,
+    "similarity_threshold": 0.15,
+    "rerank_top_n": 10
+  },
+
+  "extraction": {
+    "model": "command-a-03-2025",
+    "temperature": 0.2,
+    "max_tokens": 1800,
+    "max_chunks_to_scan": 8,
+    "high_confidence_early_stop": false,
+    "primary_list_field": "affiliations"
+  },
+
+  "verification": {
+    "max_verification_chunks": 3,
+    "exclude_primary_domain": true,
+    "candidate_title_field": "affiliations",
+    "candidate_org_field": "awards"
+  },
+
+  "prompts": {
+    "extraction": "prompts/networks/extraction.txt",
+    "verification": "prompts/networks/verification.txt"
+  }
+}

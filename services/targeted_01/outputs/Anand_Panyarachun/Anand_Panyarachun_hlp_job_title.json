@@ -1,0 +1,266 @@
+{
+  "person_dir_name": "Anand_Panyarachun",
+  "person_db_name": "Anand Panyarachun",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:14:47.063860+00:00",
+  "input": {
+    "hlp_name": "UN High-Level Panel on Threats, Challenges and Change",
+    "hlp_year": "2003-2004",
+    "nomination_year": 2003,
+    "hlp_nomination_age": 71,
+    "birth_year": "1932",
+    "nationality": [
+      "Thai"
+    ]
+  },
+  "retrieval": {
+    "query": "Anand Panyarachun job title position role career 2003 appointed nominated serving",
+    "chunks_in_db": 63,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1,
+        "url": "https://en.wikipedia.org/wiki/Anand_Panyarachun",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5999,
+        "rerank_score": 0.7583
+      },
+      {
+        "chunk_id": 17,
+        "url": "http://anandp.in.th/biography_20140623.html",
+        "domain": "anandp.in.th",
+        "similarity": 0.5273,
+        "rerank_score": 0.7185
+      },
+      {
+        "chunk_id": 14,
+        "url": "http://anandp.in.th/biography_20140623.html",
+        "domain": "anandp.in.th",
+        "similarity": 0.5409,
+        "rerank_score": 0.6092
+      },
+      {
+        "chunk_id": 18,
+        "url": "https://clubmadrid.org/who/members/panyarachun-anand/",
+        "domain": "clubmadrid.org",
+        "similarity": 0.5302,
+        "rerank_score": 0.5646
+      },
+      {
+        "chunk_id": 21,
+        "url": "https://www4.hku.hk/hongrads/graduates/honorary-degree-of-doctor-of-social-sciences-anand-panyarachun",
+        "domain": "www4.hku.hk",
+        "similarity": 0.5156,
+        "rerank_score": 0.5231
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1,
+      "chunk_index": 0,
+      "source_id": 344,
+      "url": "https://en.wikipedia.org/wiki/Anand_Panyarachun",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5999439317223153,
+      "rerank_score": 0.75831425,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not explicitly mention Anand Panyarachun's career around 2003. The latest specific date mentioned is 1992, when he served as Prime Minister of Thailand. Step 2 — Role identification: The text lists several roles, including Prime Minister (1991-1992), Permanent Secretary for Foreign Affairs (1975-1977), and various Ambassador positions. Step 3 — Organization identification: Organizations are clearly linked to roles, such as Prime Minister of Thailand and Ambassador to specific countries. Step 4 — Temporal match assessment: None of the roles with explicit dates overlap with or immediately precede 2003. The text does not provide information about his career post-1992. Step 5 — Confidence assessment: The confidence is low because there is no temporal information linking any role to 2003.\",\n  \"job_title_at_nomination\": null,\n  \"organization_at_nomination\": null,\n  \"year_reference\": null,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not explicitly mention Anand Panyarachun's career around 2003. The latest specific date mentioned is 1992, when he served as Prime Minister of Thailand. Step 2 — Role identification: The text lists several roles, including Prime Minister (1991-1992), Permanent Secretary for Foreign Affairs (1975-1977), and various Ambassador positions. Step 3 — Organization identification: Organizations are clearly linked to roles, such as Prime Minister of Thailand and Ambassador to specific countries. Step 4 — Temporal match assessment: None of the roles with explicit dates overlap with or immediately precede 2003. The text does not provide information about his career post-1992. Step 5 — Confidence assessment: The confidence is low because there is no temporal information linking any role to 2003.",
+        "job_title_at_nomination": null,
+        "organization_at_nomination": null,
+        "year_reference": null,
+        "confidence": "low",
+        "supporting_quote": null,
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 17,
+      "chunk_index": 3,
+      "source_id": 345,
+      "url": "http://anandp.in.th/biography_20140623.html",
+      "domain": "anandp.in.th",
+      "similarity": 0.527320403007874,
+      "rerank_score": 0.7185356,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions Anand Panyarachun's appointment to the UN High-Level Panel on Threats, Challenges and Change in 2003. It also lists roles with specific years, such as Chairman of the National Economic and Social Advisory Council (elected in 2001) and Chairman of Siam Commercial Bank (since September 2007). Step 2 — Role identification: The text identifies multiple roles, including Chairman of the National Economic and Social Advisory Council, Chairman of Siam Commercial Bank, and UNICEF Ambassador for Thailand. Step 3 — Organization identification: Organizations linked to these roles include the National Economic and Social Advisory Council, Siam Commercial Bank, and UNICEF. Step 4 — Temporal match assessment: The role of Chairman of the National Economic and Social Advisory Council is the most plausible nomination-time role, as it was held before 2007 and after 2001. Step 5 — Confidence assessment: The confidence is medium, as the role is mentioned near 2003 but the temporal link is implicit.\",\n  \"job_title_at_nomination\": \"Chairman\",\n  \"organization_at_nomination\": \"National Economic and Social Advisory Council\",\n  \"year_reference\": \"2001\",\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Anand was in 2001 elected Chairman of the National Economic and Social Advisory Council.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions Anand Panyarachun's appointment to the UN High-Level Panel on Threats, Challenges and Change in 2003. It also lists roles with specific years, such as Chairman of the National Economic and Social Advisory Council (elected in 2001) and Chairman of Siam Commercial Bank (since September 2007). Step 2 — Role identification: The text identifies multiple roles, including Chairman of the National Economic and Social Advisory Council, Chairman of Siam Commercial Bank, and UNICEF Ambassador for Thailand. Step 3 — Organization identification: Organizations linked to these roles include the National Economic and Social Advisory Council, Siam Commercial Bank, and UNICEF. Step 4 — Temporal match assessment: The role of Chairman of the National Economic and Social Advisory Council is the most plausible nomination-time role, as it was held before 2007 and after 2001. Step 5 — Confidence assessment: The confidence is medium, as the role is mentioned near 2003 but the temporal link is implicit.",
+        "job_title_at_nomination": "Chairman",
+        "organization_at_nomination": "National Economic and Social Advisory Council",
+        "year_reference": "2001",
+        "confidence": "medium",
+        "supporting_quote": "Anand was in 2001 elected Chairman of the National Economic and Social Advisory Council.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Chairman",
+      "organization_at_nomination": "National Economic and Social Advisory Council",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 14,
+      "chunk_index": 0,
+      "source_id": 345,
+      "url": "http://anandp.in.th/biography_20140623.html",
+      "domain": "anandp.in.th",
+      "similarity": 0.5409465711220637,
+      "rerank_score": 0.60917604,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not explicitly mention the year 2003 or any period around it. The latest specific year mentioned is 1991. Step 2 — Role identification: The text mentions several roles, including Chairman of the Siam Commercial Bank PCL, but without clear temporal markers linking them to 2003. Step 3 — Organization identification: The organization linked to the Chairman role is Siam Commercial Bank PCL. Step 4 — Temporal match assessment: The role of Chairman of the Siam Commercial Bank PCL is mentioned without a clear start or end date, making it difficult to confirm if it was held in 2003. Step 5 — Confidence assessment: The confidence is low due to the lack of temporal information linking the role to 2003.\",\n  \"job_title_at_nomination\": null,\n  \"organization_at_nomination\": null,\n  \"year_reference\": null,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not explicitly mention the year 2003 or any period around it. The latest specific year mentioned is 1991. Step 2 — Role identification: The text mentions several roles, including Chairman of the Siam Commercial Bank PCL, but without clear temporal markers linking them to 2003. Step 3 — Organization identification: The organization linked to the Chairman role is Siam Commercial Bank PCL. Step 4 — Temporal match assessment: The role of Chairman of the Siam Commercial Bank PCL is mentioned without a clear start or end date, making it difficult to confirm if it was held in 2003. Step 5 — Confidence assessment: The confidence is low due to the lack of temporal information linking the role to 2003.",
+        "job_title_at_nomination": null,
+        "organization_at_nomination": null,
+        "year_reference": null,
+        "confidence": "low",
+        "supporting_quote": null,
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 18,
+      "chunk_index": 0,
+      "source_id": 346,
+      "url": "https://clubmadrid.org/who/members/panyarachun-anand/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.5302349184848063,
+      "rerank_score": 0.56460327,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not explicitly mention Anand Panyarachun's career around 2003. The latest specific year mentioned is 1991-1992 when he served as Prime Minister of Thailand. Step 2 — Role identification: The text names specific roles such as Prime Minister of Thailand (1991-1992) and mentions his retirement from the Thai foreign service in 1979. Step 3 — Organization identification: The organization linked to his role as Prime Minister is the Government of Thailand. Step 4 — Temporal match assessment: The role of Prime Minister (1991-1992) does not overlap with 2003. No other role is explicitly linked to 2003. Step 5 — Confidence assessment: The confidence is low as there is no temporal information linking any role to 2003.\",\n  \"job_title_at_nomination\": null,\n  \"organization_at_nomination\": null,\n  \"year_reference\": null,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not explicitly mention Anand Panyarachun's career around 2003. The latest specific year mentioned is 1991-1992 when he served as Prime Minister of Thailand. Step 2 — Role identification: The text names specific roles such as Prime Minister of Thailand (1991-1992) and mentions his retirement from the Thai foreign service in 1979. Step 3 — Organization identification: The organization linked to his role as Prime Minister is the Government of Thailand. Step 4 — Temporal match assessment: The role of Prime Minister (1991-1992) does not overlap with 2003. No other role is explicitly linked to 2003. Step 5 — Confidence assessment: The confidence is low as there is no temporal information linking any role to 2003.",
+        "job_title_at_nomination": null,
+        "organization_at_nomination": null,
+        "year_reference": null,
+        "confidence": "low",
+        "supporting_quote": null,
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 21,
+      "chunk_index": 0,
+      "source_id": 348,
+      "url": "https://www4.hku.hk/hongrads/graduates/honorary-degree-of-doctor-of-social-sciences-anand-panyarachun",
+      "domain": "www4.hku.hk",
+      "similarity": 0.5156339500102938,
+      "rerank_score": 0.5230555,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not provide explicit years or periods directly linking Anand Panyarachun's roles to 2003. It mentions 'earlier this decade' for his role as interim Prime Minister, but this is ambiguous without a specific decade reference. Step 2 — Role identification: The text mentions roles such as 'roving ambassador', 'chairing a multi-billion dollar industrial group', and 'chairs the Thailand Development Research Institute and the Thailand Environment Institute'. Step 3 — Organization identification: Organizations mentioned include a 'multi-billion dollar industrial group', 'Thailand Development Research Institute', and 'Thailand Environment Institute'. Step 4 — Temporal match assessment: None of the roles are explicitly tied to 2003, and the temporal references are vague. Step 5 — Confidence assessment: The confidence is low due to the lack of specific temporal markers linking the roles to 2003.\",\n  \"job_title_at_nomination\": null,\n  \"organization_at_nomination\": null,\n  \"year_reference\": null,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not provide explicit years or periods directly linking Anand Panyarachun's roles to 2003. It mentions 'earlier this decade' for his role as interim Prime Minister, but this is ambiguous without a specific decade reference. Step 2 — Role identification: The text mentions roles such as 'roving ambassador', 'chairing a multi-billion dollar industrial group', and 'chairs the Thailand Development Research Institute and the Thailand Environment Institute'. Step 3 — Organization identification: Organizations mentioned include a 'multi-billion dollar industrial group', 'Thailand Development Research Institute', and 'Thailand Environment Institute'. Step 4 — Temporal match assessment: None of the roles are explicitly tied to 2003, and the temporal references are vague. Step 5 — Confidence assessment: The confidence is low due to the lack of specific temporal markers linking the roles to 2003.",
+        "job_title_at_nomination": null,
+        "organization_at_nomination": null,
+        "year_reference": null,
+        "confidence": "low",
+        "supporting_quote": null,
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 10,
+      "url": "https://en.wikipedia.org/wiki/Anand_Panyarachun",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text is about Anand Panyarachun, as it lists his honors and awards, but it does not discuss his career or specific roles. Step 2 — The text does not mention any job title or role for Anand Panyarachun, including 'Chairman' at 'National Economic and Social Advisory Council'. Step 3 — Since no matching title is found, temporal alignment cannot be assessed. Step 4 — The source is silent on any alternative title or organization for 2003.\",\n  \"confirms\": false,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text is about Anand Panyarachun, as it lists his honors and awards, but it does not discuss his career or specific roles. Step 2 — The text does not mention any job title or role for Anand Panyarachun, including 'Chairman' at 'National Economic and Social Advisory Council'. Step 3 — Since no matching title is found, temporal alignment cannot be assessed. Step 4 — The source is silent on any alternative title or organization for 2003.",
+        "confirms": false,
+        "confidence": "low",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 27,
+      "url": "https://rmaward.asia/rmawardees/anand-panyarachun/",
+      "domain": "rmaward.asia",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Anand Panyarachun and discusses his career and biography, including his roles as interim prime minister and in the Ministry of Foreign Affairs. Step 2 — Title match assessment: The text does not mention the title 'Chairman' at 'National Economic and Social Advisory Council' or any compatible role. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source mentions Anand Panyarachun's roles as interim prime minister and in the Ministry of Foreign Affairs but does not provide information about his role in 2003. The source is silent on the specific claim.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Anand Panyarachun and discusses his career and biography, including his roles as interim prime minister and in the Ministry of Foreign Affairs. Step 2 — Title match assessment: The text does not mention the title 'Chairman' at 'National Economic and Social Advisory Council' or any compatible role. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source mentions Anand Panyarachun's roles as interim prime minister and in the Ministry of Foreign Affairs but does not provide information about his role in 2003. The source is silent on the specific claim.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 22,
+      "url": "https://www.cfr.org/blog/anand-panyarachun-and-making-modern-thailand-review",
+      "domain": "cfr.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text is relevant as it discusses Anand Panyarachun's career and biography, focusing on his role as a technocrat and former prime minister of Thailand. Step 2 — The text does not mention the title 'Chairman' at 'National Economic and Social Advisory Council' or any compatible role. Step 3 — Since no matching title is found, temporal alignment is not applicable. Step 4 — The source does not provide an alternative title for Anand Panyarachun at or around 2003. The text is silent on the specific claim.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text is relevant as it discusses Anand Panyarachun's career and biography, focusing on his role as a technocrat and former prime minister of Thailand. Step 2 — The text does not mention the title 'Chairman' at 'National Economic and Social Advisory Council' or any compatible role. Step 3 — Since no matching title is found, temporal alignment is not applicable. Step 4 — The source does not provide an alternative title for Anand Panyarachun at or around 2003. The text is silent on the specific claim.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "job_title_at_nomination": "Chairman",
+    "organization_at_nomination": "National Economic and Social Advisory Council",
+    "confidence": "medium",
+    "supporting_quote": "Anand was in 2001 elected Chairman of the National Economic and Social Advisory Council.",
+    "confirmation_count": 0,
+    "primary_source_domain": "anandp.in.th",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 5,
+    "chunks_scanned_verification": 3,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

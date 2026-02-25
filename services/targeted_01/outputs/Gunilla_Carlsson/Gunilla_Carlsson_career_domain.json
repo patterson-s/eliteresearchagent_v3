@@ -1,0 +1,63 @@
+{
+  "person_dir_name": "Gunilla_Carlsson",
+  "person_db_name": "Gunilla Carlsson",
+  "question_id": "career_domain",
+  "question_display": "Career Domain (Archetypes)",
+  "run_timestamp": "2026-02-25T18:05:02.967522+00:00",
+  "input": {
+    "birth_year": "1963",
+    "nationality": [
+      "Swedish"
+    ]
+  },
+  "synthesis_inputs": {
+    "HLP_JOB_RESULT": "[loaded from hlp_job_title]",
+    "EDUCATION_RESULT": "[loaded from education]",
+    "LOCATIONS_RESULT": "[loaded from locations]",
+    "JOBS_RESULT": "[loaded from jobs]",
+    "SECTORS_RESULT": "[loaded from sectors]",
+    "NETWORKS_RESULT": "[loaded from networks]"
+  },
+  "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Jobs review: Gunilla Carlsson's roles are predominantly in the international domain, with significant presence in political and corporate domains. Primary roles include Minister for International Development Cooperation, UNAIDS Deputy Executive Director, and Assistant Secretary-General of the UN, all heavily weighted towards international. Secondary roles include board memberships in corporate entities and advisory roles in international organizations. Step 2 — Duration weighting: The longest-held roles are in the international domain, particularly with the UN and UNAIDS, spanning multiple years. Political roles also span a significant period, especially as Minister. Corporate roles are shorter and secondary. Step 3 — Sectors cross-check: The primary sector is 'development,' which aligns strongly with the international domain. 'Global health' also reinforces the international domain. 'Government' aligns with political roles. Step 4 — Networks cross-check: Affiliations with international bodies like UNAIDS, GAVI, and the UN reinforce the international domain. Corporate board seats provide secondary support for the corporate domain. Step 5 — Dominant domain identification: The international domain is dominant due to the primary roles, duration, and sector alignment. Step 6 — Hybrid test: While there is significant corporate involvement, it is secondary and does not meet the 35%+ threshold for a genuine hybrid.\",\n  \"domain_evidence\": {\n    \"academic\": \"\",\n    \"civil_society\": \"Secondary involvement in civil society through advisory roles and memberships in organizations like the Africa Europe Foundation.\",\n    \"corporate\": \"Secondary roles as board member in Tundra Fonder, Annexin Pharmaceuticals, and other corporate entities.\",\n    \"diplomatic\": \"Limited direct diplomatic roles, though international roles involve diplomatic functions.\",\n    \"political\": \"Significant political roles as Minister for International Development Cooperation and Member of Swedish Parliament.\",\n    \"international\": \"Primary roles as UNAIDS Deputy Executive Director, Assistant Secretary-General of the UN, and extensive advisory roles in international organizations.\",\n    \"other\": \"\"\n  },\n  \"dominant_domain\": \"international\",\n  \"is_hybrid\": false,\n  \"hybrid_domains\": [],\n  \"alternative_domain_suggestion\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+  "parsed": {
+    "reasoning": "Step 1 — Jobs review: Gunilla Carlsson's roles are predominantly in the international domain, with significant presence in political and corporate domains. Primary roles include Minister for International Development Cooperation, UNAIDS Deputy Executive Director, and Assistant Secretary-General of the UN, all heavily weighted towards international. Secondary roles include board memberships in corporate entities and advisory roles in international organizations. Step 2 — Duration weighting: The longest-held roles are in the international domain, particularly with the UN and UNAIDS, spanning multiple years. Political roles also span a significant period, especially as Minister. Corporate roles are shorter and secondary. Step 3 — Sectors cross-check: The primary sector is 'development,' which aligns strongly with the international domain. 'Global health' also reinforces the international domain. 'Government' aligns with political roles. Step 4 — Networks cross-check: Affiliations with international bodies like UNAIDS, GAVI, and the UN reinforce the international domain. Corporate board seats provide secondary support for the corporate domain. Step 5 — Dominant domain identification: The international domain is dominant due to the primary roles, duration, and sector alignment. Step 6 — Hybrid test: While there is significant corporate involvement, it is secondary and does not meet the 35%+ threshold for a genuine hybrid.",
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "Secondary involvement in civil society through advisory roles and memberships in organizations like the Africa Europe Foundation.",
+      "corporate": "Secondary roles as board member in Tundra Fonder, Annexin Pharmaceuticals, and other corporate entities.",
+      "diplomatic": "Limited direct diplomatic roles, though international roles involve diplomatic functions.",
+      "political": "Significant political roles as Minister for International Development Cooperation and Member of Swedish Parliament.",
+      "international": "Primary roles as UNAIDS Deputy Executive Director, Assistant Secretary-General of the UN, and extensive advisory roles in international organizations.",
+      "other": ""
+    },
+    "dominant_domain": "international",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "alternative_domain_suggestion": null,
+    "confidence": "high",
+    "cannot_determine": false
+  },
+  "result": {
+    "status": "found",
+    "dominant_domain": "international",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "Secondary involvement in civil society through advisory roles and memberships in organizations like the Africa Europe Foundation.",
+      "corporate": "Secondary roles as board member in Tundra Fonder, Annexin Pharmaceuticals, and other corporate entities.",
+      "diplomatic": "Limited direct diplomatic roles, though international roles involve diplomatic functions.",
+      "political": "Significant political roles as Minister for International Development Cooperation and Member of Swedish Parliament.",
+      "international": "Primary roles as UNAIDS Deputy Executive Director, Assistant Secretary-General of the UN, and extensive advisory roles in international organizations.",
+      "other": ""
+    },
+    "alternative_domain_suggestion": null,
+    "confidence": "high"
+  },
+  "meta": {
+    "mode": "synthesis",
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

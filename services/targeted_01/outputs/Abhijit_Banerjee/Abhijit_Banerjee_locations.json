@@ -1,0 +1,653 @@
+{
+  "person_dir_name": "Abhijit_Banerjee",
+  "person_db_name": "Abhijit Banerjee",
+  "question_id": "locations",
+  "question_display": "Main Locations (Geographical Mobility)",
+  "run_timestamp": "2026-02-25T17:02:25.662179+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2013-2015",
+    "nomination_year": 2013,
+    "hlp_nomination_age": 52,
+    "birth_year": "1961",
+    "nationality": [
+      "Indian",
+      "American"
+    ]
+  },
+  "retrieval": {
+    "query": "Abhijit Banerjee lived based located city country worked residence office career",
+    "chunks_in_db": 60,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3115,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5824,
+        "rerank_score": 0.7416
+      },
+      {
+        "chunk_id": 3157,
+        "url": "https://www.britannica.com/money/Abhijit-Banerjee",
+        "domain": "britannica.com",
+        "similarity": 0.517,
+        "rerank_score": 0.5027
+      },
+      {
+        "chunk_id": 3126,
+        "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+        "domain": "economics.mit.edu",
+        "similarity": 0.4886,
+        "rerank_score": 0.4727
+      },
+      {
+        "chunk_id": 3125,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4802,
+        "rerank_score": 0.4432
+      },
+      {
+        "chunk_id": 3116,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4654,
+        "rerank_score": 0.4394
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3115,
+      "chunk_index": 0,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5824112003823483,
+      "rerank_score": 0.74161834,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Mumbai\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1961-1980s\",\n      \"role_context\": \"Born and early life\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Born (1961-02-21) February 21, 1961, Mumbai, Maharashtra, India\"\n    },\n    {\n      \"city\": \"Kolkata\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"Education at Presidency College\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Alma mater Presidency College (BSc)\"\n    },\n    {\n      \"city\": \"New Delhi\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"Education at Jawaharlal Nehru University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Alma mater Jawaharlal Nehru University (MA)\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1980s-1988\",\n      \"role_context\": \"PhD at Harvard University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Alma mater Harvard University (PhD)\"\n    },\n    {\n      \"city\": \"Princeton\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1988-1992\",\n      \"role_context\": \"Work at Princeton University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Institutions Princeton University (1988-1992)\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1992-1993\",\n      \"role_context\": \"Work at Harvard University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Institutions Harvard University (1992–1993)\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1993-present\",\n      \"role_context\": \"Work at MIT\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Institutions MIT (1993–present)\"\n    }\n  ],\n  \"countries\": [\"India\", \"USA\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Mumbai",
+            "country": "India",
+            "approximate_period": "1961-1980s",
+            "role_context": "Born and early life",
+            "confidence": "high",
+            "supporting_quote": "Born (1961-02-21) February 21, 1961, Mumbai, Maharashtra, India"
+          },
+          {
+            "city": "Kolkata",
+            "country": "India",
+            "approximate_period": "1980s",
+            "role_context": "Education at Presidency College",
+            "confidence": "high",
+            "supporting_quote": "Alma mater Presidency College (BSc)"
+          },
+          {
+            "city": "New Delhi",
+            "country": "India",
+            "approximate_period": "1980s",
+            "role_context": "Education at Jawaharlal Nehru University",
+            "confidence": "high",
+            "supporting_quote": "Alma mater Jawaharlal Nehru University (MA)"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1980s-1988",
+            "role_context": "PhD at Harvard University",
+            "confidence": "high",
+            "supporting_quote": "Alma mater Harvard University (PhD)"
+          },
+          {
+            "city": "Princeton",
+            "country": "USA",
+            "approximate_period": "1988-1992",
+            "role_context": "Work at Princeton University",
+            "confidence": "high",
+            "supporting_quote": "Institutions Princeton University (1988-1992)"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1992-1993",
+            "role_context": "Work at Harvard University",
+            "confidence": "high",
+            "supporting_quote": "Institutions Harvard University (1992–1993)"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1993-present",
+            "role_context": "Work at MIT",
+            "confidence": "high",
+            "supporting_quote": "Institutions MIT (1993–present)"
+          }
+        ],
+        "countries": [
+          "India",
+          "USA"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3157,
+      "chunk_index": 0,
+      "source_id": 1162,
+      "url": "https://www.britannica.com/money/Abhijit-Banerjee",
+      "domain": "britannica.com",
+      "similarity": 0.5169965516057597,
+      "rerank_score": 0.5027105,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Mumbai\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1961-1981\",\n      \"role_context\": \"born and lived until completing B.Sc. at University of Calcutta\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"born: February 21, 1961, Mumbai, India\"\n    },\n    {\n      \"city\": \"Kolkata\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1979-1981\",\n      \"role_context\": \"studied at University of Calcutta\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee studied economics at the University of Calcutta (B.Sc. 1981)\"\n    },\n    {\n      \"city\": \"New Delhi\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1981-1983\",\n      \"role_context\": \"studied at Jawaharlal Nehru University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Jawaharlal Nehru University (M.A. 1983)\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1983-1988\",\n      \"role_context\": \"studied at Harvard University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Harvard University (Ph.D. 1988)\"\n    },\n    {\n      \"city\": \"Princeton\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1988-1992\",\n      \"role_context\": \"taught economics at Princeton University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He taught economics at Princeton University from 1988 to 1992\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1992-present\",\n      \"role_context\": \"affiliated with MIT (implied long-term residence)\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": null\n    }\n  ],\n  \"countries\": [\"India\", \"USA\"],\n  \"supporting_quote\": \"born: February 21, 1961, Mumbai, India\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Mumbai",
+            "country": "India",
+            "approximate_period": "1961-1981",
+            "role_context": "born and lived until completing B.Sc. at University of Calcutta",
+            "confidence": "high",
+            "supporting_quote": "born: February 21, 1961, Mumbai, India"
+          },
+          {
+            "city": "Kolkata",
+            "country": "India",
+            "approximate_period": "1979-1981",
+            "role_context": "studied at University of Calcutta",
+            "confidence": "high",
+            "supporting_quote": "Banerjee studied economics at the University of Calcutta (B.Sc. 1981)"
+          },
+          {
+            "city": "New Delhi",
+            "country": "India",
+            "approximate_period": "1981-1983",
+            "role_context": "studied at Jawaharlal Nehru University",
+            "confidence": "high",
+            "supporting_quote": "Jawaharlal Nehru University (M.A. 1983)"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1983-1988",
+            "role_context": "studied at Harvard University",
+            "confidence": "high",
+            "supporting_quote": "Harvard University (Ph.D. 1988)"
+          },
+          {
+            "city": "Princeton",
+            "country": "USA",
+            "approximate_period": "1988-1992",
+            "role_context": "taught economics at Princeton University",
+            "confidence": "high",
+            "supporting_quote": "He taught economics at Princeton University from 1988 to 1992"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1992-present",
+            "role_context": "affiliated with MIT (implied long-term residence)",
+            "confidence": "medium",
+            "supporting_quote": null
+          }
+        ],
+        "countries": [
+          "India",
+          "USA"
+        ],
+        "supporting_quote": "born: February 21, 1961, Mumbai, India",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3126,
+      "chunk_index": 0,
+      "source_id": 1160,
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+      "domain": "economics.mit.edu",
+      "similarity": 0.4885628255275936,
+      "rerank_score": 0.47270843,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations from education and professional experience. Step 2: Filtered for roles likely lasting 6+ months. Step 3: Assigned approximate periods based on dates provided. Step 4: Assessed confidence based on explicitness and context. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1984-1988\",\n      \"role_context\": \"Ph.D. at Harvard University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Harvard University, Cambridge, Massachusetts, Ph.D., 1988\"\n    },\n    {\n      \"city\": \"New Delhi\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1981-1983\",\n      \"role_context\": \"M.A. at Jawaharlal University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Jawaharlal University, New Delhi, India, M.A., 1983\"\n    },\n    {\n      \"city\": \"Calcutta\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1978-1981\",\n      \"role_context\": \"B.Sc. at University of Calcutta\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"University of Calcutta, Calcutta, India, B.Sc., 1981\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"2003-present\",\n      \"role_context\": \"Ford Foundation International Professor of Economics at M.I.T.\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"2003 - Ford Foundation International Professor of Economics, M.I.T.\"\n    }\n  ],\n  \"countries\": [\"USA\", \"India\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations from education and professional experience. Step 2: Filtered for roles likely lasting 6+ months. Step 3: Assigned approximate periods based on dates provided. Step 4: Assessed confidence based on explicitness and context. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1984-1988",
+            "role_context": "Ph.D. at Harvard University",
+            "confidence": "high",
+            "supporting_quote": "Harvard University, Cambridge, Massachusetts, Ph.D., 1988"
+          },
+          {
+            "city": "New Delhi",
+            "country": "India",
+            "approximate_period": "1981-1983",
+            "role_context": "M.A. at Jawaharlal University",
+            "confidence": "high",
+            "supporting_quote": "Jawaharlal University, New Delhi, India, M.A., 1983"
+          },
+          {
+            "city": "Calcutta",
+            "country": "India",
+            "approximate_period": "1978-1981",
+            "role_context": "B.Sc. at University of Calcutta",
+            "confidence": "high",
+            "supporting_quote": "University of Calcutta, Calcutta, India, B.Sc., 1981"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "2003-present",
+            "role_context": "Ford Foundation International Professor of Economics at M.I.T.",
+            "confidence": "high",
+            "supporting_quote": "2003 - Ford Foundation International Professor of Economics, M.I.T."
+          }
+        ],
+        "countries": [
+          "USA",
+          "India"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3125,
+      "chunk_index": 10,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4801947845546262,
+      "rerank_score": 0.4431913,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Mumbai\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1961-1980s\",\n      \"role_context\": \"People from Mumbai\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"People from Mumbai\"\n    },\n    {\n      \"city\": \"Kolkata\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"Presidency University, Kolkata alumni; Writers from Kolkata\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Presidency University, Kolkata alumni; Writers from Kolkata\"\n    },\n    {\n      \"city\": \"Kolkata\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"University of Calcutta alumni\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"University of Calcutta alumni\"\n    },\n    {\n      \"city\": \"New Delhi\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"Jawaharlal Nehru University alumni\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Jawaharlal Nehru University alumni\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1980s-1990s\",\n      \"role_context\": \"Harvard Graduate School of Arts and Sciences alumni\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Harvard Graduate School of Arts and Sciences alumni\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1990s-present\",\n      \"role_context\": \"MIT School of Humanities, Arts, and Social Sciences faculty\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"MIT School of Humanities, Arts, and Social Sciences faculty\"\n    }\n  ],\n  \"countries\": [\"India\", \"USA\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Mumbai",
+            "country": "India",
+            "approximate_period": "1961-1980s",
+            "role_context": "People from Mumbai",
+            "confidence": "medium",
+            "supporting_quote": "People from Mumbai"
+          },
+          {
+            "city": "Kolkata",
+            "country": "India",
+            "approximate_period": "1980s",
+            "role_context": "Presidency University, Kolkata alumni; Writers from Kolkata",
+            "confidence": "high",
+            "supporting_quote": "Presidency University, Kolkata alumni; Writers from Kolkata"
+          },
+          {
+            "city": "Kolkata",
+            "country": "India",
+            "approximate_period": "1980s",
+            "role_context": "University of Calcutta alumni",
+            "confidence": "high",
+            "supporting_quote": "University of Calcutta alumni"
+          },
+          {
+            "city": "New Delhi",
+            "country": "India",
+            "approximate_period": "1980s",
+            "role_context": "Jawaharlal Nehru University alumni",
+            "confidence": "high",
+            "supporting_quote": "Jawaharlal Nehru University alumni"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1980s-1990s",
+            "role_context": "Harvard Graduate School of Arts and Sciences alumni",
+            "confidence": "high",
+            "supporting_quote": "Harvard Graduate School of Arts and Sciences alumni"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1990s-present",
+            "role_context": "MIT School of Humanities, Arts, and Social Sciences faculty",
+            "confidence": "high",
+            "supporting_quote": "MIT School of Humanities, Arts, and Social Sciences faculty"
+          }
+        ],
+        "countries": [
+          "India",
+          "USA"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3116,
+      "chunk_index": 1,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.46541567805088313,
+      "rerank_score": 0.43943515,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified cities/countries mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely 6+ months duration. Step 3: Assigned approximate year ranges where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Mumbai\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1961-1970s\",\n      \"role_context\": \"born in Mumbai\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee was born to a Bengali father and a Marathi mother in Mumbai.\"\n    },\n    {\n      \"city\": \"Kolkata\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1970s-1981\",\n      \"role_context\": \"attended secondary school and undergraduate studies\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee attended secondary school at South Point School in Kolkata... He spent three years at Presidency College, receiving a BSc (Honors) in Economics in 1981.\"\n    },\n    {\n      \"city\": \"New Delhi\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1981-1983\",\n      \"role_context\": \"pursued MA in Economics at Jawaharlal Nehru University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"After completing his undergraduate studies, Banerjee pursued an MA in Economics at Jawaharlal Nehru University, New Delhi.\"\n    }\n  ],\n  \"countries\": [\"India\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified cities/countries mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Filtered locations based on likely 6+ months duration. Step 3: Assigned approximate year ranges where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Mumbai",
+            "country": "India",
+            "approximate_period": "1961-1970s",
+            "role_context": "born in Mumbai",
+            "confidence": "high",
+            "supporting_quote": "Banerjee was born to a Bengali father and a Marathi mother in Mumbai."
+          },
+          {
+            "city": "Kolkata",
+            "country": "India",
+            "approximate_period": "1970s-1981",
+            "role_context": "attended secondary school and undergraduate studies",
+            "confidence": "high",
+            "supporting_quote": "Banerjee attended secondary school at South Point School in Kolkata... He spent three years at Presidency College, receiving a BSc (Honors) in Economics in 1981."
+          },
+          {
+            "city": "New Delhi",
+            "country": "India",
+            "approximate_period": "1981-1983",
+            "role_context": "pursued MA in Economics at Jawaharlal Nehru University",
+            "confidence": "high",
+            "supporting_quote": "After completing his undergraduate studies, Banerjee pursued an MA in Economics at Jawaharlal Nehru University, New Delhi."
+          }
+        ],
+        "countries": [
+          "India"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3170,
+      "chunk_index": 0,
+      "source_id": 1166,
+      "url": "https://www.carnegie.org/awards/honoree/abhijit-banerjee/",
+      "domain": "carnegie.org",
+      "similarity": 0.44793956382814526,
+      "rerank_score": 0.38901308,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on available information. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Mumbai\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1961-1980s\",\n      \"role_context\": \"Born and raised in Mumbai\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Abhijit Banerjee was born in Mumbai, India.\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1980s-1988\",\n      \"role_context\": \"Pursued PhD in economics at Harvard University\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He came to the United States to pursue a PhD in economics at Harvard University, which he completed in 1988.\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"2003-present\",\n      \"role_context\": \"Ford Foundation International Professor of Economics at MIT\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT).\"\n    }\n  ],\n  \"countries\": [\"India\", \"USA\"],\n  \"supporting_quote\": \"Abhijit Banerjee was born in Mumbai, India. He came to the United States to pursue a PhD in economics at Harvard University, which he completed in 1988.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on available information. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Mumbai",
+            "country": "India",
+            "approximate_period": "1961-1980s",
+            "role_context": "Born and raised in Mumbai",
+            "confidence": "high",
+            "supporting_quote": "Abhijit Banerjee was born in Mumbai, India."
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1980s-1988",
+            "role_context": "Pursued PhD in economics at Harvard University",
+            "confidence": "high",
+            "supporting_quote": "He came to the United States to pursue a PhD in economics at Harvard University, which he completed in 1988."
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "2003-present",
+            "role_context": "Ford Foundation International Professor of Economics at MIT",
+            "confidence": "high",
+            "supporting_quote": "He is now the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology (MIT)."
+          }
+        ],
+        "countries": [
+          "India",
+          "USA"
+        ],
+        "supporting_quote": "Abhijit Banerjee was born in Mumbai, India. He came to the United States to pursue a PhD in economics at Harvard University, which he completed in 1988.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3160,
+      "chunk_index": 0,
+      "source_id": 1164,
+      "url": "https://www.povertyactionlab.org/person/banerjee",
+      "domain": "povertyactionlab.org",
+      "similarity": 0.4407828110871784,
+      "rerank_score": 0.3793789,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Kolkata\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1970s-1980s\",\n      \"role_context\": \"educated at the University of Calcutta\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Abhijit Vinayak Banerjee was educated at the University of Calcutta\"\n    },\n    {\n      \"city\": \"New Delhi\",\n      \"country\": \"India\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"educated at Jawaharlal Nehru University\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Abhijit Vinayak Banerjee was educated at... Jawaharlal Nehru University\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"received his PhD from Harvard University in 1988\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Abhijit Vinayak Banerjee... received his PhD in 1988 [from Harvard University]\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"2003-present\",\n      \"role_context\": \"Ford Foundation International Professor of Economics at MIT\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology\"\n    }\n  ],\n  \"countries\": [\"India\", \"USA\"],\n  \"supporting_quote\": \"Abhijit Vinayak Banerjee was educated at the University of Calcutta, Jawaharlal Nehru University, and Harvard University\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges where possible. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Kolkata",
+            "country": "India",
+            "approximate_period": "1970s-1980s",
+            "role_context": "educated at the University of Calcutta",
+            "confidence": "medium",
+            "supporting_quote": "Abhijit Vinayak Banerjee was educated at the University of Calcutta"
+          },
+          {
+            "city": "New Delhi",
+            "country": "India",
+            "approximate_period": "1980s",
+            "role_context": "educated at Jawaharlal Nehru University",
+            "confidence": "medium",
+            "supporting_quote": "Abhijit Vinayak Banerjee was educated at... Jawaharlal Nehru University"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1980s",
+            "role_context": "received his PhD from Harvard University in 1988",
+            "confidence": "high",
+            "supporting_quote": "Abhijit Vinayak Banerjee... received his PhD in 1988 [from Harvard University]"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "2003-present",
+            "role_context": "Ford Foundation International Professor of Economics at MIT",
+            "confidence": "high",
+            "supporting_quote": "He is currently the Ford Foundation International Professor of Economics at the Massachusetts Institute of Technology"
+          }
+        ],
+        "countries": [
+          "India",
+          "USA"
+        ],
+        "supporting_quote": "Abhijit Vinayak Banerjee was educated at the University of Calcutta, Jawaharlal Nehru University, and Harvard University",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3118,
+      "chunk_index": 3,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4623116343889172,
+      "rerank_score": 0.3255961,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work or residence. Step 2: Assessed duration of stay for each location. Step 3: Assigned approximate periods based on available information. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"United States\",\n      \"approximate_period\": \"null\",\n      \"role_context\": \"Worked at MIT as a professor and researcher\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee and his co-workers try to measure the effectiveness of actions (such as government programmes) in improving people's lives.\"\n    },\n    {\n      \"city\": \"Zurich\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2026-null\",\n      \"role_context\": \"Joining the faculty of the UZH Faculty of Business, Economics, and Informatics\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026.\"\n    },\n    {\n      \"city\": \"Rajasthan\",\n      \"country\": \"India\",\n      \"approximate_period\": \"null\",\n      \"role_context\": \"Conducted research experiments\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"For example, although polio vaccination is freely available in India, many mothers were not bringing their children for the vaccination drives. Banerjee and Prof. Esther Duflo, also from MIT, tried an experiment in Rajasthan.\"\n    }\n  ],\n  \"countries\": [\"United States\", \"Switzerland\", \"India\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Abhijit Banerjee's work or residence. Step 2: Assessed duration of stay for each location. Step 3: Assigned approximate periods based on available information. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Cambridge",
+            "country": "United States",
+            "approximate_period": "null",
+            "role_context": "Worked at MIT as a professor and researcher",
+            "confidence": "high",
+            "supporting_quote": "Banerjee and his co-workers try to measure the effectiveness of actions (such as government programmes) in improving people's lives."
+          },
+          {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "approximate_period": "2026-null",
+            "role_context": "Joining the faculty of the UZH Faculty of Business, Economics, and Informatics",
+            "confidence": "high",
+            "supporting_quote": "In October 2025, the University of Zurich announced that Banerjee and Duflo would be joining the faculty of the UZH Faculty of Business, Economics, and Informatics in July 2026."
+          },
+          {
+            "city": "Rajasthan",
+            "country": "India",
+            "approximate_period": "null",
+            "role_context": "Conducted research experiments",
+            "confidence": "medium",
+            "supporting_quote": "For example, although polio vaccination is freely available in India, many mothers were not bringing their children for the vaccination drives. Banerjee and Prof. Esther Duflo, also from MIT, tried an experiment in Rajasthan."
+          }
+        ],
+        "countries": [
+          "United States",
+          "Switzerland",
+          "India"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 0,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "locations": [
+      {
+        "city": "Mumbai",
+        "country": "India",
+        "approximate_period": "1961-1980s",
+        "role_context": "Born and early life",
+        "confidence": "high",
+        "supporting_quote": "Born (1961-02-21) February 21, 1961, Mumbai, Maharashtra, India"
+      },
+      {
+        "city": "Kolkata",
+        "country": "India",
+        "approximate_period": "1980s",
+        "role_context": "Education at Presidency College",
+        "confidence": "high",
+        "supporting_quote": "Alma mater Presidency College (BSc)"
+      },
+      {
+        "city": "New Delhi",
+        "country": "India",
+        "approximate_period": "1980s",
+        "role_context": "Education at Jawaharlal Nehru University",
+        "confidence": "high",
+        "supporting_quote": "Alma mater Jawaharlal Nehru University (MA)"
+      },
+      {
+        "city": "Cambridge",
+        "country": "USA",
+        "approximate_period": "1980s-1988",
+        "role_context": "PhD at Harvard University",
+        "confidence": "high",
+        "supporting_quote": "Alma mater Harvard University (PhD)"
+      },
+      {
+        "city": "Princeton",
+        "country": "USA",
+        "approximate_period": "1988-1992",
+        "role_context": "Work at Princeton University",
+        "confidence": "high",
+        "supporting_quote": "Institutions Princeton University (1988-1992)"
+      },
+      {
+        "city": "Cambridge",
+        "country": "USA",
+        "approximate_period": "1992-1993",
+        "role_context": "Work at Harvard University",
+        "confidence": "high",
+        "supporting_quote": "Institutions Harvard University (1992–1993)"
+      },
+      {
+        "city": "Cambridge",
+        "country": "USA",
+        "approximate_period": "1993-present",
+        "role_context": "Work at MIT",
+        "confidence": "high",
+        "supporting_quote": "Institutions MIT (1993–present)"
+      }
+    ],
+    "countries": [
+      "India",
+      "USA"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 0,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "person_dir_name": "Abhijit_Banerjee",
+  "person_db_name": "Abhijit Banerjee",
+  "question_id": "career_domain",
+  "question_display": "Career Domain (Archetypes)",
+  "run_timestamp": "2026-02-25T17:08:11.075058+00:00",
+  "input": {
+    "birth_year": "1961",
+    "nationality": [
+      "Indian",
+      "American"
+    ]
+  },
+  "synthesis_inputs": {
+    "HLP_JOB_RESULT": "[loaded from hlp_job_title]",
+    "EDUCATION_RESULT": "[loaded from education]",
+    "LOCATIONS_RESULT": "[loaded from locations]",
+    "JOBS_RESULT": "[loaded from jobs]",
+    "SECTORS_RESULT": "[loaded from sectors]",
+    "NETWORKS_RESULT": "[loaded from networks]"
+  },
+  "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Jobs review: Abhijit Banerjee's primary roles are heavily academic, including Ford Foundation International Professor of Economics at MIT and Founding Director of J-PAL. Secondary roles include academic fellowships and advisory positions in international and civil society organizations. Step 2 — Duration weighting: His academic roles span decades, particularly at MIT since 1993, while other roles are shorter-term or advisory. Step 3 — Sectors cross-check: His primary sector is development, which aligns with academic and civil society domains. Secondary sectors like education and global health also reinforce academic and civil society ties. Step 4 — Networks cross-check: His affiliations are predominantly academic (NBER, CEPR, Econometric Society) with some international and civil society advisory roles (UN, Save the Children). Awards like the Nobel Prize further cement his academic standing. Step 5 — Dominant domain identification: The academic domain is overwhelmingly dominant. Step 6 — Hybrid test: While there are secondary roles in international and civil society, they do not meet the threshold for a hybrid classification.\",\n  \"domain_evidence\": {\n    \"academic\": \"Primary roles as professor and director at MIT and J-PAL, numerous academic fellowships, and prestigious awards like the Nobel Prize.\",\n    \"civil_society\": \"Secondary roles as trustee of Save the Children and advisory roles in development and global health.\",\n    \"corporate\": \"\",\n    \"diplomatic\": \"\",\n    \"political\": \"\",\n    \"international\": \"Advisory roles in UN panels and global initiatives.\",\n    \"other\": \"\"\n  },\n  \"dominant_domain\": \"academic\",\n  \"is_hybrid\": false,\n  \"hybrid_domains\": [],\n  \"alternative_domain_suggestion\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+  "parsed": {
+    "reasoning": "Step 1 — Jobs review: Abhijit Banerjee's primary roles are heavily academic, including Ford Foundation International Professor of Economics at MIT and Founding Director of J-PAL. Secondary roles include academic fellowships and advisory positions in international and civil society organizations. Step 2 — Duration weighting: His academic roles span decades, particularly at MIT since 1993, while other roles are shorter-term or advisory. Step 3 — Sectors cross-check: His primary sector is development, which aligns with academic and civil society domains. Secondary sectors like education and global health also reinforce academic and civil society ties. Step 4 — Networks cross-check: His affiliations are predominantly academic (NBER, CEPR, Econometric Society) with some international and civil society advisory roles (UN, Save the Children). Awards like the Nobel Prize further cement his academic standing. Step 5 — Dominant domain identification: The academic domain is overwhelmingly dominant. Step 6 — Hybrid test: While there are secondary roles in international and civil society, they do not meet the threshold for a hybrid classification.",
+    "domain_evidence": {
+      "academic": "Primary roles as professor and director at MIT and J-PAL, numerous academic fellowships, and prestigious awards like the Nobel Prize.",
+      "civil_society": "Secondary roles as trustee of Save the Children and advisory roles in development and global health.",
+      "corporate": "",
+      "diplomatic": "",
+      "political": "",
+      "international": "Advisory roles in UN panels and global initiatives.",
+      "other": ""
+    },
+    "dominant_domain": "academic",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "alternative_domain_suggestion": null,
+    "confidence": "high",
+    "cannot_determine": false
+  },
+  "result": {
+    "status": "found",
+    "dominant_domain": "academic",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "domain_evidence": {
+      "academic": "Primary roles as professor and director at MIT and J-PAL, numerous academic fellowships, and prestigious awards like the Nobel Prize.",
+      "civil_society": "Secondary roles as trustee of Save the Children and advisory roles in development and global health.",
+      "corporate": "",
+      "diplomatic": "",
+      "political": "",
+      "international": "Advisory roles in UN panels and global initiatives.",
+      "other": ""
+    },
+    "alternative_domain_suggestion": null,
+    "confidence": "high"
+  },
+  "meta": {
+    "mode": "synthesis",
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

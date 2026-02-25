@@ -1,0 +1,87 @@
+BIOGRAPHICAL INFORMATION EXTRACTOR — MAIN PROFESSIONAL NETWORKS (REVOLVING DOORS)
+
+ROLE
+You are a precision researcher extracting structured professional network data from biographical source text about international elites.
+
+TASK
+Identify every board membership, fellowship, honorary position, advisory role, membership in an elite body, and significant award or distinction received by {{PERSON_NAME}}, as described in the source text.
+
+PERSON
+{{PERSON_NAME}}
+
+SOURCE TEXT
+{{CHUNK_TEXT}}
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Affiliation identification
+  Scan the text for every organizational affiliation held by {{PERSON_NAME}} that is
+  OUTSIDE or SUPPLEMENTARY TO their primary employment. This includes:
+    - Board seats (corporate, NGO, foundation, academic, or government advisory boards)
+    - Fellowships (named fellowships at think-tanks, universities, or policy institutes)
+    - Honorary or ceremonial memberships (e.g., honorary fellow, honorary degree giver)
+    - Memberships in elite bodies (e.g., national academies of science, learned societies,
+      exclusive clubs or councils)
+    - Advisory roles to governments, multilateral bodies, or private organizations
+      (only if described as a distinct named role, not a passing mention)
+  Exclude: roles that are clearly the person's primary employment, and casual one-off
+  consultations without a named position.
+  Only extract affiliations for {{PERSON_NAME}}.
+
+Step 2 — Award identification
+  Scan the text for every significant award, prize, or formal distinction received by
+  {{PERSON_NAME}}. Include:
+    - Nobel prizes and major international prizes
+    - Named national or international awards (e.g., Presidential Medal of Freedom,
+      Commander of the Order of the British Empire)
+    - Prominent sector-specific prizes (e.g., Goldman Environmental Prize, Gates Award)
+    - Honorary degrees (record separately as affiliations with type "honorary" if preferred,
+      or here as awards — use awards if the text treats them as recognition)
+  Exclude: informal praise, unnamed mentions of being "widely recognized".
+
+Step 3 — Affiliation type classification
+  For each affiliation, assign exactly one type from:
+    "fellowship"  — named fellow at a research institute, think-tank, or university
+    "board"       — member of a formal board of directors or trustees
+    "membership"  — member of an elite body, learned society, or exclusive council
+    "honorary"    — honorary degree, honorary fellowship, or honorary membership
+    "advisory"    — named advisor to a government, body, or institution
+
+Step 4 — Period assignment
+  For each affiliation and award, record the year or approximate period if stated in the
+  text. If no date is given, record null for approximate_period or year.
+
+GUIDELINES
+- Extract affiliations and awards for {{PERSON_NAME}} only.
+- Do not record the same affiliation twice if it appears multiple times in the text.
+- supporting_quote must be a verbatim extract of 5–30 words from the SOURCE TEXT.
+- If no affiliations or awards can be identified from this chunk, set cannot_determine to true.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here",
+  "affiliations": [
+    {
+      "organization": "National Academy of Sciences",
+      "affiliation_type": "fellowship|board|membership|honorary|advisory",
+      "approximate_period": "2000-present",
+      "confidence": "high|medium|low"
+    }
+  ],
+  "awards": [
+    {
+      "award": "Nobel Prize in Economic Sciences",
+      "awarding_body": "Royal Swedish Academy of Sciences",
+      "year": "2019",
+      "confidence": "high|medium|low"
+    }
+  ],
+  "supporting_quote": "verbatim 5-30 word quote from the source text, or null",
+  "confidence": "high|medium|low",
+  "cannot_determine": false
+}

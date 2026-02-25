@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Robert_Greenhill",
+  "person_db_name": "Robert Greenhill",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:26:19.734635+00:00",
+  "input": {
+    "hlp_name": "High-level Panel on United Nations Systemwide Coherence",
+    "hlp_year": "2006",
+    "nomination_year": 2006,
+    "hlp_nomination_age": 44,
+    "birth_year": "1962",
+    "nationality": [
+      "Canadian"
+    ]
+  },
+  "retrieval": {
+    "query": "Robert Greenhill job title position role career 2006 appointed nominated serving",
+    "chunks_in_db": 14,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3779,
+        "url": "https://en.wikipedia.org/wiki/Robert_G._Greenhill",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5401,
+        "rerank_score": 0.8029
+      },
+      {
+        "chunk_id": 3785,
+        "url": "https://www.un.org/spanish/events/panel/html/greenhill.html",
+        "domain": "un.org",
+        "similarity": 0.5133,
+        "rerank_score": 0.7043
+      },
+      {
+        "chunk_id": 3788,
+        "url": "https://igopp.org/wp-content/uploads/2015/06/AN-Robert-Greenhill.pdf",
+        "domain": "igopp.org",
+        "similarity": 0.4974,
+        "rerank_score": 0.6351
+      },
+      {
+        "chunk_id": 3783,
+        "url": "https://debategraph.org/Details.aspx?nid=701604",
+        "domain": "debategraph.org",
+        "similarity": 0.4588,
+        "rerank_score": 0.5807
+      },
+      {
+        "chunk_id": 3791,
+        "url": "https://www.global-canada.org/about",
+        "domain": "global-canada.org",
+        "similarity": 0.3057,
+        "rerank_score": 0.5614
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3779,
+      "chunk_index": 0,
+      "source_id": 1349,
+      "url": "https://en.wikipedia.org/wiki/Robert_G._Greenhill",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5401130869415247,
+      "rerank_score": 0.8029425,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions that in 2005, Greenhill was appointed president of the Canadian International Development Agency (CIDA), and in 2006, he was named to the High-level Panel on United Nations Systemwide Coherence. Step 2 — Role identification: The text clearly states that Greenhill was 'president of the Canadian International Development Agency (CIDA)' in 2005, which continued into 2006. Step 3 — Organization identification: The organization linked to this role is the 'Canadian International Development Agency (CIDA)'. Step 4 — Temporal match assessment: The role as president of CIDA overlaps with the nomination year 2006. Step 5 — Confidence assessment: The confidence is 'high' because the text explicitly states the role and its timing, directly linking it to the nomination period.\",\n  \"job_title_at_nomination\": \"president of the Canadian International Development Agency\",\n  \"organization_at_nomination\": \"Canadian International Development Agency (CIDA)\",\n  \"year_reference\": \"2005\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"In 2005, Greenhill was appointed president of the Canadian International Development Agency (CIDA)\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions that in 2005, Greenhill was appointed president of the Canadian International Development Agency (CIDA), and in 2006, he was named to the High-level Panel on United Nations Systemwide Coherence. Step 2 — Role identification: The text clearly states that Greenhill was 'president of the Canadian International Development Agency (CIDA)' in 2005, which continued into 2006. Step 3 — Organization identification: The organization linked to this role is the 'Canadian International Development Agency (CIDA)'. Step 4 — Temporal match assessment: The role as president of CIDA overlaps with the nomination year 2006. Step 5 — Confidence assessment: The confidence is 'high' because the text explicitly states the role and its timing, directly linking it to the nomination period.",
+        "job_title_at_nomination": "president of the Canadian International Development Agency",
+        "organization_at_nomination": "Canadian International Development Agency (CIDA)",
+        "year_reference": "2005",
+        "confidence": "high",
+        "supporting_quote": "In 2005, Greenhill was appointed president of the Canadian International Development Agency (CIDA)",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "president of the Canadian International Development Agency",
+      "organization_at_nomination": "Canadian International Development Agency (CIDA)",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3785,
+      "url": "https://www.un.org/spanish/events/panel/html/greenhill.html",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Robert Greenhill and discusses his career and biography, including his role at the Canadian International Development Agency. Step 2 — Title match assessment: The text explicitly states that Robert Greenhill was 'President of the Canadian International Development Agency,' which is an exact match to the claim. Step 3 — Temporal alignment: The text mentions he was appointed President in 2005, which aligns with the 2006 nomination year. There is no contradicting information. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He was appointed President of the Canadian International Development Agency in 2005.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Robert Greenhill and discusses his career and biography, including his role at the Canadian International Development Agency. Step 2 — Title match assessment: The text explicitly states that Robert Greenhill was 'President of the Canadian International Development Agency,' which is an exact match to the claim. Step 3 — Temporal alignment: The text mentions he was appointed President in 2005, which aligns with the 2006 nomination year. There is no contradicting information. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "He was appointed President of the Canadian International Development Agency in 2005.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He was appointed President of the Canadian International Development Agency in 2005.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3788,
+      "url": "https://igopp.org/wp-content/uploads/2015/06/AN-Robert-Greenhill.pdf",
+      "domain": "igopp.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Robert Greenhill and discusses his career and biography, including his roles at various organizations. Step 2 — Title match assessment: The text explicitly mentions 'Deputy Minister and President of the Canadian International Development Agency (CIDA)', which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: While no explicit dates are provided, the role is listed among previous positions, and there is no contradicting information suggesting it did not apply around 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Deputy Minister and President of the Canadian International Development Agency (CIDA)\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Robert Greenhill and discusses his career and biography, including his roles at various organizations. Step 2 — Title match assessment: The text explicitly mentions 'Deputy Minister and President of the Canadian International Development Agency (CIDA)', which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: While no explicit dates are provided, the role is listed among previous positions, and there is no contradicting information suggesting it did not apply around 2006. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Deputy Minister and President of the Canadian International Development Agency (CIDA)",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Deputy Minister and President of the Canadian International Development Agency (CIDA)",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3783,
+      "url": "https://debategraph.org/Details.aspx?nid=701604",
+      "domain": "debategraph.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Robert Greenhill and discusses his career and biography, including his roles at various organizations. Step 2 — Title match assessment: The text mentions 'Deputy Minister and President of the Canadian International Development Agency (CIDA)', which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: While the text does not provide explicit dates for this role, it is listed among previous roles without contradicting information, suggesting it aligns with the 2006 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Deputy Minister and President of the Canadian International Development Agency (CIDA)\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Robert Greenhill and discusses his career and biography, including his roles at various organizations. Step 2 — Title match assessment: The text mentions 'Deputy Minister and President of the Canadian International Development Agency (CIDA)', which is an exact match to the claimed title and organization. Step 3 — Temporal alignment: While the text does not provide explicit dates for this role, it is listed among previous roles without contradicting information, suggesting it aligns with the 2006 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Deputy Minister and President of the Canadian International Development Agency (CIDA)",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Deputy Minister and President of the Canadian International Development Agency (CIDA)",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "president of the Canadian International Development Agency",
+    "organization_at_nomination": "Canadian International Development Agency (CIDA)",
+    "confidence": "high",
+    "supporting_quote": "In 2005, Greenhill was appointed president of the Canadian International Development Agency (CIDA)",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "person_dir_name": "Gro_Harlem_Brundtland",
+  "person_db_name": "Gro Harlem Brundtland",
+  "question_id": "sectors",
+  "question_display": "Main Sectors of Expertise (Functional Mobility)",
+  "run_timestamp": "2026-02-25T17:59:02.510325+00:00",
+  "input": {
+    "hlp_name": "World Commission on Environment and Development (Brundtland Commission)",
+    "hlp_year": "1983-1987",
+    "nomination_year": 1983,
+    "hlp_nomination_age": 44,
+    "birth_year": "1939",
+    "nationality": [
+      "Norwegian"
+    ]
+  },
+  "retrieval": {
+    "query": "Gro Harlem Brundtland expertise sector field development finance human rights environment health diplomacy technology science trade",
+    "chunks_in_db": 34,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 134,
+        "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+        "domain": "nordics.info",
+        "similarity": 0.6021,
+        "rerank_score": 0.6097
+      },
+      {
+        "chunk_id": 132,
+        "url": "https://live.worldbank.org/en/experts/g/gro-h-brundtland",
+        "domain": "live.worldbank.org",
+        "similarity": 0.5238,
+        "rerank_score": 0.5358
+      },
+      {
+        "chunk_id": 106,
+        "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4764,
+        "rerank_score": 0.5251
+      },
+      {
+        "chunk_id": 115,
+        "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6015,
+        "rerank_score": 0.5026
+      },
+      {
+        "chunk_id": 123,
+        "url": "https://www.ebsco.com/research-starters/biography/gro-harlem-brundtland",
+        "domain": "ebsco.com",
+        "similarity": 0.5695,
+        "rerank_score": 0.5014
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 134,
+      "chunk_index": 0,
+      "source_id": 372,
+      "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+      "domain": "nordics.info",
+      "similarity": 0.6021333309355371,
+      "rerank_score": 0.6097339,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: The text highlights Gro Harlem Brundtland's work in public health, sustainable development, human rights, social equality, and women's rights. Step 2 — Evidence linking: Her roles as Prime Minister of Norway, leadership in the World Health Organisation, and advocacy for sustainability, public health, and human rights provide evidence. Step 3 — Prominence assessment: Public health and sustainable development are primary due to long-term engagement and leadership roles. Human rights and social equality are secondary. Step 4 — Taxonomy mapping: Sectors mapped to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"served as Prime Minister, led the World Health Organisation, and advocated for public health\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"advocated for sustainability and led discussions on sustainable development\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"advocated for human rights and social equality\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"served as Prime Minister of Norway and led the Norwegian Labour Party\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"she is perhaps most famous for her vision and work with respect to sustainable development; while her aims have not yet been realised, her leadership within the World Health Organisation and the United Nations certainly stirred discourse and action where it did not exist before.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: The text highlights Gro Harlem Brundtland's work in public health, sustainable development, human rights, social equality, and women's rights. Step 2 — Evidence linking: Her roles as Prime Minister of Norway, leadership in the World Health Organisation, and advocacy for sustainability, public health, and human rights provide evidence. Step 3 — Prominence assessment: Public health and sustainable development are primary due to long-term engagement and leadership roles. Human rights and social equality are secondary. Step 4 — Taxonomy mapping: Sectors mapped to standard labels.",
+        "sectors": [
+          {
+            "sector": "global_health",
+            "evidence": "served as Prime Minister, led the World Health Organisation, and advocated for public health",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "advocated for sustainability and led discussions on sustainable development",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "advocated for human rights and social equality",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "served as Prime Minister of Norway and led the Norwegian Labour Party",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "she is perhaps most famous for her vision and work with respect to sustainable development; while her aims have not yet been realised, her leadership within the World Health Organisation and the United Nations certainly stirred discourse and action where it did not exist before.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 132,
+      "chunk_index": 0,
+      "source_id": 371,
+      "url": "https://live.worldbank.org/en/experts/g/gro-h-brundtland",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5237763885218726,
+      "rerank_score": 0.5357549,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, awards, and activities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to standard taxonomy labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Former Director-General of the World Health Organization (WHO); rapid response to SARS; negotiated The Tobacco Convention\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Chaired the World Commission on the Environment and Development (Brundtland Commission); coined the concept of sustainable development\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"UN Special Envoy for Climate Change; member of The Elders; served on UN Secretary General’s Panel on Threats, Challenges and Change\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Former Prime Minister of Norway; affectionately known as 'Landsmoderen' or 'mother of the nation'\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"Former Director-General of the World Health Organization (WHO) and Prime Minister of Norway—the first woman and youngest person to serve in that role\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, awards, and activities. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on depth and breadth of engagement. Step 4: Mapped sectors to standard taxonomy labels.",
+        "sectors": [
+          {
+            "sector": "global_health",
+            "evidence": "Former Director-General of the World Health Organization (WHO); rapid response to SARS; negotiated The Tobacco Convention",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Chaired the World Commission on the Environment and Development (Brundtland Commission); coined the concept of sustainable development",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "UN Special Envoy for Climate Change; member of The Elders; served on UN Secretary General’s Panel on Threats, Challenges and Change",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Former Prime Minister of Norway; affectionately known as 'Landsmoderen' or 'mother of the nation'",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "Former Director-General of the World Health Organization (WHO) and Prime Minister of Norway—the first woman and youngest person to serve in that role",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 106,
+      "chunk_index": 1,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.47642235014663037,
+      "rerank_score": 0.52510154,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, titles, and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration of engagement. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Minister of the Environment, chaired the Brundtland Commission on sustainable development, UN special envoy on Climate Change\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Director-general of the World Health Organization, educated as a physician, worked as a doctor in Oslo's public school health service\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Prime Minister of Norway, leader of the Labour Party\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Supported Norwegian membership in the European Union, deputy chair of The Elders, former vice-president of Socialist International\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"Educated as a physician, Brundtland joined the Labour Party and entered the government in 1974 as Minister of the Environment.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, titles, and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration of engagement. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "Minister of the Environment, chaired the Brundtland Commission on sustainable development, UN special envoy on Climate Change",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Director-general of the World Health Organization, educated as a physician, worked as a doctor in Oslo's public school health service",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "government",
+            "evidence": "Prime Minister of Norway, leader of the Labour Party",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Supported Norwegian membership in the European Union, deputy chair of The Elders, former vice-president of Socialist International",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "Educated as a physician, Brundtland joined the Labour Party and entered the government in 1974 as Minister of the Environment.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 115,
+      "chunk_index": 10,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6014991550694048,
+      "rerank_score": 0.502564,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, titles, and activities mentioned in the text. Step 2: Linked evidence to each sector, focusing on specific roles and recognitions. Step 3: Assessed prominence based on the number of roles and long-term engagement. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Harvard T.H. Chan School of Public Health alumni, World Health Organization directors-general, public health doctors, Fellow of the Academy of Medical Sciences\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Ministers of climate and the environment of Norway\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Prime ministers of Norway, Members of the Storting, Leader of the Labour Party\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Norwegian officials of the United Nations, Special Envoys of the Secretary-General of the United Nations\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"science\",\n      \"evidence\": \"Members of the Norwegian Academy of Science and Letters, Honorary Fellow of the London School of Economics\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"World Health Organization directors-general, public health doctors, Fellow of the Academy of Medical Sciences\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, titles, and activities mentioned in the text. Step 2: Linked evidence to each sector, focusing on specific roles and recognitions. Step 3: Assessed prominence based on the number of roles and long-term engagement. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "global_health",
+            "evidence": "Harvard T.H. Chan School of Public Health alumni, World Health Organization directors-general, public health doctors, Fellow of the Academy of Medical Sciences",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Ministers of climate and the environment of Norway",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "government",
+            "evidence": "Prime ministers of Norway, Members of the Storting, Leader of the Labour Party",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Norwegian officials of the United Nations, Special Envoys of the Secretary-General of the United Nations",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "science",
+            "evidence": "Members of the Norwegian Academy of Science and Letters, Honorary Fellow of the London School of Economics",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "World Health Organization directors-general, public health doctors, Fellow of the Academy of Medical Sciences",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 123,
+      "chunk_index": 0,
+      "source_id": 368,
+      "url": "https://www.ebsco.com/research-starters/biography/gro-harlem-brundtland",
+      "domain": "ebsco.com",
+      "similarity": 0.5695014765663844,
+      "rerank_score": 0.5013922,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Gro Harlem Brundtland's sectors include global_health, environment, government, and human_rights. Step 2 — Evidence linking: global_health (Director-General of WHO, public-health policy work), environment (Minister of the Environment, Brundtland Commission), government (Prime Minister of Norway), human_rights (women's rights advocacy, legalization of abortion). Step 3 — Prominence assessment: global_health and government are primary; environment and human_rights are secondary. Step 4 — Taxonomy mapping: Sectors mapped to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Director-General of the World Health Organization, public-health policy work\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Minister of the Environment, established the Brundtland Commission\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Prime Minister of Norway, Labor Party member\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Advocated for women's rights, key figure in the legalization of abortion\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"She served as the Director-General of the World Health Organization from 1998 to 2003, where she implemented vital health initiatives and organizational reforms.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Gro Harlem Brundtland's sectors include global_health, environment, government, and human_rights. Step 2 — Evidence linking: global_health (Director-General of WHO, public-health policy work), environment (Minister of the Environment, Brundtland Commission), government (Prime Minister of Norway), human_rights (women's rights advocacy, legalization of abortion). Step 3 — Prominence assessment: global_health and government are primary; environment and human_rights are secondary. Step 4 — Taxonomy mapping: Sectors mapped to standard labels.",
+        "sectors": [
+          {
+            "sector": "global_health",
+            "evidence": "Director-General of the World Health Organization, public-health policy work",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Minister of the Environment, established the Brundtland Commission",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "sector": "government",
+            "evidence": "Prime Minister of Norway, Labor Party member",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Advocated for women's rights, key figure in the legalization of abortion",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "She served as the Director-General of the World Health Organization from 1998 to 2003, where she implemented vital health initiatives and organizational reforms.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 105,
+      "chunk_index": 0,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5517971459362784,
+      "rerank_score": 0.47489962,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration of engagement. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Prime Minister of Norway (1981, 1986–1989, 1990–1996), Member of the Norwegian Parliament (1977–1997), Leader of the Labour Party (1981–1992)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Director-General of the World Health Organization (1998–2003)\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Minister of the Environment (1974–1979)\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"government\",\n  \"supporting_quote\": \"who served three terms as the prime minister of Norway (1981, 1986–1989, 1990–1996)\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and duration of engagement. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "government",
+            "evidence": "Prime Minister of Norway (1981, 1986–1989, 1990–1996), Member of the Norwegian Parliament (1977–1997), Leader of the Labour Party (1981–1992)",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "Director-General of the World Health Organization (1998–2003)",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Minister of the Environment (1974–1979)",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "government",
+        "supporting_quote": "who served three terms as the prime minister of Norway (1981, 1986–1989, 1990–1996)",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 128,
+      "chunk_index": 0,
+      "source_id": 369,
+      "url": "https://clubmadrid.org/who/members/brundtland-gro-harlem/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.5413497641445063,
+      "rerank_score": 0.47051823,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Gro Harlem Brundtland's sectors include environment, global_health, and government. Step 2 — Evidence linking: Environment (Minister of the Environment, chaired the Brundtland Commission), global_health (physician, Director of Health Services, Secretary General of WHO), government (Prime Minister of Norway). Step 3 — Prominence assessment: Environment and global_health are primary due to multiple roles and long-term engagement; government is primary due to the role of Prime Minister. Step 4 — Taxonomy mapping: Sectors mapped to standard labels. Environment and global_health are dominant, but global_health has more direct roles and longer tenure, making it the most dominant.\",\n  \"sectors\": [\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Minister of the Environment, chaired the Brundtland Commission, Special Envoy for Climate Change\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"physician, Director of Health Services, Secretary General of WHO, worked on children’s health issues\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Prime Minister of Norway, led the Labour Party to election victory three times\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"Spent 10 years as a physician and scientist in the Norwegian public health system.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Gro Harlem Brundtland's sectors include environment, global_health, and government. Step 2 — Evidence linking: Environment (Minister of the Environment, chaired the Brundtland Commission), global_health (physician, Director of Health Services, Secretary General of WHO), government (Prime Minister of Norway). Step 3 — Prominence assessment: Environment and global_health are primary due to multiple roles and long-term engagement; government is primary due to the role of Prime Minister. Step 4 — Taxonomy mapping: Sectors mapped to standard labels. Environment and global_health are dominant, but global_health has more direct roles and longer tenure, making it the most dominant.",
+        "sectors": [
+          {
+            "sector": "environment",
+            "evidence": "Minister of the Environment, chaired the Brundtland Commission, Special Envoy for Climate Change",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "global_health",
+            "evidence": "physician, Director of Health Services, Secretary General of WHO, worked on children’s health issues",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "government",
+            "evidence": "Prime Minister of Norway, led the Labour Party to election victory three times",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "Spent 10 years as a physician and scientist in the Norwegian public health system.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 117,
+      "chunk_index": 1,
+      "source_id": 365,
+      "url": "https://theelders.org/profile/gro-harlem-brundtland",
+      "domain": "theelders.org",
+      "similarity": 0.5569729235636799,
+      "rerank_score": 0.46293488,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Gro Harlem Brundtland's sectors include global_health, development, environment, and human_rights. Step 2 — Evidence linking: Her roles as Director-General of WHO, UN Special Envoy on Climate Change, and advocacy for health as a human right provide evidence. Step 3 — Prominence assessment: global_health is primary due to multiple roles and long-term focus; development and environment are secondary. Step 4 — Taxonomy mapping: Sectors mapped to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"global_health\",\n      \"evidence\": \"Director-General of the World Health Organization, medical doctor, advocate for health as a human right, UHC Movement Political Advisory Panel\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"put sustainable development on the international agenda, Founding member of The Elders, Deputy Chair of The Elders\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"UN Special Envoy on Climate Change, Co-chair of the Global Preparedness Monitoring Board\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"advocate for health as a human right, staunch advocate of gender equality\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"global_health\",\n  \"supporting_quote\": \"a medical doctor who champions health as a human right and a leading advocate on global preparedness for pandemics\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Gro Harlem Brundtland's sectors include global_health, development, environment, and human_rights. Step 2 — Evidence linking: Her roles as Director-General of WHO, UN Special Envoy on Climate Change, and advocacy for health as a human right provide evidence. Step 3 — Prominence assessment: global_health is primary due to multiple roles and long-term focus; development and environment are secondary. Step 4 — Taxonomy mapping: Sectors mapped to standard labels.",
+        "sectors": [
+          {
+            "sector": "global_health",
+            "evidence": "Director-General of the World Health Organization, medical doctor, advocate for health as a human right, UHC Movement Political Advisory Panel",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "development",
+            "evidence": "put sustainable development on the international agenda, Founding member of The Elders, Deputy Chair of The Elders",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "environment",
+            "evidence": "UN Special Envoy on Climate Change, Co-chair of the Global Preparedness Monitoring Board",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "advocate for health as a human right, staunch advocate of gender equality",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "global_health",
+        "supporting_quote": "a medical doctor who champions health as a human right and a leading advocate on global preparedness for pandemics",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 119,
+      "url": "https://theelders.org/profile/gro-harlem-brundtland",
+      "domain": "theelders.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text describes Gro Harlem Brundtland's substantive work and expertise in various global issues. Step 2 — The text confirms her work in global health and sustainability, aligning with the candidate primary sector of global_health. Step 3 — No new sectors are explicitly mentioned beyond those already listed in the candidate findings. Step 4 — The source clearly speaks to her sectoral expertise with specific roles and activities.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"global_health\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Gro Harlem Brundtland is a globally recognised voice on tackling global issues of global health and sustainability\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text describes Gro Harlem Brundtland's substantive work and expertise in various global issues. Step 2 — The text confirms her work in global health and sustainability, aligning with the candidate primary sector of global_health. Step 3 — No new sectors are explicitly mentioned beyond those already listed in the candidate findings. Step 4 — The source clearly speaks to her sectoral expertise with specific roles and activities.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "global_health"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "Gro Harlem Brundtland is a globally recognised voice on tackling global issues of global health and sustainability"
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Gro Harlem Brundtland is a globally recognised voice on tackling global issues of global health and sustainability",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 131,
+      "url": "https://www.hiltonfoundation.org/people/gro-brundtland-md-mph/",
+      "domain": "hiltonfoundation.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text provides a detailed overview of Gro Harlem Brundtland's professional activities and expertise, making it highly relevant. Step 2 — Sector confirmation: The source confirms her work in global health through her role as Director General of WHO and her response to the SARS virus. It also mentions her leadership in sustainable development via the Brundtland Commission. Step 3 — New sectors found: No new sectors are explicitly mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and substantively supports her expertise in global health and development.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"global_health\", \"development\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"During her tenure as director-general of the World Health Organization, Brundtland’s rapid response to the global threat of the SARS virus is largely credited with helping prevent the widespread growth of the disease.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text provides a detailed overview of Gro Harlem Brundtland's professional activities and expertise, making it highly relevant. Step 2 — Sector confirmation: The source confirms her work in global health through her role as Director General of WHO and her response to the SARS virus. It also mentions her leadership in sustainable development via the Brundtland Commission. Step 3 — New sectors found: No new sectors are explicitly mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and substantively supports her expertise in global health and development.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "global_health",
+          "development"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "During her tenure as director-general of the World Health Organization, Brundtland’s rapid response to the global threat of the SARS virus is largely credited with helping prevent the widespread growth of the disease."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "During her tenure as director-general of the World Health Organization, Brundtland’s rapid response to the global threat of the SARS virus is largely credited with helping prevent the widespread growth of the disease.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "World Health Organization directors-general, public health doctors, Fellow of the Academy of Medical Sciences",
+    "confirmation_count": 2,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "sectors": [
+      {
+        "sector": "global_health",
+        "evidence": "Harvard T.H. Chan School of Public Health alumni, World Health Organization directors-general, public health doctors, Fellow of the Academy of Medical Sciences",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "environment",
+        "evidence": "Ministers of climate and the environment of Norway",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "government",
+        "evidence": "Prime ministers of Norway, Members of the Storting, Leader of the Labour Party",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "diplomacy",
+        "evidence": "Norwegian officials of the United Nations, Special Envoys of the Secretary-General of the United Nations",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "science",
+        "evidence": "Members of the Norwegian Academy of Science and Letters, Honorary Fellow of the London School of Economics",
+        "prominence": "secondary",
+        "confidence": "medium"
+      }
+    ],
+    "primary_sector": "global_health"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

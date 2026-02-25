@@ -1,0 +1,563 @@
+{
+  "person_dir_name": "Gro_Harlem_Brundtland",
+  "person_db_name": "Gro Harlem Brundtland",
+  "question_id": "locations",
+  "question_display": "Main Locations (Geographical Mobility)",
+  "run_timestamp": "2026-02-25T17:59:02.508283+00:00",
+  "input": {
+    "hlp_name": "World Commission on Environment and Development (Brundtland Commission)",
+    "hlp_year": "1983-1987",
+    "nomination_year": 1983,
+    "hlp_nomination_age": 44,
+    "birth_year": "1939",
+    "nationality": [
+      "Norwegian"
+    ]
+  },
+  "retrieval": {
+    "query": "Gro Harlem Brundtland lived based located city country worked residence office career",
+    "chunks_in_db": 34,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 105,
+        "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6412,
+        "rerank_score": 0.7474
+      },
+      {
+        "chunk_id": 134,
+        "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+        "domain": "nordics.info",
+        "similarity": 0.5889,
+        "rerank_score": 0.6967
+      },
+      {
+        "chunk_id": 123,
+        "url": "https://www.ebsco.com/research-starters/biography/gro-harlem-brundtland",
+        "domain": "ebsco.com",
+        "similarity": 0.5904,
+        "rerank_score": 0.6714
+      },
+      {
+        "chunk_id": 106,
+        "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5278,
+        "rerank_score": 0.644
+      },
+      {
+        "chunk_id": 121,
+        "url": "https://www.britannica.com/biography/Gro-Harlem-Brundtland",
+        "domain": "britannica.com",
+        "similarity": 0.6017,
+        "rerank_score": 0.6156
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 105,
+      "chunk_index": 0,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6412467904867512,
+      "rerank_score": 0.7474137,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Locations mentioned include Oslo (constituency), Norway (birthplace, Prime Minister, Minister of Environment), and Geneva (implied by WHO role). Step 2: Full-time roles in Norway and Geneva imply 6+ months. Step 3: Periods assigned based on explicit dates. Step 4: Confidence is high for Norway and Geneva due to explicit roles and durations. Step 5: Countries include Norway and Switzerland.\",\n  \"locations\": [\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1977-1997\",\n      \"role_context\": \"Member of the Norwegian Parliament, Constituency: Oslo\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1974-1979\",\n      \"role_context\": \"Minister of the Environment\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1981, 1986-1989, 1990-1996\",\n      \"role_context\": \"Prime Minister of Norway\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1998-2003\",\n      \"role_context\": \"Director-General of the World Health Organization\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1960s-1970s\",\n      \"role_context\": \"University of Oslo (Cand.Med.)\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": \"Boston\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1960s\",\n      \"role_context\": \"Harvard University (MPH)\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"countries\": [\"Norway\", \"Switzerland\", \"USA\"],\n  \"supporting_quote\": \"Gro Harlem Brundtland... served three terms as the prime minister of Norway (1981, 1986–1989, 1990–1996) and as Director-General of the World Health Organization from 1998 to 2003.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Locations mentioned include Oslo (constituency), Norway (birthplace, Prime Minister, Minister of Environment), and Geneva (implied by WHO role). Step 2: Full-time roles in Norway and Geneva imply 6+ months. Step 3: Periods assigned based on explicit dates. Step 4: Confidence is high for Norway and Geneva due to explicit roles and durations. Step 5: Countries include Norway and Switzerland.",
+        "locations": [
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1977-1997",
+            "role_context": "Member of the Norwegian Parliament, Constituency: Oslo",
+            "confidence": "high"
+          },
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1974-1979",
+            "role_context": "Minister of the Environment",
+            "confidence": "high"
+          },
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1981, 1986-1989, 1990-1996",
+            "role_context": "Prime Minister of Norway",
+            "confidence": "high"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": "1998-2003",
+            "role_context": "Director-General of the World Health Organization",
+            "confidence": "high"
+          },
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1960s-1970s",
+            "role_context": "University of Oslo (Cand.Med.)",
+            "confidence": "medium"
+          },
+          {
+            "city": "Boston",
+            "country": "USA",
+            "approximate_period": "1960s",
+            "role_context": "Harvard University (MPH)",
+            "confidence": "medium"
+          }
+        ],
+        "countries": [
+          "Norway",
+          "Switzerland",
+          "USA"
+        ],
+        "supporting_quote": "Gro Harlem Brundtland... served three terms as the prime minister of Norway (1981, 1986–1989, 1990–1996) and as Director-General of the World Health Organization from 1998 to 2003.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 134,
+      "chunk_index": 0,
+      "source_id": 372,
+      "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+      "domain": "nordics.info",
+      "similarity": 0.5889208637912793,
+      "rerank_score": 0.69672287,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Locations mentioned include Bærum (Norway), Oslo (Norway), Boston (USA). Step 2: Bærum (early life), Oslo (medical degree), Boston (Master of Public Health) all imply 6+ months. Step 3: Bærum (1939-1950s), Oslo (1950s-1963), Boston (1960s). Step 4: Confidence is high for Bærum and Oslo, medium for Boston. Step 5: Countries are Norway and USA.\",\n  \"locations\": [\n    {\n      \"city\": \"Bærum\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1939-1950s\",\n      \"role_context\": \"born and raised\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1950s-1963\",\n      \"role_context\": \"received medical degree from the University of Oslo\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Boston\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1960s\",\n      \"role_context\": \"received Master of Public Health degree from Harvard University\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"countries\": [\"Norway\", \"USA\"],\n  \"supporting_quote\": \"She was born in Bærum, Norway, in 1939... Brundtland received her medical degree from the University of Oslo in 1963, and her Master of Public Health degree on scholarship from Harvard University\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Locations mentioned include Bærum (Norway), Oslo (Norway), Boston (USA). Step 2: Bærum (early life), Oslo (medical degree), Boston (Master of Public Health) all imply 6+ months. Step 3: Bærum (1939-1950s), Oslo (1950s-1963), Boston (1960s). Step 4: Confidence is high for Bærum and Oslo, medium for Boston. Step 5: Countries are Norway and USA.",
+        "locations": [
+          {
+            "city": "Bærum",
+            "country": "Norway",
+            "approximate_period": "1939-1950s",
+            "role_context": "born and raised",
+            "confidence": "high"
+          },
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1950s-1963",
+            "role_context": "received medical degree from the University of Oslo",
+            "confidence": "high"
+          },
+          {
+            "city": "Boston",
+            "country": "USA",
+            "approximate_period": "1960s",
+            "role_context": "received Master of Public Health degree from Harvard University",
+            "confidence": "medium"
+          }
+        ],
+        "countries": [
+          "Norway",
+          "USA"
+        ],
+        "supporting_quote": "She was born in Bærum, Norway, in 1939... Brundtland received her medical degree from the University of Oslo in 1963, and her Master of Public Health degree on scholarship from Harvard University",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 123,
+      "chunk_index": 0,
+      "source_id": 368,
+      "url": "https://www.ebsco.com/research-starters/biography/gro-harlem-brundtland",
+      "domain": "ebsco.com",
+      "similarity": 0.590441966066639,
+      "rerank_score": 0.67140645,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified Oslo, Norway, and the United States as explicit locations. Step 2: Oslo is her birthplace and likely long-term residence, Norway is her primary career location, and the United States is where she moved with her family for her father's studies. Step 3: Assigned approximate periods based on birth year and mentioned events. Step 4: Confidence is high for Oslo and Norway due to explicit roles and residence, medium for the United States as the duration is inferred. Step 5: Compiled the country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1939-present\",\n      \"role_context\": \"Born and raised, held various political roles including Prime Minister\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"United States\",\n      \"approximate_period\": \"1946-1950\",\n      \"role_context\": \"Moved with family for father's studies\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1981, 1986-1989, 1990-1996\",\n      \"role_context\": \"Served as Prime Minister\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1998-2003\",\n      \"role_context\": \"Served as Director-General of the World Health Organization\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"countries\": [\"Norway\", \"United States\", \"Switzerland\"],\n  \"supporting_quote\": \"Born in Oslo in 1939, Brundtland's early exposure to politics and health, influenced by her family's involvement in the Labor Party, shaped her career trajectory.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified Oslo, Norway, and the United States as explicit locations. Step 2: Oslo is her birthplace and likely long-term residence, Norway is her primary career location, and the United States is where she moved with her family for her father's studies. Step 3: Assigned approximate periods based on birth year and mentioned events. Step 4: Confidence is high for Oslo and Norway due to explicit roles and residence, medium for the United States as the duration is inferred. Step 5: Compiled the country list.",
+        "locations": [
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1939-present",
+            "role_context": "Born and raised, held various political roles including Prime Minister",
+            "confidence": "high"
+          },
+          {
+            "city": null,
+            "country": "United States",
+            "approximate_period": "1946-1950",
+            "role_context": "Moved with family for father's studies",
+            "confidence": "medium"
+          },
+          {
+            "city": null,
+            "country": "Norway",
+            "approximate_period": "1981, 1986-1989, 1990-1996",
+            "role_context": "Served as Prime Minister",
+            "confidence": "high"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": "1998-2003",
+            "role_context": "Served as Director-General of the World Health Organization",
+            "confidence": "high"
+          }
+        ],
+        "countries": [
+          "Norway",
+          "United States",
+          "Switzerland"
+        ],
+        "supporting_quote": "Born in Oslo in 1939, Brundtland's early exposure to politics and health, influenced by her family's involvement in the Labor Party, shaped her career trajectory.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 106,
+      "chunk_index": 1,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5277630996133831,
+      "rerank_score": 0.6439794,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified Oslo (Norway), Boston (USA), and Geneva (Switzerland) as key locations based on education, work, and roles. Step 2: Confirmed 6+ months for Oslo (birth, education, early career), Boston (Master's degree), and Geneva (WHO role). Step 3: Assigned periods based on explicit dates or inferred timelines. Step 4: Confidence is high for Oslo and Geneva due to explicit roles and durations; medium for Boston as city is inferred from Harvard University. Step 5: Compiled countries list.\",\n  \"locations\": [\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1939-1965, 1966-1974\",\n      \"role_context\": \"Born, educated, and worked as physician\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Boston\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1963-1965\",\n      \"role_context\": \"Studied at Harvard University\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1974-1996\",\n      \"role_context\": \"Minister of Environment, Prime Minister\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1998-2003\",\n      \"role_context\": \"Director-General of WHO\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"countries\": [\"Norway\", \"USA\", \"Switzerland\"],\n  \"supporting_quote\": \"Brundtland was born in Oslo in 1939... She took her master's degree at Harvard University in 1965... director-general of the World Health Organization from 1998 to 2003.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified Oslo (Norway), Boston (USA), and Geneva (Switzerland) as key locations based on education, work, and roles. Step 2: Confirmed 6+ months for Oslo (birth, education, early career), Boston (Master's degree), and Geneva (WHO role). Step 3: Assigned periods based on explicit dates or inferred timelines. Step 4: Confidence is high for Oslo and Geneva due to explicit roles and durations; medium for Boston as city is inferred from Harvard University. Step 5: Compiled countries list.",
+        "locations": [
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1939-1965, 1966-1974",
+            "role_context": "Born, educated, and worked as physician",
+            "confidence": "high"
+          },
+          {
+            "city": "Boston",
+            "country": "USA",
+            "approximate_period": "1963-1965",
+            "role_context": "Studied at Harvard University",
+            "confidence": "medium"
+          },
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1974-1996",
+            "role_context": "Minister of Environment, Prime Minister",
+            "confidence": "high"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": "1998-2003",
+            "role_context": "Director-General of WHO",
+            "confidence": "high"
+          }
+        ],
+        "countries": [
+          "Norway",
+          "USA",
+          "Switzerland"
+        ],
+        "supporting_quote": "Brundtland was born in Oslo in 1939... She took her master's degree at Harvard University in 1965... director-general of the World Health Organization from 1998 to 2003.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 121,
+      "chunk_index": 0,
+      "source_id": 367,
+      "url": "https://www.britannica.com/biography/Gro-Harlem-Brundtland",
+      "domain": "britannica.com",
+      "similarity": 0.6017371581873022,
+      "rerank_score": 0.6155738,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified Oslo (Norway), Boston (USA) as explicit locations. Step 2: Assumed 6+ months for full-time roles and degree programs. Step 3: Assigned periods based on explicit years or typical durations. Step 4: Confidence is high for Oslo and Boston due to explicit roles and education. Step 5: Compiled countries from identified locations.\",\n  \"locations\": [\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1963-1965, 1981, 1986-1989, 1990-1996\",\n      \"role_context\": \"public health officer, prime minister\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Boston\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1965-1966\",\n      \"role_context\": \"master’s degree in public health from Harvard University\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"countries\": [\"Norway\", \"USA\"],\n  \"supporting_quote\": \"received an M.D. degree from the University of Oslo in 1963 and a master’s degree in public health from Harvard University in 1965.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified Oslo (Norway), Boston (USA) as explicit locations. Step 2: Assumed 6+ months for full-time roles and degree programs. Step 3: Assigned periods based on explicit years or typical durations. Step 4: Confidence is high for Oslo and Boston due to explicit roles and education. Step 5: Compiled countries from identified locations.",
+        "locations": [
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1963-1965, 1981, 1986-1989, 1990-1996",
+            "role_context": "public health officer, prime minister",
+            "confidence": "high"
+          },
+          {
+            "city": "Boston",
+            "country": "USA",
+            "approximate_period": "1965-1966",
+            "role_context": "master’s degree in public health from Harvard University",
+            "confidence": "high"
+          }
+        ],
+        "countries": [
+          "Norway",
+          "USA"
+        ],
+        "supporting_quote": "received an M.D. degree from the University of Oslo in 1963 and a master’s degree in public health from Harvard University in 1965.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 128,
+      "chunk_index": 0,
+      "source_id": 369,
+      "url": "https://clubmadrid.org/who/members/brundtland-gro-harlem/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.5299090915917599,
+      "rerank_score": 0.562874,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified Oslo (Norway), Harvard University (USA), and roles in Norway. Step 2: Assumed 6+ months for full-time roles and education. Step 3: Assigned periods based on explicit dates or context. Step 4: Confidence assessed based on explicitness and duration clarity. Step 5: Compiled country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1939-1965\",\n      \"role_context\": \"Born and worked as physician and scientist in public health system\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Date and Place of Birth: 20 April 1939, Oslo (Norway)\"\n    },\n    {\n      \"city\": \"Cambridge\",\n      \"country\": \"USA\",\n      \"approximate_period\": \"1960s\",\n      \"role_context\": \"Studied at Harvard University for Medical Doctor and MPH degrees\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Medical doctor and Master of Public Health (MPH) from Harvard University\"\n    },\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1965-1981\",\n      \"role_context\": \"Worked in Ministry of Health and Oslo City Hospital\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 1965 she joined the Ministry of Health where she worked on children’s health issues\"\n    },\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"1981-1996\",\n      \"role_context\": \"Served as Prime Minister of Norway\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Prime Minister of Norway (1986-1989; 1990-1996)\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1998-2003\",\n      \"role_context\": \"Secretary General of the World Health Organisation\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Dr Brundtland stepped down as Prime Minister in October 1996 and went on to become Secretary General of the World Health Organisation from July 1998 to July 2003\"\n    }\n  ],\n  \"countries\": [\"Norway\", \"USA\", \"Switzerland\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified Oslo (Norway), Harvard University (USA), and roles in Norway. Step 2: Assumed 6+ months for full-time roles and education. Step 3: Assigned periods based on explicit dates or context. Step 4: Confidence assessed based on explicitness and duration clarity. Step 5: Compiled country list.",
+        "locations": [
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1939-1965",
+            "role_context": "Born and worked as physician and scientist in public health system",
+            "confidence": "high",
+            "supporting_quote": "Date and Place of Birth: 20 April 1939, Oslo (Norway)"
+          },
+          {
+            "city": "Cambridge",
+            "country": "USA",
+            "approximate_period": "1960s",
+            "role_context": "Studied at Harvard University for Medical Doctor and MPH degrees",
+            "confidence": "medium",
+            "supporting_quote": "Medical doctor and Master of Public Health (MPH) from Harvard University"
+          },
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1965-1981",
+            "role_context": "Worked in Ministry of Health and Oslo City Hospital",
+            "confidence": "high",
+            "supporting_quote": "In 1965 she joined the Ministry of Health where she worked on children’s health issues"
+          },
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "1981-1996",
+            "role_context": "Served as Prime Minister of Norway",
+            "confidence": "high",
+            "supporting_quote": "Prime Minister of Norway (1986-1989; 1990-1996)"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": "1998-2003",
+            "role_context": "Secretary General of the World Health Organisation",
+            "confidence": "high",
+            "supporting_quote": "Dr Brundtland stepped down as Prime Minister in October 1996 and went on to become Secretary General of the World Health Organisation from July 1998 to July 2003"
+          }
+        ],
+        "countries": [
+          "Norway",
+          "USA",
+          "Switzerland"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 119,
+      "chunk_index": 3,
+      "source_id": 365,
+      "url": "https://theelders.org/profile/gro-harlem-brundtland",
+      "domain": "theelders.org",
+      "similarity": 0.4749484362342374,
+      "rerank_score": 0.5189612,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not provide explicit information about specific cities or countries where Gro Harlem Brundtland lived or worked for six months or more. The roles mentioned are global in nature (e.g., UN Special Envoy, member of international panels) and do not specify locations of residence or long-term work. Therefore, no locations can be confidently identified.\",\n  \"locations\": [],\n  \"countries\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not provide explicit information about specific cities or countries where Gro Harlem Brundtland lived or worked for six months or more. The roles mentioned are global in nature (e.g., UN Special Envoy, member of international panels) and do not specify locations of residence or long-term work. Therefore, no locations can be confidently identified.",
+        "locations": [],
+        "countries": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 109,
+      "chunk_index": 4,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4687704388840493,
+      "rerank_score": 0.4572585,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Locations mentioned in connection with Gro Harlem Brundtland's work or residence include Oslo (Norway), Utøya (Norway), and the south of France. Step 2: Oslo is mentioned in the context of a hospital visit and an assassination attempt, implying residence. The south of France is mentioned as a place where she owns a house and changed her residence to. Utøya is excluded as it was a short visit. Step 3: Periods are inferred based on the context of the events. Step 4: Confidence is assessed based on the explicitness of the location and role. Step 5: Countries are de-duplicated.\",\n  \"locations\": [\n    {\n      \"city\": \"Oslo\",\n      \"country\": \"Norway\",\n      \"approximate_period\": \"2002, 2007-2008\",\n      \"role_context\": \"operated on for uterine cancer at Oslo University Hospital, Ullevål; changed residence back to Norway\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Brundtland was operated on for uterine cancer in 2002 at Oslo University Hospital, Ullevål.\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"France\",\n      \"approximate_period\": \"2007-2008\",\n      \"role_context\": \"changed residence to France\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"They own a house in the south of France.\"\n    }\n  ],\n  \"countries\": [\"Norway\", \"France\"],\n  \"supporting_quote\": \"They own a house in the south of France.\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Locations mentioned in connection with Gro Harlem Brundtland's work or residence include Oslo (Norway), Utøya (Norway), and the south of France. Step 2: Oslo is mentioned in the context of a hospital visit and an assassination attempt, implying residence. The south of France is mentioned as a place where she owns a house and changed her residence to. Utøya is excluded as it was a short visit. Step 3: Periods are inferred based on the context of the events. Step 4: Confidence is assessed based on the explicitness of the location and role. Step 5: Countries are de-duplicated.",
+        "locations": [
+          {
+            "city": "Oslo",
+            "country": "Norway",
+            "approximate_period": "2002, 2007-2008",
+            "role_context": "operated on for uterine cancer at Oslo University Hospital, Ullevål; changed residence back to Norway",
+            "confidence": "high",
+            "supporting_quote": "Brundtland was operated on for uterine cancer in 2002 at Oslo University Hospital, Ullevål."
+          },
+          {
+            "city": null,
+            "country": "France",
+            "approximate_period": "2007-2008",
+            "role_context": "changed residence to France",
+            "confidence": "medium",
+            "supporting_quote": "They own a house in the south of France."
+          }
+        ],
+        "countries": [
+          "Norway",
+          "France"
+        ],
+        "supporting_quote": "They own a house in the south of France.",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 118,
+      "url": "https://theelders.org/profile/gro-harlem-brundtland",
+      "domain": "theelders.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text extensively discusses Gro Harlem Brundtland's career, including her roles as Prime Minister of Norway, Environment Minister, and Director-General of the World Health Organization. Step 2: The text confirms her work in Norway, specifically mentioning her roles in Oslo (e.g., Prime Minister, Environment Minister). Step 3: The text does not mention new locations beyond those in the candidate findings, but it does confirm her role at the WHO, which is headquartered in Geneva, Switzerland, though Geneva is not explicitly mentioned. Step 4: Confidence is high for Norway-related locations and medium for Switzerland due to implicit confirmation via her WHO role.\",\n  \"confirms\": true,\n  \"confirmed_locations\": [\"Oslo, Norway\"],\n  \"new_locations_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"As Norway’s Environment Minister from 1974 to 1979, she began to realise her vision of extending health beyond the confines of the medical world into environmental issues and human development.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text extensively discusses Gro Harlem Brundtland's career, including her roles as Prime Minister of Norway, Environment Minister, and Director-General of the World Health Organization. Step 2: The text confirms her work in Norway, specifically mentioning her roles in Oslo (e.g., Prime Minister, Environment Minister). Step 3: The text does not mention new locations beyond those in the candidate findings, but it does confirm her role at the WHO, which is headquartered in Geneva, Switzerland, though Geneva is not explicitly mentioned. Step 4: Confidence is high for Norway-related locations and medium for Switzerland due to implicit confirmation via her WHO role.",
+        "confirms": true,
+        "confirmed_locations": [
+          "Oslo, Norway"
+        ],
+        "new_locations_found": [],
+        "confidence": "high",
+        "supporting_quote": "As Norway’s Environment Minister from 1974 to 1979, she began to realise her vision of extending health beyond the confines of the medical world into environmental issues and human development."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "As Norway’s Environment Minister from 1974 to 1979, she began to realise her vision of extending health beyond the confines of the medical world into environmental issues and human development.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Gro Harlem Brundtland... served three terms as the prime minister of Norway (1981, 1986–1989, 1990–1996) and as Director-General of the World Health Organization from 1998 to 2003.",
+    "confirmation_count": 1,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "locations": [
+      {
+        "city": "Oslo",
+        "country": "Norway",
+        "approximate_period": "1977-1997",
+        "role_context": "Member of the Norwegian Parliament, Constituency: Oslo",
+        "confidence": "high"
+      },
+      {
+        "city": "Oslo",
+        "country": "Norway",
+        "approximate_period": "1974-1979",
+        "role_context": "Minister of the Environment",
+        "confidence": "high"
+      },
+      {
+        "city": "Oslo",
+        "country": "Norway",
+        "approximate_period": "1981, 1986-1989, 1990-1996",
+        "role_context": "Prime Minister of Norway",
+        "confidence": "high"
+      },
+      {
+        "city": "Geneva",
+        "country": "Switzerland",
+        "approximate_period": "1998-2003",
+        "role_context": "Director-General of the World Health Organization",
+        "confidence": "high"
+      },
+      {
+        "city": "Oslo",
+        "country": "Norway",
+        "approximate_period": "1960s-1970s",
+        "role_context": "University of Oslo (Cand.Med.)",
+        "confidence": "medium"
+      },
+      {
+        "city": "Boston",
+        "country": "USA",
+        "approximate_period": "1960s",
+        "role_context": "Harvard University (MPH)",
+        "confidence": "medium"
+      }
+    ],
+    "countries": [
+      "Norway",
+      "Switzerland",
+      "USA"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 1,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

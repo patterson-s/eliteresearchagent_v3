@@ -1,0 +1,869 @@
+{
+  "person_dir_name": "Dhananjayan_Sriskandarajah",
+  "person_db_name": "Dhananjayan Sriskandarajah",
+  "question_id": "jobs",
+  "question_display": "Main Jobs (Organizational Mobility)",
+  "run_timestamp": "2026-02-25T17:57:08.504047+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Humanitarian Finance",
+    "hlp_year": "2015-2016",
+    "nomination_year": 2015,
+    "hlp_nomination_age": 40,
+    "birth_year": "1975",
+    "nationality": [
+      "Australian",
+      "Sri Lankan"
+    ]
+  },
+  "retrieval": {
+    "query": "Dhananjayan Sriskandarajah job title director minister professor CEO secretary general career appointment position employer organization",
+    "chunks_in_db": 15,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1182,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5942,
+        "rerank_score": 0.7467
+      },
+      {
+        "chunk_id": 1190,
+        "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+        "domain": "qc.foundation",
+        "similarity": 0.5781,
+        "rerank_score": 0.7436
+      },
+      {
+        "chunk_id": 1192,
+        "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+        "domain": "lse.ac.uk",
+        "similarity": 0.5886,
+        "rerank_score": 0.7421
+      },
+      {
+        "chunk_id": 1189,
+        "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+        "domain": "opengovpartnership.org",
+        "similarity": 0.5745,
+        "rerank_score": 0.7378
+      },
+      {
+        "chunk_id": 1188,
+        "url": "http://sdgs.un.org/panelists/mr-danny-sriskandarajah-29228",
+        "domain": "sdgs.un.org",
+        "similarity": 0.5558,
+        "rerank_score": 0.7169
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1182,
+      "chunk_index": 0,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5941684363657628,
+      "rerank_score": 0.7467494,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Chief Executive of New Economics Foundation, Chief Executive of Oxfam GB, Secretary General of CIVICUS, and head of Royal Commonwealth Society. Step 2: Organizations are explicitly named. Step 3: Dates are extracted where available. Step 4: Domains are classified based on organization type. Step 5: All roles are primary as they are full-time positions.\",\n  \"jobs\": [\n    {\n      \"title\": \"Chief Executive\",\n      \"organization\": \"New Economics Foundation\",\n      \"approximate_period\": \"2024-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chief Executive\",\n      \"organization\": \"Oxfam GB\",\n      \"approximate_period\": \"null-December 2023\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Secretary General\",\n      \"organization\": \"CIVICUS\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Head\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"is the Chief Executive of the New Economics Foundation. Until December 2023, he was Chief Executive of Oxfam GB. Prior to that, Sriskandarajah was the Secretary General of CIVICUS. He was the first non-British and youngest person to head the Royal Commonwealth Society.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Chief Executive of New Economics Foundation, Chief Executive of Oxfam GB, Secretary General of CIVICUS, and head of Royal Commonwealth Society. Step 2: Organizations are explicitly named. Step 3: Dates are extracted where available. Step 4: Domains are classified based on organization type. Step 5: All roles are primary as they are full-time positions.",
+        "jobs": [
+          {
+            "title": "Chief Executive",
+            "organization": "New Economics Foundation",
+            "approximate_period": "2024-present",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chief Executive",
+            "organization": "Oxfam GB",
+            "approximate_period": "null-December 2023",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Secretary General",
+            "organization": "CIVICUS",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Head",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "is the Chief Executive of the New Economics Foundation. Until December 2023, he was Chief Executive of Oxfam GB. Prior to that, Sriskandarajah was the Secretary General of CIVICUS. He was the first non-British and youngest person to head the Royal Commonwealth Society.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1190,
+      "chunk_index": 0,
+      "source_id": 659,
+      "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+      "domain": "qc.foundation",
+      "similarity": 0.5780634153144149,
+      "rerank_score": 0.74363416,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Chief Executive of the New Economics Foundation, CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and various posts at the Institute for Public Policy Research. Trustee roles were also mentioned but are classified as secondary. Step 2: Organizations were explicitly named in the text. Step 3: No specific dates were provided, so approximate_period is recorded as null. Step 4: Domain classification was based on the nature of each organization. Step 5: Prominence was assessed based on the role's likely full-time or part-time nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Chief Executive\",\n      \"organization\": \"New Economics Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"CEO\",\n      \"organization\": \"Oxfam GB\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Secretary General\",\n      \"organization\": \"CIVICUS\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Interim Director\",\n      \"organization\": \"Commonwealth Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Various posts\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Guy’s & St Thomas’ Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Baring Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Comic Relief\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Disasters Emergency Committee\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Praxis Community Projects\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Chief Executive of the New Economics Foundation, CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and various posts at the Institute for Public Policy Research. Trustee roles were also mentioned but are classified as secondary. Step 2: Organizations were explicitly named in the text. Step 3: No specific dates were provided, so approximate_period is recorded as null. Step 4: Domain classification was based on the nature of each organization. Step 5: Prominence was assessed based on the role's likely full-time or part-time nature.",
+        "jobs": [
+          {
+            "title": "Chief Executive",
+            "organization": "New Economics Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "CEO",
+            "organization": "Oxfam GB",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Secretary General",
+            "organization": "CIVICUS",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Various posts",
+            "organization": "Institute for Public Policy Research",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Guy’s & St Thomas’ Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Baring Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Comic Relief",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Disasters Emergency Committee",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Praxis Community Projects",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1192,
+      "chunk_index": 0,
+      "source_id": 661,
+      "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+      "domain": "lse.ac.uk",
+      "similarity": 0.5885902599751216,
+      "rerank_score": 0.7420672,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Chief Executive Officer of New Economics Foundation, Chief Executive of Oxfam GB, Secretary General of CIVICUS, Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, various posts at the Institute for Public Policy Research, Visiting Senior Fellow at the International Inequalities Institute, and Trustee roles at the Disasters Emergency Committee and Guy’s and St Thomas’ Foundation. Step 2: Organizations were explicitly named in the text. Step 3: Approximate periods were inferred where possible, with 'present' used for current roles. Step 4: Domains were classified based on the nature of each organization. Step 5: Prominence was assessed based on the role's nature and typical time commitment.\",\n  \"jobs\": [\n    {\n      \"title\": \"Chief Executive Officer\",\n      \"organization\": \"New Economics Foundation\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chief Executive\",\n      \"organization\": \"Oxfam GB\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Secretary General\",\n      \"organization\": \"CIVICUS\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director General\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Interim Director\",\n      \"organization\": \"Commonwealth Foundation\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Various posts\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Visiting Senior Fellow\",\n      \"organization\": \"International Inequalities Institute\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Disasters Emergency Committee\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Guy’s and St Thomas’ Foundation\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Dr Dhananjayan Sriskandarajah is Chief Executive Officer of New Economics Foundation. Prior to that he spent five years as Chief Executive of Oxfam GB.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Chief Executive Officer of New Economics Foundation, Chief Executive of Oxfam GB, Secretary General of CIVICUS, Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, various posts at the Institute for Public Policy Research, Visiting Senior Fellow at the International Inequalities Institute, and Trustee roles at the Disasters Emergency Committee and Guy’s and St Thomas’ Foundation. Step 2: Organizations were explicitly named in the text. Step 3: Approximate periods were inferred where possible, with 'present' used for current roles. Step 4: Domains were classified based on the nature of each organization. Step 5: Prominence was assessed based on the role's nature and typical time commitment.",
+        "jobs": [
+          {
+            "title": "Chief Executive Officer",
+            "organization": "New Economics Foundation",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chief Executive",
+            "organization": "Oxfam GB",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Secretary General",
+            "organization": "CIVICUS",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director General",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Various posts",
+            "organization": "Institute for Public Policy Research",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Visiting Senior Fellow",
+            "organization": "International Inequalities Institute",
+            "approximate_period": "null",
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Disasters Emergency Committee",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Guy’s and St Thomas’ Foundation",
+            "approximate_period": "null",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Dr Dhananjayan Sriskandarajah is Chief Executive Officer of New Economics Foundation. Prior to that he spent five years as Chief Executive of Oxfam GB.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1189,
+      "chunk_index": 0,
+      "source_id": 658,
+      "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+      "domain": "opengovpartnership.org",
+      "similarity": 0.5745172104012403,
+      "rerank_score": 0.73778254,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 2: Organizations are CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research. Step 3: Dates are January 2013-present for CIVICUS, and null for the others as no dates are provided. Step 4: Domain classification is 'civil_society' for all roles. Step 5: Prominence is 'primary' for all roles except board memberships, which are 'secondary'.\",\n  \"jobs\": [\n    {\n      \"title\": \"Secretary General and CEO\",\n      \"organization\": \"CIVICUS\",\n      \"approximate_period\": \"2013-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Interim Director\",\n      \"organization\": \"Commonwealth Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Deputy Director\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"supporting_quote\": \"Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 2: Organizations are CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research. Step 3: Dates are January 2013-present for CIVICUS, and null for the others as no dates are provided. Step 4: Domain classification is 'civil_society' for all roles. Step 5: Prominence is 'primary' for all roles except board memberships, which are 'secondary'.",
+        "jobs": [
+          {
+            "title": "Secretary General and CEO",
+            "organization": "CIVICUS",
+            "approximate_period": "2013-present",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Deputy Director",
+            "organization": "Institute for Public Policy Research",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          }
+        ],
+        "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1188,
+      "chunk_index": 0,
+      "source_id": 656,
+      "url": "http://sdgs.un.org/panelists/mr-danny-sriskandarajah-29228",
+      "domain": "sdgs.un.org",
+      "similarity": 0.5558380782869315,
+      "rerank_score": 0.71687365,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 2: Organizations are explicitly named for all roles. Step 3: Dates are provided for the CIVICUS role (2013-present) but not for the others, so those are recorded as null. Step 4: Classified domains based on the nature of each organization. Step 5: Assessed prominence as primary for all roles except board memberships, which are secondary. Confidence is high due to clear and explicit information in the text.\",\n  \"jobs\": [\n    {\n      \"title\": \"Secretary General and CEO\",\n      \"organization\": \"CIVICUS: World Alliance for Citizen Participation\",\n      \"approximate_period\": \"2013-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Interim Director\",\n      \"organization\": \"Commonwealth Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Deputy Director\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"His previous posts include Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 2: Organizations are explicitly named for all roles. Step 3: Dates are provided for the CIVICUS role (2013-present) but not for the others, so those are recorded as null. Step 4: Classified domains based on the nature of each organization. Step 5: Assessed prominence as primary for all roles except board memberships, which are secondary. Confidence is high due to clear and explicit information in the text.",
+        "jobs": [
+          {
+            "title": "Secretary General and CEO",
+            "organization": "CIVICUS: World Alliance for Citizen Participation",
+            "approximate_period": "2013-present",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Deputy Director",
+            "organization": "Institute for Public Policy Research",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "His previous posts include Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1193,
+      "chunk_index": 0,
+      "source_id": 662,
+      "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+      "domain": "cpsummit.ngo",
+      "similarity": 0.495921988549911,
+      "rerank_score": 0.7120925,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 2: Organizations are CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research. Step 3: Dates are January 2013-present for CIVICUS, and no explicit dates for the other roles, so recorded as null. Step 4: Classified domains as civil_society for all roles. Step 5: Assessed prominence as primary for Secretary General and CEO of CIVICUS, and secondary for the other roles based on context.\",\n  \"jobs\": [\n    {\n      \"title\": \"Secretary General and CEO\",\n      \"organization\": \"CIVICUS\",\n      \"approximate_period\": \"2013-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Interim Director\",\n      \"organization\": \"Commonwealth Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Deputy Director\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"supporting_quote\": \"Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 2: Organizations are CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research. Step 3: Dates are January 2013-present for CIVICUS, and no explicit dates for the other roles, so recorded as null. Step 4: Classified domains as civil_society for all roles. Step 5: Assessed prominence as primary for Secretary General and CEO of CIVICUS, and secondary for the other roles based on context.",
+        "jobs": [
+          {
+            "title": "Secretary General and CEO",
+            "organization": "CIVICUS",
+            "approximate_period": "2013-present",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Deputy Director",
+            "organization": "Institute for Public Policy Research",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          }
+        ],
+        "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1183,
+      "chunk_index": 1,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.561230225355267,
+      "rerank_score": 0.70067,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles explicitly mentioned in the text for Dhananjayan Sriskandarajah. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods for each role based on explicit dates. Step 4: Classified each role into a domain category. Step 5: Assessed the prominence of each role as primary or secondary.\",\n  \"jobs\": [\n    {\n      \"title\": \"Deputy Director\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"approximate_period\": \"2004-2009\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director General\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": \"2009-2012\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Secretary General\",\n      \"organization\": \"CIVICUS\",\n      \"approximate_period\": \"2013-2018\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"UN Secretary General's High Level Panel on Digital Cooperation\",\n      \"approximate_period\": \"2018-null\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"High Level Panel on Humanitarian Finance\",\n      \"approximate_period\": \"2015-2016\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chief Executive\",\n      \"organization\": \"Oxfam GB\",\n      \"approximate_period\": \"2019-2023\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chief Executive\",\n      \"organization\": \"New Economics Foundation\",\n      \"approximate_period\": \"2024-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Sriskandarajah held various posts from 2004 to 2009, including Deputy Director of the left-leaning think tank, the Institute for Public Policy Research.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles explicitly mentioned in the text for Dhananjayan Sriskandarajah. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods for each role based on explicit dates. Step 4: Classified each role into a domain category. Step 5: Assessed the prominence of each role as primary or secondary.",
+        "jobs": [
+          {
+            "title": "Deputy Director",
+            "organization": "Institute for Public Policy Research",
+            "approximate_period": "2004-2009",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director General",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": "2009-2012",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Secretary General",
+            "organization": "CIVICUS",
+            "approximate_period": "2013-2018",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "UN Secretary General's High Level Panel on Digital Cooperation",
+            "approximate_period": "2018-null",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "High Level Panel on Humanitarian Finance",
+            "approximate_period": "2015-2016",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chief Executive",
+            "organization": "Oxfam GB",
+            "approximate_period": "2019-2023",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chief Executive",
+            "organization": "New Economics Foundation",
+            "approximate_period": "2024-present",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Sriskandarajah held various posts from 2004 to 2009, including Deputy Director of the left-leaning think tank, the Institute for Public Policy Research.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1195,
+      "chunk_index": 0,
+      "source_id": 663,
+      "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+      "domain": "resolvepoverty.org",
+      "similarity": 0.4336692985066588,
+      "rerank_score": 0.6747586,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles explicitly mentioned for Dhananjayan Sriskandarajah, including Chief Executive, CEO, Secretary General, Director, Interim Director, and Trustee roles. Step 2: Matched each role to its respective organization. Step 3: Assigned approximate periods based on the text; current roles noted as 'present'. Step 4: Classified domains based on organization type. Step 5: Assessed prominence as 'primary' for full-time roles and 'secondary' for trustee positions.\",\n  \"jobs\": [\n    {\n      \"title\": \"Chief Executive\",\n      \"organization\": \"New Economics Foundation\",\n      \"approximate_period\": \"2024-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"CEO\",\n      \"organization\": \"Oxfam GB\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Secretary General\",\n      \"organization\": \"CIVICUS\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Interim Director\",\n      \"organization\": \"Commonwealth Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Various posts\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Guy’s & St Thomas’ Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Baring Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Comic Relief\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Disasters Emergency Committee\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Trustee\",\n      \"organization\": \"Praxis Community Projects\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Danny’s previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles explicitly mentioned for Dhananjayan Sriskandarajah, including Chief Executive, CEO, Secretary General, Director, Interim Director, and Trustee roles. Step 2: Matched each role to its respective organization. Step 3: Assigned approximate periods based on the text; current roles noted as 'present'. Step 4: Classified domains based on organization type. Step 5: Assessed prominence as 'primary' for full-time roles and 'secondary' for trustee positions.",
+        "jobs": [
+          {
+            "title": "Chief Executive",
+            "organization": "New Economics Foundation",
+            "approximate_period": "2024-present",
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "CEO",
+            "organization": "Oxfam GB",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Secretary General",
+            "organization": "CIVICUS",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director",
+            "organization": "Royal Commonwealth Society",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Various posts",
+            "organization": "Institute for Public Policy Research",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Guy’s & St Thomas’ Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Baring Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Comic Relief",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Disasters Emergency Committee",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Trustee",
+            "organization": "Praxis Community Projects",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Danny’s previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1191,
+      "url": "https://neweconomics.org/profile/danny-sriskandarajah",
+      "domain": "neweconomics.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text explicitly discusses Dhananjayan Sriskandarajah's career, including his current and previous roles. Step 2 — Job confirmation: The text confirms his role as Chief Executive of NEF and mentions his previous roles as CEO of Oxfam GB and Secretary General of CIVICUS. Step 3 — New jobs found: The text also lists additional roles not in the candidate findings, such as Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and various posts at the Institute for Public Policy Research. Step 4 — Confidence: The source clearly and explicitly confirms the career data.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\"Chief Executive, New Economics Foundation\", \"CEO, Oxfam GB\", \"Secretary General, CIVICUS\"],\n  \"new_jobs_found\": [\n    {\"title\": \"Director\", \"organization\": \"Royal Commonwealth Society\"},\n    {\"title\": \"Interim Director\", \"organization\": \"Commonwealth Foundation\"},\n    {\"title\": \"Various posts\", \"organization\": \"Institute for Public Policy Research\"}\n  ],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Dr. Dhananjayan Sriskandarajah has been Chief Executive of NEF since January 2024. His previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text explicitly discusses Dhananjayan Sriskandarajah's career, including his current and previous roles. Step 2 — Job confirmation: The text confirms his role as Chief Executive of NEF and mentions his previous roles as CEO of Oxfam GB and Secretary General of CIVICUS. Step 3 — New jobs found: The text also lists additional roles not in the candidate findings, such as Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and various posts at the Institute for Public Policy Research. Step 4 — Confidence: The source clearly and explicitly confirms the career data.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Chief Executive, New Economics Foundation",
+          "CEO, Oxfam GB",
+          "Secretary General, CIVICUS"
+        ],
+        "new_jobs_found": [
+          {
+            "title": "Director",
+            "organization": "Royal Commonwealth Society"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation"
+          },
+          {
+            "title": "Various posts",
+            "organization": "Institute for Public Policy Research"
+          }
+        ],
+        "confidence": "high",
+        "supporting_quote": "Dr. Dhananjayan Sriskandarajah has been Chief Executive of NEF since January 2024. His previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Dr. Dhananjayan Sriskandarajah has been Chief Executive of NEF since January 2024. His previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1186,
+      "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+      "domain": "live.worldbank.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text discusses Dhananjayan Sriskandarajah's career, specifically his role as Secretary General of CIVICUS. Step 2 — The text confirms the role of Secretary General, CIVICUS, which matches one of the candidate findings. Step 3 — The text mentions additional roles not listed in the candidate findings, including Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 4 — The source clearly confirms the role of Secretary General, CIVICUS, and provides additional career details.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\"Secretary General, CIVICUS\"],\n  \"new_jobs_found\": [\n    {\n      \"title\": \"Director General\",\n      \"organization\": \"Royal Commonwealth Society\",\n      \"domain\": \"Education Charity\"\n    },\n    {\n      \"title\": \"Interim Director\",\n      \"organization\": \"Commonwealth Foundation\",\n      \"domain\": \"Inter-governmental Organization\"\n    },\n    {\n      \"title\": \"Deputy Director\",\n      \"organization\": \"Institute for Public Policy Research\",\n      \"domain\": \"Think Tank\"\n    }\n  ],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Dr. Dhananjayan (Danny) Sriskandarajah is the Secretary General of CIVICUS: World Alliance for Citizen Participation\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text discusses Dhananjayan Sriskandarajah's career, specifically his role as Secretary General of CIVICUS. Step 2 — The text confirms the role of Secretary General, CIVICUS, which matches one of the candidate findings. Step 3 — The text mentions additional roles not listed in the candidate findings, including Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research. Step 4 — The source clearly confirms the role of Secretary General, CIVICUS, and provides additional career details.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Secretary General, CIVICUS"
+        ],
+        "new_jobs_found": [
+          {
+            "title": "Director General",
+            "organization": "Royal Commonwealth Society",
+            "domain": "Education Charity"
+          },
+          {
+            "title": "Interim Director",
+            "organization": "Commonwealth Foundation",
+            "domain": "Inter-governmental Organization"
+          },
+          {
+            "title": "Deputy Director",
+            "organization": "Institute for Public Policy Research",
+            "domain": "Think Tank"
+          }
+        ],
+        "confidence": "high",
+        "supporting_quote": "Dr. Dhananjayan (Danny) Sriskandarajah is the Secretary General of CIVICUS: World Alliance for Citizen Participation"
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Dr. Dhananjayan (Danny) Sriskandarajah is the Secretary General of CIVICUS: World Alliance for Citizen Participation",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.",
+    "confirmation_count": 2,
+    "primary_source_domain": "qc.foundation",
+    "notes": null,
+    "jobs": [
+      {
+        "title": "Chief Executive",
+        "organization": "New Economics Foundation",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "CEO",
+        "organization": "Oxfam GB",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Secretary General",
+        "organization": "CIVICUS",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Director",
+        "organization": "Royal Commonwealth Society",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Interim Director",
+        "organization": "Commonwealth Foundation",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Various posts",
+        "organization": "Institute for Public Policy Research",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "primary",
+        "confidence": "medium"
+      },
+      {
+        "title": "Trustee",
+        "organization": "Guy’s & St Thomas’ Foundation",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Trustee",
+        "organization": "Baring Foundation",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Trustee",
+        "organization": "Comic Relief",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Trustee",
+        "organization": "Disasters Emergency Committee",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Trustee",
+        "organization": "Praxis Community Projects",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high"
+      }
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

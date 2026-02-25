@@ -1,0 +1,518 @@
+{
+  "person_dir_name": "Gunilla_Carlsson",
+  "person_db_name": "Gunilla Carlsson",
+  "question_id": "locations",
+  "question_display": "Main Locations (Geographical Mobility)",
+  "run_timestamp": "2026-02-25T18:02:57.298736+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 49,
+    "birth_year": "1963",
+    "nationality": [
+      "Swedish"
+    ]
+  },
+  "retrieval": {
+    "query": "Gunilla Carlsson lived based located city country worked residence office career",
+    "chunks_in_db": 22,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3369,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6185,
+        "rerank_score": 0.7632
+      },
+      {
+        "chunk_id": 3387,
+        "url": "https://www.bitprop.com/team/gunilla-carlsson",
+        "domain": "bitprop.com",
+        "similarity": 0.5157,
+        "rerank_score": 0.7171
+      },
+      {
+        "chunk_id": 3375,
+        "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+        "domain": "unaids.org",
+        "similarity": 0.4644,
+        "rerank_score": 0.6285
+      },
+      {
+        "chunk_id": 3377,
+        "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+        "domain": "gcsp.ch",
+        "similarity": 0.5133,
+        "rerank_score": 0.5937
+      },
+      {
+        "chunk_id": 3370,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4541,
+        "rerank_score": 0.59
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3369,
+      "chunk_index": 0,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6184820801781926,
+      "rerank_score": 0.76321954,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Gunilla Carlsson's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Lund\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"1963-1995\",\n      \"role_context\": \"born and raised, chairperson of the Moderate Youth League district\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Carlsson was born and raised in Lund in Skåne.\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"1995-2002\",\n      \"role_context\": \"Member of the European Parliament\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 1995, she was elected to the European Parliament and served until 2002.\"\n    },\n    {\n      \"city\": \"Stockholm\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"2002-2013\",\n      \"role_context\": \"Member of the Riksdag and Minister for International Development Cooperation\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"She served as Minister for International Development Cooperation from 2006 to 2013, member of the Swedish Riksdag from 2002 to 2013.\"\n    }\n  ],\n  \"countries\": [\"Sweden\", \"Belgium\"],\n  \"supporting_quote\": \"Carlsson was born and raised in Lund in Skåne. In 1995, she was elected to the European Parliament and served until 2002.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Gunilla Carlsson's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Lund",
+            "country": "Sweden",
+            "approximate_period": "1963-1995",
+            "role_context": "born and raised, chairperson of the Moderate Youth League district",
+            "confidence": "high",
+            "supporting_quote": "Carlsson was born and raised in Lund in Skåne."
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "1995-2002",
+            "role_context": "Member of the European Parliament",
+            "confidence": "high",
+            "supporting_quote": "In 1995, she was elected to the European Parliament and served until 2002."
+          },
+          {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "approximate_period": "2002-2013",
+            "role_context": "Member of the Riksdag and Minister for International Development Cooperation",
+            "confidence": "medium",
+            "supporting_quote": "She served as Minister for International Development Cooperation from 2006 to 2013, member of the Swedish Riksdag from 2002 to 2013."
+          }
+        ],
+        "countries": [
+          "Sweden",
+          "Belgium"
+        ],
+        "supporting_quote": "Carlsson was born and raised in Lund in Skåne. In 1995, she was elected to the European Parliament and served until 2002.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3387,
+      "chunk_index": 0,
+      "source_id": 1244,
+      "url": "https://www.bitprop.com/team/gunilla-carlsson",
+      "domain": "bitprop.com",
+      "similarity": 0.5156883586569476,
+      "rerank_score": 0.7171114,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Gunilla Carlsson's work or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate periods based on available dates. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Stockholm\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"2006-2013\",\n      \"role_context\": \"Member of Swedish Parliament and Minister of International Development Cooperation\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was an elected Member of Swedish Parliament and Minister of International Development Cooperation 2006-2013.\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"1995-2002\",\n      \"role_context\": \"Member of European Parliament\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"member of European Parliament 1995-2002\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": null,\n      \"role_context\": \"Unaffiliated member of the GAVI board\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Gunilla Carlsson is an unaffiliated member of the GAVI board (Geneva)\"\n    },\n    {\n      \"city\": \"London\",\n      \"country\": \"United Kingdom\",\n      \"approximate_period\": null,\n      \"role_context\": \"Part of the advisory board of Bill & Melinda Gates Foundation Europe\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"part of the advisory board of Bill & Melinda Gates Foundation Europe (London)\"\n    }\n  ],\n  \"countries\": [\"Sweden\", \"Belgium\", \"Switzerland\", \"United Kingdom\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Gunilla Carlsson's work or residence. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate periods based on available dates. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "approximate_period": "2006-2013",
+            "role_context": "Member of Swedish Parliament and Minister of International Development Cooperation",
+            "confidence": "high",
+            "supporting_quote": "She was an elected Member of Swedish Parliament and Minister of International Development Cooperation 2006-2013."
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "1995-2002",
+            "role_context": "Member of European Parliament",
+            "confidence": "high",
+            "supporting_quote": "member of European Parliament 1995-2002"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": null,
+            "role_context": "Unaffiliated member of the GAVI board",
+            "confidence": "medium",
+            "supporting_quote": "Gunilla Carlsson is an unaffiliated member of the GAVI board (Geneva)"
+          },
+          {
+            "city": "London",
+            "country": "United Kingdom",
+            "approximate_period": null,
+            "role_context": "Part of the advisory board of Bill & Melinda Gates Foundation Europe",
+            "confidence": "medium",
+            "supporting_quote": "part of the advisory board of Bill & Melinda Gates Foundation Europe (London)"
+          }
+        ],
+        "countries": [
+          "Sweden",
+          "Belgium",
+          "Switzerland",
+          "United Kingdom"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3375,
+      "chunk_index": 0,
+      "source_id": 1240,
+      "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+      "domain": "unaids.org",
+      "similarity": 0.4644042145172437,
+      "rerank_score": 0.62852204,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Locations mentioned include Sweden (birth, education, and parliamentary roles), Geneva (implied by UNAIDS role), and Rio de Janeiro (brief visit, excluded). Step 2: Full-time roles in Sweden (2002-2013) and Geneva (2018-present) imply 6+ months. Step 3: Periods assigned based on explicit dates. Step 4: Confidence is high for Sweden and medium for Geneva (city inferred). Step 5: Countries include Sweden and Switzerland.\",\n  \"locations\": [\n    {\n      \"city\": \"Stockholm\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"2002-2013\",\n      \"role_context\": \"served as an elected member of the Swedish Parliament and Minister for International Development Cooperation\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2018-present\",\n      \"role_context\": \"Deputy Executive Director at UNAIDS\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"countries\": [\"Sweden\", \"Switzerland\"],\n  \"supporting_quote\": \"Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance and served as an elected member of the Swedish Parliament from 2002 to 2013.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Locations mentioned include Sweden (birth, education, and parliamentary roles), Geneva (implied by UNAIDS role), and Rio de Janeiro (brief visit, excluded). Step 2: Full-time roles in Sweden (2002-2013) and Geneva (2018-present) imply 6+ months. Step 3: Periods assigned based on explicit dates. Step 4: Confidence is high for Sweden and medium for Geneva (city inferred). Step 5: Countries include Sweden and Switzerland.",
+        "locations": [
+          {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "approximate_period": "2002-2013",
+            "role_context": "served as an elected member of the Swedish Parliament and Minister for International Development Cooperation",
+            "confidence": "high"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": "2018-present",
+            "role_context": "Deputy Executive Director at UNAIDS",
+            "confidence": "medium"
+          }
+        ],
+        "countries": [
+          "Sweden",
+          "Switzerland"
+        ],
+        "supporting_quote": "Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance and served as an elected member of the Swedish Parliament from 2002 to 2013.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3377,
+      "chunk_index": 0,
+      "source_id": 1242,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "similarity": 0.5132939991722805,
+      "rerank_score": 0.59372765,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The text mentions Stockholm, Sweden, and Geneva in connection with Gunilla Carlsson's work and career. Step 2: Stockholm is associated with her role as Minister of International Development Cooperation and member of the UN Secretary-General’s High-Level Panel, implying long-term residence. Geneva is mentioned as the location of the GCSP, where she is an Associate Fellow, but this does not necessarily imply residence. Step 3: No explicit dates are provided for these roles, so approximate periods cannot be determined. Step 4: Confidence is medium for Stockholm due to the explicit role but lack of dates, and low for Geneva as it's unclear if she resided there. Step 5: Countries identified are Sweden and potentially Switzerland.\",\n  \"locations\": [\n    {\n      \"city\": \"Stockholm\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": null,\n      \"role_context\": \"Former Minister of International Development Cooperation of Sweden and member of the UN Secretary-General’s High-Level Panel\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": null,\n      \"role_context\": \"Associate Fellow within the Global Fellowship Initiative of the GCSP\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"countries\": [\"Sweden\", \"Switzerland\"],\n  \"supporting_quote\": \"Ms Gunilla Carlsson is an Associate Fellow within the Global Fellowship Initiative of the GCSP. Gunilla Carlsson is a former conservative politician with extensive experience of domestic, EU and international politics and negotiation.\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The text mentions Stockholm, Sweden, and Geneva in connection with Gunilla Carlsson's work and career. Step 2: Stockholm is associated with her role as Minister of International Development Cooperation and member of the UN Secretary-General’s High-Level Panel, implying long-term residence. Geneva is mentioned as the location of the GCSP, where she is an Associate Fellow, but this does not necessarily imply residence. Step 3: No explicit dates are provided for these roles, so approximate periods cannot be determined. Step 4: Confidence is medium for Stockholm due to the explicit role but lack of dates, and low for Geneva as it's unclear if she resided there. Step 5: Countries identified are Sweden and potentially Switzerland.",
+        "locations": [
+          {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "approximate_period": null,
+            "role_context": "Former Minister of International Development Cooperation of Sweden and member of the UN Secretary-General’s High-Level Panel",
+            "confidence": "medium"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": null,
+            "role_context": "Associate Fellow within the Global Fellowship Initiative of the GCSP",
+            "confidence": "low"
+          }
+        ],
+        "countries": [
+          "Sweden",
+          "Switzerland"
+        ],
+        "supporting_quote": "Ms Gunilla Carlsson is an Associate Fellow within the Global Fellowship Initiative of the GCSP. Gunilla Carlsson is a former conservative politician with extensive experience of domestic, EU and international politics and negotiation.",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3370,
+      "chunk_index": 1,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.45405994875945016,
+      "rerank_score": 0.5900477,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Gunilla Carlsson's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Stockholm\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"2002-present\",\n      \"role_context\": \"Elected to the Riksdag for Stockholm in 2002 and continues to make her home in Tyresö outside Stockholm.\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In the 2002 national elections, Carlsson was elected to the Riksdag for Stockholm. She continues to make her home in Tyresö outside Stockholm.\"\n    },\n    {\n      \"city\": \"Tyresö\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"2002-present\",\n      \"role_context\": \"Continues to make her home in Tyresö outside Stockholm.\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She continues to make her home in Tyresö outside Stockholm.\"\n    },\n    {\n      \"city\": \"Östergötland\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"2006\",\n      \"role_context\": \"Stood in her home county of Östergötland in 2006.\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"With a number of the Moderate Party Riksdag members from Östergötland resigning, she decided to stand in her home county in 2006.\"\n    }\n  ],\n  \"countries\": [\"Sweden\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Gunilla Carlsson's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Stockholm",
+            "country": "Sweden",
+            "approximate_period": "2002-present",
+            "role_context": "Elected to the Riksdag for Stockholm in 2002 and continues to make her home in Tyresö outside Stockholm.",
+            "confidence": "high",
+            "supporting_quote": "In the 2002 national elections, Carlsson was elected to the Riksdag for Stockholm. She continues to make her home in Tyresö outside Stockholm."
+          },
+          {
+            "city": "Tyresö",
+            "country": "Sweden",
+            "approximate_period": "2002-present",
+            "role_context": "Continues to make her home in Tyresö outside Stockholm.",
+            "confidence": "high",
+            "supporting_quote": "She continues to make her home in Tyresö outside Stockholm."
+          },
+          {
+            "city": "Östergötland",
+            "country": "Sweden",
+            "approximate_period": "2006",
+            "role_context": "Stood in her home county of Östergötland in 2006.",
+            "confidence": "medium",
+            "supporting_quote": "With a number of the Moderate Party Riksdag members from Östergötland resigning, she decided to stand in her home county in 2006."
+          }
+        ],
+        "countries": [
+          "Sweden"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3379,
+      "chunk_index": 0,
+      "source_id": 1243,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "similarity": 0.548208457870072,
+      "rerank_score": 0.4785538,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided is primarily LinkedIn boilerplate and login prompts, with minimal biographical content about Gunilla Carlsson. The only location explicitly mentioned is Vadstena, Sweden, but there is no context about her role or duration there. Given the lack of specific career or residence details, it's impossible to determine if she lived or worked there for 6+ months.\",\n  \"locations\": [],\n  \"countries\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided is primarily LinkedIn boilerplate and login prompts, with minimal biographical content about Gunilla Carlsson. The only location explicitly mentioned is Vadstena, Sweden, but there is no context about her role or duration there. Given the lack of specific career or residence details, it's impossible to determine if she lived or worked there for 6+ months.",
+        "locations": [],
+        "countries": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3380,
+      "chunk_index": 1,
+      "source_id": 1243,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "similarity": 0.5534417373584825,
+      "rerank_score": 0.47373086,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provides limited biographical information about Gunilla Carlsson. It mentions her birth in Sweden (1963) and her role as a center-right politician. No specific cities or countries are mentioned in connection with her work, education, or residence beyond Sweden. The text primarily consists of LinkedIn-related content and general statements about EU membership and health rights, which do not provide location-specific details about her career or residence.\",\n  \"locations\": [\n    {\n      \"city\": null,\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"1963-present\",\n      \"role_context\": \"Born in Sweden and active as a center-right politician\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"countries\": [\"Sweden\"],\n  \"supporting_quote\": \"Gunilla Carlsson is a center-right politician born 1963 in Sweden, with extensive…\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "The source text provides limited biographical information about Gunilla Carlsson. It mentions her birth in Sweden (1963) and her role as a center-right politician. No specific cities or countries are mentioned in connection with her work, education, or residence beyond Sweden. The text primarily consists of LinkedIn-related content and general statements about EU membership and health rights, which do not provide location-specific details about her career or residence.",
+        "locations": [
+          {
+            "city": null,
+            "country": "Sweden",
+            "approximate_period": "1963-present",
+            "role_context": "Born in Sweden and active as a center-right politician",
+            "confidence": "medium"
+          }
+        ],
+        "countries": [
+          "Sweden"
+        ],
+        "supporting_quote": "Gunilla Carlsson is a center-right politician born 1963 in Sweden, with extensive…",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3389,
+      "chunk_index": 0,
+      "source_id": 1248,
+      "url": "https://www.europarl.europa.eu/meps/en/2261/GUNILLA_CARLSSON/history/5",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.49834464639877424,
+      "rerank_score": 0.45391592,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions Lund, Sweden, and various EU-related locations (Lithuania, Latvia, Poland) in connection with Gunilla Carlsson's work. Step 2: Lund is explicitly mentioned as her birthplace, implying residence. Her roles in the European Parliament and associated committees suggest she was based in Brussels or Strasbourg, but the text does not explicitly state this. Step 3: Her parliamentary term is dated from 1999 to 2002, providing a clear timeframe for her work in the EU. Step 4: Confidence is high for Lund (birthplace) and medium for Sweden (national party affiliation). Confidence is low for Brussels/Strasbourg due to lack of explicit mention. Step 5: Countries include Sweden and inferred EU locations.\",\n  \"locations\": [\n    {\n      \"city\": \"Lund\",\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"1963-present\",\n      \"role_context\": \"Birthplace\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"Sweden\",\n      \"approximate_period\": \"1999-2002\",\n      \"role_context\": \"Member of Moderata samlingspartiet\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": \"Brussels/Strasbourg\",\n      \"country\": \"Belgium/France\",\n      \"approximate_period\": \"1999-2002\",\n      \"role_context\": \"MEP in the European Parliament\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"countries\": [\"Sweden\", \"Belgium\", \"France\"],\n  \"supporting_quote\": \"Date of birth : 11-05-1963, Lund\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions Lund, Sweden, and various EU-related locations (Lithuania, Latvia, Poland) in connection with Gunilla Carlsson's work. Step 2: Lund is explicitly mentioned as her birthplace, implying residence. Her roles in the European Parliament and associated committees suggest she was based in Brussels or Strasbourg, but the text does not explicitly state this. Step 3: Her parliamentary term is dated from 1999 to 2002, providing a clear timeframe for her work in the EU. Step 4: Confidence is high for Lund (birthplace) and medium for Sweden (national party affiliation). Confidence is low for Brussels/Strasbourg due to lack of explicit mention. Step 5: Countries include Sweden and inferred EU locations.",
+        "locations": [
+          {
+            "city": "Lund",
+            "country": "Sweden",
+            "approximate_period": "1963-present",
+            "role_context": "Birthplace",
+            "confidence": "high"
+          },
+          {
+            "city": null,
+            "country": "Sweden",
+            "approximate_period": "1999-2002",
+            "role_context": "Member of Moderata samlingspartiet",
+            "confidence": "medium"
+          },
+          {
+            "city": "Brussels/Strasbourg",
+            "country": "Belgium/France",
+            "approximate_period": "1999-2002",
+            "role_context": "MEP in the European Parliament",
+            "confidence": "low"
+          }
+        ],
+        "countries": [
+          "Sweden",
+          "Belgium",
+          "France"
+        ],
+        "supporting_quote": "Date of birth : 11-05-1963, Lund",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3373,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text discusses Gunilla Carlsson's political career, including her roles and positions. Step 2: The text confirms her role as Minister for International Development Cooperation (2006-2013), which aligns with the Stockholm location. However, it does not explicitly mention Brussels or Geneva. Step 3: No new locations are mentioned beyond what is already known. Step 4: Confidence is medium, as the source confirms Stockholm implicitly but does not address Brussels or Geneva directly.\",\n  \"confirms\": false,\n  \"confirmed_locations\": [],\n  \"new_locations_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text discusses Gunilla Carlsson's political career, including her roles and positions. Step 2: The text confirms her role as Minister for International Development Cooperation (2006-2013), which aligns with the Stockholm location. However, it does not explicitly mention Brussels or Geneva. Step 3: No new locations are mentioned beyond what is already known. Step 4: Confidence is medium, as the source confirms Stockholm implicitly but does not address Brussels or Geneva directly.",
+        "confirms": false,
+        "confirmed_locations": [],
+        "new_locations_found": [],
+        "confidence": "medium",
+        "supporting_quote": null
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3381,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text discusses Gunilla Carlsson's career and roles, making it relevant. Step 2: The text mentions Geneva in connection with her role as a Fellow at the Geneva Centre for Security Policy, confirming Geneva, Switzerland. Step 3: No new locations are mentioned beyond those in the candidate findings. Step 4: The confidence is high as the source explicitly connects Gunilla Carlsson to Geneva.\",\n  \"confirms\": true,\n  \"confirmed_locations\": [\"Geneva, Switzerland\"],\n  \"new_locations_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Fellow, Geneva Centre for Security Policy, apr. 2016 –nu, 9 år 8 månader, Politik\"\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text discusses Gunilla Carlsson's career and roles, making it relevant. Step 2: The text mentions Geneva in connection with her role as a Fellow at the Geneva Centre for Security Policy, confirming Geneva, Switzerland. Step 3: No new locations are mentioned beyond those in the candidate findings. Step 4: The confidence is high as the source explicitly connects Gunilla Carlsson to Geneva.",
+        "confirms": true,
+        "confirmed_locations": [
+          "Geneva, Switzerland"
+        ],
+        "new_locations_found": [],
+        "confidence": "high",
+        "supporting_quote": "Fellow, Geneva Centre for Security Policy, apr. 2016 –nu, 9 år 8 månader, Politik"
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Fellow, Geneva Centre for Security Policy, apr. 2016 –nu, 9 år 8 månader, Politik",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 1,
+    "primary_source_domain": "bitprop.com",
+    "notes": null,
+    "locations": [
+      {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "approximate_period": "2006-2013",
+        "role_context": "Member of Swedish Parliament and Minister of International Development Cooperation",
+        "confidence": "high",
+        "supporting_quote": "She was an elected Member of Swedish Parliament and Minister of International Development Cooperation 2006-2013."
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium",
+        "approximate_period": "1995-2002",
+        "role_context": "Member of European Parliament",
+        "confidence": "high",
+        "supporting_quote": "member of European Parliament 1995-2002"
+      },
+      {
+        "city": "Geneva",
+        "country": "Switzerland",
+        "approximate_period": null,
+        "role_context": "Unaffiliated member of the GAVI board",
+        "confidence": "medium",
+        "supporting_quote": "Gunilla Carlsson is an unaffiliated member of the GAVI board (Geneva)"
+      },
+      {
+        "city": "London",
+        "country": "United Kingdom",
+        "approximate_period": null,
+        "role_context": "Part of the advisory board of Bill & Melinda Gates Foundation Europe",
+        "confidence": "medium",
+        "supporting_quote": "part of the advisory board of Bill & Melinda Gates Foundation Europe (London)"
+      }
+    ],
+    "countries": [
+      "Sweden",
+      "Belgium",
+      "Switzerland",
+      "United Kingdom"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "person_dir_name": "Nanjira_Sambuli",
+  "person_db_name": "Nanjira Sambuli",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:23:39.045131+00:00",
+  "input": {
+    "hlp_name": "UN Secretary General's High Level Panel on Digital Cooperation",
+    "hlp_year": "2018",
+    "nomination_year": 2018,
+    "hlp_nomination_age": 30,
+    "birth_year": "1988",
+    "nationality": [
+      "Kenyan"
+    ]
+  },
+  "retrieval": {
+    "query": "Nanjira Sambuli job title position role career 2018 appointed nominated serving",
+    "chunks_in_db": 29,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1153,
+        "url": "https://en.wikipedia.org/wiki/Nanjira_Sambuli",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5525,
+        "rerank_score": 0.8106
+      },
+      {
+        "chunk_id": 1165,
+        "url": "https://dial.global/profile/nanjirasambuli/",
+        "domain": "dial.global",
+        "similarity": 0.4387,
+        "rerank_score": 0.6699
+      },
+      {
+        "chunk_id": 1181,
+        "url": "https://www.concordia.net/community/nanjira-sambuli/",
+        "domain": "concordia.net",
+        "similarity": 0.4452,
+        "rerank_score": 0.6222
+      },
+      {
+        "chunk_id": 1177,
+        "url": "https://techherng.com/nanjira-sambuli/",
+        "domain": "techherng.com",
+        "similarity": 0.4117,
+        "rerank_score": 0.6211
+      },
+      {
+        "chunk_id": 1164,
+        "url": "https://www.itu.int/net4/ITU-D/CDS/InteractiveProgramme/Calendar/biography.asp?MeetingCode=GET-2019&speaker=170",
+        "domain": "itu.int",
+        "similarity": 0.4395,
+        "rerank_score": 0.6103
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1153,
+      "chunk_index": 0,
+      "source_id": 644,
+      "url": "https://en.wikipedia.org/wiki/Nanjira_Sambuli",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5524719281704091,
+      "rerank_score": 0.8106142,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that Nanjira Sambuli served as Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation, but does not provide explicit dates for these roles. However, it states she was Research Lead and Research Manager at iHub in Nairobi between 2013 and 2016, which does not directly overlap with 2018. Step 2 — Role identification: The text identifies multiple roles, including Fellow at The Carnegie Endowment for International Peace, President and co-Chair of the Transform Health Coalition, board member at various organizations, and Senior Policy Manager at the World Wide Web Foundation. Step 3 — Organization identification: The World Wide Web Foundation is linked to the role of Senior Policy Manager. Step 4 — Temporal match assessment: While the Senior Policy Manager role is not explicitly dated, it is listed after her role at iHub (2013-2016) and before other advisory roles, making it plausible for 2018. Step 5 — Confidence assessment: The temporal link is implicit, so confidence is medium.\",\n  \"job_title_at_nomination\": \"Senior Policy Manager\",\n  \"organization_at_nomination\": \"World Wide Web Foundation\",\n  \"year_reference\": null,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Nanjira has served as a Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that Nanjira Sambuli served as Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation, but does not provide explicit dates for these roles. However, it states she was Research Lead and Research Manager at iHub in Nairobi between 2013 and 2016, which does not directly overlap with 2018. Step 2 — Role identification: The text identifies multiple roles, including Fellow at The Carnegie Endowment for International Peace, President and co-Chair of the Transform Health Coalition, board member at various organizations, and Senior Policy Manager at the World Wide Web Foundation. Step 3 — Organization identification: The World Wide Web Foundation is linked to the role of Senior Policy Manager. Step 4 — Temporal match assessment: While the Senior Policy Manager role is not explicitly dated, it is listed after her role at iHub (2013-2016) and before other advisory roles, making it plausible for 2018. Step 5 — Confidence assessment: The temporal link is implicit, so confidence is medium.",
+        "job_title_at_nomination": "Senior Policy Manager",
+        "organization_at_nomination": "World Wide Web Foundation",
+        "year_reference": null,
+        "confidence": "medium",
+        "supporting_quote": "Nanjira has served as a Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Senior Policy Manager",
+      "organization_at_nomination": "World Wide Web Foundation",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1165,
+      "chunk_index": 0,
+      "source_id": 648,
+      "url": "https://dial.global/profile/nanjirasambuli/",
+      "domain": "dial.global",
+      "similarity": 0.4386726183397691,
+      "rerank_score": 0.6698534,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not provide explicit years for most roles, but it mentions roles in the present tense, suggesting they are current or recent. Step 2 — Role identification: The text lists multiple roles, including Fellow, co-Chair, board member, and others. Step 3 — Organization identification: Organizations linked to these roles include The Carnegie Endowment for International Peace, Transform Health, The New Humanitarian, Development Gateway, and Digital Impact Alliance. Step 4 — Temporal match assessment: The role of Fellow at The Carnegie Endowment for International Peace and board member at Digital Impact Alliance are described without end dates, making them plausible for 2018. Step 5 — Confidence assessment: The temporal link is implicit, as no explicit dates are provided for these roles, leading to medium confidence.\",\n  \"job_title_at_nomination\": \"Fellow\",\n  \"organization_at_nomination\": \"The Carnegie Endowment for International Peace\",\n  \"year_reference\": null,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Nanjira is a Fellow in the Technology and International Affairs Program at The Carnegie Endowment for International Peace\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not provide explicit years for most roles, but it mentions roles in the present tense, suggesting they are current or recent. Step 2 — Role identification: The text lists multiple roles, including Fellow, co-Chair, board member, and others. Step 3 — Organization identification: Organizations linked to these roles include The Carnegie Endowment for International Peace, Transform Health, The New Humanitarian, Development Gateway, and Digital Impact Alliance. Step 4 — Temporal match assessment: The role of Fellow at The Carnegie Endowment for International Peace and board member at Digital Impact Alliance are described without end dates, making them plausible for 2018. Step 5 — Confidence assessment: The temporal link is implicit, as no explicit dates are provided for these roles, leading to medium confidence.",
+        "job_title_at_nomination": "Fellow",
+        "organization_at_nomination": "The Carnegie Endowment for International Peace",
+        "year_reference": null,
+        "confidence": "medium",
+        "supporting_quote": "Nanjira is a Fellow in the Technology and International Affairs Program at The Carnegie Endowment for International Peace",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Fellow",
+      "organization_at_nomination": "The Carnegie Endowment for International Peace",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1181,
+      "chunk_index": 0,
+      "source_id": 653,
+      "url": "https://www.concordia.net/community/nanjira-sambuli/",
+      "domain": "concordia.net",
+      "similarity": 0.44524720284231056,
+      "rerank_score": 0.6222074,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions Nanjira Sambuli's role at the World Wide Web Foundation with the explicit date range 2016-2020, which overlaps with 2018. Step 2 — Role identification: The text explicitly states her role as leading policy advocacy to promote digital equality. Step 3 — Organization identification: The organization linked to this role is the World Wide Web Foundation. Step 4 — Temporal match assessment: The role at the World Wide Web Foundation is explicitly dated to include 2018. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2018.\",\n  \"job_title_at_nomination\": \"Policy Advocacy Lead\",\n  \"organization_at_nomination\": \"World Wide Web Foundation\",\n  \"year_reference\": \"2016-2020\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Nanjira led policy advocacy to promote digital equality in access to and use of the web at the World Wide Web Foundation (2016-2020).\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions Nanjira Sambuli's role at the World Wide Web Foundation with the explicit date range 2016-2020, which overlaps with 2018. Step 2 — Role identification: The text explicitly states her role as leading policy advocacy to promote digital equality. Step 3 — Organization identification: The organization linked to this role is the World Wide Web Foundation. Step 4 — Temporal match assessment: The role at the World Wide Web Foundation is explicitly dated to include 2018. Step 5 — Confidence assessment: High confidence due to the explicit date range covering 2018.",
+        "job_title_at_nomination": "Policy Advocacy Lead",
+        "organization_at_nomination": "World Wide Web Foundation",
+        "year_reference": "2016-2020",
+        "confidence": "high",
+        "supporting_quote": "Nanjira led policy advocacy to promote digital equality in access to and use of the web at the World Wide Web Foundation (2016-2020).",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Policy Advocacy Lead",
+      "organization_at_nomination": "World Wide Web Foundation",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1177,
+      "chunk_index": 9,
+      "source_id": 651,
+      "url": "https://techherng.com/nanjira-sambuli/",
+      "domain": "techherng.com",
+      "similarity": 0.41165402870289886,
+      "rerank_score": 0.6211049,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not provide explicit years or temporal markers directly linking Nanjira Sambuli's roles to 2018. Step 2 — Role identification: The text mentions that Nanjira Sambuli is 'presently on the Board of' an unspecified organization, but does not provide a formal job title. Step 3 — Organization identification: The organization linked to this board role is not specified. Step 4 — Temporal match assessment: The board role is described as 'presently,' which could imply it was held in 2018, but this is not explicit. Step 5 — Confidence assessment: The confidence is low due to the lack of explicit temporal information and unspecified organization.\",\n  \"job_title_at_nomination\": null,\n  \"organization_at_nomination\": null,\n  \"year_reference\": null,\n  \"confidence\": \"low\",\n  \"supporting_quote\": \"She is presently on of the Board of\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not provide explicit years or temporal markers directly linking Nanjira Sambuli's roles to 2018. Step 2 — Role identification: The text mentions that Nanjira Sambuli is 'presently on the Board of' an unspecified organization, but does not provide a formal job title. Step 3 — Organization identification: The organization linked to this board role is not specified. Step 4 — Temporal match assessment: The board role is described as 'presently,' which could imply it was held in 2018, but this is not explicit. Step 5 — Confidence assessment: The confidence is low due to the lack of explicit temporal information and unspecified organization.",
+        "job_title_at_nomination": null,
+        "organization_at_nomination": null,
+        "year_reference": null,
+        "confidence": "low",
+        "supporting_quote": "She is presently on of the Board of",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1164,
+      "chunk_index": 0,
+      "source_id": 647,
+      "url": "https://www.itu.int/net4/ITU-D/CDS/InteractiveProgramme/Calendar/biography.asp?MeetingCode=GET-2019&speaker=170",
+      "domain": "itu.int",
+      "similarity": 0.4394804343346279,
+      "rerank_score": 0.6102915,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not provide explicit years for Nanjira Sambuli's role at the World Wide Web Foundation, but it mentions her current role and past roles, implying the information is relevant around 2018. Step 2 — Role identification: The text explicitly states her role as 'Senior Policy Manager'. Step 3 — Organization identification: The organization is clearly identified as the 'World Wide Web Foundation'. Step 4 — Temporal match assessment: The role is described as current, with no end date, and no contradicting information, making it plausible for 2018. Step 5 — Confidence assessment: The confidence is 'medium' as the temporal link is implicit but consistent with the nomination period.\",\n  \"job_title_at_nomination\": \"Senior Policy Manager\",\n  \"organization_at_nomination\": \"World Wide Web Foundation\",\n  \"year_reference\": null,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Senior Policy Manager, World Wide Web Foundation\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not provide explicit years for Nanjira Sambuli's role at the World Wide Web Foundation, but it mentions her current role and past roles, implying the information is relevant around 2018. Step 2 — Role identification: The text explicitly states her role as 'Senior Policy Manager'. Step 3 — Organization identification: The organization is clearly identified as the 'World Wide Web Foundation'. Step 4 — Temporal match assessment: The role is described as current, with no end date, and no contradicting information, making it plausible for 2018. Step 5 — Confidence assessment: The confidence is 'medium' as the temporal link is implicit but consistent with the nomination period.",
+        "job_title_at_nomination": "Senior Policy Manager",
+        "organization_at_nomination": "World Wide Web Foundation",
+        "year_reference": null,
+        "confidence": "medium",
+        "supporting_quote": "Senior Policy Manager, World Wide Web Foundation",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Senior Policy Manager",
+      "organization_at_nomination": "World Wide Web Foundation",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1166,
+      "url": "https://istanbulinnovationdays.org/speaker/nanjira/",
+      "domain": "istanbulinnovationdays.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Nanjira Sambuli and discusses her career and biography, including her roles and affiliations. Step 2 — Title match assessment: The text mentions that Nanjira 'previously led digital equality advocacy efforts at the World Wide Web Foundation,' which is compatible with the role of 'Senior Policy Manager' but does not explicitly confirm the title. Step 3 — Temporal alignment: The text does not provide explicit dates for her role at the World Wide Web Foundation, making it unclear if it aligns with 2018. Step 4 — Alternative title: The source does not provide a different primary role for 2018. Overall, the source is silent on the specific title 'Senior Policy Manager' at the World Wide Web Foundation in 2018.\",\n  \"confirms\": false,\n  \"confidence\": \"low\",\n  \"supporting_quote\": \"Nanjira previously led digital equality advocacy efforts at the World Wide Web Foundation\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Nanjira Sambuli and discusses her career and biography, including her roles and affiliations. Step 2 — Title match assessment: The text mentions that Nanjira 'previously led digital equality advocacy efforts at the World Wide Web Foundation,' which is compatible with the role of 'Senior Policy Manager' but does not explicitly confirm the title. Step 3 — Temporal alignment: The text does not provide explicit dates for her role at the World Wide Web Foundation, making it unclear if it aligns with 2018. Step 4 — Alternative title: The source does not provide a different primary role for 2018. Overall, the source is silent on the specific title 'Senior Policy Manager' at the World Wide Web Foundation in 2018.",
+        "confirms": false,
+        "confidence": "low",
+        "supporting_quote": "Nanjira previously led digital equality advocacy efforts at the World Wide Web Foundation",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": "Nanjira previously led digital equality advocacy efforts at the World Wide Web Foundation",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1156,
+      "url": "https://carnegieendowment.org/people/nanjira-sambuli?lang=en",
+      "domain": "carnegieendowment.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Nanjira Sambuli and discusses her career and biography, including her roles and affiliations. Step 2 — Title match assessment: The text mentions that Nanjira 'previously led digital equality advocacy efforts at the World Wide Web Foundation,' which is compatible with the role of 'Senior Policy Manager' but does not explicitly confirm the title. Step 3 — Temporal alignment: The text does not provide explicit dates for her role at the World Wide Web Foundation, making it unclear if it aligns with 2018. Step 4 — Alternative title: The source does not provide a different primary role for 2018. Overall, the source is silent on the specific title 'Senior Policy Manager' at the World Wide Web Foundation in 2018.\",\n  \"confirms\": false,\n  \"confidence\": \"low\",\n  \"supporting_quote\": \"Nanjira previously led digital equality advocacy efforts at the World Wide Web Foundation\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Nanjira Sambuli and discusses her career and biography, including her roles and affiliations. Step 2 — Title match assessment: The text mentions that Nanjira 'previously led digital equality advocacy efforts at the World Wide Web Foundation,' which is compatible with the role of 'Senior Policy Manager' but does not explicitly confirm the title. Step 3 — Temporal alignment: The text does not provide explicit dates for her role at the World Wide Web Foundation, making it unclear if it aligns with 2018. Step 4 — Alternative title: The source does not provide a different primary role for 2018. Overall, the source is silent on the specific title 'Senior Policy Manager' at the World Wide Web Foundation in 2018.",
+        "confirms": false,
+        "confidence": "low",
+        "supporting_quote": "Nanjira previously led digital equality advocacy efforts at the World Wide Web Foundation",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": "Nanjira previously led digital equality advocacy efforts at the World Wide Web Foundation",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1171,
+      "url": "https://techherng.com/nanjira-sambuli/",
+      "domain": "techherng.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text mentions Nanjira Sambuli and lists various organizations and affiliations, indicating it is relevant to her biography. Step 2 — Title match assessment: The text lists 'World Wide Web Foundation' but does not specify any title or role for Nanjira Sambuli associated with it. Step 3 — Temporal alignment: Not applicable as no title is mentioned. Step 4 — Alternative title: The source does not provide any alternative title or organization for Nanjira Sambuli in 2018.\",\n  \"confirms\": false,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text mentions Nanjira Sambuli and lists various organizations and affiliations, indicating it is relevant to her biography. Step 2 — Title match assessment: The text lists 'World Wide Web Foundation' but does not specify any title or role for Nanjira Sambuli associated with it. Step 3 — Temporal alignment: Not applicable as no title is mentioned. Step 4 — Alternative title: The source does not provide any alternative title or organization for Nanjira Sambuli in 2018.",
+        "confirms": false,
+        "confidence": "low",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "job_title_at_nomination": "Senior Policy Manager",
+    "organization_at_nomination": "World Wide Web Foundation",
+    "confidence": "medium",
+    "supporting_quote": "Nanjira has served as a Senior Policy Manager and previously as the Digital Equality Advocacy Manager at the World Wide Web Foundation.",
+    "confirmation_count": 0,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 5,
+    "chunks_scanned_verification": 3,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

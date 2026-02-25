@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Paul_Polman",
+  "person_db_name": "Paul Polman",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:25:54.684379+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2013-2015",
+    "nomination_year": 2013,
+    "hlp_nomination_age": 57,
+    "birth_year": "1956",
+    "nationality": [
+      "Dutch"
+    ]
+  },
+  "retrieval": {
+    "query": "Paul Polman job title position role career 2013 appointed nominated serving",
+    "chunks_in_db": 40,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3208,
+        "url": "https://en.wikipedia.org/wiki/Paul_Polman",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5865,
+        "rerank_score": 0.6865
+      },
+      {
+        "chunk_id": 3246,
+        "url": "https://www.un.org/sg/en/management/bios/Polman.shtml",
+        "domain": "un.org",
+        "similarity": 0.5017,
+        "rerank_score": 0.6639
+      },
+      {
+        "chunk_id": 3212,
+        "url": "https://en.wikipedia.org/wiki/Paul_Polman",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4574,
+        "rerank_score": 0.6058
+      },
+      {
+        "chunk_id": 3221,
+        "url": "https://www.chartwellspeakers.com/speaker/paul-polman/",
+        "domain": "chartwellspeakers.com",
+        "similarity": 0.4987,
+        "rerank_score": 0.5525
+      },
+      {
+        "chunk_id": 3210,
+        "url": "https://en.wikipedia.org/wiki/Paul_Polman",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5318,
+        "rerank_score": 0.5425
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3208,
+      "chunk_index": 0,
+      "source_id": 1189,
+      "url": "https://en.wikipedia.org/wiki/Paul_Polman",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5864999996207148,
+      "rerank_score": 0.6864757,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly states that Paul Polman was CEO of Unilever from 2009-2019, which includes the nomination year 2013. Step 2 — Role identification: The text clearly identifies Paul Polman's role as 'chief executive officer (CEO)'. Step 3 — Organization identification: The organization linked to this role is 'Unilever'. Step 4 — Temporal match assessment: The role of CEO at Unilever overlaps with 2013. Step 5 — Confidence assessment: The confidence is 'high' because the text explicitly states the role and its date range, which matches the nomination year.\",\n  \"job_title_at_nomination\": \"chief executive officer (CEO)\",\n  \"organization_at_nomination\": \"Unilever\",\n  \"year_reference\": \"2009-2019\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He was the chief executive officer (CEO) of the British/Dutch consumer goods company Unilever. Term 2009-2019\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly states that Paul Polman was CEO of Unilever from 2009-2019, which includes the nomination year 2013. Step 2 — Role identification: The text clearly identifies Paul Polman's role as 'chief executive officer (CEO)'. Step 3 — Organization identification: The organization linked to this role is 'Unilever'. Step 4 — Temporal match assessment: The role of CEO at Unilever overlaps with 2013. Step 5 — Confidence assessment: The confidence is 'high' because the text explicitly states the role and its date range, which matches the nomination year.",
+        "job_title_at_nomination": "chief executive officer (CEO)",
+        "organization_at_nomination": "Unilever",
+        "year_reference": "2009-2019",
+        "confidence": "high",
+        "supporting_quote": "He was the chief executive officer (CEO) of the British/Dutch consumer goods company Unilever. Term 2009-2019",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "chief executive officer (CEO)",
+      "organization_at_nomination": "Unilever",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3246,
+      "url": "https://www.un.org/sg/en/management/bios/Polman.shtml",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Paul Polman and discusses his career, including his role at Unilever. Step 2 — Title match assessment: The text explicitly states that Mr. Polman is the Chief Executive Officer of Unilever, which is an exact match to the claim. Step 3 — Temporal alignment: While the text does not provide a specific year range, it describes his role as current, and there is no contradicting information suggesting he did not hold this position in 2013. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Mr. Polman is the Chief Executive Officer of Unilever.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Paul Polman and discusses his career, including his role at Unilever. Step 2 — Title match assessment: The text explicitly states that Mr. Polman is the Chief Executive Officer of Unilever, which is an exact match to the claim. Step 3 — Temporal alignment: While the text does not provide a specific year range, it describes his role as current, and there is no contradicting information suggesting he did not hold this position in 2013. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Mr. Polman is the Chief Executive Officer of Unilever.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Mr. Polman is the Chief Executive Officer of Unilever.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3221,
+      "url": "https://www.chartwellspeakers.com/speaker/paul-polman/",
+      "domain": "chartwellspeakers.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is clearly about Paul Polman and discusses his career and biography, including his role at Unilever. Step 2 — Title match assessment: The text explicitly states that Paul Polman was the CEO of Unilever from 2009-2018, which is an exact match to the claim. Step 3 — Temporal alignment: The year range 2009-2018 includes 2013, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"CEO of Unilever (2009-18)\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is clearly about Paul Polman and discusses his career and biography, including his role at Unilever. Step 2 — Title match assessment: The text explicitly states that Paul Polman was the CEO of Unilever from 2009-2018, which is an exact match to the claim. Step 3 — Temporal alignment: The year range 2009-2018 includes 2013, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "CEO of Unilever (2009-18)",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "CEO of Unilever (2009-18)",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3218,
+      "url": "https://www.paulpolman.com/about/",
+      "domain": "paulpolman.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text is clearly about Paul Polman and discusses his career and biography, including his roles at various companies and his time as CEO of Unilever. Step 2 — Title match assessment: The text explicitly states that Paul Polman was 'CEO of Unilever between 2009-19', which is an exact match for the claimed title and organization. Step 3 — Temporal alignment: The year range 2009-2019 includes 2013, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"I was CEO of Unilever between 2009-19.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text is clearly about Paul Polman and discusses his career and biography, including his roles at various companies and his time as CEO of Unilever. Step 2 — Title match assessment: The text explicitly states that Paul Polman was 'CEO of Unilever between 2009-19', which is an exact match for the claimed title and organization. Step 3 — Temporal alignment: The year range 2009-2019 includes 2013, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "I was CEO of Unilever between 2009-19.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "I was CEO of Unilever between 2009-19.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "chief executive officer (CEO)",
+    "organization_at_nomination": "Unilever",
+    "confidence": "high",
+    "supporting_quote": "He was the chief executive officer (CEO) of the British/Dutch consumer goods company Unilever. Term 2009-2019",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

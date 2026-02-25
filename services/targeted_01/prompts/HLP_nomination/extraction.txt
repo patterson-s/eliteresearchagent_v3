@@ -1,0 +1,91 @@
+BIOGRAPHICAL INFORMATION EXTRACTOR — JOB TITLE AT HLP NOMINATION
+
+ROLE
+You are a precision researcher extracting structured career data from biographical source text about international elites.
+
+TASK
+Identify the specific job title and organization held by {{PERSON_NAME}} at the time they were nominated to the following panel:
+
+  Panel name : {{HLP_NAME}}
+  Nomination year : {{NOMINATION_YEAR}}
+  Person's age at nomination : {{NOMINATION_AGE}}
+
+You will be given a single source text chunk. Your job is to determine whether this chunk tells us what role {{PERSON_NAME}} held at or immediately before the nomination year, and to extract it precisely.
+
+PERSON
+{{PERSON_NAME}}
+
+SOURCE TEXT
+{{CHUNK_TEXT}}
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Temporal anchoring
+  Does this text describe {{PERSON_NAME}}'s career around {{NOMINATION_YEAR}}?
+  Look for: explicit years, approximate periods ("in the early 2010s", "at the time"), or
+  transitional phrases such as "at the time of his/her appointment", "when nominated",
+  "was serving as ... before joining", "held the position of ... until {{NOMINATION_YEAR}}".
+  Note any year markers you find.
+
+Step 2 — Role identification
+  Does the text name a specific job title or role held by {{PERSON_NAME}}?
+  Acceptable titles include: Professor, Minister, Director, CEO, Secretary-General, Chair,
+  Managing Director, Special Adviser, Fellow, Permanent Representative, Ambassador, etc.
+  Distinguish between the role of {{PERSON_NAME}} and roles held by other people mentioned
+  in the same text.
+
+Step 3 — Organization identification
+  Does the text name the organization, institution, or employer linked to that role?
+  Prefer the full official name over abbreviations when both appear in the text
+  (e.g. "Massachusetts Institute of Technology" over "MIT" if both are present).
+
+Step 4 — Temporal match assessment
+  Is the identified role plausibly the one held at or immediately before {{NOMINATION_YEAR}}?
+  - If the text gives an explicit date range for the role (e.g. "2010–2016"), does it
+    overlap with or immediately precede {{NOMINATION_YEAR}}?
+  - If the text describes a role that clearly began AFTER the panel (e.g. "following his
+    service on the panel, he became..."), it is NOT the nomination-time role. Exclude it.
+  - If the text describes a long-standing role with no end date and no contradicting
+    information, it may still be the nomination-time role.
+
+Step 5 — Confidence assessment
+  Assign one of:
+    "high"   — The text explicitly states or very strongly implies the role at nomination
+               time. A year marker matches, or the text uses language like "was serving as X
+               when appointed to the panel", or the role has an explicit date range covering
+               {{NOMINATION_YEAR}}.
+    "medium" — A role is mentioned near {{NOMINATION_YEAR}} but the temporal link is
+               implicit or approximate (e.g. the role is listed in a biography section
+               without exact dates, but is consistent with the nomination period).
+    "low"    — A role is mentioned but there is no temporal information linking it to
+               {{NOMINATION_YEAR}}, or the link is speculative.
+  If no job title can be identified at all, set cannot_determine to true.
+
+GUIDELINES
+- Extract information about {{PERSON_NAME}} only. Ignore roles held by other people.
+- Do not infer or fabricate titles. Only report what is explicitly stated or very directly
+  implied by the source text.
+- If the text mentions the panel itself, the nomination-time title is what {{PERSON_NAME}}
+  held BEFORE or AT the moment of joining — not a title acquired afterward.
+- Preserve exact wording for job_title_at_nomination when possible. If the text gives both
+  a formal title and a short description, use the formal title.
+- If multiple roles are described for the same period (e.g. both a university position and
+  a board seat), prefer the most senior or primary employment role.
+- supporting_quote must be a verbatim extract of 5–30 words from the SOURCE TEXT that
+  directly supports your answer. Do not paraphrase.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here, referencing the steps above",
+  "job_title_at_nomination": "exact title string, or null if cannot determine",
+  "organization_at_nomination": "full organization name, or null if cannot determine",
+  "year_reference": "the year or approximate period found in the text, or null",
+  "confidence": "high|medium|low",
+  "supporting_quote": "verbatim 5-30 word quote from the source text, or null",
+  "cannot_determine": false
+}

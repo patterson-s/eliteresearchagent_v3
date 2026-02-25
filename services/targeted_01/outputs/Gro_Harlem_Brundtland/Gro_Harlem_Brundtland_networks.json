@@ -1,0 +1,746 @@
+{
+  "person_dir_name": "Gro_Harlem_Brundtland",
+  "person_db_name": "Gro Harlem Brundtland",
+  "question_id": "networks",
+  "question_display": "Main Professional Networks (Revolving Doors)",
+  "run_timestamp": "2026-02-25T17:59:02.509284+00:00",
+  "input": {
+    "hlp_name": "World Commission on Environment and Development (Brundtland Commission)",
+    "hlp_year": "1983-1987",
+    "nomination_year": 1983,
+    "hlp_nomination_age": 44,
+    "birth_year": "1939",
+    "nationality": [
+      "Norwegian"
+    ]
+  },
+  "retrieval": {
+    "query": "Gro Harlem Brundtland board member fellow award association club membership prize distinction honorary advisory",
+    "chunks_in_db": 34,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 128,
+        "url": "https://clubmadrid.org/who/members/brundtland-gro-harlem/",
+        "domain": "clubmadrid.org",
+        "similarity": 0.5135,
+        "rerank_score": 0.6302
+      },
+      {
+        "chunk_id": 110,
+        "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5718,
+        "rerank_score": 0.5417
+      },
+      {
+        "chunk_id": 119,
+        "url": "https://theelders.org/profile/gro-harlem-brundtland",
+        "domain": "theelders.org",
+        "similarity": 0.5661,
+        "rerank_score": 0.527
+      },
+      {
+        "chunk_id": 134,
+        "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+        "domain": "nordics.info",
+        "similarity": 0.5478,
+        "rerank_score": 0.4587
+      },
+      {
+        "chunk_id": 131,
+        "url": "https://www.hiltonfoundation.org/people/gro-brundtland-md-mph/",
+        "domain": "hiltonfoundation.org",
+        "similarity": 0.5232,
+        "rerank_score": 0.4465
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 128,
+      "chunk_index": 0,
+      "source_id": 369,
+      "url": "https://clubmadrid.org/who/members/brundtland-gro-harlem/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.5135145924287658,
+      "rerank_score": 0.6301622,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including Club de Madrid membership and roles at the World Commission on Environment and Development, World Health Organisation, and UN Special Envoy for Climate Change. Step 2: No explicit awards mentioned. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned periods based on text details.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Club de Madrid\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Club de Madrid Member\"\n    },\n    {\n      \"organization\": \"World Commission on Environment and Development (Brundtland Commission)\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"1983-1987\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"invited her to establish and chair the World Commission on Environment and Development\"\n    },\n    {\n      \"organization\": \"World Health Organisation\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"1998-2003\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"went on to become Secretary General of the World Health Organisation\"\n    },\n    {\n      \"organization\": \"United Nations (Special Envoy for Climate Change)\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2007-null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"appointed Special Envoy for Climate Change by UN Secretary-General\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including Club de Madrid membership and roles at the World Commission on Environment and Development, World Health Organisation, and UN Special Envoy for Climate Change. Step 2: No explicit awards mentioned. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned periods based on text details.",
+        "affiliations": [
+          {
+            "organization": "Club de Madrid",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "Club de Madrid Member"
+          },
+          {
+            "organization": "World Commission on Environment and Development (Brundtland Commission)",
+            "affiliation_type": "advisory",
+            "approximate_period": "1983-1987",
+            "confidence": "high",
+            "supporting_quote": "invited her to establish and chair the World Commission on Environment and Development"
+          },
+          {
+            "organization": "World Health Organisation",
+            "affiliation_type": "advisory",
+            "approximate_period": "1998-2003",
+            "confidence": "high",
+            "supporting_quote": "went on to become Secretary General of the World Health Organisation"
+          },
+          {
+            "organization": "United Nations (Special Envoy for Climate Change)",
+            "affiliation_type": "advisory",
+            "approximate_period": "2007-null",
+            "confidence": "high",
+            "supporting_quote": "appointed Special Envoy for Climate Change by UN Secretary-General"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 110,
+      "chunk_index": 5,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5717509398176638,
+      "rerank_score": 0.5417246,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including memberships in elite bodies and honorary positions. Step 2: Extracted significant awards and distinctions. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned years or periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"American Philosophical Society\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2002\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the American Philosophical Society (2002)\"\n    },\n    {\n      \"organization\": \"Norwegian Association for Women's Rights\",\n      \"affiliation_type\": \"honorary\",\n      \"approximate_period\": \"2016\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Honorary member of the Norwegian Association for Women's Rights (2016)\"\n    },\n    {\n      \"organization\": \"Norwegian Academy of Science and Letters\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the Norwegian Academy of Science and Letters\"\n    },\n    {\n      \"organization\": \"Moscow Society of Naturalists\",\n      \"affiliation_type\": \"honorary\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Honorary Member of the Moscow Society of Naturalists\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Indira Gandhi Prize\",\n      \"awarding_body\": null,\n      \"year\": \"1988\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Indira Gandhi Prize (1988)\"\n    },\n    {\n      \"award\": \"Charlemagne Prize\",\n      \"awarding_body\": null,\n      \"year\": \"1994\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Charlemagne Prize (1994)\"\n    },\n    {\n      \"award\": \"Grand Cross of the Civil Order of Health\",\n      \"awarding_body\": \"Spain\",\n      \"year\": \"2003\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Grand Cross of the Civil Order of Health (Spain, 2003)\"\n    },\n    {\n      \"award\": \"Thomas Jefferson Foundation Medal in Architecture\",\n      \"awarding_body\": null,\n      \"year\": \"2008\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Thomas Jefferson Foundation Medal in Architecture (2008)\"\n    },\n    {\n      \"award\": \"Prize International Catalonia\",\n      \"awarding_body\": null,\n      \"year\": \"2013\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Prize International Catalonia (2013) with Malala Yousafzai\"\n    },\n    {\n      \"award\": \"Tang Prize in Sustainable Development\",\n      \"awarding_body\": null,\n      \"year\": \"2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Tang Prize in Sustainable Development (2014)\"\n    },\n    {\n      \"award\": \"The National German Sustainability Award\",\n      \"awarding_body\": null,\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"The National German Sustainability Award\"\n    },\n    {\n      \"award\": \"Rudyard n. Propst Award\",\n      \"awarding_body\": \"Clubhouse International\",\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Rudyard n. Propst Award from Clubhouse International\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including memberships in elite bodies and honorary positions. Step 2: Extracted significant awards and distinctions. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned years or periods where available.",
+        "affiliations": [
+          {
+            "organization": "American Philosophical Society",
+            "affiliation_type": "membership",
+            "approximate_period": "2002",
+            "confidence": "high",
+            "supporting_quote": "Member of the American Philosophical Society (2002)"
+          },
+          {
+            "organization": "Norwegian Association for Women's Rights",
+            "affiliation_type": "honorary",
+            "approximate_period": "2016",
+            "confidence": "high",
+            "supporting_quote": "Honorary member of the Norwegian Association for Women's Rights (2016)"
+          },
+          {
+            "organization": "Norwegian Academy of Science and Letters",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Member of the Norwegian Academy of Science and Letters"
+          },
+          {
+            "organization": "Moscow Society of Naturalists",
+            "affiliation_type": "honorary",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Honorary Member of the Moscow Society of Naturalists"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Indira Gandhi Prize",
+            "awarding_body": null,
+            "year": "1988",
+            "confidence": "high",
+            "supporting_quote": "Indira Gandhi Prize (1988)"
+          },
+          {
+            "award": "Charlemagne Prize",
+            "awarding_body": null,
+            "year": "1994",
+            "confidence": "high",
+            "supporting_quote": "Charlemagne Prize (1994)"
+          },
+          {
+            "award": "Grand Cross of the Civil Order of Health",
+            "awarding_body": "Spain",
+            "year": "2003",
+            "confidence": "high",
+            "supporting_quote": "Grand Cross of the Civil Order of Health (Spain, 2003)"
+          },
+          {
+            "award": "Thomas Jefferson Foundation Medal in Architecture",
+            "awarding_body": null,
+            "year": "2008",
+            "confidence": "high",
+            "supporting_quote": "Thomas Jefferson Foundation Medal in Architecture (2008)"
+          },
+          {
+            "award": "Prize International Catalonia",
+            "awarding_body": null,
+            "year": "2013",
+            "confidence": "high",
+            "supporting_quote": "Prize International Catalonia (2013) with Malala Yousafzai"
+          },
+          {
+            "award": "Tang Prize in Sustainable Development",
+            "awarding_body": null,
+            "year": "2014",
+            "confidence": "high",
+            "supporting_quote": "Tang Prize in Sustainable Development (2014)"
+          },
+          {
+            "award": "The National German Sustainability Award",
+            "awarding_body": null,
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "The National German Sustainability Award"
+          },
+          {
+            "award": "Rudyard n. Propst Award",
+            "awarding_body": "Clubhouse International",
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "Rudyard n. Propst Award from Clubhouse International"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 119,
+      "chunk_index": 3,
+      "source_id": 365,
+      "url": "https://theelders.org/profile/gro-harlem-brundtland",
+      "domain": "theelders.org",
+      "similarity": 0.5661037038405674,
+      "rerank_score": 0.52700067,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including board memberships, advisory roles, and elite body memberships. Step 2: No awards were explicitly mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned periods based on the text.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"United Nations Secretary-General's High-Level Panel on Global Sustainability\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2011-2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the United Nations Secretary-General's High-Level Panel on Global Sustainability, 2011-2012\"\n    },\n    {\n      \"organization\": \"UN Secretary-General's Special Envoy on Climate Change\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2007-2010\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Special Envoy of the UN Secretary-General on Climate Change, 2007-2010\"\n    },\n    {\n      \"organization\": \"UHC Movement Political Advisory Panel\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2020\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the UHC Movement Political Advisory Panel, 2020\"\n    },\n    {\n      \"organization\": \"Council of Women Leaders\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She is a member of the Council of Women Leaders, alongside her fellow Elders Mary Robinson and Ellen Johnson Sirleaf.\"\n    },\n    {\n      \"organization\": \"Palme Commission on Security and Disarmament\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"1980s\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the Palme Commission on Security and Disarmament, 1980s\"\n    },\n    {\n      \"organization\": \"International Commission on Nuclear Non-Proliferation and Disarmament\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2008-2010\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the International Commission on Nuclear Non-Proliferation and Disarmament, 2008-2010\"\n    },\n    {\n      \"organization\": \"Club of Madrid\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the Club of Madrid\"\n    },\n    {\n      \"organization\": \"UN Foundation Board of Directors\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Vice-Chair of the UN Foundation Board of Directors\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including board memberships, advisory roles, and elite body memberships. Step 2: No awards were explicitly mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned periods based on the text.",
+        "affiliations": [
+          {
+            "organization": "United Nations Secretary-General's High-Level Panel on Global Sustainability",
+            "affiliation_type": "advisory",
+            "approximate_period": "2011-2012",
+            "confidence": "high",
+            "supporting_quote": "Member of the United Nations Secretary-General's High-Level Panel on Global Sustainability, 2011-2012"
+          },
+          {
+            "organization": "UN Secretary-General's Special Envoy on Climate Change",
+            "affiliation_type": "advisory",
+            "approximate_period": "2007-2010",
+            "confidence": "high",
+            "supporting_quote": "Special Envoy of the UN Secretary-General on Climate Change, 2007-2010"
+          },
+          {
+            "organization": "UHC Movement Political Advisory Panel",
+            "affiliation_type": "advisory",
+            "approximate_period": "2020",
+            "confidence": "high",
+            "supporting_quote": "Member of the UHC Movement Political Advisory Panel, 2020"
+          },
+          {
+            "organization": "Council of Women Leaders",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "She is a member of the Council of Women Leaders, alongside her fellow Elders Mary Robinson and Ellen Johnson Sirleaf."
+          },
+          {
+            "organization": "Palme Commission on Security and Disarmament",
+            "affiliation_type": "advisory",
+            "approximate_period": "1980s",
+            "confidence": "high",
+            "supporting_quote": "Member of the Palme Commission on Security and Disarmament, 1980s"
+          },
+          {
+            "organization": "International Commission on Nuclear Non-Proliferation and Disarmament",
+            "affiliation_type": "advisory",
+            "approximate_period": "2008-2010",
+            "confidence": "high",
+            "supporting_quote": "Member of the International Commission on Nuclear Non-Proliferation and Disarmament, 2008-2010"
+          },
+          {
+            "organization": "Club of Madrid",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Member of the Club of Madrid"
+          },
+          {
+            "organization": "UN Foundation Board of Directors",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Vice-Chair of the UN Foundation Board of Directors"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 134,
+      "chunk_index": 0,
+      "source_id": 372,
+      "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+      "domain": "nordics.info",
+      "similarity": 0.5478091657818432,
+      "rerank_score": 0.45871297,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified organizational affiliations outside primary employment. Step 2: Identified significant awards or distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available. No specific affiliations or awards were explicitly mentioned in the text, but roles in the World Health Organisation and the United Nations were noted without specific positions.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"World Health Organisation\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"her leadership within the World Health Organisation and the United Nations certainly stirred discourse and action where it did not exist before.\"\n    },\n    {\n      \"organization\": \"United Nations\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"her leadership within the World Health Organisation and the United Nations certainly stirred discourse and action where it did not exist before.\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified organizational affiliations outside primary employment. Step 2: Identified significant awards or distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available. No specific affiliations or awards were explicitly mentioned in the text, but roles in the World Health Organisation and the United Nations were noted without specific positions.",
+        "affiliations": [
+          {
+            "organization": "World Health Organisation",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "medium",
+            "supporting_quote": "her leadership within the World Health Organisation and the United Nations certainly stirred discourse and action where it did not exist before."
+          },
+          {
+            "organization": "United Nations",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "medium",
+            "supporting_quote": "her leadership within the World Health Organisation and the United Nations certainly stirred discourse and action where it did not exist before."
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 131,
+      "chunk_index": 0,
+      "source_id": 370,
+      "url": "https://www.hiltonfoundation.org/people/gro-brundtland-md-mph/",
+      "domain": "hiltonfoundation.org",
+      "similarity": 0.523169423528429,
+      "rerank_score": 0.4465194,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"The Elders\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2007-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2007, she also became a member of The Elders, a group founded by Nelson Mandela and Graça Machel and led by Archbishop Desmond Tutu.\"\n    },\n    {\n      \"organization\": \"United Nations Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She is member of the board of the United Nations Foundation.\"\n    },\n    {\n      \"organization\": \"United Nations Panel on Threats, Challenges, and Change\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Recently, Brundtland served on the United Nation’s Panel on Threats, Challenges, and Change.\"\n    },\n    {\n      \"organization\": \"World Commission on the Environment and Development (Brundtland Commission)\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"1980s\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In the 1980s she chaired the World Commission on the Environment and Development―the Brundtland Commission established the concept of sustainable development in its landmark report, Our Common Future.\"\n    },\n    {\n      \"organization\": \"United Nations Special Envoys for Climate Change\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2007-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Brundtland served as one of three United Nations Special Envoys for Climate Change, having been named to that position in May of 2007 by U.N. Secretary General Ban Ki-moon.\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Scientific American’s Policy Leader of the Year\",\n      \"awarding_body\": \"Scientific American\",\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She also succeeded in garnering support for the first negotiated agreement on a major public health issue, The Tobacco Convention, and was recognized that same year as Scientific American’s ‘Policy Leader of the Year.’\"\n    },\n    {\n      \"award\": \"Landsmoderen (Mother of the Nation)\",\n      \"awarding_body\": \"Norway\",\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"perhaps her most prized award is the unofficial title she holds in her native Norway, where she is affectionately known as ‘Landsmoderen’ or ‘mother of the nation.’\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "The Elders",
+            "affiliation_type": "membership",
+            "approximate_period": "2007-present",
+            "confidence": "high",
+            "supporting_quote": "In 2007, she also became a member of The Elders, a group founded by Nelson Mandela and Graça Machel and led by Archbishop Desmond Tutu."
+          },
+          {
+            "organization": "United Nations Foundation",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "She is member of the board of the United Nations Foundation."
+          },
+          {
+            "organization": "United Nations Panel on Threats, Challenges, and Change",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Recently, Brundtland served on the United Nation’s Panel on Threats, Challenges, and Change."
+          },
+          {
+            "organization": "World Commission on the Environment and Development (Brundtland Commission)",
+            "affiliation_type": "advisory",
+            "approximate_period": "1980s",
+            "confidence": "high",
+            "supporting_quote": "In the 1980s she chaired the World Commission on the Environment and Development―the Brundtland Commission established the concept of sustainable development in its landmark report, Our Common Future."
+          },
+          {
+            "organization": "United Nations Special Envoys for Climate Change",
+            "affiliation_type": "advisory",
+            "approximate_period": "2007-present",
+            "confidence": "high",
+            "supporting_quote": "Brundtland served as one of three United Nations Special Envoys for Climate Change, having been named to that position in May of 2007 by U.N. Secretary General Ban Ki-moon."
+          }
+        ],
+        "awards": [
+          {
+            "award": "Scientific American’s Policy Leader of the Year",
+            "awarding_body": "Scientific American",
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "She also succeeded in garnering support for the first negotiated agreement on a major public health issue, The Tobacco Convention, and was recognized that same year as Scientific American’s ‘Policy Leader of the Year.’"
+          },
+          {
+            "award": "Landsmoderen (Mother of the Nation)",
+            "awarding_body": "Norway",
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "perhaps her most prized award is the unofficial title she holds in her native Norway, where she is affectionately known as ‘Landsmoderen’ or ‘mother of the nation.’"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 106,
+      "chunk_index": 1,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.45598758258334526,
+      "rerank_score": 0.43122545,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including board memberships, fellowships, and advisory roles. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"World Health Organization\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"1998-2003\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"director-general of the World Health Organization from 1998 to 2003\"\n    },\n    {\n      \"organization\": \"Brundtland Commission\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"chaired the Brundtland Commission which presented the Brundtland Report\"\n    },\n    {\n      \"organization\": \"The Elders\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She is also deputy chair of The Elders\"\n    },\n    {\n      \"organization\": \"Socialist International\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a former vice-president of Socialist International\"\n    },\n    {\n      \"organization\": \"UN Special Envoy on Climate Change\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2007-2010\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"served as UN special envoy on Climate Change from 2007 to 2010\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Charlemagne Prize\",\n      \"awarding_body\": null,\n      \"year\": \"1994\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Brundtland received the 1994 Charlemagne Prize\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including board memberships, fellowships, and advisory roles. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "World Health Organization",
+            "affiliation_type": "advisory",
+            "approximate_period": "1998-2003",
+            "confidence": "high",
+            "supporting_quote": "director-general of the World Health Organization from 1998 to 2003"
+          },
+          {
+            "organization": "Brundtland Commission",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "chaired the Brundtland Commission which presented the Brundtland Report"
+          },
+          {
+            "organization": "The Elders",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "She is also deputy chair of The Elders"
+          },
+          {
+            "organization": "Socialist International",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "a former vice-president of Socialist International"
+          },
+          {
+            "organization": "UN Special Envoy on Climate Change",
+            "affiliation_type": "advisory",
+            "approximate_period": "2007-2010",
+            "confidence": "high",
+            "supporting_quote": "served as UN special envoy on Climate Change from 2007 to 2010"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Charlemagne Prize",
+            "awarding_body": null,
+            "year": "1994",
+            "confidence": "high",
+            "supporting_quote": "Brundtland received the 1994 Charlemagne Prize"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 105,
+      "chunk_index": 0,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.529471340385563,
+      "rerank_score": 0.4250568,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text primarily focuses on Gro Harlem Brundtland's political and professional career, including her roles as Prime Minister of Norway, Director-General of the World Health Organization, and other government positions. However, it does not explicitly mention any supplementary affiliations such as board memberships, fellowships, honorary positions, advisory roles outside of her primary employment, or significant awards. The 'Honours' section is referenced but not detailed in the provided text. Therefore, based on the available information, it is not possible to determine specific affiliations or awards.\",\n  \"affiliations\": [],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text primarily focuses on Gro Harlem Brundtland's political and professional career, including her roles as Prime Minister of Norway, Director-General of the World Health Organization, and other government positions. However, it does not explicitly mention any supplementary affiliations such as board memberships, fellowships, honorary positions, advisory roles outside of her primary employment, or significant awards. The 'Honours' section is referenced but not detailed in the provided text. Therefore, based on the available information, it is not possible to determine specific affiliations or awards.",
+        "affiliations": [],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 137,
+      "chunk_index": 3,
+      "source_id": 372,
+      "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+      "domain": "nordics.info",
+      "similarity": 0.5237002745385587,
+      "rerank_score": 0.41606155,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including The Elders, Council of Women World Leaders, Club of Madrid, and UN Special Envoy on Climate Change. Step 2: Identified significant awards such as the Indira Gandhi Prize, Charlemagne Prize, Thomas Jefferson Foundation Medal, National German Sustainability Award, Prize International Catalonia, Tang Prize, and Mahbub Ul Haq Award. Step 3: Classified each affiliation and award based on the provided types. Step 4: Assigned years or periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"The Elders\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2007-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In The Elders, Brundtland has served as Deputy Chair and taken an active role in initiatives such as combating child marriage.\"\n    },\n    {\n      \"organization\": \"Council of Women World Leaders\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Brundtland is also a member of the Council of Women World Leaders, a group that concerns itself with female health, sexual violence, and other issues related to women’s well-being.\"\n    },\n    {\n      \"organization\": \"Club of Madrid\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"As a member of the Club of Madrid, she is involved in efforts to promote and build democratic institutions around the world.\"\n    },\n    {\n      \"organization\": \"UN Special Envoy on Climate Change\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2007\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2007 she was appointed by the UN Secretary General to serve as a Special Envoy on Climate Change along with Han Seung-soo, former foreign minister of South Korea, and Ricardo Lagos, former president of Chile.\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Indira Gandhi Prize\",\n      \"awarding_body\": null,\n      \"year\": \"1988\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She is the recipient of the Indira Gandhi Prize (1988)\"\n    },\n    {\n      \"award\": \"Charlemagne Prize\",\n      \"awarding_body\": null,\n      \"year\": \"1994\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Charlemagne Prize (1994)\"\n    },\n    {\n      \"award\": \"Thomas Jefferson Foundation Medal in Architecture\",\n      \"awarding_body\": null,\n      \"year\": \"2008\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Thomas Jefferson Foundation Medal in Architecture (2008)\"\n    },\n    {\n      \"award\": \"National German Sustainability Award\",\n      \"awarding_body\": null,\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the National German Sustainability Award\"\n    },\n    {\n      \"award\": \"Prize International Catalonia\",\n      \"awarding_body\": null,\n      \"year\": \"2013\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Prize International Catalonia with Malala Yousafzai (2013)\"\n    },\n    {\n      \"award\": \"Tang Prize in Sustainable Development\",\n      \"awarding_body\": null,\n      \"year\": \"2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Tang Prize in Sustainable Development (2014)\"\n    },\n    {\n      \"award\": \"Mahbub Ul Haq Award for Human Development\",\n      \"awarding_body\": null,\n      \"year\": \"2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Mahbub Ul Haq Award for Human Development (2014)\"\n    }\n  ],\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including The Elders, Council of Women World Leaders, Club of Madrid, and UN Special Envoy on Climate Change. Step 2: Identified significant awards such as the Indira Gandhi Prize, Charlemagne Prize, Thomas Jefferson Foundation Medal, National German Sustainability Award, Prize International Catalonia, Tang Prize, and Mahbub Ul Haq Award. Step 3: Classified each affiliation and award based on the provided types. Step 4: Assigned years or periods where available.",
+        "affiliations": [
+          {
+            "organization": "The Elders",
+            "affiliation_type": "membership",
+            "approximate_period": "2007-present",
+            "confidence": "high",
+            "supporting_quote": "In The Elders, Brundtland has served as Deputy Chair and taken an active role in initiatives such as combating child marriage."
+          },
+          {
+            "organization": "Council of Women World Leaders",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Brundtland is also a member of the Council of Women World Leaders, a group that concerns itself with female health, sexual violence, and other issues related to women’s well-being."
+          },
+          {
+            "organization": "Club of Madrid",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "As a member of the Club of Madrid, she is involved in efforts to promote and build democratic institutions around the world."
+          },
+          {
+            "organization": "UN Special Envoy on Climate Change",
+            "affiliation_type": "advisory",
+            "approximate_period": "2007",
+            "confidence": "high",
+            "supporting_quote": "In 2007 she was appointed by the UN Secretary General to serve as a Special Envoy on Climate Change along with Han Seung-soo, former foreign minister of South Korea, and Ricardo Lagos, former president of Chile."
+          }
+        ],
+        "awards": [
+          {
+            "award": "Indira Gandhi Prize",
+            "awarding_body": null,
+            "year": "1988",
+            "confidence": "high",
+            "supporting_quote": "She is the recipient of the Indira Gandhi Prize (1988)"
+          },
+          {
+            "award": "Charlemagne Prize",
+            "awarding_body": null,
+            "year": "1994",
+            "confidence": "high",
+            "supporting_quote": "the Charlemagne Prize (1994)"
+          },
+          {
+            "award": "Thomas Jefferson Foundation Medal in Architecture",
+            "awarding_body": null,
+            "year": "2008",
+            "confidence": "high",
+            "supporting_quote": "the Thomas Jefferson Foundation Medal in Architecture (2008)"
+          },
+          {
+            "award": "National German Sustainability Award",
+            "awarding_body": null,
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "the National German Sustainability Award"
+          },
+          {
+            "award": "Prize International Catalonia",
+            "awarding_body": null,
+            "year": "2013",
+            "confidence": "high",
+            "supporting_quote": "the Prize International Catalonia with Malala Yousafzai (2013)"
+          },
+          {
+            "award": "Tang Prize in Sustainable Development",
+            "awarding_body": null,
+            "year": "2014",
+            "confidence": "high",
+            "supporting_quote": "the Tang Prize in Sustainable Development (2014)"
+          },
+          {
+            "award": "Mahbub Ul Haq Award for Human Development",
+            "awarding_body": null,
+            "year": "2014",
+            "confidence": "high",
+            "supporting_quote": "the Mahbub Ul Haq Award for Human Development (2014)"
+          }
+        ],
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 111,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text mentions Gro Harlem Brundtland's involvement in various organizations and her receipt of awards, making it relevant to her professional network and affiliations. Step 2 — Affiliation confirmation: The source does not explicitly confirm the primary affiliations listed in the candidate findings. Step 3 — New affiliations or awards found: The source mentions her membership in the Council of Women World Leaders, Club de Madrid, and The Elders, as well as her receipt of the Gran Cruz de la Orden Civil de Sanidad. Step 4 — Confidence: The confidence is medium, as the source provides some relevant information but does not confirm the primary affiliations.\",\n  \"confirms\": false,\n  \"confirmed_affiliations\": [],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [\"Council of Women World Leaders\", \"Club de Madrid\", \"The Elders\"],\n  \"new_awards_found\": [\"Gran Cruz de la Orden Civil de Sanidad\"],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"\\\"Members\\\". Council of Women World Leaders. Retrieved 19 June 2020.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text mentions Gro Harlem Brundtland's involvement in various organizations and her receipt of awards, making it relevant to her professional network and affiliations. Step 2 — Affiliation confirmation: The source does not explicitly confirm the primary affiliations listed in the candidate findings. Step 3 — New affiliations or awards found: The source mentions her membership in the Council of Women World Leaders, Club de Madrid, and The Elders, as well as her receipt of the Gran Cruz de la Orden Civil de Sanidad. Step 4 — Confidence: The confidence is medium, as the source provides some relevant information but does not confirm the primary affiliations.",
+        "confirms": false,
+        "confirmed_affiliations": [],
+        "confirmed_awards": [],
+        "new_affiliations_found": [
+          "Council of Women World Leaders",
+          "Club de Madrid",
+          "The Elders"
+        ],
+        "new_awards_found": [
+          "Gran Cruz de la Orden Civil de Sanidad"
+        ],
+        "confidence": "medium",
+        "supporting_quote": "\"Members\". Council of Women World Leaders. Retrieved 19 June 2020."
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "\"Members\". Council of Women World Leaders. Retrieved 19 June 2020.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 127,
+      "url": "https://www.ebsco.com/research-starters/biography/gro-harlem-brundtland",
+      "domain": "ebsco.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text discusses Gro Harlem Brundtland's awards but does not mention her professional affiliations or networks. Step 2 — The source does not confirm the affiliations listed in the candidate findings. Step 3 — The source mentions several awards not listed in the candidate findings. Step 4 — Confidence is medium as the source provides clear information on awards but is silent on affiliations.\",\n  \"confirms\": false,\n  \"confirmed_affiliations\": [],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [],\n  \"new_awards_found\": [\"Third World Prize in 1988\", \"Indira Gandhi Prize in 1989\", \"Earth and Onassis Prizes in 1992\", \"World Ecology Award and Global Leadership Prize in 2001\", \"Four Freedom Award in 2002\"],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Brundtland has been recognized with a host of awards, such as the Third World Prize in 1988, the Indira Gandhi Prize in 1989, the Earth and Onassis Prizes in 1992, the World Ecology Award and Global Leadership Prize in 2001, and the Four Freedom Award in 2002.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text discusses Gro Harlem Brundtland's awards but does not mention her professional affiliations or networks. Step 2 — The source does not confirm the affiliations listed in the candidate findings. Step 3 — The source mentions several awards not listed in the candidate findings. Step 4 — Confidence is medium as the source provides clear information on awards but is silent on affiliations.",
+        "confirms": false,
+        "confirmed_affiliations": [],
+        "confirmed_awards": [],
+        "new_affiliations_found": [],
+        "new_awards_found": [
+          "Third World Prize in 1988",
+          "Indira Gandhi Prize in 1989",
+          "Earth and Onassis Prizes in 1992",
+          "World Ecology Award and Global Leadership Prize in 2001",
+          "Four Freedom Award in 2002"
+        ],
+        "confidence": "medium",
+        "supporting_quote": "Brundtland has been recognized with a host of awards, such as the Third World Prize in 1988, the Indira Gandhi Prize in 1989, the Earth and Onassis Prizes in 1992, the World Ecology Award and Global Leadership Prize in 2001, and the Four Freedom Award in 2002."
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "Brundtland has been recognized with a host of awards, such as the Third World Prize in 1988, the Indira Gandhi Prize in 1989, the Earth and Onassis Prizes in 1992, the World Ecology Award and Global Leadership Prize in 2001, and the Four Freedom Award in 2002.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 0,
+    "primary_source_domain": "theelders.org",
+    "notes": null,
+    "affiliations": [
+      {
+        "organization": "United Nations Secretary-General's High-Level Panel on Global Sustainability",
+        "affiliation_type": "advisory",
+        "approximate_period": "2011-2012",
+        "confidence": "high",
+        "supporting_quote": "Member of the United Nations Secretary-General's High-Level Panel on Global Sustainability, 2011-2012"
+      },
+      {
+        "organization": "UN Secretary-General's Special Envoy on Climate Change",
+        "affiliation_type": "advisory",
+        "approximate_period": "2007-2010",
+        "confidence": "high",
+        "supporting_quote": "Special Envoy of the UN Secretary-General on Climate Change, 2007-2010"
+      },
+      {
+        "organization": "UHC Movement Political Advisory Panel",
+        "affiliation_type": "advisory",
+        "approximate_period": "2020",
+        "confidence": "high",
+        "supporting_quote": "Member of the UHC Movement Political Advisory Panel, 2020"
+      },
+      {
+        "organization": "Council of Women Leaders",
+        "affiliation_type": "membership",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "She is a member of the Council of Women Leaders, alongside her fellow Elders Mary Robinson and Ellen Johnson Sirleaf."
+      },
+      {
+        "organization": "Palme Commission on Security and Disarmament",
+        "affiliation_type": "advisory",
+        "approximate_period": "1980s",
+        "confidence": "high",
+        "supporting_quote": "Member of the Palme Commission on Security and Disarmament, 1980s"
+      },
+      {
+        "organization": "International Commission on Nuclear Non-Proliferation and Disarmament",
+        "affiliation_type": "advisory",
+        "approximate_period": "2008-2010",
+        "confidence": "high",
+        "supporting_quote": "Member of the International Commission on Nuclear Non-Proliferation and Disarmament, 2008-2010"
+      },
+      {
+        "organization": "Club of Madrid",
+        "affiliation_type": "membership",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Member of the Club of Madrid"
+      },
+      {
+        "organization": "UN Foundation Board of Directors",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Vice-Chair of the UN Foundation Board of Directors"
+      }
+    ],
+    "awards": []
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

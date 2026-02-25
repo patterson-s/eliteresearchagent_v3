@@ -1,0 +1,719 @@
+{
+  "person_dir_name": "Dhananjayan_Sriskandarajah",
+  "person_db_name": "Dhananjayan Sriskandarajah",
+  "question_id": "networks",
+  "question_display": "Main Professional Networks (Revolving Doors)",
+  "run_timestamp": "2026-02-25T17:57:08.505052+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Humanitarian Finance",
+    "hlp_year": "2015-2016",
+    "nomination_year": 2015,
+    "hlp_nomination_age": 40,
+    "birth_year": "1975",
+    "nationality": [
+      "Australian",
+      "Sri Lankan"
+    ]
+  },
+  "retrieval": {
+    "query": "Dhananjayan Sriskandarajah board member fellow award association club membership prize distinction honorary advisory",
+    "chunks_in_db": 15,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1182,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5177,
+        "rerank_score": 0.6326
+      },
+      {
+        "chunk_id": 1193,
+        "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+        "domain": "cpsummit.ngo",
+        "similarity": 0.4566,
+        "rerank_score": 0.5844
+      },
+      {
+        "chunk_id": 1190,
+        "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+        "domain": "qc.foundation",
+        "similarity": 0.5236,
+        "rerank_score": 0.5611
+      },
+      {
+        "chunk_id": 1189,
+        "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+        "domain": "opengovpartnership.org",
+        "similarity": 0.4984,
+        "rerank_score": 0.5231
+      },
+      {
+        "chunk_id": 1195,
+        "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+        "domain": "resolvepoverty.org",
+        "similarity": 0.3776,
+        "rerank_score": 0.4979
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1182,
+      "chunk_index": 0,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5176567002511745,
+      "rerank_score": 0.6326168,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified affiliation types. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Royal Commonwealth Society\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He was the first non-British and youngest person to head the Royal Commonwealth Society\"\n    },\n    {\n      \"organization\": \"CIVICUS\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Sriskandarajah was the Secretary General of CIVICUS, a global alliance of civil society organisations\"\n    },\n    {\n      \"organization\": \"New Economics Foundation\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"is the Chief Executive of the New Economics Foundation\"\n    },\n    {\n      \"organization\": \"Oxfam GB\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Until December 2023, he was Chief Executive of Oxfam GB\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Rhodes Scholarship\",\n      \"awarding_body\": \"University of Oxford\",\n      \"year\": \"1998\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"After becoming the first Asian Australian to win a Rhodes scholarship in 1998\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified affiliation types. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "Royal Commonwealth Society",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "He was the first non-British and youngest person to head the Royal Commonwealth Society"
+          },
+          {
+            "organization": "CIVICUS",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "Sriskandarajah was the Secretary General of CIVICUS, a global alliance of civil society organisations"
+          },
+          {
+            "organization": "New Economics Foundation",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "is the Chief Executive of the New Economics Foundation"
+          },
+          {
+            "organization": "Oxfam GB",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "Until December 2023, he was Chief Executive of Oxfam GB"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Rhodes Scholarship",
+            "awarding_body": "University of Oxford",
+            "year": "1998",
+            "confidence": "high",
+            "supporting_quote": "After becoming the first Asian Australian to win a Rhodes scholarship in 1998"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1193,
+      "chunk_index": 0,
+      "source_id": 662,
+      "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+      "domain": "cpsummit.ngo",
+      "similarity": 0.4565818487944017,
+      "rerank_score": 0.5843666,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment (CIVICUS) including board seats at Baring Foundation and International Alert, and co-founder of Ockenden Prizes. Step 2: Identified award as Young Global Leader by World Economic Forum. Step 3: Classified affiliations as 'board' and 'advisory' for co-founder role. Step 4: Assigned years where available (2012 for Young Global Leader).\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Baring Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on the boards of several organisations, including the Baring Foundation\"\n    },\n    {\n      \"organization\": \"International Alert\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on the boards of several organisations, including... International Alert\"\n    },\n    {\n      \"organization\": \"Ockenden Prizes\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Danny is the author... and is a co-founder of the Ockenden Prizes\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Young Global Leader\",\n      \"awarding_body\": \"World Economic Forum\",\n      \"year\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2012, he was chosen as a Young Global Leader by the World Economic Forum\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment (CIVICUS) including board seats at Baring Foundation and International Alert, and co-founder of Ockenden Prizes. Step 2: Identified award as Young Global Leader by World Economic Forum. Step 3: Classified affiliations as 'board' and 'advisory' for co-founder role. Step 4: Assigned years where available (2012 for Young Global Leader).",
+        "affiliations": [
+          {
+            "organization": "Baring Foundation",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on the boards of several organisations, including the Baring Foundation"
+          },
+          {
+            "organization": "International Alert",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on the boards of several organisations, including... International Alert"
+          },
+          {
+            "organization": "Ockenden Prizes",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "medium",
+            "supporting_quote": "Danny is the author... and is a co-founder of the Ockenden Prizes"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Young Global Leader",
+            "awarding_body": "World Economic Forum",
+            "year": "2012",
+            "confidence": "high",
+            "supporting_quote": "In 2012, he was chosen as a Young Global Leader by the World Economic Forum"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1190,
+      "chunk_index": 0,
+      "source_id": 659,
+      "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+      "domain": "qc.foundation",
+      "similarity": 0.5235567497184153,
+      "rerank_score": 0.5611433,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Recorded periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Guy’s & St Thomas’ Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"current\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a Trustee of the Guy’s & St Thomas’ Foundation\"\n    },\n    {\n      \"organization\": \"Baring Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"past\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of the Baring Foundation\"\n    },\n    {\n      \"organization\": \"Comic Relief\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"past\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of... Comic Relief\"\n    },\n    {\n      \"organization\": \"Disasters Emergency Committee\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"past\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of... Disasters Emergency Committee\"\n    },\n    {\n      \"organization\": \"Praxis Community Projects\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"past\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of... Praxis Community Projects\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Recorded periods where available.",
+        "affiliations": [
+          {
+            "organization": "Guy’s & St Thomas’ Foundation",
+            "affiliation_type": "board",
+            "approximate_period": "current",
+            "confidence": "high",
+            "supporting_quote": "He is a Trustee of the Guy’s & St Thomas’ Foundation"
+          },
+          {
+            "organization": "Baring Foundation",
+            "affiliation_type": "board",
+            "approximate_period": "past",
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of the Baring Foundation"
+          },
+          {
+            "organization": "Comic Relief",
+            "affiliation_type": "board",
+            "approximate_period": "past",
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of... Comic Relief"
+          },
+          {
+            "organization": "Disasters Emergency Committee",
+            "affiliation_type": "board",
+            "approximate_period": "past",
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of... Disasters Emergency Committee"
+          },
+          {
+            "organization": "Praxis Community Projects",
+            "affiliation_type": "board",
+            "approximate_period": "past",
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of... Praxis Community Projects"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1189,
+      "chunk_index": 0,
+      "source_id": 658,
+      "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+      "domain": "opengovpartnership.org",
+      "similarity": 0.4983835409122979,
+      "rerank_score": 0.5230555,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment (CIVICUS) including board memberships, advisory roles, and co-founded organizations. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Baring Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on the boards of several organisations, including the Baring Foundation\"\n    },\n    {\n      \"organization\": \"Comic Relief\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on the boards of several organisations, including... Comic Relief\"\n    },\n    {\n      \"organization\": \"International Alert\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on the boards of several organisations, including... International Alert\"\n    },\n    {\n      \"organization\": \"United Nations Secretary General’s High Level Panel on Humanitarian Finance\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"was a member of the United Nations Secretary General’s High Level Panel on Humanitarian Finance\"\n    },\n    {\n      \"organization\": \"Ockenden Prizes\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"is a co-founder of the Ockenden Prizes\"\n    },\n    {\n      \"organization\": \"Migration Museum Project\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"is a co-founder of the Migration Museum Project\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Young Global Leader\",\n      \"awarding_body\": \"World Economic Forum\",\n      \"year\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2012, he was chosen as a Young Global Leader by the World Economic Forum\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment (CIVICUS) including board memberships, advisory roles, and co-founded organizations. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "Baring Foundation",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on the boards of several organisations, including the Baring Foundation"
+          },
+          {
+            "organization": "Comic Relief",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on the boards of several organisations, including... Comic Relief"
+          },
+          {
+            "organization": "International Alert",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on the boards of several organisations, including... International Alert"
+          },
+          {
+            "organization": "United Nations Secretary General’s High Level Panel on Humanitarian Finance",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "was a member of the United Nations Secretary General’s High Level Panel on Humanitarian Finance"
+          },
+          {
+            "organization": "Ockenden Prizes",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "is a co-founder of the Ockenden Prizes"
+          },
+          {
+            "organization": "Migration Museum Project",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "is a co-founder of the Migration Museum Project"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Young Global Leader",
+            "awarding_body": "World Economic Forum",
+            "year": "2012",
+            "confidence": "high",
+            "supporting_quote": "In 2012, he was chosen as a Young Global Leader by the World Economic Forum"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1195,
+      "chunk_index": 0,
+      "source_id": 663,
+      "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+      "domain": "resolvepoverty.org",
+      "similarity": 0.377613303575528,
+      "rerank_score": 0.49787658,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Recorded periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Guy’s & St Thomas’ Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a Trustee of the Guy’s & St Thomas’ Foundation\"\n    },\n    {\n      \"organization\": \"Baring Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of the Baring Foundation\"\n    },\n    {\n      \"organization\": \"Comic Relief\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of... Comic Relief\"\n    },\n    {\n      \"organization\": \"Disasters Emergency Committee\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of... Disasters Emergency Committee\"\n    },\n    {\n      \"organization\": \"Praxis Community Projects\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has previously been a Trustee of... Praxis Community Projects\"\n    },\n    {\n      \"organization\": \"United Nations High Level Panel on Digital Co-operation\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"member of two United Nations High Level Panels, on digital co-operation\"\n    },\n    {\n      \"organization\": \"United Nations High Level Panel on Humanitarian Finance\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"member of two United Nations High Level Panels... on humanitarian finance\"\n    },\n    {\n      \"organization\": \"Independent Inquiry into the Future of Civil Society\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"was a member of the Independent Inquiry into the Future of Civil Society\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Recorded periods where available.",
+        "affiliations": [
+          {
+            "organization": "Guy’s & St Thomas’ Foundation",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a Trustee of the Guy’s & St Thomas’ Foundation"
+          },
+          {
+            "organization": "Baring Foundation",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of the Baring Foundation"
+          },
+          {
+            "organization": "Comic Relief",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of... Comic Relief"
+          },
+          {
+            "organization": "Disasters Emergency Committee",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of... Disasters Emergency Committee"
+          },
+          {
+            "organization": "Praxis Community Projects",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "has previously been a Trustee of... Praxis Community Projects"
+          },
+          {
+            "organization": "United Nations High Level Panel on Digital Co-operation",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "member of two United Nations High Level Panels, on digital co-operation"
+          },
+          {
+            "organization": "United Nations High Level Panel on Humanitarian Finance",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "member of two United Nations High Level Panels... on humanitarian finance"
+          },
+          {
+            "organization": "Independent Inquiry into the Future of Civil Society",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "was a member of the Independent Inquiry into the Future of Civil Society"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1192,
+      "chunk_index": 0,
+      "source_id": 661,
+      "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+      "domain": "lse.ac.uk",
+      "similarity": 0.49351239671711133,
+      "rerank_score": 0.45449692,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Periods not specified, recorded as null.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"International Inequalities Institute\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Visiting Senior Fellow, International Inequalities Institute\"\n    },\n    {\n      \"organization\": \"United Nations’ High-Level Panel on Humanitarian Finance\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He has served on two United Nations’ High-Level Panels (on Humanitarian Finance and on Digital Cooperation).\"\n    },\n    {\n      \"organization\": \"United Nations’ High-Level Panel on Digital Cooperation\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He has served on two United Nations’ High-Level Panels (on Humanitarian Finance and on Digital Cooperation).\"\n    },\n    {\n      \"organization\": \"Disasters Emergency Committee\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a Trustee of the Disasters Emergency Committee and the Guy’s and St Thomas’ Foundation.\"\n    },\n    {\n      \"organization\": \"Guy’s and St Thomas’ Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a Trustee of the Disasters Emergency Committee and the Guy’s and St Thomas’ Foundation.\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Periods not specified, recorded as null.",
+        "affiliations": [
+          {
+            "organization": "International Inequalities Institute",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Visiting Senior Fellow, International Inequalities Institute"
+          },
+          {
+            "organization": "United Nations’ High-Level Panel on Humanitarian Finance",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He has served on two United Nations’ High-Level Panels (on Humanitarian Finance and on Digital Cooperation)."
+          },
+          {
+            "organization": "United Nations’ High-Level Panel on Digital Cooperation",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He has served on two United Nations’ High-Level Panels (on Humanitarian Finance and on Digital Cooperation)."
+          },
+          {
+            "organization": "Disasters Emergency Committee",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a Trustee of the Disasters Emergency Committee and the Guy’s and St Thomas’ Foundation."
+          },
+          {
+            "organization": "Guy’s and St Thomas’ Foundation",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a Trustee of the Disasters Emergency Committee and the Guy’s and St Thomas’ Foundation."
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1188,
+      "chunk_index": 0,
+      "source_id": 656,
+      "url": "http://sdgs.un.org/panelists/mr-danny-sriskandarajah-29228",
+      "domain": "sdgs.un.org",
+      "similarity": 0.47246758446085324,
+      "rerank_score": 0.4280666,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including board memberships at Baring Foundation, International Alert, and Ockenden International. Step 2: Identified the award 'Young Global Leader' from the World Economic Forum. Step 3: Classified affiliations as 'board' and the award as a significant distinction. Step 4: Assigned approximate periods based on available information.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Baring Foundation\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on several boards, including those of the Baring Foundation, International Alert and Ockenden International\"\n    },\n    {\n      \"organization\": \"International Alert\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on several boards, including those of the Baring Foundation, International Alert and Ockenden International\"\n    },\n    {\n      \"organization\": \"Ockenden International\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He sits on several boards, including those of the Baring Foundation, International Alert and Ockenden International\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Young Global Leader\",\n      \"awarding_body\": \"World Economic Forum\",\n      \"year\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2012, he was honoured by the World Economic Forum as a Young Global Leader.\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including board memberships at Baring Foundation, International Alert, and Ockenden International. Step 2: Identified the award 'Young Global Leader' from the World Economic Forum. Step 3: Classified affiliations as 'board' and the award as a significant distinction. Step 4: Assigned approximate periods based on available information.",
+        "affiliations": [
+          {
+            "organization": "Baring Foundation",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on several boards, including those of the Baring Foundation, International Alert and Ockenden International"
+          },
+          {
+            "organization": "International Alert",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on several boards, including those of the Baring Foundation, International Alert and Ockenden International"
+          },
+          {
+            "organization": "Ockenden International",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He sits on several boards, including those of the Baring Foundation, International Alert and Ockenden International"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Young Global Leader",
+            "awarding_body": "World Economic Forum",
+            "year": "2012",
+            "confidence": "high",
+            "supporting_quote": "In 2012, he was honoured by the World Economic Forum as a Young Global Leader."
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1183,
+      "chunk_index": 1,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4662666720830385,
+      "rerank_score": 0.4013364,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including board memberships, advisory roles, and elite body memberships. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned periods based on text details.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"World Economic Forum\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2012-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2012, he was named a Young Global Leader by the World Economic Forum.\"\n    },\n    {\n      \"organization\": \"UN Secretary General's High Level Panel on Digital Cooperation\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2018-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In July 2018, Sriskandarajah was announced as a member of the UN Secretary General's High Level Panel on Digital Cooperation.\"\n    },\n    {\n      \"organization\": \"High Level Panel on Humanitarian Finance\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2015-2016\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He was previously a member of the High Level Panel on Humanitarian Finance from 2015 to 2016.\"\n    },\n    {\n      \"organization\": \"Campaign for the Establishment of a United Nations Parliamentary Assembly\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Sriskandarajah is a supporter of the Campaign for the Establishment of a United Nations Parliamentary Assembly.\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Young Global Leader\",\n      \"awarding_body\": \"World Economic Forum\",\n      \"year\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2012, he was named a Young Global Leader by the World Economic Forum.\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including board memberships, advisory roles, and elite body memberships. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned periods based on text details.",
+        "affiliations": [
+          {
+            "organization": "World Economic Forum",
+            "affiliation_type": "membership",
+            "approximate_period": "2012-present",
+            "confidence": "high",
+            "supporting_quote": "In 2012, he was named a Young Global Leader by the World Economic Forum."
+          },
+          {
+            "organization": "UN Secretary General's High Level Panel on Digital Cooperation",
+            "affiliation_type": "advisory",
+            "approximate_period": "2018-present",
+            "confidence": "high",
+            "supporting_quote": "In July 2018, Sriskandarajah was announced as a member of the UN Secretary General's High Level Panel on Digital Cooperation."
+          },
+          {
+            "organization": "High Level Panel on Humanitarian Finance",
+            "affiliation_type": "advisory",
+            "approximate_period": "2015-2016",
+            "confidence": "high",
+            "supporting_quote": "He was previously a member of the High Level Panel on Humanitarian Finance from 2015 to 2016."
+          },
+          {
+            "organization": "Campaign for the Establishment of a United Nations Parliamentary Assembly",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "medium",
+            "supporting_quote": "Sriskandarajah is a supporter of the Campaign for the Establishment of a United Nations Parliamentary Assembly."
+          }
+        ],
+        "awards": [
+          {
+            "award": "Young Global Leader",
+            "awarding_body": "World Economic Forum",
+            "year": "2012",
+            "confidence": "high",
+            "supporting_quote": "In 2012, he was named a Young Global Leader by the World Economic Forum."
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1186,
+      "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+      "domain": "live.worldbank.org",
+      "raw_llm_output": "{\n  \"reasoning\": [\n    \"Step 1 — Source relevance: The text discusses Dhananjayan Sriskandarajah's professional affiliations, roles, and awards, making it relevant for verification.\",\n    \"Step 2 — Affiliation confirmation: The source does not confirm the primary affiliations listed in the candidate findings (Guy’s & St Thomas’ Foundation, Comic Relief). However, it confirms his affiliation with the Baring Foundation as a trustee.\",\n    \"Step 3 — New affiliations or awards found: The source mentions new affiliations and awards not listed in the candidate findings, including Secretary General of CIVICUS, Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, Deputy Director of the Institute for Public Policy Research, WEF Young Global Leader, and trustee of Ockenden International.\",\n    \"Step 4 — Confidence: The source clearly confirms the Baring Foundation affiliation and provides additional affiliations and awards with high confidence.\"\n  ],\n  \"confirms\": true,\n  \"confirmed_affiliations\": [\"Baring Foundation\"],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [\n    \"Secretary General, CIVICUS: World Alliance for Citizen Participation\",\n    \"Director General, Royal Commonwealth Society\",\n    \"Interim Director, Commonwealth Foundation\",\n    \"Deputy Director, Institute for Public Policy Research\",\n    \"Trustee, Ockenden International\"\n  ],\n  \"new_awards_found\": [\"WEF Young Global Leader\"],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He has been a consultant to several international organizations... and is a trustee of five charities, including the Baring Foundation and Ockenden International.\"\n}",
+      "parsed": {
+        "reasoning": [
+          "Step 1 — Source relevance: The text discusses Dhananjayan Sriskandarajah's professional affiliations, roles, and awards, making it relevant for verification.",
+          "Step 2 — Affiliation confirmation: The source does not confirm the primary affiliations listed in the candidate findings (Guy’s & St Thomas’ Foundation, Comic Relief). However, it confirms his affiliation with the Baring Foundation as a trustee.",
+          "Step 3 — New affiliations or awards found: The source mentions new affiliations and awards not listed in the candidate findings, including Secretary General of CIVICUS, Director General of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, Deputy Director of the Institute for Public Policy Research, WEF Young Global Leader, and trustee of Ockenden International.",
+          "Step 4 — Confidence: The source clearly confirms the Baring Foundation affiliation and provides additional affiliations and awards with high confidence."
+        ],
+        "confirms": true,
+        "confirmed_affiliations": [
+          "Baring Foundation"
+        ],
+        "confirmed_awards": [],
+        "new_affiliations_found": [
+          "Secretary General, CIVICUS: World Alliance for Citizen Participation",
+          "Director General, Royal Commonwealth Society",
+          "Interim Director, Commonwealth Foundation",
+          "Deputy Director, Institute for Public Policy Research",
+          "Trustee, Ockenden International"
+        ],
+        "new_awards_found": [
+          "WEF Young Global Leader"
+        ],
+        "confidence": "high",
+        "supporting_quote": "He has been a consultant to several international organizations... and is a trustee of five charities, including the Baring Foundation and Ockenden International."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He has been a consultant to several international organizations... and is a trustee of five charities, including the Baring Foundation and Ockenden International.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1191,
+      "url": "https://neweconomics.org/profile/danny-sriskandarajah",
+      "domain": "neweconomics.org",
+      "raw_llm_output": "{\n  \"reasoning\": [\n    \"Step 1 — Source relevance: The text discusses Dhananjayan Sriskandarajah's professional roles, affiliations, and achievements, making it relevant for verification.\",\n    \"Step 2 — Affiliation confirmation: The source confirms his affiliation with Guy’s & St Thomas’ Foundation as a Trustee but does not mention Baring Foundation or Comic Relief.\",\n    \"Step 3 — New affiliations or awards found: The source mentions new affiliations: Quadrature Climate Foundation’s Advisory Board, NEF (New Economics Foundation), and previous roles at Oxfam GB, CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research.\",\n    \"Step 4 — Confidence: The source clearly confirms the Guy’s & St Thomas’ Foundation affiliation and provides additional affiliations with high confidence.\"\n  ],\n  \"confirms\": true,\n  \"confirmed_affiliations\": [\"Guy’s & St Thomas’ Foundation\"],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [\n    \"Quadrature Climate Foundation’s Advisory Board\",\n    \"New Economics Foundation (NEF)\",\n    \"Oxfam GB\",\n    \"CIVICUS\",\n    \"Royal Commonwealth Society\",\n    \"Commonwealth Foundation\",\n    \"Institute for Public Policy Research\"\n  ],\n  \"new_awards_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He is a Trustee of the Guy’s & St Thomas’ Foundation and serves on Quadrature Climate Foundation’s Advisory Board.\"\n}",
+      "parsed": {
+        "reasoning": [
+          "Step 1 — Source relevance: The text discusses Dhananjayan Sriskandarajah's professional roles, affiliations, and achievements, making it relevant for verification.",
+          "Step 2 — Affiliation confirmation: The source confirms his affiliation with Guy’s & St Thomas’ Foundation as a Trustee but does not mention Baring Foundation or Comic Relief.",
+          "Step 3 — New affiliations or awards found: The source mentions new affiliations: Quadrature Climate Foundation’s Advisory Board, NEF (New Economics Foundation), and previous roles at Oxfam GB, CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research.",
+          "Step 4 — Confidence: The source clearly confirms the Guy’s & St Thomas’ Foundation affiliation and provides additional affiliations with high confidence."
+        ],
+        "confirms": true,
+        "confirmed_affiliations": [
+          "Guy’s & St Thomas’ Foundation"
+        ],
+        "confirmed_awards": [],
+        "new_affiliations_found": [
+          "Quadrature Climate Foundation’s Advisory Board",
+          "New Economics Foundation (NEF)",
+          "Oxfam GB",
+          "CIVICUS",
+          "Royal Commonwealth Society",
+          "Commonwealth Foundation",
+          "Institute for Public Policy Research"
+        ],
+        "new_awards_found": [],
+        "confidence": "high",
+        "supporting_quote": "He is a Trustee of the Guy’s & St Thomas’ Foundation and serves on Quadrature Climate Foundation’s Advisory Board."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "He is a Trustee of the Guy’s & St Thomas’ Foundation and serves on Quadrature Climate Foundation’s Advisory Board.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 2,
+    "primary_source_domain": "resolvepoverty.org",
+    "notes": null,
+    "affiliations": [
+      {
+        "organization": "Guy’s & St Thomas’ Foundation",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "He is a Trustee of the Guy’s & St Thomas’ Foundation"
+      },
+      {
+        "organization": "Baring Foundation",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "has previously been a Trustee of the Baring Foundation"
+      },
+      {
+        "organization": "Comic Relief",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "has previously been a Trustee of... Comic Relief"
+      },
+      {
+        "organization": "Disasters Emergency Committee",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "has previously been a Trustee of... Disasters Emergency Committee"
+      },
+      {
+        "organization": "Praxis Community Projects",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "has previously been a Trustee of... Praxis Community Projects"
+      },
+      {
+        "organization": "United Nations High Level Panel on Digital Co-operation",
+        "affiliation_type": "advisory",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "member of two United Nations High Level Panels, on digital co-operation"
+      },
+      {
+        "organization": "United Nations High Level Panel on Humanitarian Finance",
+        "affiliation_type": "advisory",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "member of two United Nations High Level Panels... on humanitarian finance"
+      },
+      {
+        "organization": "Independent Inquiry into the Future of Civil Society",
+        "affiliation_type": "advisory",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "was a member of the Independent Inquiry into the Future of Civil Society"
+      }
+    ],
+    "awards": []
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

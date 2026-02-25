@@ -1,0 +1,614 @@
+{
+  "person_dir_name": "Andris_Piebalgs",
+  "person_db_name": "Andris Piebalgs",
+  "question_id": "locations",
+  "question_display": "Main Locations (Geographical Mobility)",
+  "run_timestamp": "2026-02-25T18:30:05.515989+00:00",
+  "input": {
+    "hlp_name": "United Nations High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 55,
+    "birth_year": "1957",
+    "nationality": [
+      "Latvian"
+    ]
+  },
+  "retrieval": {
+    "query": "Andris Piebalgs lived based located city country worked residence office career",
+    "chunks_in_db": 21,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3175,
+        "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6168,
+        "rerank_score": 0.8152
+      },
+      {
+        "chunk_id": 3195,
+        "url": "https://www.gainhealth.org/andris-piebalgs",
+        "domain": "gainhealth.org",
+        "similarity": 0.4393,
+        "rerank_score": 0.6456
+      },
+      {
+        "chunk_id": 3187,
+        "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+        "domain": "live.worldbank.org",
+        "similarity": 0.5225,
+        "rerank_score": 0.5971
+      },
+      {
+        "chunk_id": 3185,
+        "url": "https://www.europarl.europa.eu/press/audicom2004/cv/cv_piebalgs.pdf",
+        "domain": "europarl.europa.eu",
+        "similarity": 0.5148,
+        "rerank_score": 0.5683
+      },
+      {
+        "chunk_id": 3182,
+        "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+        "domain": "cov.com",
+        "similarity": 0.4639,
+        "rerank_score": 0.5241
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3175,
+      "chunk_index": 0,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6168347984777856,
+      "rerank_score": 0.81524754,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Andris Piebalgs's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assigned confidence levels. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Valmiera\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1980-1990\",\n      \"role_context\": \"worked as a teacher and headmaster of the 1st Secondary School of Valmiera\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Earlier in his career, while Latvia was still part of the Soviet Union, Andris Piebalgs worked as a teacher and was the headmaster of the 1st Secondary School of Valmiera (1980–1990).\"\n    },\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1990-2004\",\n      \"role_context\": \"served as director of the department in the Ministry of Education in Latvia and held other national positions\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"He also served as director of the department in the Ministry of Education in Latvia.\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"2004-2014\",\n      \"role_context\": \"served as European Commissioner for Energy and later for Development\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs served as European Commissioner for Development at the European Commission from 2010 until 2014. Between 2004 and 2009 he served as Commissioner for Energy.\"\n    }\n  ],\n  \"countries\": [\"Latvia\", \"Belgium\"],\n  \"supporting_quote\": \"Andris Piebalgs served as European Commissioner for Development at the European Commission from 2010 until 2014.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Andris Piebalgs's work, career, or residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assigned confidence levels. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Valmiera",
+            "country": "Latvia",
+            "approximate_period": "1980-1990",
+            "role_context": "worked as a teacher and headmaster of the 1st Secondary School of Valmiera",
+            "confidence": "high",
+            "supporting_quote": "Earlier in his career, while Latvia was still part of the Soviet Union, Andris Piebalgs worked as a teacher and was the headmaster of the 1st Secondary School of Valmiera (1980–1990)."
+          },
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "1990-2004",
+            "role_context": "served as director of the department in the Ministry of Education in Latvia and held other national positions",
+            "confidence": "medium",
+            "supporting_quote": "He also served as director of the department in the Ministry of Education in Latvia."
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "2004-2014",
+            "role_context": "served as European Commissioner for Energy and later for Development",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs served as European Commissioner for Development at the European Commission from 2010 until 2014. Between 2004 and 2009 he served as Commissioner for Energy."
+          }
+        ],
+        "countries": [
+          "Latvia",
+          "Belgium"
+        ],
+        "supporting_quote": "Andris Piebalgs served as European Commissioner for Development at the European Commission from 2010 until 2014.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3195,
+      "chunk_index": 1,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.4392805550435603,
+      "rerank_score": 0.6455898,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions Andris Piebalgs' roles as EU Development Commissioner, EU Commissioner for Energy, Professor at the European University Institute, and his education at the University of Latvia. It also mentions his involvement in Latvia's accession to the EU, implying residence in Latvia. Step 2: Full-time roles as EU Commissioner (2004-2009, 2010-2014) and Professor imply 6+ months. University degree program at the University of Latvia also implies multi-year residence. Step 3: Periods are assigned based on explicit years mentioned for EU Commissioner roles. Step 4: Confidence is 'high' for roles with explicit years and locations, 'medium' for inferred locations like Latvia. Step 5: Countries include Latvia, Belgium (implied by EU roles in Brussels), and Italy (European University Institute).\",\n  \"locations\": [\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": null,\n      \"role_context\": \"graduate in physics from University of Latvia\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"2004-2014\",\n      \"role_context\": \"served as EU Commissioner for Energy (2004-2009) and EU Development Commissioner (2010-2014)\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": \"Florence\",\n      \"country\": \"Italy\",\n      \"approximate_period\": null,\n      \"role_context\": \"Professor at the European University Institute\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"countries\": [\"Latvia\", \"Belgium\", \"Italy\"],\n  \"supporting_quote\": \"Andris Piebalgs has served as EU Development Commissioner (2010-2014). He is a Professor at the European University Institute. He is a graduate in physics from University of Latvia.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions Andris Piebalgs' roles as EU Development Commissioner, EU Commissioner for Energy, Professor at the European University Institute, and his education at the University of Latvia. It also mentions his involvement in Latvia's accession to the EU, implying residence in Latvia. Step 2: Full-time roles as EU Commissioner (2004-2009, 2010-2014) and Professor imply 6+ months. University degree program at the University of Latvia also implies multi-year residence. Step 3: Periods are assigned based on explicit years mentioned for EU Commissioner roles. Step 4: Confidence is 'high' for roles with explicit years and locations, 'medium' for inferred locations like Latvia. Step 5: Countries include Latvia, Belgium (implied by EU roles in Brussels), and Italy (European University Institute).",
+        "locations": [
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": null,
+            "role_context": "graduate in physics from University of Latvia",
+            "confidence": "medium"
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "2004-2014",
+            "role_context": "served as EU Commissioner for Energy (2004-2009) and EU Development Commissioner (2010-2014)",
+            "confidence": "high"
+          },
+          {
+            "city": "Florence",
+            "country": "Italy",
+            "approximate_period": null,
+            "role_context": "Professor at the European University Institute",
+            "confidence": "medium"
+          }
+        ],
+        "countries": [
+          "Latvia",
+          "Belgium",
+          "Italy"
+        ],
+        "supporting_quote": "Andris Piebalgs has served as EU Development Commissioner (2010-2014). He is a Professor at the European University Institute. He is a graduate in physics from University of Latvia.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3187,
+      "chunk_index": 1,
+      "source_id": 1174,
+      "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5225148178285778,
+      "rerank_score": 0.5971152,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Andris Piebalgs's work and residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Evaluated confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Valmiera\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1957-1975\",\n      \"role_context\": \"born and likely raised until university\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs was born on 17 September 1957 in Valmiera, Latvia.\"\n    },\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1975-1982\",\n      \"role_context\": \"studied at the University of Latvia\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Piebalgs is a graduate in Physics from the University of Latvia.\"\n    },\n    {\n      \"city\": \"Tallinn\",\n      \"country\": \"Estonia\",\n      \"approximate_period\": \"1995-1997\",\n      \"role_context\": \"served as Ambassador of Latvia in Estonia\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs first served as the Ambassador of Latvia in Estonia (1995-1997).\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"1997-2003\",\n      \"role_context\": \"served as Latvian Ambassador to the EU\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 1997 he became the Latvian Ambassador to the EU.\"\n    },\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"2003-2004\",\n      \"role_context\": \"Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia.\"\n    }\n  ],\n  \"countries\": [\"Latvia\", \"Estonia\", \"Belgium\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Andris Piebalgs's work and residence. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Evaluated confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Valmiera",
+            "country": "Latvia",
+            "approximate_period": "1957-1975",
+            "role_context": "born and likely raised until university",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs was born on 17 September 1957 in Valmiera, Latvia."
+          },
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "1975-1982",
+            "role_context": "studied at the University of Latvia",
+            "confidence": "medium",
+            "supporting_quote": "Piebalgs is a graduate in Physics from the University of Latvia."
+          },
+          {
+            "city": "Tallinn",
+            "country": "Estonia",
+            "approximate_period": "1995-1997",
+            "role_context": "served as Ambassador of Latvia in Estonia",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs first served as the Ambassador of Latvia in Estonia (1995-1997)."
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "1997-2003",
+            "role_context": "served as Latvian Ambassador to the EU",
+            "confidence": "high",
+            "supporting_quote": "In 1997 he became the Latvian Ambassador to the EU."
+          },
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "2003-2004",
+            "role_context": "Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia",
+            "confidence": "high",
+            "supporting_quote": "From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia."
+          }
+        ],
+        "countries": [
+          "Latvia",
+          "Estonia",
+          "Belgium"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3185,
+      "chunk_index": 0,
+      "source_id": 1173,
+      "url": "https://www.europarl.europa.eu/press/audicom2004/cv/cv_piebalgs.pdf",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.5148073041711657,
+      "rerank_score": 0.5683445,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations from the text including Valmiera, Latvia, Estonia, and the European Union. Step 2: Filtered locations based on duration, assuming roles like Minister, Ambassador, and Head of Cabinet imply 6+ months. Step 3: Assigned periods based on the provided years for each role. Step 4: Assessed confidence as high for explicit roles and locations. Step 5: Compiled a list of countries including Latvia and Estonia. The European Union is not a country, so it was excluded from the country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Valmiera\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1980-1988\",\n      \"role_context\": \"Teacher, Headmaster, Secondary School No1\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"1980 – 1988 Teacher, Headmaster, Secondary School No1, Valmiera\"\n    },\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1988-2004\",\n      \"role_context\": \"Various roles including Ministry of Education, Member of Parliament, Minister of Finance, and Ministry of Foreign Affairs\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Desk officer, Head of Department , Ministry of Education of Latvia; Member of Parliament of Latvia; Minister of Finance of Latvia; Deputy Secretary of State, Ministry of Foreign Affairs of Latvia\"\n    },\n    {\n      \"city\": \"Tallinn\",\n      \"country\": \"Estonia\",\n      \"approximate_period\": \"1995-1997\",\n      \"role_context\": \"Ambassador Extraordinary and Plenipotentiary of Latvia to the Republic of Estonia\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"1995 – 1997 Ambassador Extraordinary and Plenipotentiary of Latvia to the Republic of Estonia\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"1998-2004\",\n      \"role_context\": \"Ambassador Extraordinary and Plenipotentiary of Latvia to the European Union; Head of Cabinet of Commissioner Kalniete\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"1998 – 2003 Ambassador Extraordinary and Plenipotentiary of Latvia to the European Union; 2004 – up to now Head of Cabinet of Commissioner Kalniete\"\n    }\n  ],\n  \"countries\": [\"Latvia\", \"Estonia\", \"Belgium\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations from the text including Valmiera, Latvia, Estonia, and the European Union. Step 2: Filtered locations based on duration, assuming roles like Minister, Ambassador, and Head of Cabinet imply 6+ months. Step 3: Assigned periods based on the provided years for each role. Step 4: Assessed confidence as high for explicit roles and locations. Step 5: Compiled a list of countries including Latvia and Estonia. The European Union is not a country, so it was excluded from the country list.",
+        "locations": [
+          {
+            "city": "Valmiera",
+            "country": "Latvia",
+            "approximate_period": "1980-1988",
+            "role_context": "Teacher, Headmaster, Secondary School No1",
+            "confidence": "high",
+            "supporting_quote": "1980 – 1988 Teacher, Headmaster, Secondary School No1, Valmiera"
+          },
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "1988-2004",
+            "role_context": "Various roles including Ministry of Education, Member of Parliament, Minister of Finance, and Ministry of Foreign Affairs",
+            "confidence": "medium",
+            "supporting_quote": "Desk officer, Head of Department , Ministry of Education of Latvia; Member of Parliament of Latvia; Minister of Finance of Latvia; Deputy Secretary of State, Ministry of Foreign Affairs of Latvia"
+          },
+          {
+            "city": "Tallinn",
+            "country": "Estonia",
+            "approximate_period": "1995-1997",
+            "role_context": "Ambassador Extraordinary and Plenipotentiary of Latvia to the Republic of Estonia",
+            "confidence": "high",
+            "supporting_quote": "1995 – 1997 Ambassador Extraordinary and Plenipotentiary of Latvia to the Republic of Estonia"
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "1998-2004",
+            "role_context": "Ambassador Extraordinary and Plenipotentiary of Latvia to the European Union; Head of Cabinet of Commissioner Kalniete",
+            "confidence": "medium",
+            "supporting_quote": "1998 – 2003 Ambassador Extraordinary and Plenipotentiary of Latvia to the European Union; 2004 – up to now Head of Cabinet of Commissioner Kalniete"
+          }
+        ],
+        "countries": [
+          "Latvia",
+          "Estonia",
+          "Belgium"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3182,
+      "chunk_index": 0,
+      "source_id": 1171,
+      "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+      "domain": "cov.com",
+      "similarity": 0.4638794283072644,
+      "rerank_score": 0.5240786,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Andris Piebalgs's work and career, including Brussels, Latvia, and Florence. Step 2: Assessed duration for each location based on roles held. Step 3: Assigned approximate periods based on available dates. Step 4: Assigned confidence levels based on explicitness and clarity of information. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"2004-2014, 2016-present\",\n      \"role_context\": \"European Commissioner for Energy, European Commissioner for Development, Senior Advisor at Covington & Burling LLP\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris served as European Commissioner for Energy between 2004 and 2009... Andris was subsequently European Commissioner for Development, from 2010 and 2014. Andris is a senior advisor in the firm’s Brussels office.\"\n    },\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1990s-2004\",\n      \"role_context\": \"Minister of Finance, Deputy Secretary of State for EU affairs, Minister of Education, Ambassador to the EU\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Before joining the Commission, Andris held a number of roles in the Latvian Government... served as a diplomat in the Latvian Foreign Service where, as Ambassador to the EU, he was instrumental in helping Latvia gain accession to the European Union.\"\n    },\n    {\n      \"city\": \"Florence\",\n      \"country\": \"Italy\",\n      \"approximate_period\": \"2016-present\",\n      \"role_context\": \"Professor at the Florence School of Regulation of the European University Institute\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Since 2016, Andris has held a Professorship at the Florence School of Regulation of the European University Institute.\"\n    }\n  ],\n  \"countries\": [\"Belgium\", \"Latvia\", \"Italy\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Andris Piebalgs's work and career, including Brussels, Latvia, and Florence. Step 2: Assessed duration for each location based on roles held. Step 3: Assigned approximate periods based on available dates. Step 4: Assigned confidence levels based on explicitness and clarity of information. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "2004-2014, 2016-present",
+            "role_context": "European Commissioner for Energy, European Commissioner for Development, Senior Advisor at Covington & Burling LLP",
+            "confidence": "high",
+            "supporting_quote": "Andris served as European Commissioner for Energy between 2004 and 2009... Andris was subsequently European Commissioner for Development, from 2010 and 2014. Andris is a senior advisor in the firm’s Brussels office."
+          },
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "1990s-2004",
+            "role_context": "Minister of Finance, Deputy Secretary of State for EU affairs, Minister of Education, Ambassador to the EU",
+            "confidence": "medium",
+            "supporting_quote": "Before joining the Commission, Andris held a number of roles in the Latvian Government... served as a diplomat in the Latvian Foreign Service where, as Ambassador to the EU, he was instrumental in helping Latvia gain accession to the European Union."
+          },
+          {
+            "city": "Florence",
+            "country": "Italy",
+            "approximate_period": "2016-present",
+            "role_context": "Professor at the Florence School of Regulation of the European University Institute",
+            "confidence": "high",
+            "supporting_quote": "Since 2016, Andris has held a Professorship at the Florence School of Regulation of the European University Institute."
+          }
+        ],
+        "countries": [
+          "Belgium",
+          "Latvia",
+          "Italy"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3186,
+      "chunk_index": 0,
+      "source_id": 1174,
+      "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5257926834337688,
+      "rerank_score": 0.498902,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Locations mentioned include Latvia (Valmiera, Riga inferred), Brussels (inferred from European Commission roles), and Katowice (Poland, but only for an award, so excluded). Step 2: Full-time roles in Latvia (teacher, headmaster, minister, parliamentarian) and Brussels (European Commissioner) imply 6+ months. Step 3: Periods assigned based on explicit dates (e.g., 1980-1990 in Valmiera, 1990-1994 in Riga, 2004-2009 in Brussels). Step 4: Confidence is high for Latvia (explicit roles and durations) and medium for Brussels (role implies residence but city not explicitly stated). Step 5: Countries include Latvia and Belgium.\",\n  \"locations\": [\n    {\n      \"city\": \"Valmiera\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1980-1990\",\n      \"role_context\": \"Headmaster of the 1st Secondary School of Valmiera\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Earlier in his career, while Latvia was still part of the Soviet Union, Andris Piebalgs worked as a teacher and was the Headmaster of the 1st Secondary School of Valmiera (1980-1990).\"\n    },\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1990-1994\",\n      \"role_context\": \"Minister of Education, Finance Minister, and Deputy Prime Minister\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government... In 1993, Andris Piebalgs won a seat in the Latvian Parliament... he became Latvia's Finance Minister and Deputy Prime Minister.\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"2004-2009\",\n      \"role_context\": \"European Commissioner for Energy and Development\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy.\"\n    }\n  ],\n  \"countries\": [\"Latvia\", \"Belgium\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Locations mentioned include Latvia (Valmiera, Riga inferred), Brussels (inferred from European Commission roles), and Katowice (Poland, but only for an award, so excluded). Step 2: Full-time roles in Latvia (teacher, headmaster, minister, parliamentarian) and Brussels (European Commissioner) imply 6+ months. Step 3: Periods assigned based on explicit dates (e.g., 1980-1990 in Valmiera, 1990-1994 in Riga, 2004-2009 in Brussels). Step 4: Confidence is high for Latvia (explicit roles and durations) and medium for Brussels (role implies residence but city not explicitly stated). Step 5: Countries include Latvia and Belgium.",
+        "locations": [
+          {
+            "city": "Valmiera",
+            "country": "Latvia",
+            "approximate_period": "1980-1990",
+            "role_context": "Headmaster of the 1st Secondary School of Valmiera",
+            "confidence": "high",
+            "supporting_quote": "Earlier in his career, while Latvia was still part of the Soviet Union, Andris Piebalgs worked as a teacher and was the Headmaster of the 1st Secondary School of Valmiera (1980-1990)."
+          },
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "1990-1994",
+            "role_context": "Minister of Education, Finance Minister, and Deputy Prime Minister",
+            "confidence": "high",
+            "supporting_quote": "On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government... In 1993, Andris Piebalgs won a seat in the Latvian Parliament... he became Latvia's Finance Minister and Deputy Prime Minister."
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "2004-2009",
+            "role_context": "European Commissioner for Energy and Development",
+            "confidence": "medium",
+            "supporting_quote": "During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy."
+          }
+        ],
+        "countries": [
+          "Latvia",
+          "Belgium"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3176,
+      "chunk_index": 1,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.46267325941121984,
+      "rerank_score": 0.48499045,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Andris Piebalgs's work and career, including Latvia, Estonia, and the EU. Step 2: Assessed duration based on roles (e.g., Minister, Ambassador, EU Commissioner) and inferred 6+ months for full-time positions. Step 3: Assigned approximate periods using explicit dates from the text. Step 4: Confidence assessed as high for explicit roles and locations. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"1990-1995\",\n      \"role_context\": \"Minister of Education, Minister of Finance, and deputy prime minister\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government, and one year later, in August 1991, Latvia regained full independence.\"\n    },\n    {\n      \"city\": \"Tallinn\",\n      \"country\": \"Estonia\",\n      \"approximate_period\": \"1995-1997\",\n      \"role_context\": \"Ambassador of Latvia in Estonia\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs first served as the ambassador of Latvia in Estonia (1995–1997), where he helped to solve the sea border issue between the two states.\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"1997-2003\",\n      \"role_context\": \"Latvian Ambassador to the EU\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 1997 he became the Latvian Ambassador to the EU. In this capacity he helped to establish Latvia as the EU candidate country and led the accession negotiations.\"\n    },\n    {\n      \"city\": \"Riga\",\n      \"country\": \"Latvia\",\n      \"approximate_period\": \"2003-2004\",\n      \"role_context\": \"Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia.\"\n    },\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"2004-2010\",\n      \"role_context\": \"European Commissioner for Energy\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy.\"\n    }\n  ],\n  \"countries\": [\"Latvia\", \"Estonia\", \"Belgium\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Andris Piebalgs's work and career, including Latvia, Estonia, and the EU. Step 2: Assessed duration based on roles (e.g., Minister, Ambassador, EU Commissioner) and inferred 6+ months for full-time positions. Step 3: Assigned approximate periods using explicit dates from the text. Step 4: Confidence assessed as high for explicit roles and locations. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "1990-1995",
+            "role_context": "Minister of Education, Minister of Finance, and deputy prime minister",
+            "confidence": "high",
+            "supporting_quote": "On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government, and one year later, in August 1991, Latvia regained full independence."
+          },
+          {
+            "city": "Tallinn",
+            "country": "Estonia",
+            "approximate_period": "1995-1997",
+            "role_context": "Ambassador of Latvia in Estonia",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs first served as the ambassador of Latvia in Estonia (1995–1997), where he helped to solve the sea border issue between the two states."
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "1997-2003",
+            "role_context": "Latvian Ambassador to the EU",
+            "confidence": "high",
+            "supporting_quote": "In 1997 he became the Latvian Ambassador to the EU. In this capacity he helped to establish Latvia as the EU candidate country and led the accession negotiations."
+          },
+          {
+            "city": "Riga",
+            "country": "Latvia",
+            "approximate_period": "2003-2004",
+            "role_context": "Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia",
+            "confidence": "high",
+            "supporting_quote": "From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia."
+          },
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "2004-2010",
+            "role_context": "European Commissioner for Energy",
+            "confidence": "high",
+            "supporting_quote": "During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy."
+          }
+        ],
+        "countries": [
+          "Latvia",
+          "Estonia",
+          "Belgium"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3177,
+      "chunk_index": 2,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.40068405959454567,
+      "rerank_score": 0.41634628,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions Katowice, Poland, and the European Parliament, which is based in Brussels, Belgium. Step 2: The roles mentioned (Commissioner Designate for Energy, Acting Commissioner for Financial Programming and the Budget, and Commissioner Designate for Development) imply full-time employment in Brussels. The award in Katowice is a one-time event and does not imply residence. Step 3: The roles in Brussels are associated with the years 2004, 2014, and 2010. Step 4: Confidence is high for Brussels due to explicit roles and duration, and low for Poland as it is only mentioned in connection with an award. Step 5: Countries include Belgium and Poland.\",\n  \"locations\": [\n    {\n      \"city\": \"Brussels\",\n      \"country\": \"Belgium\",\n      \"approximate_period\": \"2004-2014\",\n      \"role_context\": \"Commissioner Designate for Energy, Acting Commissioner for Financial Programming and the Budget\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"city\": null,\n      \"country\": \"Poland\",\n      \"approximate_period\": null,\n      \"role_context\": \"Received 'Diamond Prize' in Katowice\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"countries\": [\"Belgium\", \"Poland\"],\n  \"supporting_quote\": \"In 2009, Andris Piebalgs received the 'Diamond Prize' from the Regional Chamber of Commerce in Katowice (Poland) for his work in developing a cohesive European Energy Policy.\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions Katowice, Poland, and the European Parliament, which is based in Brussels, Belgium. Step 2: The roles mentioned (Commissioner Designate for Energy, Acting Commissioner for Financial Programming and the Budget, and Commissioner Designate for Development) imply full-time employment in Brussels. The award in Katowice is a one-time event and does not imply residence. Step 3: The roles in Brussels are associated with the years 2004, 2014, and 2010. Step 4: Confidence is high for Brussels due to explicit roles and duration, and low for Poland as it is only mentioned in connection with an award. Step 5: Countries include Belgium and Poland.",
+        "locations": [
+          {
+            "city": "Brussels",
+            "country": "Belgium",
+            "approximate_period": "2004-2014",
+            "role_context": "Commissioner Designate for Energy, Acting Commissioner for Financial Programming and the Budget",
+            "confidence": "high"
+          },
+          {
+            "city": null,
+            "country": "Poland",
+            "approximate_period": null,
+            "role_context": "Received 'Diamond Prize' in Katowice",
+            "confidence": "low"
+          }
+        ],
+        "countries": [
+          "Belgium",
+          "Poland"
+        ],
+        "supporting_quote": "In 2009, Andris Piebalgs received the 'Diamond Prize' from the Regional Chamber of Commerce in Katowice (Poland) for his work in developing a cohesive European Energy Policy.",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3184,
+      "url": "https://www.un.org/sg/en/management/bios/Piebalgs.shtml",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text discusses Andris Piebalgs's career, including his roles in the European Commission and Latvian government. Step 2: The text does not mention Valmiera, Riga, or Tallinn, nor does it confirm Latvia, Estonia, or Belgium in the context of his employment or residence. Step 3: No new locations are mentioned beyond those already known from his career in Latvia and the European Commission. Step 4: Confidence is low as the source does not explicitly confirm the primary locations or provide new geographic data.\",\n  \"confirms\": false,\n  \"confirmed_locations\": [],\n  \"new_locations_found\": [],\n  \"confidence\": \"low\",\n  \"supporting_quote\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text discusses Andris Piebalgs's career, including his roles in the European Commission and Latvian government. Step 2: The text does not mention Valmiera, Riga, or Tallinn, nor does it confirm Latvia, Estonia, or Belgium in the context of his employment or residence. Step 3: No new locations are mentioned beyond those already known from his career in Latvia and the European Commission. Step 4: Confidence is low as the source does not explicitly confirm the primary locations or provide new geographic data.",
+        "confirms": false,
+        "confirmed_locations": [],
+        "new_locations_found": [],
+        "confidence": "low",
+        "supporting_quote": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3190,
+      "url": "https://fsr.eui.eu/people/andris-piebalgs/",
+      "domain": "fsr.eui.eu",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text discusses Andris Piebalgs's career, focusing on his roles in the European Union, Latvia, and his current position at the European University Institute. Step 2: The text does not mention Valmiera, Riga, or Tallinn, which are the primary locations from the candidate findings. Step 3: The text does not introduce any new cities or countries where Andris Piebalgs worked or lived that were not already in the candidate findings. Step 4: The confidence is low because the source does not confirm the specific locations mentioned in the candidate findings.\",\n  \"confirms\": false,\n  \"confirmed_locations\": [],\n  \"new_locations_found\": [],\n  \"confidence\": \"low\",\n  \"supporting_quote\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text discusses Andris Piebalgs's career, focusing on his roles in the European Union, Latvia, and his current position at the European University Institute. Step 2: The text does not mention Valmiera, Riga, or Tallinn, which are the primary locations from the candidate findings. Step 3: The text does not introduce any new cities or countries where Andris Piebalgs worked or lived that were not already in the candidate findings. Step 4: The confidence is low because the source does not confirm the specific locations mentioned in the candidate findings.",
+        "confirms": false,
+        "confirmed_locations": [],
+        "new_locations_found": [],
+        "confidence": "low",
+        "supporting_quote": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 0,
+    "primary_source_domain": "live.worldbank.org",
+    "notes": null,
+    "locations": [
+      {
+        "city": "Valmiera",
+        "country": "Latvia",
+        "approximate_period": "1957-1975",
+        "role_context": "born and likely raised until university",
+        "confidence": "high",
+        "supporting_quote": "Andris Piebalgs was born on 17 September 1957 in Valmiera, Latvia."
+      },
+      {
+        "city": "Riga",
+        "country": "Latvia",
+        "approximate_period": "1975-1982",
+        "role_context": "studied at the University of Latvia",
+        "confidence": "medium",
+        "supporting_quote": "Piebalgs is a graduate in Physics from the University of Latvia."
+      },
+      {
+        "city": "Tallinn",
+        "country": "Estonia",
+        "approximate_period": "1995-1997",
+        "role_context": "served as Ambassador of Latvia in Estonia",
+        "confidence": "high",
+        "supporting_quote": "Andris Piebalgs first served as the Ambassador of Latvia in Estonia (1995-1997)."
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium",
+        "approximate_period": "1997-2003",
+        "role_context": "served as Latvian Ambassador to the EU",
+        "confidence": "high",
+        "supporting_quote": "In 1997 he became the Latvian Ambassador to the EU."
+      },
+      {
+        "city": "Riga",
+        "country": "Latvia",
+        "approximate_period": "2003-2004",
+        "role_context": "Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia",
+        "confidence": "high",
+        "supporting_quote": "From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia."
+      }
+    ],
+    "countries": [
+      "Latvia",
+      "Estonia",
+      "Belgium"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "person_dir_name": "Andris_Piebalgs",
+  "person_db_name": "Andris Piebalgs",
+  "question_id": "career_domain",
+  "question_display": "Career Domain (Archetypes)",
+  "run_timestamp": "2026-02-25T18:32:51.620852+00:00",
+  "input": {
+    "birth_year": "1957",
+    "nationality": [
+      "Latvian"
+    ]
+  },
+  "synthesis_inputs": {
+    "HLP_JOB_RESULT": "[loaded from hlp_job_title]",
+    "EDUCATION_RESULT": "[loaded from education]",
+    "LOCATIONS_RESULT": "[loaded from locations]",
+    "JOBS_RESULT": "[loaded from jobs]",
+    "SECTORS_RESULT": "[loaded from sectors]",
+    "NETWORKS_RESULT": "[loaded from networks]"
+  },
+  "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Jobs review: Andris Piebalgs's roles include 1 academic (primary), 4 political (3 primary, 1 secondary), 1 diplomatic (primary), and 4 international (3 primary, 1 secondary). Primary roles are heavily weighted in political and international domains. Step 2 — Duration weighting: International roles span significant periods (2004-2009, 2010-2014), reinforcing their importance. Political roles also span multiple years, including ministerial positions. Step 3 — Sectors cross-check: Primary sectors are energy, development, and environment, aligning with international roles. Step 4 — Networks cross-check: Affiliations with international bodies (UN, International Methane Emissions Observatory) and advisory roles to governments reinforce the international domain. Step 5 — Dominant domain identification: The international domain is most prominent due to the number, duration, and prominence of roles. Step 6 — Hybrid test: While political roles are significant, they do not meet the 35%+ threshold for a hybrid classification.\",\n  \"domain_evidence\": {\n    \"academic\": \"One primary role as a Professor at the Florence School of Regulation.\",\n    \"civil_society\": \"\",\n    \"corporate\": \"One secondary role as Senior Advisor at Covington & Burling LLP.\",\n    \"diplomatic\": \"One primary role as Ambassador to the EU and Deputy Secretary of State for EU affairs.\",\n    \"political\": \"Four roles including Minister of Finance, Minister of Education, Deputy Secretary of State for EU affairs, and Adviser to the President of Latvia.\",\n    \"international\": \"Four roles including European Commissioner for Energy, European Commissioner for Development, Chairman of the Implementation Committee of the International Methane Emissions Observatory, and Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators.\",\n    \"other\": \"\"\n  },\n  \"dominant_domain\": \"international\",\n  \"is_hybrid\": false,\n  \"hybrid_domains\": [],\n  \"alternative_domain_suggestion\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+  "parsed": {
+    "reasoning": "Step 1 — Jobs review: Andris Piebalgs's roles include 1 academic (primary), 4 political (3 primary, 1 secondary), 1 diplomatic (primary), and 4 international (3 primary, 1 secondary). Primary roles are heavily weighted in political and international domains. Step 2 — Duration weighting: International roles span significant periods (2004-2009, 2010-2014), reinforcing their importance. Political roles also span multiple years, including ministerial positions. Step 3 — Sectors cross-check: Primary sectors are energy, development, and environment, aligning with international roles. Step 4 — Networks cross-check: Affiliations with international bodies (UN, International Methane Emissions Observatory) and advisory roles to governments reinforce the international domain. Step 5 — Dominant domain identification: The international domain is most prominent due to the number, duration, and prominence of roles. Step 6 — Hybrid test: While political roles are significant, they do not meet the 35%+ threshold for a hybrid classification.",
+    "domain_evidence": {
+      "academic": "One primary role as a Professor at the Florence School of Regulation.",
+      "civil_society": "",
+      "corporate": "One secondary role as Senior Advisor at Covington & Burling LLP.",
+      "diplomatic": "One primary role as Ambassador to the EU and Deputy Secretary of State for EU affairs.",
+      "political": "Four roles including Minister of Finance, Minister of Education, Deputy Secretary of State for EU affairs, and Adviser to the President of Latvia.",
+      "international": "Four roles including European Commissioner for Energy, European Commissioner for Development, Chairman of the Implementation Committee of the International Methane Emissions Observatory, and Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators.",
+      "other": ""
+    },
+    "dominant_domain": "international",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "alternative_domain_suggestion": null,
+    "confidence": "high",
+    "cannot_determine": false
+  },
+  "result": {
+    "status": "found",
+    "dominant_domain": "international",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "domain_evidence": {
+      "academic": "One primary role as a Professor at the Florence School of Regulation.",
+      "civil_society": "",
+      "corporate": "One secondary role as Senior Advisor at Covington & Burling LLP.",
+      "diplomatic": "One primary role as Ambassador to the EU and Deputy Secretary of State for EU affairs.",
+      "political": "Four roles including Minister of Finance, Minister of Education, Deputy Secretary of State for EU affairs, and Adviser to the President of Latvia.",
+      "international": "Four roles including European Commissioner for Energy, European Commissioner for Development, Chairman of the Implementation Committee of the International Methane Emissions Observatory, and Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators.",
+      "other": ""
+    },
+    "alternative_domain_suggestion": null,
+    "confidence": "high"
+  },
+  "meta": {
+    "mode": "synthesis",
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

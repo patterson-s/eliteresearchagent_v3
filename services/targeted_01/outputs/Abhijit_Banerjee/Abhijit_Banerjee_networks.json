@@ -1,0 +1,909 @@
+{
+  "person_dir_name": "Abhijit_Banerjee",
+  "person_db_name": "Abhijit Banerjee",
+  "question_id": "networks",
+  "question_display": "Main Professional Networks (Revolving Doors)",
+  "run_timestamp": "2026-02-25T17:06:08.858016+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2013-2015",
+    "nomination_year": 2013,
+    "hlp_nomination_age": 52,
+    "birth_year": "1961",
+    "nationality": [
+      "Indian",
+      "American"
+    ]
+  },
+  "retrieval": {
+    "query": "Abhijit Banerjee board member fellow award association club membership prize distinction honorary advisory",
+    "chunks_in_db": 60,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3126,
+        "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+        "domain": "economics.mit.edu",
+        "similarity": 0.5094,
+        "rerank_score": 0.6258
+      },
+      {
+        "chunk_id": 3115,
+        "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.527,
+        "rerank_score": 0.5847
+      },
+      {
+        "chunk_id": 3160,
+        "url": "https://www.povertyactionlab.org/person/banerjee",
+        "domain": "povertyactionlab.org",
+        "similarity": 0.4691,
+        "rerank_score": 0.4887
+      },
+      {
+        "chunk_id": 3174,
+        "url": "https://economics.mit.edu/people/faculty/abhijit-banerjee/short-bio",
+        "domain": "economics.mit.edu",
+        "similarity": 0.497,
+        "rerank_score": 0.4465
+      },
+      {
+        "chunk_id": 3170,
+        "url": "https://www.carnegie.org/awards/honoree/abhijit-banerjee/",
+        "domain": "carnegie.org",
+        "similarity": 0.4477,
+        "rerank_score": 0.4159
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3126,
+      "chunk_index": 0,
+      "source_id": 1160,
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/2022.08%20on%20website.pdf",
+      "domain": "economics.mit.edu",
+      "similarity": 0.5094366307840823,
+      "rerank_score": 0.6257817,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: Extracted significant awards and distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods based on text details. Confidence is high due to clear and structured source text.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"National Academy of Sciences\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2020-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member, National Academy of Sciences, 2020\"\n    },\n    {\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"2004-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"American Academy of Arts and Sciences, Fellow, 2004 -\"\n    },\n    {\n      \"organization\": \"Council of the Econometric Society\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2004-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member, Council of the Econometric Society, 2004 -\"\n    },\n    {\n      \"organization\": \"KU Leuven\",\n      \"affiliation_type\": \"honorary\",\n      \"approximate_period\": \"2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Honorary Doctoral degree, KU Leuven, 2014\"\n    },\n    {\n      \"organization\": \"Institute of Development Studies Kolkata\",\n      \"affiliation_type\": \"honorary\",\n      \"approximate_period\": \"2006\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Honorary Visiting Professor, Institute of Development Studies Kolkata, 2006\"\n    },\n    {\n      \"organization\": \"Kiel Institute for the World Economy\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"2008\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"International Research Fellow, Kiel Institute www.ifw-kiel.de , 2008\"\n    },\n    {\n      \"organization\": \"Planning Commission, India\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2008\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Honorary Consultant in PEO, Planning Commission, India, 2008\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Sveriges Riksbank Prize in Economics in memory of Alfred Nobel\",\n      \"awarding_body\": \"Royal Swedish Academy of Sciences\",\n      \"year\": \"2019\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Sveriges Riksbank Prize in Economics in memory of Alfred Nobel , 2019\"\n    },\n    {\n      \"award\": \"Bernhard Harms Prize\",\n      \"awarding_body\": \"Kiel Institute for the World Economy\",\n      \"year\": \"2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Bernhard Harms Prize (Kiel Institute for the World Economy), 2014\"\n    },\n    {\n      \"award\": \"The Albert O. Hirschman Prize\",\n      \"awarding_body\": \"The Social Science Research Council\",\n      \"year\": \"2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"The Albert O. Hirschman Prize (The Social Science Research Council), 2014\"\n    },\n    {\n      \"award\": \"Gabarron International Award for Economics\",\n      \"awarding_body\": null,\n      \"year\": \"2013\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Gabarron Internationa l Award for Economics, 2013\"\n    },\n    {\n      \"award\": \"Infosys Award in Social Sciences\",\n      \"awarding_body\": null,\n      \"year\": \"2009\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Infosy s Award in Social Sciences, 2009\"\n    },\n    {\n      \"award\": \"BBVA Foundation Frontiers of Knowledge Award\",\n      \"awarding_body\": \"BBVA Foundation\",\n      \"year\": \"2009\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"BBVA Foundation Frontiers of Knowledge Award for Development Cooperation, 2009\"\n    },\n    {\n      \"award\": \"Guggenheim Fellow\",\n      \"awarding_body\": \"Guggenheim Foundation\",\n      \"year\": \"2000\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Guggenheim Fellow, 2000\"\n    },\n    {\n      \"award\": \"Alfred P. Sloan Research Fellow\",\n      \"awarding_body\": \"Alfred P. Sloan Foundation\",\n      \"year\": \"1994-1996\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Alfred P. Sloan Research Fellow, 1994 -96\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: Extracted significant awards and distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods based on text details. Confidence is high due to clear and structured source text.",
+        "affiliations": [
+          {
+            "organization": "National Academy of Sciences",
+            "affiliation_type": "membership",
+            "approximate_period": "2020-present",
+            "confidence": "high",
+            "supporting_quote": "Member, National Academy of Sciences, 2020"
+          },
+          {
+            "organization": "American Academy of Arts and Sciences",
+            "affiliation_type": "fellowship",
+            "approximate_period": "2004-present",
+            "confidence": "high",
+            "supporting_quote": "American Academy of Arts and Sciences, Fellow, 2004 -"
+          },
+          {
+            "organization": "Council of the Econometric Society",
+            "affiliation_type": "membership",
+            "approximate_period": "2004-present",
+            "confidence": "high",
+            "supporting_quote": "Member, Council of the Econometric Society, 2004 -"
+          },
+          {
+            "organization": "KU Leuven",
+            "affiliation_type": "honorary",
+            "approximate_period": "2014",
+            "confidence": "high",
+            "supporting_quote": "Honorary Doctoral degree, KU Leuven, 2014"
+          },
+          {
+            "organization": "Institute of Development Studies Kolkata",
+            "affiliation_type": "honorary",
+            "approximate_period": "2006",
+            "confidence": "high",
+            "supporting_quote": "Honorary Visiting Professor, Institute of Development Studies Kolkata, 2006"
+          },
+          {
+            "organization": "Kiel Institute for the World Economy",
+            "affiliation_type": "fellowship",
+            "approximate_period": "2008",
+            "confidence": "high",
+            "supporting_quote": "International Research Fellow, Kiel Institute www.ifw-kiel.de , 2008"
+          },
+          {
+            "organization": "Planning Commission, India",
+            "affiliation_type": "advisory",
+            "approximate_period": "2008",
+            "confidence": "high",
+            "supporting_quote": "Honorary Consultant in PEO, Planning Commission, India, 2008"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Sveriges Riksbank Prize in Economics in memory of Alfred Nobel",
+            "awarding_body": "Royal Swedish Academy of Sciences",
+            "year": "2019",
+            "confidence": "high",
+            "supporting_quote": "Sveriges Riksbank Prize in Economics in memory of Alfred Nobel , 2019"
+          },
+          {
+            "award": "Bernhard Harms Prize",
+            "awarding_body": "Kiel Institute for the World Economy",
+            "year": "2014",
+            "confidence": "high",
+            "supporting_quote": "Bernhard Harms Prize (Kiel Institute for the World Economy), 2014"
+          },
+          {
+            "award": "The Albert O. Hirschman Prize",
+            "awarding_body": "The Social Science Research Council",
+            "year": "2014",
+            "confidence": "high",
+            "supporting_quote": "The Albert O. Hirschman Prize (The Social Science Research Council), 2014"
+          },
+          {
+            "award": "Gabarron International Award for Economics",
+            "awarding_body": null,
+            "year": "2013",
+            "confidence": "high",
+            "supporting_quote": "Gabarron Internationa l Award for Economics, 2013"
+          },
+          {
+            "award": "Infosys Award in Social Sciences",
+            "awarding_body": null,
+            "year": "2009",
+            "confidence": "high",
+            "supporting_quote": "Infosy s Award in Social Sciences, 2009"
+          },
+          {
+            "award": "BBVA Foundation Frontiers of Knowledge Award",
+            "awarding_body": "BBVA Foundation",
+            "year": "2009",
+            "confidence": "high",
+            "supporting_quote": "BBVA Foundation Frontiers of Knowledge Award for Development Cooperation, 2009"
+          },
+          {
+            "award": "Guggenheim Fellow",
+            "awarding_body": "Guggenheim Foundation",
+            "year": "2000",
+            "confidence": "high",
+            "supporting_quote": "Guggenheim Fellow, 2000"
+          },
+          {
+            "award": "Alfred P. Sloan Research Fellow",
+            "awarding_body": "Alfred P. Sloan Foundation",
+            "year": "1994-1996",
+            "confidence": "high",
+            "supporting_quote": "Alfred P. Sloan Research Fellow, 1994 -96"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3115,
+      "chunk_index": 0,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5269501030098008,
+      "rerank_score": 0.58465123,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including fellowships and advisory roles. Step 2: Extracted significant awards and distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Abdul Latif Jameel Poverty Action Lab (J-PAL)\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is co-founder and co-director of the Abdul Latif Jameel Poverty Action Lab (J-PAL)\"\n    },\n    {\n      \"organization\": \"Sloan Research Fellowship\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"1994\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Sloan Research Fellowship (1994)\"\n    },\n    {\n      \"organization\": \"Guggenheim Fellowship\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Guggenheim Fellowship\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Nobel Memorial Prize in Economic Sciences\",\n      \"awarding_body\": \"Royal Swedish Academy of Sciences\",\n      \"year\": \"2019\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Nobel Memorial Prize in Economic Sciences (2019)\"\n    },\n    {\n      \"award\": \"Infosys Prize\",\n      \"awarding_body\": \"null\",\n      \"year\": \"2009\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Infosys Prize (2009)\"\n    },\n    {\n      \"award\": \"Golden Plate from Academy of Achievement\",\n      \"awarding_body\": \"Academy of Achievement\",\n      \"year\": \"2022\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Golden Plate from Academy of Achievement (2022)\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including fellowships and advisory roles. Step 2: Extracted significant awards and distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+            "affiliation_type": "advisory",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "He is co-founder and co-director of the Abdul Latif Jameel Poverty Action Lab (J-PAL)"
+          },
+          {
+            "organization": "Sloan Research Fellowship",
+            "affiliation_type": "fellowship",
+            "approximate_period": "1994",
+            "confidence": "high",
+            "supporting_quote": "Sloan Research Fellowship (1994)"
+          },
+          {
+            "organization": "Guggenheim Fellowship",
+            "affiliation_type": "fellowship",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "Guggenheim Fellowship"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Nobel Memorial Prize in Economic Sciences",
+            "awarding_body": "Royal Swedish Academy of Sciences",
+            "year": "2019",
+            "confidence": "high",
+            "supporting_quote": "Nobel Memorial Prize in Economic Sciences (2019)"
+          },
+          {
+            "award": "Infosys Prize",
+            "awarding_body": "null",
+            "year": "2009",
+            "confidence": "high",
+            "supporting_quote": "Infosys Prize (2009)"
+          },
+          {
+            "award": "Golden Plate from Academy of Achievement",
+            "awarding_body": "Academy of Achievement",
+            "year": "2022",
+            "confidence": "high",
+            "supporting_quote": "Golden Plate from Academy of Achievement (2022)"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3160,
+      "chunk_index": 0,
+      "source_id": 1164,
+      "url": "https://www.povertyactionlab.org/person/banerjee",
+      "domain": "povertyactionlab.org",
+      "similarity": 0.4690554636497352,
+      "rerank_score": 0.48865002,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Bureau for the Research in the Economic Analysis of Development\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"past\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Abhijit is a past president of the Bureau for the Research in the Economic Analysis of Development\"\n    },\n    {\n      \"organization\": \"National Bureau of Economic Research (NBER)\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a Research Associate of the NBER\"\n    },\n    {\n      \"organization\": \"Centre for Economic Policy Research (CEPR)\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a CEPR research fellow\"\n    },\n    {\n      \"organization\": \"Kiel Institute\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"International Research Fellow of the Kiel Institute\"\n    },\n    {\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a fellow of the American Academy of Arts and Sciences\"\n    },\n    {\n      \"organization\": \"Econometric Society\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a fellow of the Econometric Society\"\n    },\n    {\n      \"organization\": \"Guggenheim Foundation\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has been a Guggenheim Fellow\"\n    },\n    {\n      \"organization\": \"Alfred P. Sloan Foundation\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"has been an Alfred P. Sloan Fellow\"\n    },\n    {\n      \"organization\": \"UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He has served on the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda\"\n    },\n    {\n      \"organization\": \"Save the Children USA\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a trustee of Save the Children USA\"\n    },\n    {\n      \"organization\": \"Global Education Evidence Advisory Panel\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Chair of the Global Education Evidence Advisory Panel\"\n    },\n    {\n      \"organization\": \"Global Advisory Board for Covid-19 Response of the government of West Bengal\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"the Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel\",\n      \"awarding_body\": \"Royal Swedish Academy of Sciences\",\n      \"year\": \"2019\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"2019 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel\"\n    },\n    {\n      \"award\": \"Infosys Prize in Social Sciences and Economics\",\n      \"awarding_body\": \"Infosys Science Foundation\",\n      \"year\": \"2009\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He received the Infosys Prize 2009 in Social Sciences and Economics\"\n    },\n    {\n      \"award\": \"Goldman Sachs Business Book of the Year\",\n      \"awarding_body\": \"Goldman Sachs\",\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"which won the Goldman Sachs Business Book of the Year\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "Bureau for the Research in the Economic Analysis of Development",
+            "affiliation_type": "advisory",
+            "approximate_period": "past",
+            "confidence": "high",
+            "supporting_quote": "Abhijit is a past president of the Bureau for the Research in the Economic Analysis of Development"
+          },
+          {
+            "organization": "National Bureau of Economic Research (NBER)",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "a Research Associate of the NBER"
+          },
+          {
+            "organization": "Centre for Economic Policy Research (CEPR)",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "a CEPR research fellow"
+          },
+          {
+            "organization": "Kiel Institute",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "International Research Fellow of the Kiel Institute"
+          },
+          {
+            "organization": "American Academy of Arts and Sciences",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "a fellow of the American Academy of Arts and Sciences"
+          },
+          {
+            "organization": "Econometric Society",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "a fellow of the Econometric Society"
+          },
+          {
+            "organization": "Guggenheim Foundation",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "has been a Guggenheim Fellow"
+          },
+          {
+            "organization": "Alfred P. Sloan Foundation",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "has been an Alfred P. Sloan Fellow"
+          },
+          {
+            "organization": "UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He has served on the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda"
+          },
+          {
+            "organization": "Save the Children USA",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a trustee of Save the Children USA"
+          },
+          {
+            "organization": "Global Education Evidence Advisory Panel",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "the Chair of the Global Education Evidence Advisory Panel"
+          },
+          {
+            "organization": "Global Advisory Board for Covid-19 Response of the government of West Bengal",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "the Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+            "awarding_body": "Royal Swedish Academy of Sciences",
+            "year": "2019",
+            "confidence": "high",
+            "supporting_quote": "2019 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel"
+          },
+          {
+            "award": "Infosys Prize in Social Sciences and Economics",
+            "awarding_body": "Infosys Science Foundation",
+            "year": "2009",
+            "confidence": "high",
+            "supporting_quote": "He received the Infosys Prize 2009 in Social Sciences and Economics"
+          },
+          {
+            "award": "Goldman Sachs Business Book of the Year",
+            "awarding_body": "Goldman Sachs",
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "which won the Goldman Sachs Business Book of the Year"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3174,
+      "chunk_index": 0,
+      "source_id": 1168,
+      "url": "https://economics.mit.edu/people/faculty/abhijit-banerjee/short-bio",
+      "domain": "economics.mit.edu",
+      "similarity": 0.4970255096204254,
+      "rerank_score": 0.4465194,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"National Academy of Sciences\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee is a fellow of the National Academy of Sciences\"\n    },\n    {\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee is a fellow of the American Academy of Arts and Sciences\"\n    },\n    {\n      \"organization\": \"Econometric Society\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee is a fellow of the Econometric Society\"\n    },\n    {\n      \"organization\": \"Abdul Latif Jameel Poverty Action Lab (J-PAL)\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"2003-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"he co-founded the Abdul Latif Jameel Poverty Action Lab (J-PAL) with Esther Duflo and Sendhil Mullainathan, and he remains one of the Lab’s Directors\"\n    },\n    {\n      \"organization\": \"U.N. Secretary-General’s High-level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Banerjee has served on the U.N. Secretary-General’s High-level Panel of Eminent Persons on the Post-2015 Development Agenda\"\n    },\n    {\n      \"organization\": \"Save the Children USA\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a trustee of Save the Children USA\"\n    },\n    {\n      \"organization\": \"British Museum\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a trustee of the British Museum\"\n    },\n    {\n      \"organization\": \"Global Education Evidence Advisory Panel\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is the Chair of the Global Education Evidence Advisory Panel\"\n    },\n    {\n      \"organization\": \"Global Advisory Board for Covid-19 Response of the government of West Bengal\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is the Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel\",\n      \"awarding_body\": \"Royal Swedish Academy of Sciences\",\n      \"year\": \"2019\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a co-recipient of the 2019 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel\"\n    },\n    {\n      \"award\": \"Infosys Prize\",\n      \"awarding_body\": null,\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a winner of the Infosys Prize\"\n    },\n    {\n      \"award\": \"Goldman Sachs Business Book of the Year\",\n      \"awarding_body\": null,\n      \"year\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Poor Economics, which won the Goldman Sachs Business Book of the Year\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "National Academy of Sciences",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Banerjee is a fellow of the National Academy of Sciences"
+          },
+          {
+            "organization": "American Academy of Arts and Sciences",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Banerjee is a fellow of the American Academy of Arts and Sciences"
+          },
+          {
+            "organization": "Econometric Society",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Banerjee is a fellow of the Econometric Society"
+          },
+          {
+            "organization": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+            "affiliation_type": "board",
+            "approximate_period": "2003-present",
+            "confidence": "high",
+            "supporting_quote": "he co-founded the Abdul Latif Jameel Poverty Action Lab (J-PAL) with Esther Duflo and Sendhil Mullainathan, and he remains one of the Lab’s Directors"
+          },
+          {
+            "organization": "U.N. Secretary-General’s High-level Panel of Eminent Persons on the Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Banerjee has served on the U.N. Secretary-General’s High-level Panel of Eminent Persons on the Post-2015 Development Agenda"
+          },
+          {
+            "organization": "Save the Children USA",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a trustee of Save the Children USA"
+          },
+          {
+            "organization": "British Museum",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a trustee of the British Museum"
+          },
+          {
+            "organization": "Global Education Evidence Advisory Panel",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is the Chair of the Global Education Evidence Advisory Panel"
+          },
+          {
+            "organization": "Global Advisory Board for Covid-19 Response of the government of West Bengal",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is the Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+            "awarding_body": "Royal Swedish Academy of Sciences",
+            "year": "2019",
+            "confidence": "high",
+            "supporting_quote": "a co-recipient of the 2019 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel"
+          },
+          {
+            "award": "Infosys Prize",
+            "awarding_body": null,
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "He is a winner of the Infosys Prize"
+          },
+          {
+            "award": "Goldman Sachs Business Book of the Year",
+            "awarding_body": null,
+            "year": null,
+            "confidence": "high",
+            "supporting_quote": "Poor Economics, which won the Goldman Sachs Business Book of the Year"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3170,
+      "chunk_index": 0,
+      "source_id": 1166,
+      "url": "https://www.carnegie.org/awards/honoree/abhijit-banerjee/",
+      "domain": "carnegie.org",
+      "similarity": 0.44771424820405237,
+      "rerank_score": 0.41591915,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Save the Children USA\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a trustee of Save the Children USA\"\n    },\n    {\n      \"organization\": \"British Museum\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a trustee of the British Museum\"\n    },\n    {\n      \"organization\": \"Global Education Evidence Advisory Panel\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is chair of the Global Education Evidence Advisory Panel\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel\",\n      \"awarding_body\": \"Royal Swedish Academy of Sciences\",\n      \"year\": \"2019\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2019, Banerjee... received the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel\"\n    },\n    {\n      \"award\": \"Financial Times and Goldman Sachs Business Book of the Year Award\",\n      \"awarding_body\": \"Financial Times and Goldman Sachs\",\n      \"year\": \"2011\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty (2011), which won the Financial Times and Goldman Sachs Business Book of the Year Award\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: Identified significant awards. Step 3: Classified each affiliation. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "Save the Children USA",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a trustee of Save the Children USA"
+          },
+          {
+            "organization": "British Museum",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a trustee of the British Museum"
+          },
+          {
+            "organization": "Global Education Evidence Advisory Panel",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is chair of the Global Education Evidence Advisory Panel"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+            "awarding_body": "Royal Swedish Academy of Sciences",
+            "year": "2019",
+            "confidence": "high",
+            "supporting_quote": "In 2019, Banerjee... received the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel"
+          },
+          {
+            "award": "Financial Times and Goldman Sachs Business Book of the Year Award",
+            "awarding_body": "Financial Times and Goldman Sachs",
+            "year": "2011",
+            "confidence": "high",
+            "supporting_quote": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty (2011), which won the Financial Times and Goldman Sachs Business Book of the Year Award"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3157,
+      "chunk_index": 0,
+      "source_id": 1162,
+      "url": "https://www.britannica.com/money/Abhijit-Banerjee",
+      "domain": "britannica.com",
+      "similarity": 0.4620302364810624,
+      "rerank_score": 0.35327253,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions Abhijit Banerjee's academic and professional roles but does not explicitly list supplementary affiliations like board memberships, fellowships, or advisory roles outside his primary employment. Step 2: The text clearly states he received the Nobel Prize in Economic Sciences in 2019. Step 3: The award type is straightforward. Step 4: The year of the award is explicitly stated.\",\n  \"affiliations\": [],\n  \"awards\": [\n    {\n      \"award\": \"Nobel Prize in Economic Sciences\",\n      \"awarding_body\": \"Royal Swedish Academy of Sciences\",\n      \"year\": \"2019\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"was awarded the 2019 Nobel Prize for Economics (the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel)\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions Abhijit Banerjee's academic and professional roles but does not explicitly list supplementary affiliations like board memberships, fellowships, or advisory roles outside his primary employment. Step 2: The text clearly states he received the Nobel Prize in Economic Sciences in 2019. Step 3: The award type is straightforward. Step 4: The year of the award is explicitly stated.",
+        "affiliations": [],
+        "awards": [
+          {
+            "award": "Nobel Prize in Economic Sciences",
+            "awarding_body": "Royal Swedish Academy of Sciences",
+            "year": "2019",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "was awarded the 2019 Nobel Prize for Economics (the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel)",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3125,
+      "chunk_index": 10,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4931876011423627,
+      "rerank_score": 0.34000343,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations for Abhijit Banerjee, focusing on roles outside primary employment. Found mentions of fellowship and elite body membership. Step 2: Identified significant awards, including the Nobel Prize. Step 3: Classified affiliations into types. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Fellows of the American Academy of Arts and Sciences\"\n    },\n    {\n      \"organization\": \"British Museum\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Trustees of the British Museum\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Nobel Prize in Economic Sciences\",\n      \"awarding_body\": \"Royal Swedish Academy of Sciences\",\n      \"year\": \"2019\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Indian Nobel laureates, Nobel laureates in Economics\"\n    },\n    {\n      \"award\": \"Gerald Loeb Special Book Award (Honorable Mention)\",\n      \"awarding_body\": null,\n      \"year\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"2012 (HM): Abhijit V. Banerjee, Esther Duflo\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations for Abhijit Banerjee, focusing on roles outside primary employment. Found mentions of fellowship and elite body membership. Step 2: Identified significant awards, including the Nobel Prize. Step 3: Classified affiliations into types. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "American Academy of Arts and Sciences",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Fellows of the American Academy of Arts and Sciences"
+          },
+          {
+            "organization": "British Museum",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Trustees of the British Museum"
+          }
+        ],
+        "awards": [
+          {
+            "award": "Nobel Prize in Economic Sciences",
+            "awarding_body": "Royal Swedish Academy of Sciences",
+            "year": "2019",
+            "confidence": "high",
+            "supporting_quote": "Indian Nobel laureates, Nobel laureates in Economics"
+          },
+          {
+            "award": "Gerald Loeb Special Book Award (Honorable Mention)",
+            "awarding_body": null,
+            "year": "2012",
+            "confidence": "high",
+            "supporting_quote": "2012 (HM): Abhijit V. Banerjee, Esther Duflo"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3117,
+      "chunk_index": 2,
+      "source_id": 1159,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.35440388124292643,
+      "rerank_score": 0.31239146,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment including fellowships, memberships, and advisory roles. Step 2: Identified significant awards and distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned years or periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Guggenheim Fellowship\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He has also been a Guggenheim Fellow and an Alfred P. Sloan Fellow.\"\n    },\n    {\n      \"organization\": \"Alfred P. Sloan Fellowship\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He has also been a Guggenheim Fellow and an Alfred P. Sloan Fellow.\"\n    },\n    {\n      \"organization\": \"American Academy of Arts and Sciences\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2004-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He was elected a fellow of the American Academy of Arts and Sciences in 2004.\"\n    },\n    {\n      \"organization\": \"United Nations Secretary-General's Panel of Experts\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2013\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2013, he was named by the United Nations Secretary-General Ban Ki-moon to a panel of experts tasked with updating the Millennium Development Goals after 2015.\"\n    },\n    {\n      \"organization\": \"Infosys Prize Social Sciences Jury\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2018\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He served on the Social Sciences jury for the Infosys Prize in 2018.\"\n    }\n  ],\n  \"awards\": [\n    {\n      \"award\": \"Infosys Prize\",\n      \"awarding_body\": \"Infosys Science Foundation\",\n      \"year\": \"2009\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2009, he received the Infosys Prize in the social sciences (economics) category.\"\n    },\n    {\n      \"award\": \"Gerald Loeb Award Honorable Mention for Business Book\",\n      \"awarding_body\": \"Gerald Loeb Award Foundation\",\n      \"year\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2012, he shared the Gerald Loeb Award Honorable Mention for Business Book with co-author Esther Duflo for their book Poor Economics.\"\n    },\n    {\n      \"award\": \"Bernhard-Harms-Prize\",\n      \"awarding_body\": \"Kiel Institute for the World Economy\",\n      \"year\": \"2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 2014, he received the Bernhard-Harms-Prize from the Kiel Institute for the World Economy.\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment including fellowships, memberships, and advisory roles. Step 2: Identified significant awards and distinctions. Step 3: Classified each affiliation into appropriate type. Step 4: Assigned years or periods where available.",
+        "affiliations": [
+          {
+            "organization": "Guggenheim Fellowship",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He has also been a Guggenheim Fellow and an Alfred P. Sloan Fellow."
+          },
+          {
+            "organization": "Alfred P. Sloan Fellowship",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He has also been a Guggenheim Fellow and an Alfred P. Sloan Fellow."
+          },
+          {
+            "organization": "American Academy of Arts and Sciences",
+            "affiliation_type": "membership",
+            "approximate_period": "2004-present",
+            "confidence": "high",
+            "supporting_quote": "He was elected a fellow of the American Academy of Arts and Sciences in 2004."
+          },
+          {
+            "organization": "United Nations Secretary-General's Panel of Experts",
+            "affiliation_type": "advisory",
+            "approximate_period": "2013",
+            "confidence": "high",
+            "supporting_quote": "In 2013, he was named by the United Nations Secretary-General Ban Ki-moon to a panel of experts tasked with updating the Millennium Development Goals after 2015."
+          },
+          {
+            "organization": "Infosys Prize Social Sciences Jury",
+            "affiliation_type": "advisory",
+            "approximate_period": "2018",
+            "confidence": "high",
+            "supporting_quote": "He served on the Social Sciences jury for the Infosys Prize in 2018."
+          }
+        ],
+        "awards": [
+          {
+            "award": "Infosys Prize",
+            "awarding_body": "Infosys Science Foundation",
+            "year": "2009",
+            "confidence": "high",
+            "supporting_quote": "In 2009, he received the Infosys Prize in the social sciences (economics) category."
+          },
+          {
+            "award": "Gerald Loeb Award Honorable Mention for Business Book",
+            "awarding_body": "Gerald Loeb Award Foundation",
+            "year": "2012",
+            "confidence": "high",
+            "supporting_quote": "In 2012, he shared the Gerald Loeb Award Honorable Mention for Business Book with co-author Esther Duflo for their book Poor Economics."
+          },
+          {
+            "award": "Bernhard-Harms-Prize",
+            "awarding_body": "Kiel Institute for the World Economy",
+            "year": "2014",
+            "confidence": "high",
+            "supporting_quote": "In 2014, he received the Bernhard-Harms-Prize from the Kiel Institute for the World Economy."
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3118,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text discusses Abhijit Banerjee's professional achievements, including awards and affiliations. Step 2 — It confirms the Nobel Prize in Economic Sciences (2019) but does not mention NBER, CEPR, or other awards/affiliations from candidate findings. Step 3 — New affiliations/awards mentioned include co-founding the Abdul Latif Jameel Poverty Action Lab, joining University of Zurich, and serving on Plaksha University's advisory board. Step 4 — Confidence is medium as it confirms the Nobel Prize but not all candidate findings.\",\n  \"confirms\": true,\n  \"confirmed_affiliations\": [],\n  \"confirmed_awards\": [\"Nobel Prize in Economic Sciences 2019\"],\n  \"new_affiliations_found\": [\"Abdul Latif Jameel Poverty Action Lab (co-founder)\", \"University of Zurich (faculty)\", \"Plaksha University (academic advisory board)\"],\n  \"new_awards_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"That same year, was awarded the Nobel Prize in Economics, together with Esther Duflo and Michael Kremer, for their experimental approach to alleviating global poverty.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text discusses Abhijit Banerjee's professional achievements, including awards and affiliations. Step 2 — It confirms the Nobel Prize in Economic Sciences (2019) but does not mention NBER, CEPR, or other awards/affiliations from candidate findings. Step 3 — New affiliations/awards mentioned include co-founding the Abdul Latif Jameel Poverty Action Lab, joining University of Zurich, and serving on Plaksha University's advisory board. Step 4 — Confidence is medium as it confirms the Nobel Prize but not all candidate findings.",
+        "confirms": true,
+        "confirmed_affiliations": [],
+        "confirmed_awards": [
+          "Nobel Prize in Economic Sciences 2019"
+        ],
+        "new_affiliations_found": [
+          "Abdul Latif Jameel Poverty Action Lab (co-founder)",
+          "University of Zurich (faculty)",
+          "Plaksha University (academic advisory board)"
+        ],
+        "new_awards_found": [],
+        "confidence": "medium",
+        "supporting_quote": "That same year, was awarded the Nobel Prize in Economics, together with Esther Duflo and Michael Kremer, for their experimental approach to alleviating global poverty."
+      },
+      "confirms": true,
+      "confidence": "medium",
+      "supporting_quote": "That same year, was awarded the Nobel Prize in Economics, together with Esther Duflo and Michael Kremer, for their experimental approach to alleviating global poverty.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3123,
+      "url": "https://en.wikipedia.org/wiki/Abhijit_Banerjee",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text discusses Abhijit Banerjee's professional achievements, including awards and affiliations. Step 2 — The source confirms his Nobel Prize in Economic Sciences 2019 but does not explicitly confirm his primary affiliations (Bureau for the Research in the Economic Analysis of Development, NBER, CEPR). Step 3 — No new affiliations or awards are mentioned beyond what is already known. Step 4 — Confidence is medium due to partial confirmation.\",\n  \"confirms\": true,\n  \"confirmed_affiliations\": [],\n  \"confirmed_awards\": [\"Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel (2019)\"],\n  \"new_affiliations_found\": [],\n  \"new_awards_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"\\\"Trio wins economics Nobel for science-based poverty fight\\\" - Reuters, 14 October 2019\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text discusses Abhijit Banerjee's professional achievements, including awards and affiliations. Step 2 — The source confirms his Nobel Prize in Economic Sciences 2019 but does not explicitly confirm his primary affiliations (Bureau for the Research in the Economic Analysis of Development, NBER, CEPR). Step 3 — No new affiliations or awards are mentioned beyond what is already known. Step 4 — Confidence is medium due to partial confirmation.",
+        "confirms": true,
+        "confirmed_affiliations": [],
+        "confirmed_awards": [
+          "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel (2019)"
+        ],
+        "new_affiliations_found": [],
+        "new_awards_found": [],
+        "confidence": "medium",
+        "supporting_quote": "\"Trio wins economics Nobel for science-based poverty fight\" - Reuters, 14 October 2019"
+      },
+      "confirms": true,
+      "confidence": "medium",
+      "supporting_quote": "\"Trio wins economics Nobel for science-based poverty fight\" - Reuters, 14 October 2019",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 2,
+    "primary_source_domain": "povertyactionlab.org",
+    "notes": null,
+    "affiliations": [
+      {
+        "organization": "Bureau for the Research in the Economic Analysis of Development",
+        "affiliation_type": "advisory",
+        "approximate_period": "past",
+        "confidence": "high",
+        "supporting_quote": "Abhijit is a past president of the Bureau for the Research in the Economic Analysis of Development"
+      },
+      {
+        "organization": "National Bureau of Economic Research (NBER)",
+        "affiliation_type": "fellowship",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "a Research Associate of the NBER"
+      },
+      {
+        "organization": "Centre for Economic Policy Research (CEPR)",
+        "affiliation_type": "fellowship",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "a CEPR research fellow"
+      },
+      {
+        "organization": "Kiel Institute",
+        "affiliation_type": "fellowship",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "International Research Fellow of the Kiel Institute"
+      },
+      {
+        "organization": "American Academy of Arts and Sciences",
+        "affiliation_type": "membership",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "a fellow of the American Academy of Arts and Sciences"
+      },
+      {
+        "organization": "Econometric Society",
+        "affiliation_type": "membership",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "a fellow of the Econometric Society"
+      },
+      {
+        "organization": "Guggenheim Foundation",
+        "affiliation_type": "fellowship",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "has been a Guggenheim Fellow"
+      },
+      {
+        "organization": "Alfred P. Sloan Foundation",
+        "affiliation_type": "fellowship",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "has been an Alfred P. Sloan Fellow"
+      },
+      {
+        "organization": "UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+        "affiliation_type": "advisory",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "He has served on the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda"
+      },
+      {
+        "organization": "Save the Children USA",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "He is a trustee of Save the Children USA"
+      },
+      {
+        "organization": "Global Education Evidence Advisory Panel",
+        "affiliation_type": "advisory",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "the Chair of the Global Education Evidence Advisory Panel"
+      },
+      {
+        "organization": "Global Advisory Board for Covid-19 Response of the government of West Bengal",
+        "affiliation_type": "advisory",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "the Chair of the Global Advisory Board for Covid-19 Response of the government of West Bengal"
+      }
+    ],
+    "awards": [
+      {
+        "award": "Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+        "awarding_body": "Royal Swedish Academy of Sciences",
+        "year": "2019",
+        "confidence": "high",
+        "supporting_quote": "2019 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel"
+      },
+      {
+        "award": "Infosys Prize in Social Sciences and Economics",
+        "awarding_body": "Infosys Science Foundation",
+        "year": "2009",
+        "confidence": "high",
+        "supporting_quote": "He received the Infosys Prize 2009 in Social Sciences and Economics"
+      },
+      {
+        "award": "Goldman Sachs Business Book of the Year",
+        "awarding_body": "Goldman Sachs",
+        "year": null,
+        "confidence": "high",
+        "supporting_quote": "which won the Goldman Sachs Business Book of the Year"
+      }
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

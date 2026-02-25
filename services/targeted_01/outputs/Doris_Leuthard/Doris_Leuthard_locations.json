@@ -1,0 +1,617 @@
+{
+  "person_dir_name": "Doris_Leuthard",
+  "person_db_name": "Doris Leuthard",
+  "question_id": "locations",
+  "question_display": "Main Locations (Geographical Mobility)",
+  "run_timestamp": "2026-02-25T18:08:23.312485+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Digital Cooperation",
+    "hlp_year": "2018-2019",
+    "nomination_year": 2018,
+    "hlp_nomination_age": 55,
+    "birth_year": "1963",
+    "nationality": [
+      "Swiss"
+    ]
+  },
+  "retrieval": {
+    "query": "Doris Leuthard lived based located city country worked residence office career",
+    "chunks_in_db": 17,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 999,
+        "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5737,
+        "rerank_score": 0.6812
+      },
+      {
+        "chunk_id": 1009,
+        "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+        "domain": "bellfoodgroup.com",
+        "similarity": 0.4544,
+        "rerank_score": 0.615
+      },
+      {
+        "chunk_id": 1007,
+        "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+        "domain": "wikigender.oecdcode.org",
+        "similarity": 0.5445,
+        "rerank_score": 0.5387
+      },
+      {
+        "chunk_id": 1010,
+        "url": "https://www.kofiannanfoundation.org/publication/doris-leuthard-joins-the-board-of-the-kofi-annan-foundation/",
+        "domain": "kofiannanfoundation.org",
+        "similarity": 0.4414,
+        "rerank_score": 0.4885
+      },
+      {
+        "chunk_id": 1003,
+        "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.574,
+        "rerank_score": 0.4826
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 999,
+      "chunk_index": 0,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.573739412329174,
+      "rerank_score": 0.6811549,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Merenschwand\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1963-present\",\n      \"role_context\": \"Born and likely resided during early life and career\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Born (1963-04-10) 10 April 1963 (age 62) Merenschwand, Switzerland\"\n    },\n    {\n      \"city\": \"Zurich\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1980s-1990s\",\n      \"role_context\": \"Attended University of Zurich for education\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Alma mater University of Zurich\"\n    },\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2006-2018\",\n      \"role_context\": \"Served as Swiss Federal Councillor and held ministerial positions\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Swiss Federal Councillor from 2006 to 2018\"\n    }\n  ],\n  \"countries\": [\"Switzerland\"],\n  \"supporting_quote\": \"Swiss Federal Councillor from 2006 to 2018\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence. Step 2: Assessed duration of stay for each location based on roles and context. Step 3: Assigned approximate year ranges based on available dates. Step 4: Assessed confidence levels for each location. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Merenschwand",
+            "country": "Switzerland",
+            "approximate_period": "1963-present",
+            "role_context": "Born and likely resided during early life and career",
+            "confidence": "high",
+            "supporting_quote": "Born (1963-04-10) 10 April 1963 (age 62) Merenschwand, Switzerland"
+          },
+          {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "approximate_period": "1980s-1990s",
+            "role_context": "Attended University of Zurich for education",
+            "confidence": "medium",
+            "supporting_quote": "Alma mater University of Zurich"
+          },
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2006-2018",
+            "role_context": "Served as Swiss Federal Councillor and held ministerial positions",
+            "confidence": "high",
+            "supporting_quote": "Swiss Federal Councillor from 2006 to 2018"
+          }
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "supporting_quote": "Swiss Federal Councillor from 2006 to 2018",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1009,
+      "chunk_index": 0,
+      "source_id": 598,
+      "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+      "domain": "bellfoodgroup.com",
+      "similarity": 0.4544283894537964,
+      "rerank_score": 0.6150191,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Doris Leuthard's work and career. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Aarau\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1997-2006\",\n      \"role_context\": \"National Councillor of the canton of Aargau; 1999–2006, Grand Councillor of the canton of Aargau; 1997–2000\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"National Councillor of the canton of Aargau; 1999–2006, Grand Councillor of the canton of Aargau; 1997–2000\"\n    },\n    {\n      \"city\": \"Wohlen\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1991-2006\",\n      \"role_context\": \"Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006\"\n    },\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2006-2018\",\n      \"role_context\": \"Federal Councillor; 2006–2018\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Federal Councillor; 2006–2018\"\n    },\n    {\n      \"city\": \"Zurich\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2021-present\",\n      \"role_context\": \"Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021, ETH Zurich Foundation, Zurich; member of the Foundation Board\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021\"\n    },\n    {\n      \"city\": \"Basel\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2021-present\",\n      \"role_context\": \"Transgourmet Holding AG, Basel; Vice-Chair\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Transgourmet Holding AG, Basel; Vice-Chair\"\n    },\n    {\n      \"city\": \"Lucerne\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2021-present\",\n      \"role_context\": \"Green Business Award, Lucerne; Jury Chair, Lucerne Dialogue, Lucerne; Chair of the Advisory Board\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Green Business Award, Lucerne; Jury Chair\"\n    },\n    {\n      \"city\": \"Geneva\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2021-present\",\n      \"role_context\": \"Swiss Digital Foundation, Geneva; Chair of the Foundation Board\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Swiss Digital Foundation, Geneva; Chair of the Foundation Board\"\n    }\n  ],\n  \"countries\": [\"Switzerland\"],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Doris Leuthard's work and career. Step 2: Filtered locations based on likely duration of 6+ months. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Aarau",
+            "country": "Switzerland",
+            "approximate_period": "1997-2006",
+            "role_context": "National Councillor of the canton of Aargau; 1999–2006, Grand Councillor of the canton of Aargau; 1997–2000",
+            "confidence": "high",
+            "supporting_quote": "National Councillor of the canton of Aargau; 1999–2006, Grand Councillor of the canton of Aargau; 1997–2000"
+          },
+          {
+            "city": "Wohlen",
+            "country": "Switzerland",
+            "approximate_period": "1991-2006",
+            "role_context": "Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006",
+            "confidence": "high",
+            "supporting_quote": "Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006"
+          },
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2006-2018",
+            "role_context": "Federal Councillor; 2006–2018",
+            "confidence": "medium",
+            "supporting_quote": "Federal Councillor; 2006–2018"
+          },
+          {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "approximate_period": "2021-present",
+            "role_context": "Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021, ETH Zurich Foundation, Zurich; member of the Foundation Board",
+            "confidence": "high",
+            "supporting_quote": "Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021"
+          },
+          {
+            "city": "Basel",
+            "country": "Switzerland",
+            "approximate_period": "2021-present",
+            "role_context": "Transgourmet Holding AG, Basel; Vice-Chair",
+            "confidence": "high",
+            "supporting_quote": "Transgourmet Holding AG, Basel; Vice-Chair"
+          },
+          {
+            "city": "Lucerne",
+            "country": "Switzerland",
+            "approximate_period": "2021-present",
+            "role_context": "Green Business Award, Lucerne; Jury Chair, Lucerne Dialogue, Lucerne; Chair of the Advisory Board",
+            "confidence": "high",
+            "supporting_quote": "Green Business Award, Lucerne; Jury Chair"
+          },
+          {
+            "city": "Geneva",
+            "country": "Switzerland",
+            "approximate_period": "2021-present",
+            "role_context": "Swiss Digital Foundation, Geneva; Chair of the Foundation Board",
+            "confidence": "high",
+            "supporting_quote": "Swiss Digital Foundation, Geneva; Chair of the Foundation Board"
+          }
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1007,
+      "chunk_index": 0,
+      "source_id": 597,
+      "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+      "domain": "wikigender.oecdcode.org",
+      "similarity": 0.5445033943536006,
+      "rerank_score": 0.53866833,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text explicitly mentions Switzerland as Doris Leuthard's country of origin and the location of her political and legal career. Step 2: Her roles in the National Council (1999-2006) and the Swiss Federal Council (2006-present) imply long-term residence in Switzerland. Step 3: The approximate periods are derived from the explicit dates provided for her roles. Step 4: Confidence is high for Switzerland due to explicit mentions and clear duration. Step 5: Only Switzerland is mentioned as a country.\",\n  \"locations\": [\n    {\n      \"city\": null,\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1999-present\",\n      \"role_context\": \"Member of the National Council (1999-2006) and Swiss Federal Council (2006-present)\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"countries\": [\"Switzerland\"],\n  \"supporting_quote\": \"Doris Leuthard (born 10 April 1963) is a Switzerland politician and lawyer. Since 1 August 2006, she has been a member of the Swiss Federal Council, the executive authority of the Swiss Government.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text explicitly mentions Switzerland as Doris Leuthard's country of origin and the location of her political and legal career. Step 2: Her roles in the National Council (1999-2006) and the Swiss Federal Council (2006-present) imply long-term residence in Switzerland. Step 3: The approximate periods are derived from the explicit dates provided for her roles. Step 4: Confidence is high for Switzerland due to explicit mentions and clear duration. Step 5: Only Switzerland is mentioned as a country.",
+        "locations": [
+          {
+            "city": null,
+            "country": "Switzerland",
+            "approximate_period": "1999-present",
+            "role_context": "Member of the National Council (1999-2006) and Swiss Federal Council (2006-present)",
+            "confidence": "high"
+          }
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "supporting_quote": "Doris Leuthard (born 10 April 1963) is a Switzerland politician and lawyer. Since 1 August 2006, she has been a member of the Swiss Federal Council, the executive authority of the Swiss Government.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1010,
+      "chunk_index": 0,
+      "source_id": 599,
+      "url": "https://www.kofiannanfoundation.org/publication/doris-leuthard-joins-the-board-of-the-kofi-annan-foundation/",
+      "domain": "kofiannanfoundation.org",
+      "similarity": 0.44139233977854947,
+      "rerank_score": 0.48850358,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence: Zurich, Paris, Calgary, Aargau, Switzerland. Step 2: Filtered for 6+ months duration based on roles and education. Step 3: Assigned approximate periods based on available dates. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Zurich\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1980s-1990s\",\n      \"role_context\": \"studied law at the University of Zurich\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Ms Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary.\"\n    },\n    {\n      \"city\": \"Paris\",\n      \"country\": \"France\",\n      \"approximate_period\": \"1980s-1990s\",\n      \"role_context\": \"completed language and study courses\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Ms Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary.\"\n    },\n    {\n      \"city\": \"Calgary\",\n      \"country\": \"Canada\",\n      \"approximate_period\": \"1980s-1990s\",\n      \"role_context\": \"completed language and study courses\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Ms Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary.\"\n    },\n    {\n      \"city\": \"Aargau\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1999-2006\",\n      \"role_context\": \"member of the National Council representing canton Aargau\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 1999 to 2006, Doris Leuthard was a member of the National Council representing canton Aargau.\"\n    },\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2006-2018\",\n      \"role_context\": \"member of the Swiss Federal Council\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Doris Leuthard is a Swiss politician and lawyer and was a member of the Swiss Federal Council between 2006 and 2018.\"\n    }\n  ],\n  \"countries\": [\"Switzerland\", \"France\", \"Canada\"],\n  \"supporting_quote\": \"Doris Leuthard is a Swiss politician and lawyer and was a member of the Swiss Federal Council between 2006 and 2018.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence: Zurich, Paris, Calgary, Aargau, Switzerland. Step 2: Filtered for 6+ months duration based on roles and education. Step 3: Assigned approximate periods based on available dates. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "approximate_period": "1980s-1990s",
+            "role_context": "studied law at the University of Zurich",
+            "confidence": "high",
+            "supporting_quote": "Ms Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary."
+          },
+          {
+            "city": "Paris",
+            "country": "France",
+            "approximate_period": "1980s-1990s",
+            "role_context": "completed language and study courses",
+            "confidence": "medium",
+            "supporting_quote": "Ms Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary."
+          },
+          {
+            "city": "Calgary",
+            "country": "Canada",
+            "approximate_period": "1980s-1990s",
+            "role_context": "completed language and study courses",
+            "confidence": "medium",
+            "supporting_quote": "Ms Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary."
+          },
+          {
+            "city": "Aargau",
+            "country": "Switzerland",
+            "approximate_period": "1999-2006",
+            "role_context": "member of the National Council representing canton Aargau",
+            "confidence": "high",
+            "supporting_quote": "From 1999 to 2006, Doris Leuthard was a member of the National Council representing canton Aargau."
+          },
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2006-2018",
+            "role_context": "member of the Swiss Federal Council",
+            "confidence": "high",
+            "supporting_quote": "Doris Leuthard is a Swiss politician and lawyer and was a member of the Swiss Federal Council between 2006 and 2018."
+          }
+        ],
+        "countries": [
+          "Switzerland",
+          "France",
+          "Canada"
+        ],
+        "supporting_quote": "Doris Leuthard is a Swiss politician and lawyer and was a member of the Swiss Federal Council between 2006 and 2018.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1003,
+      "chunk_index": 4,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5740358481822803,
+      "rerank_score": 0.48264915,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence. Step 2: Assessed duration of stay for each location, assuming 6+ months for full-time roles and education. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.\",\n  \"locations\": [\n    {\n      \"city\": \"Muri\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1963-present\",\n      \"role_context\": \"People from Muri District\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"People from Muri District\"\n    },\n    {\n      \"city\": \"Zurich\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1983-1987\",\n      \"role_context\": \"University of Zurich alumni\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"University of Zurich alumni\"\n    },\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2006-2018\",\n      \"role_context\": \"Member of the Federal Council (Switzerland)\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Members of the Federal Council (Switzerland)\"\n    }\n  ],\n  \"countries\": [\"Switzerland\"],\n  \"supporting_quote\": \"People from Muri District, University of Zurich alumni, Members of the Federal Council (Switzerland)\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence. Step 2: Assessed duration of stay for each location, assuming 6+ months for full-time roles and education. Step 3: Assigned approximate year ranges based on available context. Step 4: Assessed confidence levels. Step 5: Compiled de-duplicated country list.",
+        "locations": [
+          {
+            "city": "Muri",
+            "country": "Switzerland",
+            "approximate_period": "1963-present",
+            "role_context": "People from Muri District",
+            "confidence": "high",
+            "supporting_quote": "People from Muri District"
+          },
+          {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "approximate_period": "1983-1987",
+            "role_context": "University of Zurich alumni",
+            "confidence": "high",
+            "supporting_quote": "University of Zurich alumni"
+          },
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2006-2018",
+            "role_context": "Member of the Federal Council (Switzerland)",
+            "confidence": "medium",
+            "supporting_quote": "Members of the Federal Council (Switzerland)"
+          }
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "supporting_quote": "People from Muri District, University of Zurich alumni, Members of the Federal Council (Switzerland)",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1004,
+      "chunk_index": 0,
+      "source_id": 595,
+      "url": "https://clubmadrid.org/who/members/leuthard-doris/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.46536978624868447,
+      "rerank_score": 0.47563025,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence, including Zurich, Paris, Calgary, Aargau, and Switzerland. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Assigned confidence levels based on explicitness and clarity of information. Step 5: Compiled a de-duplicated list of countries.\",\n  \"locations\": [\n    {\n      \"city\": \"Zurich\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"studied law at the University of Zurich\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Doris Leuthard studied law at the University of Zurich\"\n    },\n    {\n      \"city\": \"Paris\",\n      \"country\": \"France\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"completed language and study courses\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"completed language and study courses in Paris and Calgary\"\n    },\n    {\n      \"city\": \"Calgary\",\n      \"country\": \"Canada\",\n      \"approximate_period\": \"1980s\",\n      \"role_context\": \"completed language and study courses\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"completed language and study courses in Paris and Calgary\"\n    },\n    {\n      \"city\": \"Aargau\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"1999-2006\",\n      \"role_context\": \"member of the National Council representing canton Aargau\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 1999 to 2006, Doris Leuthard was a member of the National Council representing canton Aargau\"\n    },\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2006-2010\",\n      \"role_context\": \"head of the Federal Department of Economic Affairs\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"President Leuthard was head of the Federal Department of Economic Affairs (FDEA) from August 2006 to October 2010\"\n    },\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2010-2018\",\n      \"role_context\": \"head of the Federal Department of Environment, Transport, Energy and Communications\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Following a reshuffle of portfolios after the by-election of two new councillors in 2010, Leuthard replaced outgoing Moritz Leuenberger at the head of the Federal Department of Environment, Transport, Energy and Communications\"\n    }\n  ],\n  \"countries\": [\"Switzerland\", \"France\", \"Canada\"],\n  \"supporting_quote\": \"Doris Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified locations mentioned in connection with Doris Leuthard's work, career, or residence, including Zurich, Paris, Calgary, Aargau, and Switzerland. Step 2: Assessed duration for each location based on roles and context. Step 3: Assigned approximate year ranges based on provided dates. Step 4: Assigned confidence levels based on explicitness and clarity of information. Step 5: Compiled a de-duplicated list of countries.",
+        "locations": [
+          {
+            "city": "Zurich",
+            "country": "Switzerland",
+            "approximate_period": "1980s",
+            "role_context": "studied law at the University of Zurich",
+            "confidence": "high",
+            "supporting_quote": "Doris Leuthard studied law at the University of Zurich"
+          },
+          {
+            "city": "Paris",
+            "country": "France",
+            "approximate_period": "1980s",
+            "role_context": "completed language and study courses",
+            "confidence": "medium",
+            "supporting_quote": "completed language and study courses in Paris and Calgary"
+          },
+          {
+            "city": "Calgary",
+            "country": "Canada",
+            "approximate_period": "1980s",
+            "role_context": "completed language and study courses",
+            "confidence": "medium",
+            "supporting_quote": "completed language and study courses in Paris and Calgary"
+          },
+          {
+            "city": "Aargau",
+            "country": "Switzerland",
+            "approximate_period": "1999-2006",
+            "role_context": "member of the National Council representing canton Aargau",
+            "confidence": "high",
+            "supporting_quote": "From 1999 to 2006, Doris Leuthard was a member of the National Council representing canton Aargau"
+          },
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2006-2010",
+            "role_context": "head of the Federal Department of Economic Affairs",
+            "confidence": "medium",
+            "supporting_quote": "President Leuthard was head of the Federal Department of Economic Affairs (FDEA) from August 2006 to October 2010"
+          },
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2010-2018",
+            "role_context": "head of the Federal Department of Environment, Transport, Energy and Communications",
+            "confidence": "medium",
+            "supporting_quote": "Following a reshuffle of portfolios after the by-election of two new councillors in 2010, Leuthard replaced outgoing Moritz Leuenberger at the head of the Federal Department of Environment, Transport, Energy and Communications"
+          }
+        ],
+        "countries": [
+          "Switzerland",
+          "France",
+          "Canada"
+        ],
+        "supporting_quote": "Doris Leuthard studied law at the University of Zurich and completed language and study courses in Paris and Calgary",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1013,
+      "chunk_index": 0,
+      "source_id": 602,
+      "url": "https://www.cwf.ch/event/bscc-luncheon-with-doris-leuthard-former-president-of-the-swiss-confederation-and-swiss-federal-councillor/",
+      "domain": "cwf.ch",
+      "similarity": 0.4344831803083353,
+      "rerank_score": 0.4302197,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions Doris Leuthard's roles as Swiss Federal Councillor and President of Switzerland, as well as her involvement with the Federal Department of Economic Affairs and the Federal Department of Environment, Transport, Energy and Communications. These roles are all based in Switzerland. Step 2: Given her positions as Federal Councillor and President, it is highly likely she resided in Switzerland for extended periods, well beyond 6 months. Step 3: Her tenure as Federal Councillor is explicitly stated as 2006-2018, and she served as President in 2010 and 2017. Step 4: Confidence is high as her roles and duration are explicitly mentioned. Step 5: The only country mentioned is Switzerland.\",\n  \"locations\": [\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2006-2018\",\n      \"role_context\": \"Swiss Federal Councillor and President of Switzerland\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"countries\": [\"Switzerland\"],\n  \"supporting_quote\": \"Coming from the Christian Democratic People’s Party (CVP/PDC), she was first elected to the Swiss Federal Council in 2006 and stepped down in 2018.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions Doris Leuthard's roles as Swiss Federal Councillor and President of Switzerland, as well as her involvement with the Federal Department of Economic Affairs and the Federal Department of Environment, Transport, Energy and Communications. These roles are all based in Switzerland. Step 2: Given her positions as Federal Councillor and President, it is highly likely she resided in Switzerland for extended periods, well beyond 6 months. Step 3: Her tenure as Federal Councillor is explicitly stated as 2006-2018, and she served as President in 2010 and 2017. Step 4: Confidence is high as her roles and duration are explicitly mentioned. Step 5: The only country mentioned is Switzerland.",
+        "locations": [
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2006-2018",
+            "role_context": "Swiss Federal Councillor and President of Switzerland",
+            "confidence": "high"
+          }
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "supporting_quote": "Coming from the Christian Democratic People’s Party (CVP/PDC), she was first elected to the Swiss Federal Council in 2006 and stepped down in 2018.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1015,
+      "chunk_index": 0,
+      "source_id": 603,
+      "url": "https://carnegiecouncil.org/people/doris-leuthard",
+      "domain": "carnegiecouncil.org",
+      "similarity": 0.3792601888402168,
+      "rerank_score": 0.4292146,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text mentions Doris Leuthard's roles as a member of the Swiss Federal Council and President of the Swiss Confederation, both of which are based in Switzerland. No specific city is mentioned, but Bern is the de facto capital and seat of the Swiss government. Step 2: Her roles as a Federal Council member and President imply full-time employment for 6+ months. Step 3: The period for these roles is explicitly stated as 2006-2018. Step 4: Confidence is medium as the country is explicit, but the city is inferred. Step 5: Only Switzerland is mentioned as a country.\",\n  \"locations\": [\n    {\n      \"city\": \"Bern\",\n      \"country\": \"Switzerland\",\n      \"approximate_period\": \"2006-2018\",\n      \"role_context\": \"member of the Swiss Federal Council and President of the Swiss Confederation\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"countries\": [\"Switzerland\"],\n  \"supporting_quote\": \"Doris Leuthard was a member of the Swiss Federal Council between 2006 and 2018. She was elected as president of the Swiss Confederation for 2010 and 2017.\",\n  \"confidence\": \"medium\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text mentions Doris Leuthard's roles as a member of the Swiss Federal Council and President of the Swiss Confederation, both of which are based in Switzerland. No specific city is mentioned, but Bern is the de facto capital and seat of the Swiss government. Step 2: Her roles as a Federal Council member and President imply full-time employment for 6+ months. Step 3: The period for these roles is explicitly stated as 2006-2018. Step 4: Confidence is medium as the country is explicit, but the city is inferred. Step 5: Only Switzerland is mentioned as a country.",
+        "locations": [
+          {
+            "city": "Bern",
+            "country": "Switzerland",
+            "approximate_period": "2006-2018",
+            "role_context": "member of the Swiss Federal Council and President of the Swiss Confederation",
+            "confidence": "medium"
+          }
+        ],
+        "countries": [
+          "Switzerland"
+        ],
+        "supporting_quote": "Doris Leuthard was a member of the Swiss Federal Council between 2006 and 2018. She was elected as president of the Swiss Confederation for 2010 and 2017.",
+        "confidence": "medium",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1001,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text discusses Doris Leuthard's career, including her roles as a Federal Councillor and her involvement in various projects and panels. Step 2: The text does not explicitly confirm the primary locations mentioned in the candidate findings (Aarau, Wohlen, Bern). However, it does mention Switzerland as the country context, which aligns with the candidate findings. Step 3: The text mentions Ticino as a location where Doris Leuthard was on vacation, but this is not related to her employment or residence. No new work or residence locations are found. Step 4: The confidence is medium, as the source confirms the country context but does not explicitly confirm the specific cities mentioned in the candidate findings.\",\n  \"confirms\": true,\n  \"confirmed_locations\": [\"Switzerland\"],\n  \"new_locations_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Swiss media reported that Doris Leuthard was the victim of aggression by her husband in their vacation home in Ticino with a knife.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text discusses Doris Leuthard's career, including her roles as a Federal Councillor and her involvement in various projects and panels. Step 2: The text does not explicitly confirm the primary locations mentioned in the candidate findings (Aarau, Wohlen, Bern). However, it does mention Switzerland as the country context, which aligns with the candidate findings. Step 3: The text mentions Ticino as a location where Doris Leuthard was on vacation, but this is not related to her employment or residence. No new work or residence locations are found. Step 4: The confidence is medium, as the source confirms the country context but does not explicitly confirm the specific cities mentioned in the candidate findings.",
+        "confirms": true,
+        "confirmed_locations": [
+          "Switzerland"
+        ],
+        "new_locations_found": [],
+        "confidence": "medium",
+        "supporting_quote": "Swiss media reported that Doris Leuthard was the victim of aggression by her husband in their vacation home in Ticino with a knife."
+      },
+      "confirms": true,
+      "confidence": "medium",
+      "supporting_quote": "Swiss media reported that Doris Leuthard was the victim of aggression by her husband in their vacation home in Ticino with a knife.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1002,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text discusses Doris Leuthard's political career, including her roles in the Swiss Federal Council and as President of Switzerland. Step 2: The text confirms her role as a Member of the Swiss Federal Council (2006–2018) and other positions in Bern, but does not explicitly mention Aarau, Aargau, or Wohlen. Step 3: No new locations are mentioned beyond Switzerland and Bern. Step 4: Confidence is medium as the source confirms her work in Bern and Switzerland but lacks explicit mention of other locations.\",\n  \"confirms\": true,\n  \"confirmed_locations\": [\"Bern, Switzerland\"],\n  \"new_locations_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Member of the Swiss Federal Council 2006–2018\"\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text discusses Doris Leuthard's political career, including her roles in the Swiss Federal Council and as President of Switzerland. Step 2: The text confirms her role as a Member of the Swiss Federal Council (2006–2018) and other positions in Bern, but does not explicitly mention Aarau, Aargau, or Wohlen. Step 3: No new locations are mentioned beyond Switzerland and Bern. Step 4: Confidence is medium as the source confirms her work in Bern and Switzerland but lacks explicit mention of other locations.",
+        "confirms": true,
+        "confirmed_locations": [
+          "Bern, Switzerland"
+        ],
+        "new_locations_found": [],
+        "confidence": "medium",
+        "supporting_quote": "Member of the Swiss Federal Council 2006–2018"
+      },
+      "confirms": true,
+      "confidence": "medium",
+      "supporting_quote": "Member of the Swiss Federal Council 2006–2018",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 2,
+    "primary_source_domain": "bellfoodgroup.com",
+    "notes": null,
+    "locations": [
+      {
+        "city": "Aarau",
+        "country": "Switzerland",
+        "approximate_period": "1997-2006",
+        "role_context": "National Councillor of the canton of Aargau; 1999–2006, Grand Councillor of the canton of Aargau; 1997–2000",
+        "confidence": "high",
+        "supporting_quote": "National Councillor of the canton of Aargau; 1999–2006, Grand Councillor of the canton of Aargau; 1997–2000"
+      },
+      {
+        "city": "Wohlen",
+        "country": "Switzerland",
+        "approximate_period": "1991-2006",
+        "role_context": "Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006",
+        "confidence": "high",
+        "supporting_quote": "Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006"
+      },
+      {
+        "city": "Bern",
+        "country": "Switzerland",
+        "approximate_period": "2006-2018",
+        "role_context": "Federal Councillor; 2006–2018",
+        "confidence": "medium",
+        "supporting_quote": "Federal Councillor; 2006–2018"
+      },
+      {
+        "city": "Zurich",
+        "country": "Switzerland",
+        "approximate_period": "2021-present",
+        "role_context": "Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021, ETH Zurich Foundation, Zurich; member of the Foundation Board",
+        "confidence": "high",
+        "supporting_quote": "Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021"
+      },
+      {
+        "city": "Basel",
+        "country": "Switzerland",
+        "approximate_period": "2021-present",
+        "role_context": "Transgourmet Holding AG, Basel; Vice-Chair",
+        "confidence": "high",
+        "supporting_quote": "Transgourmet Holding AG, Basel; Vice-Chair"
+      },
+      {
+        "city": "Lucerne",
+        "country": "Switzerland",
+        "approximate_period": "2021-present",
+        "role_context": "Green Business Award, Lucerne; Jury Chair, Lucerne Dialogue, Lucerne; Chair of the Advisory Board",
+        "confidence": "high",
+        "supporting_quote": "Green Business Award, Lucerne; Jury Chair"
+      },
+      {
+        "city": "Geneva",
+        "country": "Switzerland",
+        "approximate_period": "2021-present",
+        "role_context": "Swiss Digital Foundation, Geneva; Chair of the Foundation Board",
+        "confidence": "high",
+        "supporting_quote": "Swiss Digital Foundation, Geneva; Chair of the Foundation Board"
+      }
+    ],
+    "countries": [
+      "Switzerland"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

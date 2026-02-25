@@ -1,0 +1,302 @@
+{
+  "person_dir_name": "Gunilla_Carlsson",
+  "person_db_name": "Gunilla Carlsson",
+  "question_id": "education",
+  "question_display": "Education Trajectory",
+  "run_timestamp": "2026-02-25T18:02:57.297740+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 49,
+    "birth_year": "1963",
+    "nationality": [
+      "Swedish"
+    ]
+  },
+  "retrieval": {
+    "query": "Gunilla Carlsson university degree education BA MA PhD diploma studies graduated",
+    "chunks_in_db": 22,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3369,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5752,
+        "rerank_score": 0.7082
+      },
+      {
+        "chunk_id": 3375,
+        "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+        "domain": "unaids.org",
+        "similarity": 0.4707,
+        "rerank_score": 0.605
+      },
+      {
+        "chunk_id": 3373,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4432,
+        "rerank_score": 0.5681
+      },
+      {
+        "chunk_id": 3389,
+        "url": "https://www.europarl.europa.eu/meps/en/2261/GUNILLA_CARLSSON/history/5",
+        "domain": "europarl.europa.eu",
+        "similarity": 0.5271,
+        "rerank_score": 0.5283
+      },
+      {
+        "chunk_id": 3377,
+        "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+        "domain": "gcsp.ch",
+        "similarity": 0.5206,
+        "rerank_score": 0.5093
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3369,
+      "chunk_index": 0,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5751622360626089,
+      "rerank_score": 0.70823324,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not explicitly mention any university-level degrees held by Gunilla Carlsson. The text focuses on her political career, early life, and activities but does not provide details about her formal education or degrees. Therefore, we cannot determine her educational trajectory based on the provided information.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not explicitly mention any university-level degrees held by Gunilla Carlsson. The text focuses on her political career, early life, and activities but does not provide details about her formal education or degrees. Therefore, we cannot determine her educational trajectory based on the provided information.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3375,
+      "chunk_index": 0,
+      "source_id": 1240,
+      "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+      "domain": "unaids.org",
+      "similarity": 0.47067410180522995,
+      "rerank_score": 0.60498303,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not explicitly mention any university-level degrees held by Gunilla Carlsson. It only states that she was 'born, raised and educated in Sweden,' without specifying any degrees. Therefore, we cannot determine her educational trajectory in terms of degrees, disciplines, or institutions.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"Ms Carlsson was born, raised and educated in Sweden.\",\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not explicitly mention any university-level degrees held by Gunilla Carlsson. It only states that she was 'born, raised and educated in Sweden,' without specifying any degrees. Therefore, we cannot determine her educational trajectory in terms of degrees, disciplines, or institutions.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "Ms Carlsson was born, raised and educated in Sweden.",
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3373,
+      "chunk_index": 4,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.44321947774489684,
+      "rerank_score": 0.568057,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not mention any university-level degrees held by Gunilla Carlsson. The text focuses on her political career, roles, and affiliations but does not provide information about her educational background. Therefore, all fields related to degrees, geographic category, disciplines, and institution prestige cannot be determined.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not mention any university-level degrees held by Gunilla Carlsson. The text focuses on her political career, roles, and affiliations but does not provide information about her educational background. Therefore, all fields related to degrees, geographic category, disciplines, and institution prestige cannot be determined.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3389,
+      "chunk_index": 0,
+      "source_id": 1248,
+      "url": "https://www.europarl.europa.eu/meps/en/2261/GUNILLA_CARLSSON/history/5",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.527134718347012,
+      "rerank_score": 0.528315,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided does not contain any information about Gunilla Carlsson's university-level degrees or educational background. Therefore, it is not possible to identify any degrees, classify institutions, or determine disciplines.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided does not contain any information about Gunilla Carlsson's university-level degrees or educational background. Therefore, it is not possible to identify any degrees, classify institutions, or determine disciplines.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3377,
+      "chunk_index": 0,
+      "source_id": 1242,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "similarity": 0.5205512088691789,
+      "rerank_score": 0.50930125,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not explicitly mention any university-level degrees held by Gunilla Carlsson. The text focuses on her political career, roles, and affiliations but does not provide details about her educational background. Therefore, we cannot determine her degrees, geographic category, disciplines, or institution prestige.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not explicitly mention any university-level degrees held by Gunilla Carlsson. The text focuses on her political career, roles, and affiliations but does not provide details about her educational background. Therefore, we cannot determine her degrees, geographic category, disciplines, or institution prestige.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3380,
+      "chunk_index": 1,
+      "source_id": 1243,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "similarity": 0.5608136006778587,
+      "rerank_score": 0.49685127,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided does not contain any explicit information about Gunilla Carlsson's university-level degrees, institutions attended, or fields of study. The text appears to be unrelated to her educational background, focusing instead on general information and activities. Therefore, it is not possible to determine her educational trajectory from this source.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided does not contain any explicit information about Gunilla Carlsson's university-level degrees, institutions attended, or fields of study. The text appears to be unrelated to her educational background, focusing instead on general information and activities. Therefore, it is not possible to determine her educational trajectory from this source.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3372,
+      "chunk_index": 3,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.41588209293104306,
+      "rerank_score": 0.49187145,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided does not contain any explicit information about Gunilla Carlsson's university-level degrees, institutions attended, or fields of study. Therefore, it is not possible to determine her educational trajectory based on the given information.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided does not contain any explicit information about Gunilla Carlsson's university-level degrees, institutions attended, or fields of study. Therefore, it is not possible to determine her educational trajectory based on the given information.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3381,
+      "chunk_index": 2,
+      "source_id": 1243,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "similarity": 0.5174141873694295,
+      "rerank_score": 0.48411235,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided does not contain any explicit information about Gunilla Carlsson's university-level degrees, institutions attended, or fields of study. The text focuses on her professional experience, roles, and affiliations, but does not mention any educational credentials. Therefore, it is impossible to determine her educational trajectory from this source.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided does not contain any explicit information about Gunilla Carlsson's university-level degrees, institutions attended, or fields of study. The text focuses on her professional experience, roles, and affiliations, but does not mention any educational credentials. Therefore, it is impossible to determine her educational trajectory from this source.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [],
+  "result": {
+    "status": "cannot_determine",
+    "confidence": null,
+    "supporting_quote": null,
+    "confirmation_count": 0,
+    "primary_source_domain": null,
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 0,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

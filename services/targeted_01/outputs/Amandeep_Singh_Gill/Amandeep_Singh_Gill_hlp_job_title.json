@@ -1,0 +1,26 @@
+{
+  "person_dir_name": "Amandeep_Singh_Gill",
+  "person_db_name": "Amandeep Singh Gill",
+  "question_id": "hlp_job_title",
+  "run_timestamp": "2026-02-25T16:14:05.287642+00:00",
+  "input": {
+    "hlp_name": null,
+    "hlp_year": null,
+    "hlp_nomination_age": null,
+    "birth_year": "1968",
+    "nationality": [
+      "Indian"
+    ]
+  },
+  "retrieval": {},
+  "extraction_trace": [],
+  "verification_trace": [],
+  "result": {
+    "status": "skipped"
+  },
+  "meta": {
+    "skipped": true,
+    "skip_reason": "hlp_year is null in base.json",
+    "error": null
+  }
+}

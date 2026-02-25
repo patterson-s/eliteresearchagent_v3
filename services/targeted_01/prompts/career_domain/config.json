@@ -1,0 +1,26 @@
+{
+  "question_id": "career_domain",
+  "display_name": "Career Domain (Archetypes)",
+  "output_filename_suffix": "career_domain",
+  "mode": "synthesis",
+  "skip_if_null": [],
+
+  "depends_on": {
+    "HLP_JOB_RESULT":   "hlp_job_title",
+    "EDUCATION_RESULT": "education",
+    "LOCATIONS_RESULT": "locations",
+    "JOBS_RESULT":      "jobs",
+    "SECTORS_RESULT":   "sectors",
+    "NETWORKS_RESULT":  "networks"
+  },
+
+  "extraction": {
+    "model": "command-a-03-2025",
+    "temperature": 0.1,
+    "max_tokens": 1500
+  },
+
+  "prompts": {
+    "synthesis": "prompts/career_domain/synthesis.txt"
+  }
+}

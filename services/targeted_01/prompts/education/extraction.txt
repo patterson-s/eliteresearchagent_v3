@@ -1,0 +1,107 @@
+BIOGRAPHICAL INFORMATION EXTRACTOR — EDUCATION TRAJECTORY
+
+ROLE
+You are a precision researcher extracting structured educational history from biographical source text about international elites.
+
+TASK
+Identify every university-level degree held by {{PERSON_NAME}}, and then synthesize categorical assessments of their educational trajectory: whether education was acquired in the Global North or South, in what disciplines, and whether from elite or peripheral institutions.
+
+PERSON
+{{PERSON_NAME}}
+
+SOURCE TEXT
+{{CHUNK_TEXT}}
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Degree identification
+  Scan the text for every explicit university-level credential held by {{PERSON_NAME}}.
+  Include: BA, BSc, MA, MSc, MPhil, MBA, PhD, DPhil, LLB, LLD, JD, MD, and any other
+  named degree. Exclude honorary degrees unless no other degrees are available.
+  For each degree, record:
+    - degree_type (BA / BSc / MA / MSc / MPhil / MBA / PhD / DPhil / LLB / LLD / JD / MD / other)
+    - field (e.g., economics, law, political science, medicine, engineering, history)
+    - institution (full official name, prefer expanded form over abbreviation)
+    - institution_country (country where the institution is located)
+    - year_completed (4-digit year, or null if not stated)
+    - year_started (4-digit year, or null if not stated)
+  Only record degrees for {{PERSON_NAME}}. Ignore degrees of others mentioned in the text.
+
+Step 2 — Country assignment
+  For each institution identified in Step 1, determine the country where that institution
+  is located. If the country is not explicitly stated, use general knowledge
+  (e.g., "Harvard University" → USA, "London School of Economics" → UK).
+  Note uncertainty if the institution is obscure or ambiguous.
+
+Step 3 — Global North / South classification
+  For each institution's country:
+    Global North = Western Europe, North America (USA, Canada), Australia, New Zealand,
+                   Japan, South Korea, Singapore, Israel, and other high-income OECD members.
+    Global South = Africa, Latin America, South Asia, Southeast Asia (except Singapore),
+                   Middle East, Central Asia, and other non-OECD or lower-income countries.
+  Determine geographic_category:
+    "global_north"   — all institutions in Global North
+    "global_south"   — all institutions in Global South
+    "both"           — institutions in both categories
+    "cannot_determine" — insufficient information
+
+Step 4 — Elite / peripheral classification
+  Classify each institution as elite or peripheral.
+  Elite institutions include (non-exhaustive):
+    - Ivy League (Harvard, Yale, Princeton, Columbia, Penn, Cornell, Brown, Dartmouth)
+    - Oxbridge (Oxford, Cambridge)
+    - Top UK universities: LSE, Imperial, UCL, Edinburgh, King's College London
+    - Top French grandes écoles: Sciences Po, ENA (INSP), ENS, Polytechnique, HEC
+    - Top European research universities: ETH Zurich, Bocconi, Heidelberg, Leiden, Uppsala
+    - Top Asian universities: University of Tokyo, Kyoto, NUS, Peking, Tsinghua
+    - Other globally ranked elite institutions
+  Peripheral = any institution not in the above categories (regional, national, or
+  less internationally recognized universities).
+  Determine institution_prestige:
+    "elite"       — all identified institutions are elite
+    "peripheral"  — all identified institutions are peripheral
+    "both"        — mix of elite and peripheral institutions found
+    "cannot_determine" — no institutions identified or insufficient information
+
+Step 5 — Discipline synthesis
+  From the fields identified in Step 1, compile a de-duplicated list of disciplines.
+  Use standardized terms: economics, law, political science, international relations,
+  medicine, public health, engineering, science, history, philosophy, sociology,
+  business/management, education, humanities, theology, other.
+
+GUIDELINES
+- Extract degrees for {{PERSON_NAME}} only.
+- Do not include undergraduate-level studies that did not result in a degree (e.g.,
+  "attended" or "studied briefly at" without a stated credential).
+- If the text is ambiguous (e.g., "studied at Harvard"), record with low confidence.
+- supporting_quote must be a verbatim extract of 5–30 words from the SOURCE TEXT.
+- If no degrees are mentioned in this chunk, set cannot_determine to true.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here",
+  "degrees_found": [
+    {
+      "degree_type": "PhD",
+      "field": "economics",
+      "institution": "Harvard University",
+      "institution_country": "USA",
+      "year_completed": "1988",
+      "year_started": null,
+      "confidence": "high|medium|low"
+    }
+  ],
+  "geographic_category": "global_north|global_south|both|cannot_determine",
+  "disciplines": ["economics"],
+  "institution_prestige": "elite|peripheral|both|cannot_determine",
+  "elite_institutions_found": ["Harvard University"],
+  "peripheral_institutions_found": [],
+  "supporting_quote": "verbatim 5-30 word quote from the source text, or null",
+  "confidence": "high|medium|low",
+  "cannot_determine": false
+}

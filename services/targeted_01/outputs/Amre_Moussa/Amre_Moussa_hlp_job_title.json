@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Amre_Moussa",
+  "person_db_name": "Amre Moussa",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:14:28.175154+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Threats, Challenges and Change for International Peace and Security",
+    "hlp_year": "2003-2004",
+    "nomination_year": 2003,
+    "hlp_nomination_age": 67,
+    "birth_year": "1936",
+    "nationality": [
+      "Egyptian"
+    ]
+  },
+  "retrieval": {
+    "query": "Amre Moussa job title position role career 2003 appointed nominated serving",
+    "chunks_in_db": 18,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 296,
+        "url": "https://www.europarl.europa.eu/meetdocs/2004_2009/documents/dv/afet_04112008_cvmoussa/afet_04112008_cvmoussaEN.pdf",
+        "domain": "europarl.europa.eu",
+        "similarity": 0.5569,
+        "rerank_score": 0.7916
+      },
+      {
+        "chunk_id": 297,
+        "url": "https://en.wikipedia.org/wiki/Amr_Moussa",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5918,
+        "rerank_score": 0.7479
+      },
+      {
+        "chunk_id": 311,
+        "url": "https://ooli.org.ng/team/dr-amre-moussa/",
+        "domain": "ooli.org.ng",
+        "similarity": 0.4878,
+        "rerank_score": 0.7031
+      },
+      {
+        "chunk_id": 306,
+        "url": "https://www.interpeace.org/member/amre-moussa/",
+        "domain": "interpeace.org",
+        "similarity": 0.5139,
+        "rerank_score": 0.6586
+      },
+      {
+        "chunk_id": 299,
+        "url": "https://en.wikipedia.org/wiki/Amr_Moussa",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5039,
+        "rerank_score": 0.6219
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 296,
+      "chunk_index": 0,
+      "source_id": 414,
+      "url": "https://www.europarl.europa.eu/meetdocs/2004_2009/documents/dv/afet_04112008_cvmoussa/afet_04112008_cvmoussaEN.pdf",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.5568617945534614,
+      "rerank_score": 0.7915799,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions 'In 2003 Mr. Moussa served as a member of the United Nations High Level Panel on Threats, Challenges and Change for International Peace and Security.' This provides a clear temporal marker. Step 2 — Role identification: The text states that in May 2001, Mr. Moussa was appointed as Secretary General of the League of Arab States. Step 3 — Organization identification: The organization linked to this role is the League of Arab States. Step 4 — Temporal match assessment: The role of Secretary General of the League of Arab States began in 2001 and is not stated to have ended before 2003, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence, as the role is explicitly stated with a start date that overlaps with the nomination year.\",\n  \"job_title_at_nomination\": \"Secretary General\",\n  \"organization_at_nomination\": \"League of Arab States\",\n  \"year_reference\": \"2001\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"In May 2001 he was appointed as Secretary General of the League of Arab States.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions 'In 2003 Mr. Moussa served as a member of the United Nations High Level Panel on Threats, Challenges and Change for International Peace and Security.' This provides a clear temporal marker. Step 2 — Role identification: The text states that in May 2001, Mr. Moussa was appointed as Secretary General of the League of Arab States. Step 3 — Organization identification: The organization linked to this role is the League of Arab States. Step 4 — Temporal match assessment: The role of Secretary General of the League of Arab States began in 2001 and is not stated to have ended before 2003, making it the role held at the time of nomination. Step 5 — Confidence assessment: High confidence, as the role is explicitly stated with a start date that overlaps with the nomination year.",
+        "job_title_at_nomination": "Secretary General",
+        "organization_at_nomination": "League of Arab States",
+        "year_reference": "2001",
+        "confidence": "high",
+        "supporting_quote": "In May 2001 he was appointed as Secretary General of the League of Arab States.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Secretary General",
+      "organization_at_nomination": "League of Arab States",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 297,
+      "url": "https://en.wikipedia.org/wiki/Amr_Moussa",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Amr Moussa and discusses his career and biography, including his role as Secretary-General of the Arab League. Step 2 — Title match assessment: The text explicitly mentions 'Secretary-General of the Arab League,' which is an exact match to the claim. Step 3 — Temporal alignment: The text states Moussa held this role from 1 June 2001 to 1 July 2011, which includes the year 2003. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Amr Moussa... was the Secretary-General of the Arab League, a 22-member forum representing Arab states, from 1 June 2001 to 1 July 2011.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Amr Moussa and discusses his career and biography, including his role as Secretary-General of the Arab League. Step 2 — Title match assessment: The text explicitly mentions 'Secretary-General of the Arab League,' which is an exact match to the claim. Step 3 — Temporal alignment: The text states Moussa held this role from 1 June 2001 to 1 July 2011, which includes the year 2003. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Amr Moussa... was the Secretary-General of the Arab League, a 22-member forum representing Arab states, from 1 June 2001 to 1 July 2011.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Amr Moussa... was the Secretary-General of the Arab League, a 22-member forum representing Arab states, from 1 June 2001 to 1 July 2011.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 311,
+      "url": "https://ooli.org.ng/team/dr-amre-moussa/",
+      "domain": "ooli.org.ng",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Amre Moussa and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly states that Amre Moussa was appointed 'Secretary-General of the League of Arab States', which is an exact match to the claim. Step 3 — Temporal alignment: The text indicates that after serving as Egypt's Minister of Foreign Affairs until 2001, he was appointed Secretary-General, and in 2003, he became a member of the UN High-Level Panel, confirming the role was held around 2003.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"after which he was appointed Secretary-General of the League of Arab States.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Amre Moussa and discusses his career and biography, including his roles and achievements. Step 2 — Title match assessment: The text explicitly states that Amre Moussa was appointed 'Secretary-General of the League of Arab States', which is an exact match to the claim. Step 3 — Temporal alignment: The text indicates that after serving as Egypt's Minister of Foreign Affairs until 2001, he was appointed Secretary-General, and in 2003, he became a member of the UN High-Level Panel, confirming the role was held around 2003.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "after which he was appointed Secretary-General of the League of Arab States.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "after which he was appointed Secretary-General of the League of Arab States.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 306,
+      "url": "https://www.interpeace.org/member/amre-moussa/",
+      "domain": "interpeace.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Amre Moussa and discusses his career and biography, including his roles as Egyptian Ambassador to India, Permanent Representative of Egypt to the U.N., Foreign Minister of Egypt, and Secretary General of the League of Arab States. Step 2 — Title match assessment: The text explicitly mentions 'Secretary General of the League of Arab States,' which is an exact match to the claim. Step 3 — Temporal alignment: The text provides the year range for this role as 2001-2011, which includes 2003. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"the Secretary General of the League of Arab States (2001-2011).\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Amre Moussa and discusses his career and biography, including his roles as Egyptian Ambassador to India, Permanent Representative of Egypt to the U.N., Foreign Minister of Egypt, and Secretary General of the League of Arab States. Step 2 — Title match assessment: The text explicitly mentions 'Secretary General of the League of Arab States,' which is an exact match to the claim. Step 3 — Temporal alignment: The text provides the year range for this role as 2001-2011, which includes 2003. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "the Secretary General of the League of Arab States (2001-2011).",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "the Secretary General of the League of Arab States (2001-2011).",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Secretary General",
+    "organization_at_nomination": "League of Arab States",
+    "confidence": "high",
+    "supporting_quote": "In May 2001 he was appointed as Secretary General of the League of Arab States.",
+    "confirmation_count": 3,
+    "primary_source_domain": "europarl.europa.eu",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

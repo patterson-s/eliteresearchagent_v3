@@ -1,0 +1,63 @@
+{
+  "person_dir_name": "Doris_Leuthard",
+  "person_db_name": "Doris Leuthard",
+  "question_id": "career_domain",
+  "question_display": "Career Domain (Archetypes)",
+  "run_timestamp": "2026-02-25T18:10:31.280303+00:00",
+  "input": {
+    "birth_year": "1963",
+    "nationality": [
+      "Swiss"
+    ]
+  },
+  "synthesis_inputs": {
+    "HLP_JOB_RESULT": "[loaded from hlp_job_title]",
+    "EDUCATION_RESULT": "[loaded from education]",
+    "LOCATIONS_RESULT": "[loaded from locations]",
+    "JOBS_RESULT": "[loaded from jobs]",
+    "SECTORS_RESULT": "[loaded from sectors]",
+    "NETWORKS_RESULT": "[loaded from networks]"
+  },
+  "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Jobs review: Doris Leuthard's primary roles are heavily concentrated in the political domain, including positions as Federal Councillor, Head of various Federal Departments, and President of the Swiss Confederation. Secondary roles include corporate board positions and civil society advisory roles. Step 2 — Duration weighting: The political roles span over a decade (2006-2018), while corporate and civil society roles are more recent and secondary. Step 3 — Sectors cross-check: Her primary sectors (environment, energy, transport, communications, and government) align strongly with her political roles, particularly her leadership in the Federal Department of Environment, Transport, Energy and Communications. Step 4 — Networks cross-check: Her professional networks include corporate board seats and civil society advisory roles, but these are secondary to her extensive political career. Step 5 — Dominant domain identification: The political domain clearly dominates her career. Step 6 — Hybrid test: While she has secondary exposure to corporate and civil society domains, these do not account for a comparable share of her career, nor do they represent a genuine hybrid with the political domain.\",\n  \"domain_evidence\": {\n    \"academic\": \"\",\n    \"civil_society\": \"Secondary roles in advisory positions for foundations and awards, such as Jury Chair for Green Business Award and Chair of the Advisory Board for Lucerne Dialogue.\",\n    \"corporate\": \"Secondary roles as Vice-Chair of the Board of Directors for Coop Group Cooperative and other corporate board positions.\",\n    \"diplomatic\": \"\",\n    \"political\": \"Primary roles as Federal Councillor, Head of Federal Departments, President of the Swiss Confederation, and Leader of the Swiss Christian Democratic People’s Party (CVP).\",\n    \"international\": \"\",\n    \"other\": \"\"\n  },\n  \"dominant_domain\": \"political\",\n  \"is_hybrid\": false,\n  \"hybrid_domains\": [],\n  \"alternative_domain_suggestion\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+  "parsed": {
+    "reasoning": "Step 1 — Jobs review: Doris Leuthard's primary roles are heavily concentrated in the political domain, including positions as Federal Councillor, Head of various Federal Departments, and President of the Swiss Confederation. Secondary roles include corporate board positions and civil society advisory roles. Step 2 — Duration weighting: The political roles span over a decade (2006-2018), while corporate and civil society roles are more recent and secondary. Step 3 — Sectors cross-check: Her primary sectors (environment, energy, transport, communications, and government) align strongly with her political roles, particularly her leadership in the Federal Department of Environment, Transport, Energy and Communications. Step 4 — Networks cross-check: Her professional networks include corporate board seats and civil society advisory roles, but these are secondary to her extensive political career. Step 5 — Dominant domain identification: The political domain clearly dominates her career. Step 6 — Hybrid test: While she has secondary exposure to corporate and civil society domains, these do not account for a comparable share of her career, nor do they represent a genuine hybrid with the political domain.",
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "Secondary roles in advisory positions for foundations and awards, such as Jury Chair for Green Business Award and Chair of the Advisory Board for Lucerne Dialogue.",
+      "corporate": "Secondary roles as Vice-Chair of the Board of Directors for Coop Group Cooperative and other corporate board positions.",
+      "diplomatic": "",
+      "political": "Primary roles as Federal Councillor, Head of Federal Departments, President of the Swiss Confederation, and Leader of the Swiss Christian Democratic People’s Party (CVP).",
+      "international": "",
+      "other": ""
+    },
+    "dominant_domain": "political",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "alternative_domain_suggestion": null,
+    "confidence": "high",
+    "cannot_determine": false
+  },
+  "result": {
+    "status": "found",
+    "dominant_domain": "political",
+    "is_hybrid": false,
+    "hybrid_domains": [],
+    "domain_evidence": {
+      "academic": "",
+      "civil_society": "Secondary roles in advisory positions for foundations and awards, such as Jury Chair for Green Business Award and Chair of the Advisory Board for Lucerne Dialogue.",
+      "corporate": "Secondary roles as Vice-Chair of the Board of Directors for Coop Group Cooperative and other corporate board positions.",
+      "diplomatic": "",
+      "political": "Primary roles as Federal Councillor, Head of Federal Departments, President of the Swiss Confederation, and Leader of the Swiss Christian Democratic People’s Party (CVP).",
+      "international": "",
+      "other": ""
+    },
+    "alternative_domain_suggestion": null,
+    "confidence": "high"
+  },
+  "meta": {
+    "mode": "synthesis",
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

@@ -1,0 +1,1004 @@
+{
+  "person_dir_name": "Doris_Leuthard",
+  "person_db_name": "Doris Leuthard",
+  "question_id": "jobs",
+  "question_display": "Main Jobs (Organizational Mobility)",
+  "run_timestamp": "2026-02-25T18:08:23.311486+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Digital Cooperation",
+    "hlp_year": "2018-2019",
+    "nomination_year": 2018,
+    "hlp_nomination_age": 55,
+    "birth_year": "1963",
+    "nationality": [
+      "Swiss"
+    ]
+  },
+  "retrieval": {
+    "query": "Doris Leuthard job title director minister professor CEO secretary general career appointment position employer organization",
+    "chunks_in_db": 17,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1009,
+        "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+        "domain": "bellfoodgroup.com",
+        "similarity": 0.545,
+        "rerank_score": 0.5996
+      },
+      {
+        "chunk_id": 1007,
+        "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+        "domain": "wikigender.oecdcode.org",
+        "similarity": 0.5755,
+        "rerank_score": 0.5293
+      },
+      {
+        "chunk_id": 999,
+        "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6029,
+        "rerank_score": 0.5156
+      },
+      {
+        "chunk_id": 1013,
+        "url": "https://www.cwf.ch/event/bscc-luncheon-with-doris-leuthard-former-president-of-the-swiss-confederation-and-swiss-federal-councillor/",
+        "domain": "cwf.ch",
+        "similarity": 0.4599,
+        "rerank_score": 0.497
+      },
+      {
+        "chunk_id": 1004,
+        "url": "https://clubmadrid.org/who/members/leuthard-doris/",
+        "domain": "clubmadrid.org",
+        "similarity": 0.5123,
+        "rerank_score": 0.4812
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1009,
+      "chunk_index": 0,
+      "source_id": 598,
+      "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+      "domain": "bellfoodgroup.com",
+      "similarity": 0.5450310012687523,
+      "rerank_score": 0.5996498,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles explicitly mentioned for Doris Leuthard, including governmental, corporate, and civil society positions. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods for each role based on explicit dates. Step 4: Classified domains as political, corporate, or civil_society based on role nature. Step 5: Assessed prominence as primary or secondary based on role description.\",\n  \"jobs\": [\n    {\n      \"title\": \"Federal Councillor\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006–2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Federal Councillor; 2006–2018\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Economic Affairs\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006–2010\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"head of the Federal Department of Economic Affairs (2006–2010)\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Environment, Transport, Energy and Communications\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2010–2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018)\"\n    },\n    {\n      \"title\": \"Vice-President of the Swiss Confederation\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2009, 2016\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Vice-President of the Swiss Confederation (2009 and 2016)\"\n    },\n    {\n      \"title\": \"President of the Swiss Confederation\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2010, 2017\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"President of the Swiss Confederation (2010 and 2017)\"\n    },\n    {\n      \"title\": \"Leader of the Swiss Christian Democratic Peopleʼs Party (CVP)\",\n      \"organization\": \"Swiss Christian Democratic Peopleʼs Party (CVP)\",\n      \"approximate_period\": \"2004–2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Leader of the Swiss Christian Democratic Peopleʼs Party (CVP); 2004–2006\"\n    },\n    {\n      \"title\": \"National Councillor\",\n      \"organization\": \"Canton of Aargau\",\n      \"approximate_period\": \"1999–2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"National Councillor of the canton of Aargau; 1999–2006\"\n    },\n    {\n      \"title\": \"Grand Councillor\",\n      \"organization\": \"Canton of Aargau\",\n      \"approximate_period\": \"1997–2000\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Grand Councillor of the canton of Aargau; 1997–2000\"\n    },\n    {\n      \"title\": \"Partner\",\n      \"organization\": \"Fricker Attorneys-at-Law\",\n      \"approximate_period\": \"1991–2006\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006\"\n    },\n    {\n      \"title\": \"Vice-Chair of the Board of Directors\",\n      \"organization\": \"Coop Group Cooperative\",\n      \"approximate_period\": \"2021-present\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Coop Pronto AG\",\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Coop Pronto AG, Allschwil\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Stadler Rail AG\",\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Stadler Rail AG, Bussnang\"\n    },\n    {\n      \"title\": \"Vice-Chair\",\n      \"organization\": \"Transgourmet Holding AG\",\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Transgourmet Holding AG, Basel; Vice-Chair\"\n    },\n    {\n      \"title\": \"Member of the Foundation Board\",\n      \"organization\": \"ETH Zurich Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"ETH Zurich Foundation, Zurich; member of the Foundation Board\"\n    },\n    {\n      \"title\": \"Jury Chair\",\n      \"organization\": \"Green Business Award\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Green Business Award, Lucerne; Jury Chair\"\n    },\n    {\n      \"title\": \"Chair of the Advisory Board\",\n      \"organization\": \"Lucerne Dialogue\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Lucerne Dialogue, Lucerne; Chair of the Advisory Board\"\n    },\n    {\n      \"title\": \"Chair of the Foundation Board\",\n      \"organization\": \"Swiss Digital Foundation\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Swiss Digital Foundation, Geneva; Chair of the Foundation Board\"\n    },\n    {\n      \"title\": \"Member of the Foundation Board\",\n      \"organization\": \"Venture\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Venture, Zurich; member of the Foundation Board\"\n    },\n    {\n      \"title\": \"Co-Chair\",\n      \"organization\": \"Association National Exhibition Svizra27\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Association National Exhibition Svizra27, Aarau; Co-Chair\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles explicitly mentioned for Doris Leuthard, including governmental, corporate, and civil society positions. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods for each role based on explicit dates. Step 4: Classified domains as political, corporate, or civil_society based on role nature. Step 5: Assessed prominence as primary or secondary based on role description.",
+        "jobs": [
+          {
+            "title": "Federal Councillor",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006–2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Federal Councillor; 2006–2018"
+          },
+          {
+            "title": "Head of the Federal Department of Economic Affairs",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006–2010",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "head of the Federal Department of Economic Affairs (2006–2010)"
+          },
+          {
+            "title": "Head of the Federal Department of Environment, Transport, Energy and Communications",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2010–2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018)"
+          },
+          {
+            "title": "Vice-President of the Swiss Confederation",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2009, 2016",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Vice-President of the Swiss Confederation (2009 and 2016)"
+          },
+          {
+            "title": "President of the Swiss Confederation",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2010, 2017",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "President of the Swiss Confederation (2010 and 2017)"
+          },
+          {
+            "title": "Leader of the Swiss Christian Democratic Peopleʼs Party (CVP)",
+            "organization": "Swiss Christian Democratic Peopleʼs Party (CVP)",
+            "approximate_period": "2004–2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Leader of the Swiss Christian Democratic Peopleʼs Party (CVP); 2004–2006"
+          },
+          {
+            "title": "National Councillor",
+            "organization": "Canton of Aargau",
+            "approximate_period": "1999–2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "National Councillor of the canton of Aargau; 1999–2006"
+          },
+          {
+            "title": "Grand Councillor",
+            "organization": "Canton of Aargau",
+            "approximate_period": "1997–2000",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Grand Councillor of the canton of Aargau; 1997–2000"
+          },
+          {
+            "title": "Partner",
+            "organization": "Fricker Attorneys-at-Law",
+            "approximate_period": "1991–2006",
+            "domain": "corporate",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006"
+          },
+          {
+            "title": "Vice-Chair of the Board of Directors",
+            "organization": "Coop Group Cooperative",
+            "approximate_period": "2021-present",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Coop Pronto AG",
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Coop Pronto AG, Allschwil"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Stadler Rail AG",
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Stadler Rail AG, Bussnang"
+          },
+          {
+            "title": "Vice-Chair",
+            "organization": "Transgourmet Holding AG",
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Transgourmet Holding AG, Basel; Vice-Chair"
+          },
+          {
+            "title": "Member of the Foundation Board",
+            "organization": "ETH Zurich Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "ETH Zurich Foundation, Zurich; member of the Foundation Board"
+          },
+          {
+            "title": "Jury Chair",
+            "organization": "Green Business Award",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Green Business Award, Lucerne; Jury Chair"
+          },
+          {
+            "title": "Chair of the Advisory Board",
+            "organization": "Lucerne Dialogue",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Lucerne Dialogue, Lucerne; Chair of the Advisory Board"
+          },
+          {
+            "title": "Chair of the Foundation Board",
+            "organization": "Swiss Digital Foundation",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Swiss Digital Foundation, Geneva; Chair of the Foundation Board"
+          },
+          {
+            "title": "Member of the Foundation Board",
+            "organization": "Venture",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Venture, Zurich; member of the Foundation Board"
+          },
+          {
+            "title": "Co-Chair",
+            "organization": "Association National Exhibition Svizra27",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Association National Exhibition Svizra27, Aarau; Co-Chair"
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1007,
+      "chunk_index": 0,
+      "source_id": 597,
+      "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+      "domain": "wikigender.oecdcode.org",
+      "similarity": 0.5755365942843976,
+      "rerank_score": 0.529337,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include member of the National Council, president of the Christian Democratic People’s Party, member of the Swiss Federal Council, and Head of the Federal Department of Economic Affairs. Step 2: Organizations are the National Council, Christian Democratic People’s Party, Swiss Federal Council, and Federal Department of Economic Affairs. Step 3: Periods are 1999-2006 for National Council, 2004-2006 for party presidency, 2006-present for Federal Council, and 2006-present for FDEA. Step 4: Domains are 'political' for all roles. Step 5: Prominence is 'primary' for all roles.\",\n  \"jobs\": [\n    {\n      \"title\": \"Member of the National Council\",\n      \"organization\": \"National Council of Switzerland\",\n      \"approximate_period\": \"1999-2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"President of the Christian Democratic People’s Party\",\n      \"organization\": \"Christian Democratic People’s Party\",\n      \"approximate_period\": \"2004-2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Swiss Federal Council\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006-present\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Economic Affairs\",\n      \"organization\": \"Federal Department of Economic Affairs\",\n      \"approximate_period\": \"2006-present\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"From 1999 – 2006, Doris Leuthard was a member of the National Council and president of the Christian Democratic People’s Party from 2004-6. She was elected to the Swiss Federal Council on 1 August 2006, and is responsible for the Doha Round negotiations of the World Trade Organization. She is the Head of the Federal Department of Economic Affairs (FDEA).\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include member of the National Council, president of the Christian Democratic People’s Party, member of the Swiss Federal Council, and Head of the Federal Department of Economic Affairs. Step 2: Organizations are the National Council, Christian Democratic People’s Party, Swiss Federal Council, and Federal Department of Economic Affairs. Step 3: Periods are 1999-2006 for National Council, 2004-2006 for party presidency, 2006-present for Federal Council, and 2006-present for FDEA. Step 4: Domains are 'political' for all roles. Step 5: Prominence is 'primary' for all roles.",
+        "jobs": [
+          {
+            "title": "Member of the National Council",
+            "organization": "National Council of Switzerland",
+            "approximate_period": "1999-2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "President of the Christian Democratic People’s Party",
+            "organization": "Christian Democratic People’s Party",
+            "approximate_period": "2004-2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Swiss Federal Council",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006-present",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Head of the Federal Department of Economic Affairs",
+            "organization": "Federal Department of Economic Affairs",
+            "approximate_period": "2006-present",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "From 1999 – 2006, Doris Leuthard was a member of the National Council and president of the Christian Democratic People’s Party from 2004-6. She was elected to the Swiss Federal Council on 1 August 2006, and is responsible for the Doha Round negotiations of the World Trade Organization. She is the Head of the Federal Department of Economic Affairs (FDEA).",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 999,
+      "chunk_index": 0,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6029256188031241,
+      "rerank_score": 0.5155961,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Swiss Federal Councillor, President of Switzerland, Vice President of Switzerland, Head of the Department of Environment, Transport, Energy and Communications, Head of the Department of Economic Affairs, Member of the Swiss Federal Council, and member of the board of the Kofi Annan Foundation and Stadler Rail. Step 2: Organizations are explicitly named in the text. Step 3: Dates are extracted directly from the text. Step 4: Domain classification is based on the nature of each role. Step 5: Prominence is assessed based on the role's full-time or part-time nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Member of the Swiss Federal Council\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006-2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"President of Switzerland\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2010, 2017\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Vice President of Switzerland\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2009, 2016\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Head of the Department of Environment, Transport, Energy and Communications\",\n      \"organization\": \"Swiss Federal Government\",\n      \"approximate_period\": \"2010-2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Head of the Department of Economic Affairs\",\n      \"organization\": \"Swiss Federal Government\",\n      \"approximate_period\": \"2006-2010\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the board\",\n      \"organization\": \"Kofi Annan Foundation\",\n      \"approximate_period\": \"2019-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the board\",\n      \"organization\": \"Stadler Rail\",\n      \"approximate_period\": \"2019-present\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Doris Leuthard... served as a Member of the Swiss Federal Council from 2006 to 2018... As of 19 December 2019 she is a member of the board of the Kofi Annan Foundation and Stadler Rail.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Swiss Federal Councillor, President of Switzerland, Vice President of Switzerland, Head of the Department of Environment, Transport, Energy and Communications, Head of the Department of Economic Affairs, Member of the Swiss Federal Council, and member of the board of the Kofi Annan Foundation and Stadler Rail. Step 2: Organizations are explicitly named in the text. Step 3: Dates are extracted directly from the text. Step 4: Domain classification is based on the nature of each role. Step 5: Prominence is assessed based on the role's full-time or part-time nature.",
+        "jobs": [
+          {
+            "title": "Member of the Swiss Federal Council",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006-2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "President of Switzerland",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2010, 2017",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Vice President of Switzerland",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2009, 2016",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Head of the Department of Environment, Transport, Energy and Communications",
+            "organization": "Swiss Federal Government",
+            "approximate_period": "2010-2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Head of the Department of Economic Affairs",
+            "organization": "Swiss Federal Government",
+            "approximate_period": "2006-2010",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the board",
+            "organization": "Kofi Annan Foundation",
+            "approximate_period": "2019-present",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the board",
+            "organization": "Stadler Rail",
+            "approximate_period": "2019-present",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Doris Leuthard... served as a Member of the Swiss Federal Council from 2006 to 2018... As of 19 December 2019 she is a member of the board of the Kofi Annan Foundation and Stadler Rail.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1013,
+      "chunk_index": 0,
+      "source_id": 602,
+      "url": "https://www.cwf.ch/event/bscc-luncheon-with-doris-leuthard-former-president-of-the-swiss-confederation-and-swiss-federal-councillor/",
+      "domain": "cwf.ch",
+      "similarity": 0.459911704956227,
+      "rerank_score": 0.49699774,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Swiss Federal Councillor, President of the Swiss Confederation, Head of the Federal Department of Economic Affairs, Head of the Federal Department of Environment, Transport, Energy and Communications, and member of various boards including the Kofi Annan Foundation and Stadler Rail. Step 2: Organizations are the Swiss Federal Council, Swiss Confederation, Federal Department of Economic Affairs, Federal Department of Environment, Transport, Energy and Communications, Kofi Annan Foundation, and Stadler Rail. Step 3: Approximate periods are 2006-2018 for Federal Councillor, 2010 and 2017 for President, and 'present' for board memberships. Step 4: Domains are 'political' for governmental roles and 'civil_society' for board memberships. Step 5: Prominence is 'primary' for governmental roles and 'secondary' for board memberships.\",\n  \"jobs\": [\n    {\n      \"title\": \"Swiss Federal Councillor\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006-2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"President of the Swiss Confederation\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2010, 2017\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Economic Affairs\",\n      \"organization\": \"Federal Department of Economic Affairs\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Environment, Transport, Energy and Communications\",\n      \"organization\": \"Federal Department of Environment, Transport, Energy and Communications\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Kofi Annan Foundation\",\n      \"approximate_period\": \"present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Stadler Rail\",\n      \"approximate_period\": \"present\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"She was first elected to the Swiss Federal Council in 2006 and stepped down in 2018.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Swiss Federal Councillor, President of the Swiss Confederation, Head of the Federal Department of Economic Affairs, Head of the Federal Department of Environment, Transport, Energy and Communications, and member of various boards including the Kofi Annan Foundation and Stadler Rail. Step 2: Organizations are the Swiss Federal Council, Swiss Confederation, Federal Department of Economic Affairs, Federal Department of Environment, Transport, Energy and Communications, Kofi Annan Foundation, and Stadler Rail. Step 3: Approximate periods are 2006-2018 for Federal Councillor, 2010 and 2017 for President, and 'present' for board memberships. Step 4: Domains are 'political' for governmental roles and 'civil_society' for board memberships. Step 5: Prominence is 'primary' for governmental roles and 'secondary' for board memberships.",
+        "jobs": [
+          {
+            "title": "Swiss Federal Councillor",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006-2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "President of the Swiss Confederation",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2010, 2017",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Head of the Federal Department of Economic Affairs",
+            "organization": "Federal Department of Economic Affairs",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Head of the Federal Department of Environment, Transport, Energy and Communications",
+            "organization": "Federal Department of Environment, Transport, Energy and Communications",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Kofi Annan Foundation",
+            "approximate_period": "present",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Stadler Rail",
+            "approximate_period": "present",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "She was first elected to the Swiss Federal Council in 2006 and stepped down in 2018.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1004,
+      "chunk_index": 0,
+      "source_id": 595,
+      "url": "https://clubmadrid.org/who/members/leuthard-doris/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.5123341978638525,
+      "rerank_score": 0.4811862,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include President of Switzerland, Member of the National Council, President of the Christian Democratic People's Party, Head of the Federal Department of Economic Affairs, Head of the Federal Department of Environment, Transport, Energy and Communications, Vice-Chairwoman of the Board of Directors at Coop Group Cooperative, and Member of the Club de Madrid. Step 2: Organizations are explicitly named for all roles except the law firm partnership, which is not named. Step 3: Dates are extracted as provided in the text. Step 4: Domains are classified based on the nature of each role. Step 5: Prominence is assessed as primary for full-time roles and secondary for part-time or advisory roles.\",\n  \"jobs\": [\n    {\n      \"title\": \"President of Switzerland\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2010, 2017\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Doris Leuthard was the President of Switzerland in 2010 and 2017.\"\n    },\n    {\n      \"title\": \"Member of the National Council\",\n      \"organization\": \"National Council of Switzerland\",\n      \"approximate_period\": \"1999-2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 1999 to 2006, Doris Leuthard was a member of the National Council representing canton Aargau.\"\n    },\n    {\n      \"title\": \"President of the Christian Democratic People’s Party\",\n      \"organization\": \"Christian Democratic People’s Party\",\n      \"approximate_period\": \"2004-2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 2004 to 2006, she was president of the Christian Democratic People’s Party.\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Economic Affairs\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2006-2010\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"President Leuthard was head of the Federal Department of Economic Affairs (FDEA) from August 2006 to October 2010.\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Environment, Transport, Energy and Communications\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2010-2021\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Following a reshuffle of portfolios after the by-election of two new councillors in 2010, Leuthard replaced outgoing Moritz Leuenberger at the head of the Federal Department of Environment, Transport, Energy and Communications.\"\n    },\n    {\n      \"title\": \"Vice-Chairwoman of the Board of Directors\",\n      \"organization\": \"Coop Group Cooperative\",\n      \"approximate_period\": \"2021-present\",\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Since 2021, she serves as Vice-Chairwoman of the Board of Directors at Coop Group Cooperative.\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"Club de Madrid\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Club de Madrid Member\"\n    },\n    {\n      \"title\": \"Partner in a law firm\",\n      \"organization\": null,\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"She was a partner in a law firm before entering politics.\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include President of Switzerland, Member of the National Council, President of the Christian Democratic People's Party, Head of the Federal Department of Economic Affairs, Head of the Federal Department of Environment, Transport, Energy and Communications, Vice-Chairwoman of the Board of Directors at Coop Group Cooperative, and Member of the Club de Madrid. Step 2: Organizations are explicitly named for all roles except the law firm partnership, which is not named. Step 3: Dates are extracted as provided in the text. Step 4: Domains are classified based on the nature of each role. Step 5: Prominence is assessed as primary for full-time roles and secondary for part-time or advisory roles.",
+        "jobs": [
+          {
+            "title": "President of Switzerland",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2010, 2017",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Doris Leuthard was the President of Switzerland in 2010 and 2017."
+          },
+          {
+            "title": "Member of the National Council",
+            "organization": "National Council of Switzerland",
+            "approximate_period": "1999-2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "From 1999 to 2006, Doris Leuthard was a member of the National Council representing canton Aargau."
+          },
+          {
+            "title": "President of the Christian Democratic People’s Party",
+            "organization": "Christian Democratic People’s Party",
+            "approximate_period": "2004-2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "From 2004 to 2006, she was president of the Christian Democratic People’s Party."
+          },
+          {
+            "title": "Head of the Federal Department of Economic Affairs",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2006-2010",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "President Leuthard was head of the Federal Department of Economic Affairs (FDEA) from August 2006 to October 2010."
+          },
+          {
+            "title": "Head of the Federal Department of Environment, Transport, Energy and Communications",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2010-2021",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Following a reshuffle of portfolios after the by-election of two new councillors in 2010, Leuthard replaced outgoing Moritz Leuenberger at the head of the Federal Department of Environment, Transport, Energy and Communications."
+          },
+          {
+            "title": "Vice-Chairwoman of the Board of Directors",
+            "organization": "Coop Group Cooperative",
+            "approximate_period": "2021-present",
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Since 2021, she serves as Vice-Chairwoman of the Board of Directors at Coop Group Cooperative."
+          },
+          {
+            "title": "Member",
+            "organization": "Club de Madrid",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high",
+            "supporting_quote": "Club de Madrid Member"
+          },
+          {
+            "title": "Partner in a law firm",
+            "organization": null,
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "primary",
+            "confidence": "medium",
+            "supporting_quote": "She was a partner in a law firm before entering politics."
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1001,
+      "chunk_index": 2,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5415627820105472,
+      "rerank_score": 0.40500212,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles for Doris Leuthard as Minister in the Federal Department of Environment, Transport, Energy and Communications, member of the High-level Panel on Digital Cooperation, and member of the Board of the Kofi Annan Foundation. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate dates where available. Step 4: Classified domains based on role descriptions. Step 5: Assessed prominence as primary or secondary based on role nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Minister\",\n      \"organization\": \"Federal Department of Environment, Transport, Energy and Communications\",\n      \"approximate_period\": \"null\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member\",\n      \"organization\": \"High-level Panel on Digital Cooperation, United Nations\",\n      \"approximate_period\": \"2018\",\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Kofi Annan Foundation\",\n      \"approximate_period\": \"2019-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"In her capacity as minister, she was appointed by United Nations Secretary General António Guterres in 2018 to the High-level Panel on Digital Cooperation.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles for Doris Leuthard as Minister in the Federal Department of Environment, Transport, Energy and Communications, member of the High-level Panel on Digital Cooperation, and member of the Board of the Kofi Annan Foundation. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate dates where available. Step 4: Classified domains based on role descriptions. Step 5: Assessed prominence as primary or secondary based on role nature.",
+        "jobs": [
+          {
+            "title": "Minister",
+            "organization": "Federal Department of Environment, Transport, Energy and Communications",
+            "approximate_period": "null",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member",
+            "organization": "High-level Panel on Digital Cooperation, United Nations",
+            "approximate_period": "2018",
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Kofi Annan Foundation",
+            "approximate_period": "2019-present",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "In her capacity as minister, she was appointed by United Nations Secretary General António Guterres in 2018 to the High-level Panel on Digital Cooperation.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1003,
+      "chunk_index": 4,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5723221644587202,
+      "rerank_score": 0.3654119,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles from the text including Member of the National Council, President of the Swiss Confederation, Minister of Environment, Transport, Energy and Communications, and Member of the Federal Council. Step 2: Matched each role to its respective organization, primarily the Swiss government. Step 3: Extracted approximate periods from the text, such as 1999-2003 and 2003-2007 for National Council membership. Step 4: Classified domains as 'political' for all roles due to their governmental nature. Step 5: Assessed prominence as 'primary' for all roles given their full-time and high-level nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Member of the National Council\",\n      \"organization\": \"Swiss Federal Assembly\",\n      \"approximate_period\": \"1999-2007\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"President of the Swiss Confederation\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2010, 2017\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister of Environment, Transport, Energy and Communications\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006-2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Federal Council\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006-2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Members of the National Council (Switzerland) 1999–2003, Members of the National Council (Switzerland) 2003–2007, Presidents of the Swiss Confederation, Ministers of environment, transport, energy and communications of Switzerland, Members of the Federal Council (Switzerland)\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles from the text including Member of the National Council, President of the Swiss Confederation, Minister of Environment, Transport, Energy and Communications, and Member of the Federal Council. Step 2: Matched each role to its respective organization, primarily the Swiss government. Step 3: Extracted approximate periods from the text, such as 1999-2003 and 2003-2007 for National Council membership. Step 4: Classified domains as 'political' for all roles due to their governmental nature. Step 5: Assessed prominence as 'primary' for all roles given their full-time and high-level nature.",
+        "jobs": [
+          {
+            "title": "Member of the National Council",
+            "organization": "Swiss Federal Assembly",
+            "approximate_period": "1999-2007",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "President of the Swiss Confederation",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2010, 2017",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister of Environment, Transport, Energy and Communications",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006-2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Federal Council",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006-2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Members of the National Council (Switzerland) 1999–2003, Members of the National Council (Switzerland) 2003–2007, Presidents of the Swiss Confederation, Ministers of environment, transport, energy and communications of Switzerland, Members of the Federal Council (Switzerland)",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1010,
+      "chunk_index": 0,
+      "source_id": 599,
+      "url": "https://www.kofiannanfoundation.org/publication/doris-leuthard-joins-the-board-of-the-kofi-annan-foundation/",
+      "domain": "kofiannanfoundation.org",
+      "similarity": 0.5337409326427567,
+      "rerank_score": 0.33672404,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Board Member at Kofi Annan Foundation, President of the Swiss Confederation, Member of the Swiss Federal Council, Member of the National Council, President of the Christian Democratic People’s Party, Head of the Federal Department of Economic Affairs, Partner in a law firm, and Member of the UN Secretary General’s high-level panel on digital cooperation. Step 2: Organizations are explicitly named for all roles. Step 3: Dates are extracted where available. Step 4: Domains are classified based on role descriptions. Step 5: Prominence is assessed as primary for full-time roles and secondary for part-time or advisory roles.\",\n  \"jobs\": [\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Kofi Annan Foundation\",\n      \"approximate_period\": \"2019-present\",\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"President of the Swiss Confederation\",\n      \"organization\": \"Swiss Confederation\",\n      \"approximate_period\": \"2010, 2017\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Swiss Federal Council\",\n      \"organization\": \"Swiss Federal Council\",\n      \"approximate_period\": \"2006-2018\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the National Council\",\n      \"organization\": \"National Council of Switzerland\",\n      \"approximate_period\": \"1999-2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"President of the Christian Democratic People’s Party\",\n      \"organization\": \"Christian Democratic People’s Party\",\n      \"approximate_period\": \"2004-2006\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Head of the Federal Department of Economic Affairs\",\n      \"organization\": \"Federal Department of Economic Affairs\",\n      \"approximate_period\": \"2006-2010\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Partner in a law firm\",\n      \"organization\": null,\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"title\": \"Member of the UN Secretary General’s high-level panel on digital cooperation\",\n      \"organization\": \"United Nations\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Doris Leuthard, former President of the Swiss Confederation, has joined the Board of the Kofi Annan Foundation.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Board Member at Kofi Annan Foundation, President of the Swiss Confederation, Member of the Swiss Federal Council, Member of the National Council, President of the Christian Democratic People’s Party, Head of the Federal Department of Economic Affairs, Partner in a law firm, and Member of the UN Secretary General’s high-level panel on digital cooperation. Step 2: Organizations are explicitly named for all roles. Step 3: Dates are extracted where available. Step 4: Domains are classified based on role descriptions. Step 5: Prominence is assessed as primary for full-time roles and secondary for part-time or advisory roles.",
+        "jobs": [
+          {
+            "title": "Board Member",
+            "organization": "Kofi Annan Foundation",
+            "approximate_period": "2019-present",
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "President of the Swiss Confederation",
+            "organization": "Swiss Confederation",
+            "approximate_period": "2010, 2017",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Swiss Federal Council",
+            "organization": "Swiss Federal Council",
+            "approximate_period": "2006-2018",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the National Council",
+            "organization": "National Council of Switzerland",
+            "approximate_period": "1999-2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "President of the Christian Democratic People’s Party",
+            "organization": "Christian Democratic People’s Party",
+            "approximate_period": "2004-2006",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Head of the Federal Department of Economic Affairs",
+            "organization": "Federal Department of Economic Affairs",
+            "approximate_period": "2006-2010",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Partner in a law firm",
+            "organization": null,
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "primary",
+            "confidence": "medium"
+          },
+          {
+            "title": "Member of the UN Secretary General’s high-level panel on digital cooperation",
+            "organization": "United Nations",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Doris Leuthard, former President of the Swiss Confederation, has joined the Board of the Kofi Annan Foundation.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1002,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text extensively discusses Doris Leuthard's political offices and career. Step 2 — Job confirmation: The text confirms her roles as Federal Councillor (2006–2018), Head of the Department of Economic Affairs (2006–2010), and Head of the Department of Environment, Transport, Energy and Communications (2010–2018). Step 3 — New jobs found: The text also mentions her roles as Vice President of Switzerland (2009, 2016) and President of Switzerland (2010, 2017), which were not in the candidate findings. Step 4 — Confidence: The source clearly and explicitly confirms the roles.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\n    \"Federal Councillor, Swiss Federal Council (2006–2018)\",\n    \"Head of the Federal Department of Economic Affairs, Swiss Federal Council (2006–2010)\",\n    \"Head of the Federal Department of Environment, Transport, Energy and Communications, Swiss Federal Council (2010–2018)\"\n  ],\n  \"new_jobs_found\": [\n    {\n      \"title\": \"Vice President of Switzerland\",\n      \"organization\": \"Swiss Federal Council\",\n      \"domain\": \"Government\",\n      \"years\": \"2009, 2016\"\n    },\n    {\n      \"title\": \"President of Switzerland\",\n      \"organization\": \"Swiss Federal Council\",\n      \"domain\": \"Government\",\n      \"years\": \"2010, 2017\"\n    }\n  ],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Member of the Swiss Federal Council 2006–2018; Head of the Department of Economic Affairs 2006–2010; Head of the Department of Environment, Transport, Energy and Communications 2010–2018.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text extensively discusses Doris Leuthard's political offices and career. Step 2 — Job confirmation: The text confirms her roles as Federal Councillor (2006–2018), Head of the Department of Economic Affairs (2006–2010), and Head of the Department of Environment, Transport, Energy and Communications (2010–2018). Step 3 — New jobs found: The text also mentions her roles as Vice President of Switzerland (2009, 2016) and President of Switzerland (2010, 2017), which were not in the candidate findings. Step 4 — Confidence: The source clearly and explicitly confirms the roles.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Federal Councillor, Swiss Federal Council (2006–2018)",
+          "Head of the Federal Department of Economic Affairs, Swiss Federal Council (2006–2010)",
+          "Head of the Federal Department of Environment, Transport, Energy and Communications, Swiss Federal Council (2010–2018)"
+        ],
+        "new_jobs_found": [
+          {
+            "title": "Vice President of Switzerland",
+            "organization": "Swiss Federal Council",
+            "domain": "Government",
+            "years": "2009, 2016"
+          },
+          {
+            "title": "President of Switzerland",
+            "organization": "Swiss Federal Council",
+            "domain": "Government",
+            "years": "2010, 2017"
+          }
+        ],
+        "confidence": "high",
+        "supporting_quote": "Member of the Swiss Federal Council 2006–2018; Head of the Department of Economic Affairs 2006–2010; Head of the Department of Environment, Transport, Energy and Communications 2010–2018."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Member of the Swiss Federal Council 2006–2018; Head of the Department of Economic Affairs 2006–2010; Head of the Department of Environment, Transport, Energy and Communications 2010–2018.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1000,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text extensively discusses Doris Leuthard's career, including her roles in the Swiss Federal Council and specific departments. Step 2 — Job confirmation: The text confirms her roles as Federal Councillor, Head of the Federal Department of Economic Affairs (2006–2010), and Head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018). Step 3 — New jobs found: No additional roles are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly confirms the roles with precise dates and details.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\n    \"Federal Councillor, Swiss Federal Council (2006–2018)\",\n    \"Head of the Federal Department of Economic Affairs, Swiss Federal Council (2006–2010)\",\n    \"Head of the Federal Department of Environment, Transport, Energy and Communications, Swiss Federal Council (2010–2018)\"\n  ],\n  \"new_jobs_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"From 1 August 2006 until 31 October 2010, she was head of the Federal Department of Economic Affairs. On 1 November 2010 she became head of the Federal Department of Environment, Transport, Energy and Communications.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text extensively discusses Doris Leuthard's career, including her roles in the Swiss Federal Council and specific departments. Step 2 — Job confirmation: The text confirms her roles as Federal Councillor, Head of the Federal Department of Economic Affairs (2006–2010), and Head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018). Step 3 — New jobs found: No additional roles are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly confirms the roles with precise dates and details.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Federal Councillor, Swiss Federal Council (2006–2018)",
+          "Head of the Federal Department of Economic Affairs, Swiss Federal Council (2006–2010)",
+          "Head of the Federal Department of Environment, Transport, Energy and Communications, Swiss Federal Council (2010–2018)"
+        ],
+        "new_jobs_found": [],
+        "confidence": "high",
+        "supporting_quote": "From 1 August 2006 until 31 October 2010, she was head of the Federal Department of Economic Affairs. On 1 November 2010 she became head of the Federal Department of Environment, Transport, Energy and Communications."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "From 1 August 2006 until 31 October 2010, she was head of the Federal Department of Economic Affairs. On 1 November 2010 she became head of the Federal Department of Environment, Transport, Energy and Communications.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 2,
+    "primary_source_domain": "bellfoodgroup.com",
+    "notes": null,
+    "jobs": [
+      {
+        "title": "Federal Councillor",
+        "organization": "Swiss Federal Council",
+        "approximate_period": "2006–2018",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "Federal Councillor; 2006–2018"
+      },
+      {
+        "title": "Head of the Federal Department of Economic Affairs",
+        "organization": "Swiss Federal Council",
+        "approximate_period": "2006–2010",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "head of the Federal Department of Economic Affairs (2006–2010)"
+      },
+      {
+        "title": "Head of the Federal Department of Environment, Transport, Energy and Communications",
+        "organization": "Swiss Federal Council",
+        "approximate_period": "2010–2018",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018)"
+      },
+      {
+        "title": "Vice-President of the Swiss Confederation",
+        "organization": "Swiss Confederation",
+        "approximate_period": "2009, 2016",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "Vice-President of the Swiss Confederation (2009 and 2016)"
+      },
+      {
+        "title": "President of the Swiss Confederation",
+        "organization": "Swiss Confederation",
+        "approximate_period": "2010, 2017",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "President of the Swiss Confederation (2010 and 2017)"
+      },
+      {
+        "title": "Leader of the Swiss Christian Democratic Peopleʼs Party (CVP)",
+        "organization": "Swiss Christian Democratic Peopleʼs Party (CVP)",
+        "approximate_period": "2004–2006",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "Leader of the Swiss Christian Democratic Peopleʼs Party (CVP); 2004–2006"
+      },
+      {
+        "title": "National Councillor",
+        "organization": "Canton of Aargau",
+        "approximate_period": "1999–2006",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "National Councillor of the canton of Aargau; 1999–2006"
+      },
+      {
+        "title": "Grand Councillor",
+        "organization": "Canton of Aargau",
+        "approximate_period": "1997–2000",
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "Grand Councillor of the canton of Aargau; 1997–2000"
+      },
+      {
+        "title": "Partner",
+        "organization": "Fricker Attorneys-at-Law",
+        "approximate_period": "1991–2006",
+        "domain": "corporate",
+        "prominence": "primary",
+        "confidence": "high",
+        "supporting_quote": "Partner at Fricker Attorneys-at-Law, Wohlen; 1991–2006"
+      },
+      {
+        "title": "Vice-Chair of the Board of Directors",
+        "organization": "Coop Group Cooperative",
+        "approximate_period": "2021-present",
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Vice-Chair of the Board of Directors of Coop Group Cooperative; since 2021"
+      },
+      {
+        "title": "Board Member",
+        "organization": "Coop Pronto AG",
+        "approximate_period": null,
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Coop Pronto AG, Allschwil"
+      },
+      {
+        "title": "Board Member",
+        "organization": "Stadler Rail AG",
+        "approximate_period": null,
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Stadler Rail AG, Bussnang"
+      },
+      {
+        "title": "Vice-Chair",
+        "organization": "Transgourmet Holding AG",
+        "approximate_period": null,
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Transgourmet Holding AG, Basel; Vice-Chair"
+      },
+      {
+        "title": "Member of the Foundation Board",
+        "organization": "ETH Zurich Foundation",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "ETH Zurich Foundation, Zurich; member of the Foundation Board"
+      },
+      {
+        "title": "Jury Chair",
+        "organization": "Green Business Award",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Green Business Award, Lucerne; Jury Chair"
+      },
+      {
+        "title": "Chair of the Advisory Board",
+        "organization": "Lucerne Dialogue",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Lucerne Dialogue, Lucerne; Chair of the Advisory Board"
+      },
+      {
+        "title": "Chair of the Foundation Board",
+        "organization": "Swiss Digital Foundation",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Swiss Digital Foundation, Geneva; Chair of the Foundation Board"
+      },
+      {
+        "title": "Member of the Foundation Board",
+        "organization": "Venture",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Venture, Zurich; member of the Foundation Board"
+      },
+      {
+        "title": "Co-Chair",
+        "organization": "Association National Exhibition Svizra27",
+        "approximate_period": null,
+        "domain": "civil_society",
+        "prominence": "secondary",
+        "confidence": "high",
+        "supporting_quote": "Association National Exhibition Svizra27, Aarau; Co-Chair"
+      }
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

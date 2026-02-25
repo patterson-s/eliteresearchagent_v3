@@ -1,0 +1,498 @@
+{
+  "person_dir_name": "Andris_Piebalgs",
+  "person_db_name": "Andris Piebalgs",
+  "question_id": "networks",
+  "question_display": "Main Professional Networks (Revolving Doors)",
+  "run_timestamp": "2026-02-25T18:30:05.516992+00:00",
+  "input": {
+    "hlp_name": "United Nations High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 55,
+    "birth_year": "1957",
+    "nationality": [
+      "Latvian"
+    ]
+  },
+  "retrieval": {
+    "query": "Andris Piebalgs board member fellow award association club membership prize distinction honorary advisory",
+    "chunks_in_db": 21,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3181,
+        "url": "https://www.eui.eu/people?id=andris-piebalgs",
+        "domain": "eui.eu",
+        "similarity": 0.4607,
+        "rerank_score": 0.479
+      },
+      {
+        "chunk_id": 3175,
+        "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5082,
+        "rerank_score": 0.4112
+      },
+      {
+        "chunk_id": 3194,
+        "url": "https://www.gainhealth.org/andris-piebalgs",
+        "domain": "gainhealth.org",
+        "similarity": 0.3336,
+        "rerank_score": 0.3835
+      },
+      {
+        "chunk_id": 3195,
+        "url": "https://www.gainhealth.org/andris-piebalgs",
+        "domain": "gainhealth.org",
+        "similarity": 0.3593,
+        "rerank_score": 0.3308
+      },
+      {
+        "chunk_id": 3182,
+        "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+        "domain": "cov.com",
+        "similarity": 0.4748,
+        "rerank_score": 0.3126
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3181,
+      "chunk_index": 0,
+      "source_id": 1170,
+      "url": "https://www.eui.eu/people?id=andris-piebalgs",
+      "domain": "eui.eu",
+      "similarity": 0.4606502386284837,
+      "rerank_score": 0.47899243,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including advisory roles and fellowships. Step 2: No awards or distinctions were explicitly mentioned. Step 3: Classified affiliations as 'advisory' and 'fellowship'. Step 4: Recorded approximate periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Adviser to the President of Latvia\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs is Adviser to the President of Latvia\"\n    },\n    {\n      \"organization\": \"Florence School of Regulation (FSR)\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"2015-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He joined the FSR in 2015 as Senior Fellow.\"\n    },\n    {\n      \"organization\": \"Robert Schuman Centre for Advanced Studies\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Part-time Professor, Robert Schuman Centre for Advanced Studies\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including advisory roles and fellowships. Step 2: No awards or distinctions were explicitly mentioned. Step 3: Classified affiliations as 'advisory' and 'fellowship'. Step 4: Recorded approximate periods where available.",
+        "affiliations": [
+          {
+            "organization": "Adviser to the President of Latvia",
+            "affiliation_type": "advisory",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs is Adviser to the President of Latvia"
+          },
+          {
+            "organization": "Florence School of Regulation (FSR)",
+            "affiliation_type": "fellowship",
+            "approximate_period": "2015-present",
+            "confidence": "high",
+            "supporting_quote": "He joined the FSR in 2015 as Senior Fellow."
+          },
+          {
+            "organization": "Robert Schuman Centre for Advanced Studies",
+            "affiliation_type": "fellowship",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "Part-time Professor, Robert Schuman Centre for Advanced Studies"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3175,
+      "chunk_index": 0,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.508205028635894,
+      "rerank_score": 0.41122967,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text primarily focuses on Andris Piebalgs' primary employment roles, such as European Commissioner for Development and Energy, and his leadership of the Unity party. It does not explicitly mention any supplementary affiliations like board memberships, fellowships, honorary positions, advisory roles, memberships in elite bodies, or significant awards. Therefore, no affiliations or awards can be identified from this text.\",\n  \"affiliations\": [],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text primarily focuses on Andris Piebalgs' primary employment roles, such as European Commissioner for Development and Energy, and his leadership of the Unity party. It does not explicitly mention any supplementary affiliations like board memberships, fellowships, honorary positions, advisory roles, memberships in elite bodies, or significant awards. Therefore, no affiliations or awards can be identified from this text.",
+        "affiliations": [],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3194,
+      "chunk_index": 0,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.3336450137628451,
+      "rerank_score": 0.3835264,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided does not contain any specific information about Andris Piebalgs' affiliations, awards, or professional network data. The text is entirely about the Global Alliance for Improved Nutrition (GAIN) and does not mention Andris Piebalgs or any roles, awards, or distinctions associated with him.\",\n  \"affiliations\": [],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided does not contain any specific information about Andris Piebalgs' affiliations, awards, or professional network data. The text is entirely about the Global Alliance for Improved Nutrition (GAIN) and does not mention Andris Piebalgs or any roles, awards, or distinctions associated with him.",
+        "affiliations": [],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3195,
+      "chunk_index": 1,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.359271768675504,
+      "rerank_score": 0.3308283,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"High-level Panel on Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2012-2013\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He served on the High-level Panel on Post -2015 Development Agenda (2012-2013)\"\n    },\n    {\n      \"organization\": \"Board of Appeal of the Agency of the Cooperation of Energy Regulators\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is the Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators.\"\n    },\n    {\n      \"organization\": \"Board of Trustees of Friends of Europe\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He is a Member of the Board of Trustees of Friends of Europe\"\n    },\n    {\n      \"organization\": \"Friends of Global Fund Europe\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"and a Board Member of the Friends of Global Fund Europe.\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "High-level Panel on Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": "2012-2013",
+            "confidence": "high",
+            "supporting_quote": "He served on the High-level Panel on Post -2015 Development Agenda (2012-2013)"
+          },
+          {
+            "organization": "Board of Appeal of the Agency of the Cooperation of Energy Regulators",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is the Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators."
+          },
+          {
+            "organization": "Board of Trustees of Friends of Europe",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "He is a Member of the Board of Trustees of Friends of Europe"
+          },
+          {
+            "organization": "Friends of Global Fund Europe",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "and a Board Member of the Friends of Global Fund Europe."
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3182,
+      "chunk_index": 0,
+      "source_id": 1171,
+      "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+      "domain": "cov.com",
+      "similarity": 0.474783898879169,
+      "rerank_score": 0.31264326,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"UN Secretary General’s High Level Panel of eminent persons on the Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2010-2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"As a member of the UN Secretary General’s High Level Panel of eminent persons on the Post-2015 Development Agenda\"\n    },\n    {\n      \"organization\": \"Chairman of the Implementation Committee of the International Methane Emissions Observatory\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"2014-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"serving as the Chairman of the Implementation Committee of the International Methane Emissions Observatory\"\n    },\n    {\n      \"organization\": \"Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"2014-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators\"\n    },\n    {\n      \"organization\": \"Florence School of Regulation of the European University Institute\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"2016-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Since 2016, Andris has held a Professorship at the Florence School of Regulation of the European University Institute\"\n    },\n    {\n      \"organization\": \"Adviser to the President of Latvia on his country’s Presidency of the Council of the EU\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2016-present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Adviser to the President of Latvia on his country’s Presidency of the Council of the EU\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations by type. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "UN Secretary General’s High Level Panel of eminent persons on the Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": "2010-2014",
+            "confidence": "high",
+            "supporting_quote": "As a member of the UN Secretary General’s High Level Panel of eminent persons on the Post-2015 Development Agenda"
+          },
+          {
+            "organization": "Chairman of the Implementation Committee of the International Methane Emissions Observatory",
+            "affiliation_type": "board",
+            "approximate_period": "2014-present",
+            "confidence": "high",
+            "supporting_quote": "serving as the Chairman of the Implementation Committee of the International Methane Emissions Observatory"
+          },
+          {
+            "organization": "Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators",
+            "affiliation_type": "board",
+            "approximate_period": "2014-present",
+            "confidence": "high",
+            "supporting_quote": "Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators"
+          },
+          {
+            "organization": "Florence School of Regulation of the European University Institute",
+            "affiliation_type": "fellowship",
+            "approximate_period": "2016-present",
+            "confidence": "high",
+            "supporting_quote": "Since 2016, Andris has held a Professorship at the Florence School of Regulation of the European University Institute"
+          },
+          {
+            "organization": "Adviser to the President of Latvia on his country’s Presidency of the Council of the EU",
+            "affiliation_type": "advisory",
+            "approximate_period": "2016-present",
+            "confidence": "high",
+            "supporting_quote": "Adviser to the President of Latvia on his country’s Presidency of the Council of the EU"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3178,
+      "chunk_index": 3,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.43772246791565944,
+      "rerank_score": 0.3025667,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including board memberships and advisory roles. Step 2: No awards or distinctions were mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Recorded periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"High-level Panel on Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2012-2013\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"From 2012 to 2013, Piebalgs served – alongside Ellen Johnson Sirleaf, David Cameron and others – on the High-level Panel on Post-2015 Development Agenda\"\n    },\n    {\n      \"organization\": \"Friends of Europe\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Friends of Europe, member of the board of trustees\"\n    },\n    {\n      \"organization\": \"Friends of the Global Fund\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Friends of the Global Fund, member of the board\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including board memberships and advisory roles. Step 2: No awards or distinctions were mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Recorded periods where available.",
+        "affiliations": [
+          {
+            "organization": "High-level Panel on Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": "2012-2013",
+            "confidence": "high",
+            "supporting_quote": "From 2012 to 2013, Piebalgs served – alongside Ellen Johnson Sirleaf, David Cameron and others – on the High-level Panel on Post-2015 Development Agenda"
+          },
+          {
+            "organization": "Friends of Europe",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Friends of Europe, member of the board of trustees"
+          },
+          {
+            "organization": "Friends of the Global Fund",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Friends of the Global Fund, member of the board"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3190,
+      "chunk_index": 0,
+      "source_id": 1176,
+      "url": "https://fsr.eui.eu/people/andris-piebalgs/",
+      "domain": "fsr.eui.eu",
+      "similarity": 0.4097423227234253,
+      "rerank_score": 0.28929186,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment, including Chairman of the Implementation Committee of the International Methane Emissions Observatory. Step 2: No awards or distinctions explicitly mentioned. Step 3: Classified the affiliation as 'advisory'. Step 4: No specific period mentioned for the affiliation.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"International Methane Emissions Observatory\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"serves as the Chairman of the Implementation Committee of the International Methane Emissions Observatory\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment, including Chairman of the Implementation Committee of the International Methane Emissions Observatory. Step 2: No awards or distinctions explicitly mentioned. Step 3: Classified the affiliation as 'advisory'. Step 4: No specific period mentioned for the affiliation.",
+        "affiliations": [
+          {
+            "organization": "International Methane Emissions Observatory",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "serves as the Chairman of the Implementation Committee of the International Methane Emissions Observatory"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3177,
+      "chunk_index": 2,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4293580044388577,
+      "rerank_score": 0.2722136,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: No board memberships, fellowships, honorary positions, advisory roles, or memberships in elite bodies were explicitly mentioned for Andris Piebalgs in the source text. Step 2: Two significant awards were identified: the 'Diamond Prize' and the 'Energy Efficiency Visionary Awards'. Step 3: No affiliations were found, so no classification was needed. Step 4: The years for the awards were clearly stated in the text.\",\n  \"affiliations\": [],\n  \"awards\": [\n    {\n      \"award\": \"Diamond Prize\",\n      \"awarding_body\": \"Regional Chamber of Commerce in Katowice, Poland\",\n      \"year\": \"2009\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"award\": \"Energy Efficiency Visionary Awards\",\n      \"awarding_body\": \"Energy Efficiency Global Forum\",\n      \"year\": \"2009\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"In 2009, Andris Piebalgs received the 'Diamond Prize' from the Regional Chamber of Commerce in Katowice (Poland) for his work in developing a cohesive European Energy Policy.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: No board memberships, fellowships, honorary positions, advisory roles, or memberships in elite bodies were explicitly mentioned for Andris Piebalgs in the source text. Step 2: Two significant awards were identified: the 'Diamond Prize' and the 'Energy Efficiency Visionary Awards'. Step 3: No affiliations were found, so no classification was needed. Step 4: The years for the awards were clearly stated in the text.",
+        "affiliations": [],
+        "awards": [
+          {
+            "award": "Diamond Prize",
+            "awarding_body": "Regional Chamber of Commerce in Katowice, Poland",
+            "year": "2009",
+            "confidence": "high"
+          },
+          {
+            "award": "Energy Efficiency Visionary Awards",
+            "awarding_body": "Energy Efficiency Global Forum",
+            "year": "2009",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "In 2009, Andris Piebalgs received the 'Diamond Prize' from the Regional Chamber of Commerce in Katowice (Poland) for his work in developing a cohesive European Energy Policy.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3184,
+      "url": "https://www.un.org/sg/en/management/bios/Piebalgs.shtml",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text discusses Andris Piebalgs's professional roles and positions but does not mention the specific affiliations or awards listed in the candidate findings. Step 2 — The source does not confirm any of the affiliations or awards described in the candidate findings. Step 3 — The source mentions new professional roles not listed in the candidate findings, such as Commissioner for Development for the European Commission, European Commissioner for Energy, Deputy Secretary of State, Minister of Finance of Latvia, and Minister of Education of Latvia. Step 4 — Confidence is low as the source does not confirm the candidate findings but provides unrelated professional information.\",\n  \"confirms\": false,\n  \"confirmed_affiliations\": [],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [\"Commissioner for Development for the European Commission\", \"European Commissioner for Energy\", \"Deputy Secretary of State, Ministry of Foreign Affairs of Latvia\", \"Minister of Finance of Latvia\", \"Minister of Education of Latvia\"],\n  \"new_awards_found\": [],\n  \"confidence\": \"low\",\n  \"supporting_quote\": \"Mr. Piebalgs is currently the Commissioner for Development for the European Commission. He was previously European Commissioner for Energy (2004-2009), Deputy Secretary of State, Ministry of Foreign Affairs of Latvia (2003-2004), Minister of Finance of Latvia (1994-1995) and Minister of Education of Latvia (1990-1993).\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text discusses Andris Piebalgs's professional roles and positions but does not mention the specific affiliations or awards listed in the candidate findings. Step 2 — The source does not confirm any of the affiliations or awards described in the candidate findings. Step 3 — The source mentions new professional roles not listed in the candidate findings, such as Commissioner for Development for the European Commission, European Commissioner for Energy, Deputy Secretary of State, Minister of Finance of Latvia, and Minister of Education of Latvia. Step 4 — Confidence is low as the source does not confirm the candidate findings but provides unrelated professional information.",
+        "confirms": false,
+        "confirmed_affiliations": [],
+        "confirmed_awards": [],
+        "new_affiliations_found": [
+          "Commissioner for Development for the European Commission",
+          "European Commissioner for Energy",
+          "Deputy Secretary of State, Ministry of Foreign Affairs of Latvia",
+          "Minister of Finance of Latvia",
+          "Minister of Education of Latvia"
+        ],
+        "new_awards_found": [],
+        "confidence": "low",
+        "supporting_quote": "Mr. Piebalgs is currently the Commissioner for Development for the European Commission. He was previously European Commissioner for Energy (2004-2009), Deputy Secretary of State, Ministry of Foreign Affairs of Latvia (2003-2004), Minister of Finance of Latvia (1994-1995) and Minister of Education of Latvia (1990-1993)."
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": "Mr. Piebalgs is currently the Commissioner for Development for the European Commission. He was previously European Commissioner for Energy (2004-2009), Deputy Secretary of State, Ministry of Foreign Affairs of Latvia (2003-2004), Minister of Finance of Latvia (1994-1995) and Minister of Education of Latvia (1990-1993).",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3186,
+      "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+      "domain": "live.worldbank.org",
+      "raw_llm_output": "{\n  \"reasoning\": [\n    \"Step 1 — Source relevance: The text discusses Andris Piebalgs's professional career, including his roles and awards, making it relevant for verifying affiliations and awards.\",\n    \"Step 2 — Affiliation confirmation: The source does not confirm the affiliations mentioned in the candidate findings (UN Secretary General’s High Level Panel, Chairman of the Implementation Committee of the International Methane Emissions Observatory, Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators).\",\n    \"Step 3 — New affiliations or awards found: The source mentions several awards not listed in the candidate findings, such as 'Eurocrat of the Year' (2007), 'Diamond Prize' (2009), and 'Energy Efficiency Visionary Awards' (2009).\",\n    \"Step 4 — Confidence: The source clearly details Piebalgs's roles and awards, but does not confirm the affiliations in the candidate findings.\"\n  ],\n  \"confirms\": false,\n  \"confirmed_affiliations\": [],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [],\n  \"new_awards_found\": [\"Eurocrat of the Year\", \"Diamond Prize\", \"Energy Efficiency Visionary Awards\"],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"In recognition of his leadership in European energy policy, The Economist magazine honoured him with the title 'Eurocrat of the Year' in 2007.\"\n}",
+      "parsed": {
+        "reasoning": [
+          "Step 1 — Source relevance: The text discusses Andris Piebalgs's professional career, including his roles and awards, making it relevant for verifying affiliations and awards.",
+          "Step 2 — Affiliation confirmation: The source does not confirm the affiliations mentioned in the candidate findings (UN Secretary General’s High Level Panel, Chairman of the Implementation Committee of the International Methane Emissions Observatory, Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators).",
+          "Step 3 — New affiliations or awards found: The source mentions several awards not listed in the candidate findings, such as 'Eurocrat of the Year' (2007), 'Diamond Prize' (2009), and 'Energy Efficiency Visionary Awards' (2009).",
+          "Step 4 — Confidence: The source clearly details Piebalgs's roles and awards, but does not confirm the affiliations in the candidate findings."
+        ],
+        "confirms": false,
+        "confirmed_affiliations": [],
+        "confirmed_awards": [],
+        "new_affiliations_found": [],
+        "new_awards_found": [
+          "Eurocrat of the Year",
+          "Diamond Prize",
+          "Energy Efficiency Visionary Awards"
+        ],
+        "confidence": "medium",
+        "supporting_quote": "In recognition of his leadership in European energy policy, The Economist magazine honoured him with the title 'Eurocrat of the Year' in 2007."
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "In recognition of his leadership in European energy policy, The Economist magazine honoured him with the title 'Eurocrat of the Year' in 2007.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 0,
+    "primary_source_domain": "cov.com",
+    "notes": null,
+    "affiliations": [
+      {
+        "organization": "UN Secretary General’s High Level Panel of eminent persons on the Post-2015 Development Agenda",
+        "affiliation_type": "advisory",
+        "approximate_period": "2010-2014",
+        "confidence": "high",
+        "supporting_quote": "As a member of the UN Secretary General’s High Level Panel of eminent persons on the Post-2015 Development Agenda"
+      },
+      {
+        "organization": "Chairman of the Implementation Committee of the International Methane Emissions Observatory",
+        "affiliation_type": "board",
+        "approximate_period": "2014-present",
+        "confidence": "high",
+        "supporting_quote": "serving as the Chairman of the Implementation Committee of the International Methane Emissions Observatory"
+      },
+      {
+        "organization": "Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators",
+        "affiliation_type": "board",
+        "approximate_period": "2014-present",
+        "confidence": "high",
+        "supporting_quote": "Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators"
+      },
+      {
+        "organization": "Florence School of Regulation of the European University Institute",
+        "affiliation_type": "fellowship",
+        "approximate_period": "2016-present",
+        "confidence": "high",
+        "supporting_quote": "Since 2016, Andris has held a Professorship at the Florence School of Regulation of the European University Institute"
+      },
+      {
+        "organization": "Adviser to the President of Latvia on his country’s Presidency of the Council of the EU",
+        "affiliation_type": "advisory",
+        "approximate_period": "2016-present",
+        "confidence": "high",
+        "supporting_quote": "Adviser to the President of Latvia on his country’s Presidency of the Council of the EU"
+      }
+    ],
+    "awards": []
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

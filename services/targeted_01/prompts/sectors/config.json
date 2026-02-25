@@ -1,0 +1,34 @@
+{
+  "question_id": "sectors",
+  "display_name": "Main Sectors of Expertise (Functional Mobility)",
+  "output_filename_suffix": "sectors",
+  "skip_if_null": [],
+
+  "retrieval": {
+    "query_template": "{PERSON_NAME} expertise sector field development finance human rights environment health diplomacy technology science trade",
+    "similarity_top_k": 20,
+    "similarity_threshold": 0.15,
+    "rerank_top_n": 10
+  },
+
+  "extraction": {
+    "model": "command-a-03-2025",
+    "temperature": 0.2,
+    "max_tokens": 1500,
+    "max_chunks_to_scan": 8,
+    "high_confidence_early_stop": false,
+    "primary_list_field": "sectors"
+  },
+
+  "verification": {
+    "max_verification_chunks": 3,
+    "exclude_primary_domain": true,
+    "candidate_title_field": "primary_sector",
+    "candidate_org_field": "sectors"
+  },
+
+  "prompts": {
+    "extraction": "prompts/sectors/extraction.txt",
+    "verification": "prompts/sectors/verification.txt"
+  }
+}

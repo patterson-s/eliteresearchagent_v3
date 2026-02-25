@@ -1,0 +1,378 @@
+{
+  "person_dir_name": "Andris_Piebalgs",
+  "person_db_name": "Andris Piebalgs",
+  "question_id": "education",
+  "question_display": "Education Trajectory",
+  "run_timestamp": "2026-02-25T18:30:05.514992+00:00",
+  "input": {
+    "hlp_name": "United Nations High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 55,
+    "birth_year": "1957",
+    "nationality": [
+      "Latvian"
+    ]
+  },
+  "retrieval": {
+    "query": "Andris Piebalgs university degree education BA MA PhD diploma studies graduated",
+    "chunks_in_db": 21,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3175,
+        "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6207,
+        "rerank_score": 0.8095
+      },
+      {
+        "chunk_id": 3187,
+        "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+        "domain": "live.worldbank.org",
+        "similarity": 0.5248,
+        "rerank_score": 0.6318
+      },
+      {
+        "chunk_id": 3185,
+        "url": "https://www.europarl.europa.eu/press/audicom2004/cv/cv_piebalgs.pdf",
+        "domain": "europarl.europa.eu",
+        "similarity": 0.5181,
+        "rerank_score": 0.5804
+      },
+      {
+        "chunk_id": 3195,
+        "url": "https://www.gainhealth.org/andris-piebalgs",
+        "domain": "gainhealth.org",
+        "similarity": 0.396,
+        "rerank_score": 0.5539
+      },
+      {
+        "chunk_id": 3181,
+        "url": "https://www.eui.eu/people?id=andris-piebalgs",
+        "domain": "eui.eu",
+        "similarity": 0.492,
+        "rerank_score": 0.551
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3175,
+      "chunk_index": 0,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6207281050516235,
+      "rerank_score": 0.8095324,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified one university-level degree for Andris Piebalgs, a graduate degree in Physics from the University of Latvia. No other degrees were explicitly mentioned. Step 2: Determined the country of the institution as Latvia. Step 3: Classified Latvia as part of the Global North based on its membership in the European Union and OECD. Step 4: Classified the University of Latvia as a peripheral institution, as it is not among the globally recognized elite institutions. Step 5: Identified the discipline as science (Physics).\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"Physics\",\n      \"institution\": \"University of Latvia\",\n      \"institution_country\": \"Latvia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"science\"],\n  \"institution_prestige\": \"peripheral\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [\"University of Latvia\"],\n  \"supporting_quote\": \"Piebalgs is a graduate in Physics from the University of Latvia.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified one university-level degree for Andris Piebalgs, a graduate degree in Physics from the University of Latvia. No other degrees were explicitly mentioned. Step 2: Determined the country of the institution as Latvia. Step 3: Classified Latvia as part of the Global North based on its membership in the European Union and OECD. Step 4: Classified the University of Latvia as a peripheral institution, as it is not among the globally recognized elite institutions. Step 5: Identified the discipline as science (Physics).",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "Physics",
+            "institution": "University of Latvia",
+            "institution_country": "Latvia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "science"
+        ],
+        "institution_prestige": "peripheral",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [
+          "University of Latvia"
+        ],
+        "supporting_quote": "Piebalgs is a graduate in Physics from the University of Latvia.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3187,
+      "chunk_index": 1,
+      "source_id": 1174,
+      "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5247826221374918,
+      "rerank_score": 0.63179934,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text explicitly mentions that Andris Piebalgs is a graduate in Physics from the University of Latvia. No other degrees are mentioned. Step 2: The University of Latvia is located in Latvia. Step 3: Latvia is classified as a Global North country. Step 4: The University of Latvia is considered a peripheral institution as it is not among the globally recognized elite institutions. Step 5: The discipline identified is Physics, which falls under the category of science.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"Physics\",\n      \"institution\": \"University of Latvia\",\n      \"institution_country\": \"Latvia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"science\"],\n  \"institution_prestige\": \"peripheral\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [\"University of Latvia\"],\n  \"supporting_quote\": \"Piebalgs is a graduate in Physics from the University of Latvia.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text explicitly mentions that Andris Piebalgs is a graduate in Physics from the University of Latvia. No other degrees are mentioned. Step 2: The University of Latvia is located in Latvia. Step 3: Latvia is classified as a Global North country. Step 4: The University of Latvia is considered a peripheral institution as it is not among the globally recognized elite institutions. Step 5: The discipline identified is Physics, which falls under the category of science.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "Physics",
+            "institution": "University of Latvia",
+            "institution_country": "Latvia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "science"
+        ],
+        "institution_prestige": "peripheral",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [
+          "University of Latvia"
+        ],
+        "supporting_quote": "Piebalgs is a graduate in Physics from the University of Latvia.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3185,
+      "chunk_index": 0,
+      "source_id": 1173,
+      "url": "https://www.europarl.europa.eu/press/audicom2004/cv/cv_piebalgs.pdf",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.5180751278265753,
+      "rerank_score": 0.5803764,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified one university-level degree for Andris Piebalgs, a Graduate in Physics from the University of Latvia, completed in 1980. Step 2: Determined the institution's country as Latvia. Step 3: Classified Latvia as part of the Global North. Step 4: Classified the University of Latvia as a peripheral institution, as it is not among the globally recognized elite institutions. Step 5: Identified the discipline as science (Physics).\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"Physics\",\n      \"institution\": \"University of Latvia\",\n      \"institution_country\": \"Latvia\",\n      \"year_completed\": \"1980\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"science\"],\n  \"institution_prestige\": \"peripheral\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [\"University of Latvia\"],\n  \"supporting_quote\": \"Graduate in Physics from the University of Latvia, 17 June 1980\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified one university-level degree for Andris Piebalgs, a Graduate in Physics from the University of Latvia, completed in 1980. Step 2: Determined the institution's country as Latvia. Step 3: Classified Latvia as part of the Global North. Step 4: Classified the University of Latvia as a peripheral institution, as it is not among the globally recognized elite institutions. Step 5: Identified the discipline as science (Physics).",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "Physics",
+            "institution": "University of Latvia",
+            "institution_country": "Latvia",
+            "year_completed": "1980",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "science"
+        ],
+        "institution_prestige": "peripheral",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [
+          "University of Latvia"
+        ],
+        "supporting_quote": "Graduate in Physics from the University of Latvia, 17 June 1980",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3195,
+      "chunk_index": 1,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.3959628524594803,
+      "rerank_score": 0.55391616,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified one degree mentioned for Andris Piebalgs - a graduate in physics from the University of Latvia. No other degrees were explicitly stated. Step 2: The institution, University of Latvia, is located in Latvia. Step 3: Latvia is classified as a Global North country. Step 4: University of Latvia is considered a peripheral institution as it is not among the globally recognized elite institutions. Step 5: The discipline is physics, which falls under the category of science.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"physics\",\n      \"institution\": \"University of Latvia\",\n      \"institution_country\": \"Latvia\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"science\"],\n  \"institution_prestige\": \"peripheral\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [\"University of Latvia\"],\n  \"supporting_quote\": \"He is a graduate in physics from University of Latvia.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified one degree mentioned for Andris Piebalgs - a graduate in physics from the University of Latvia. No other degrees were explicitly stated. Step 2: The institution, University of Latvia, is located in Latvia. Step 3: Latvia is classified as a Global North country. Step 4: University of Latvia is considered a peripheral institution as it is not among the globally recognized elite institutions. Step 5: The discipline is physics, which falls under the category of science.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "physics",
+            "institution": "University of Latvia",
+            "institution_country": "Latvia",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "science"
+        ],
+        "institution_prestige": "peripheral",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [
+          "University of Latvia"
+        ],
+        "supporting_quote": "He is a graduate in physics from University of Latvia.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3181,
+      "chunk_index": 0,
+      "source_id": 1170,
+      "url": "https://www.eui.eu/people?id=andris-piebalgs",
+      "domain": "eui.eu",
+      "similarity": 0.49202409894804805,
+      "rerank_score": 0.5510187,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not explicitly mention any university-level degrees held by Andris Piebalgs. It only mentions his current role as a Part-time Professor at the Robert Schuman Centre for Advanced Studies and his previous positions. There is no information about his educational background, degrees, or institutions attended. Therefore, we cannot determine his educational trajectory.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not explicitly mention any university-level degrees held by Andris Piebalgs. It only mentions his current role as a Part-time Professor at the Robert Schuman Centre for Advanced Studies and his previous positions. There is no information about his educational background, degrees, or institutions attended. Therefore, we cannot determine his educational trajectory.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3194,
+      "chunk_index": 0,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.3193186089050842,
+      "rerank_score": 0.4199102,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided does not contain any information about Andris Piebalgs' educational background, degrees, or institutions attended. Therefore, it is impossible to identify any degrees, classify institutions, or synthesize disciplines.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided does not contain any information about Andris Piebalgs' educational background, degrees, or institutions attended. Therefore, it is impossible to identify any degrees, classify institutions, or synthesize disciplines.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3190,
+      "chunk_index": 0,
+      "source_id": 1176,
+      "url": "https://fsr.eui.eu/people/andris-piebalgs/",
+      "domain": "fsr.eui.eu",
+      "similarity": 0.42981509899205494,
+      "rerank_score": 0.41449648,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not explicitly mention any university-level degrees held by Andris Piebalgs. It focuses on his professional roles, publications, and affiliations but does not provide details about his academic credentials. Therefore, we cannot determine his degrees or related classifications.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not explicitly mention any university-level degrees held by Andris Piebalgs. It focuses on his professional roles, publications, and affiliations but does not provide details about his academic credentials. Therefore, we cannot determine his degrees or related classifications.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3184,
+      "chunk_index": 0,
+      "source_id": 1172,
+      "url": "https://www.un.org/sg/en/management/bios/Piebalgs.shtml",
+      "domain": "un.org",
+      "similarity": 0.43758471737742294,
+      "rerank_score": 0.40260404,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not explicitly mention any university-level degrees held by Andris Piebalgs. It only lists his professional roles and positions. Therefore, it is not possible to identify any degrees, classify institutions, or determine disciplines.\",\n  \"degrees_found\": [],\n  \"geographic_category\": \"cannot_determine\",\n  \"disciplines\": [],\n  \"institution_prestige\": \"cannot_determine\",\n  \"elite_institutions_found\": [],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not explicitly mention any university-level degrees held by Andris Piebalgs. It only lists his professional roles and positions. Therefore, it is not possible to identify any degrees, classify institutions, or determine disciplines.",
+        "degrees_found": [],
+        "geographic_category": "cannot_determine",
+        "disciplines": [],
+        "institution_prestige": "cannot_determine",
+        "elite_institutions_found": [],
+        "peripheral_institutions_found": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [],
+  "result": {
+    "status": "found_no_confirming_sources",
+    "confidence": "high",
+    "supporting_quote": "Piebalgs is a graduate in Physics from the University of Latvia.",
+    "confirmation_count": 0,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "degrees_found": [
+      {
+        "degree_type": "other",
+        "field": "Physics",
+        "institution": "University of Latvia",
+        "institution_country": "Latvia",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      }
+    ],
+    "geographic_category": "global_north",
+    "disciplines": [
+      "science"
+    ],
+    "institution_prestige": "peripheral",
+    "elite_institutions_found": [],
+    "peripheral_institutions_found": [
+      "University of Latvia"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 0,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

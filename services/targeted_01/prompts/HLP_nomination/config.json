@@ -1,0 +1,31 @@
+{
+  "question_id": "hlp_job_title",
+  "display_name": "Job Title at HLP Nomination",
+  "output_filename_suffix": "hlp_job_title",
+  "skip_if_null": ["hlp_year", "hlp_name"],
+
+  "retrieval": {
+    "query_template": "{PERSON_NAME} job title position role career {NOMINATION_YEAR} appointed nominated serving",
+    "similarity_top_k": 20,
+    "similarity_threshold": 0.15,
+    "rerank_top_n": 10
+  },
+
+  "extraction": {
+    "model": "command-a-03-2025",
+    "temperature": 0.3,
+    "max_tokens": 1200,
+    "max_chunks_to_scan": 5,
+    "high_confidence_early_stop": true
+  },
+
+  "verification": {
+    "max_verification_chunks": 3,
+    "exclude_primary_domain": true
+  },
+
+  "prompts": {
+    "extraction": "prompts/HLP_nomination/extraction.txt",
+    "verification": "prompts/HLP_nomination/verification.txt"
+  }
+}

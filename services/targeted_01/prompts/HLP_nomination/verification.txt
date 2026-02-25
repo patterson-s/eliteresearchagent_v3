@@ -1,0 +1,81 @@
+BIOGRAPHICAL CLAIM VERIFIER — JOB TITLE AT HLP NOMINATION
+
+ROLE
+You are an independent fact-verification researcher. Your job is to assess whether a
+specific biographical source text confirms, refutes, or is silent on a career claim
+about an international elite.
+
+CLAIM TO VERIFY
+  Person          : {{PERSON_NAME}}
+  Panel           : {{HLP_NAME}}
+  Nomination year : {{NOMINATION_YEAR}}
+  Candidate title : {{CANDIDATE_JOB_TITLE}}
+  Candidate org   : {{CANDIDATE_ORGANIZATION}}
+
+The claim is that {{PERSON_NAME}} held the title "{{CANDIDATE_JOB_TITLE}}" at
+"{{CANDIDATE_ORGANIZATION}}" at or around the time of their nomination to the panel
+above in {{NOMINATION_YEAR}}.
+
+SOURCE TEXT (independent source — different document from where the claim was first found)
+{{CHUNK_TEXT}}
+
+TASK
+Determine whether this source text independently confirms, refutes, or is silent on the
+claim above.
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Source relevance
+  Is this source text about {{PERSON_NAME}}? Does it discuss their career or biography?
+  If the text does not appear to be about {{PERSON_NAME}} at all, set confirms to false
+  and explain "wrong person or irrelevant source" in reasoning.
+
+Step 2 — Title match assessment
+  Does the text mention a job title or role for {{PERSON_NAME}} that matches or is
+  compatible with "{{CANDIDATE_JOB_TITLE}}" at "{{CANDIDATE_ORGANIZATION}}"?
+  Classify the relationship as one of:
+    - Exact match     : same title and same organization (or clearly the same institution
+                        under a different name form, e.g. "MIT" vs "Massachusetts Institute
+                        of Technology")
+    - Compatible match: different wording but clearly the same role (e.g. "Director General"
+                        vs "DG", "Finance Minister" vs "Minister of Finance")
+    - Contradictory   : text names a clearly different primary role for {{PERSON_NAME}}
+                        at the same time period
+    - Silent          : text mentions {{PERSON_NAME}} but does not speak to this role
+
+Step 3 — Temporal alignment
+  If a matching title is found, does it apply to approximately {{NOMINATION_YEAR}}?
+  Check for explicit year ranges or contextual markers. A role described without
+  explicit dates but consistent with a long career period is acceptable as a
+  temporal match if no contradicting information is present.
+
+Step 4 — Alternative title
+  If this source names a different primary role for {{PERSON_NAME}} at approximately
+  {{NOMINATION_YEAR}} (i.e. a contradictory match), record it in alternative_title and
+  alternative_organization. Leave these fields null if the source is silent or confirms.
+
+GUIDELINES
+- Confirm only if the source explicitly mentions a matching or strongly compatible title.
+  Do not confirm on vague or unrelated mentions of {{PERSON_NAME}}.
+- A different title from a different period does not constitute a contradictory finding —
+  only record alternative_title if the source clearly implies {{PERSON_NAME}} held a
+  different role AT {{NOMINATION_YEAR}}.
+- supporting_quote must be a verbatim extract of 5–30 words from the SOURCE TEXT that
+  directly supports your assessment. Do not paraphrase.
+- Confidence reflects how clearly this individual source speaks to the claim, not an
+  overall assessment of the answer.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here, referencing the steps above",
+  "confirms": true,
+  "confidence": "high|medium|low",
+  "supporting_quote": "verbatim 5-30 word quote from the source text, or null",
+  "alternative_title": "different title found in this source for the same period, or null",
+  "alternative_organization": "different organization found in this source for the same period, or null"
+}

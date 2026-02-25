@@ -1,0 +1,167 @@
+{
+  "person_dir_name": "Doris_Leuthard",
+  "person_db_name": "Doris Leuthard",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T18:08:23.311486+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Digital Cooperation",
+    "hlp_year": "2018-2019",
+    "nomination_year": 2018,
+    "hlp_nomination_age": 55,
+    "birth_year": "1963",
+    "nationality": [
+      "Swiss"
+    ]
+  },
+  "retrieval": {
+    "query": "Doris Leuthard job title position role career 2018 appointed nominated serving",
+    "chunks_in_db": 17,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 999,
+        "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6431,
+        "rerank_score": 0.7699
+      },
+      {
+        "chunk_id": 1004,
+        "url": "https://clubmadrid.org/who/members/leuthard-doris/",
+        "domain": "clubmadrid.org",
+        "similarity": 0.4967,
+        "rerank_score": 0.7305
+      },
+      {
+        "chunk_id": 1009,
+        "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+        "domain": "bellfoodgroup.com",
+        "similarity": 0.5355,
+        "rerank_score": 0.7154
+      },
+      {
+        "chunk_id": 1007,
+        "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+        "domain": "wikigender.oecdcode.org",
+        "similarity": 0.5489,
+        "rerank_score": 0.6631
+      },
+      {
+        "chunk_id": 1013,
+        "url": "https://www.cwf.ch/event/bscc-luncheon-with-doris-leuthard-former-president-of-the-swiss-confederation-and-swiss-federal-councillor/",
+        "domain": "cwf.ch",
+        "similarity": 0.4693,
+        "rerank_score": 0.6528
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 999,
+      "chunk_index": 0,
+      "source_id": 594,
+      "url": "https://en.wikipedia.org/wiki/Doris_Leuthard",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6431157188369074,
+      "rerank_score": 0.76992935,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text explicitly mentions Doris Leuthard's roles with specific date ranges, including her position as Head of the Department of Environment, Transport, Energy and Communications from 2010 to 2018, which overlaps with the nomination year 2018. Step 2 — Role identification: The text clearly identifies her as 'Head of the Department of Environment, Transport, Energy and Communications'. Step 3 — Organization identification: The organization is the Swiss Federal Council, as she is described as a 'Member of the Swiss Federal Council' and heads a federal department. Step 4 — Temporal match assessment: The role as Head of the Department of Environment, Transport, Energy and Communications explicitly covers the year 2018. Step 5 — Confidence assessment: High confidence due to explicit date range matching 2018.\",\n  \"job_title_at_nomination\": \"Head of the Department of Environment, Transport, Energy and Communications\",\n  \"organization_at_nomination\": \"Swiss Federal Council\",\n  \"year_reference\": \"2010–2018\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Head of the Department of Environment, Transport, Energy and Communications, In office, 1 November 2010 – 31 December 2018\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text explicitly mentions Doris Leuthard's roles with specific date ranges, including her position as Head of the Department of Environment, Transport, Energy and Communications from 2010 to 2018, which overlaps with the nomination year 2018. Step 2 — Role identification: The text clearly identifies her as 'Head of the Department of Environment, Transport, Energy and Communications'. Step 3 — Organization identification: The organization is the Swiss Federal Council, as she is described as a 'Member of the Swiss Federal Council' and heads a federal department. Step 4 — Temporal match assessment: The role as Head of the Department of Environment, Transport, Energy and Communications explicitly covers the year 2018. Step 5 — Confidence assessment: High confidence due to explicit date range matching 2018.",
+        "job_title_at_nomination": "Head of the Department of Environment, Transport, Energy and Communications",
+        "organization_at_nomination": "Swiss Federal Council",
+        "year_reference": "2010–2018",
+        "confidence": "high",
+        "supporting_quote": "Head of the Department of Environment, Transport, Energy and Communications, In office, 1 November 2010 – 31 December 2018",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Head of the Department of Environment, Transport, Energy and Communications",
+      "organization_at_nomination": "Swiss Federal Council",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1004,
+      "url": "https://clubmadrid.org/who/members/leuthard-doris/",
+      "domain": "clubmadrid.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Doris Leuthard and discusses her career and biography, including her roles in Swiss politics. Step 2 — Title match assessment: The text mentions that Leuthard was head of the Federal Department of Environment, Transport, Energy and Communications, which is an exact match to the claimed title. Step 3 — Temporal alignment: The text states that Leuthard took this role in 2010 after a reshuffle and does not indicate she left it before 2018, aligning with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for 2018.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Following a reshuffle of portfolios after the by-election of two new councillors in 2010, Leuthard replaced outgoing Moritz Leuenberger at the head of the Federal Department of Environment, Transport, Energy and Communications.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Doris Leuthard and discusses her career and biography, including her roles in Swiss politics. Step 2 — Title match assessment: The text mentions that Leuthard was head of the Federal Department of Environment, Transport, Energy and Communications, which is an exact match to the claimed title. Step 3 — Temporal alignment: The text states that Leuthard took this role in 2010 after a reshuffle and does not indicate she left it before 2018, aligning with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for 2018.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Following a reshuffle of portfolios after the by-election of two new councillors in 2010, Leuthard replaced outgoing Moritz Leuenberger at the head of the Federal Department of Environment, Transport, Energy and Communications.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Following a reshuffle of portfolios after the by-election of two new councillors in 2010, Leuthard replaced outgoing Moritz Leuenberger at the head of the Federal Department of Environment, Transport, Energy and Communications.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1009,
+      "url": "https://www.bellfoodgroup.com/en/investors/corporate-governance/board-of-directors/doris-leuthard",
+      "domain": "bellfoodgroup.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Doris Leuthard and discusses her career and biography in detail. Step 2 — Title match assessment: The text explicitly mentions that Doris Leuthard was the head of the Federal Department of Environment, Transport, Energy and Communications, which is compatible with the claimed title. Step 3 — Temporal alignment: The role is stated to have been held from 2010–2018, which aligns with the nomination year of 2018. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018)\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Doris Leuthard and discusses her career and biography in detail. Step 2 — Title match assessment: The text explicitly mentions that Doris Leuthard was the head of the Federal Department of Environment, Transport, Energy and Communications, which is compatible with the claimed title. Step 3 — Temporal alignment: The role is stated to have been held from 2010–2018, which aligns with the nomination year of 2018. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018)",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "head of the Federal Department of Environment, Transport, Energy and Communications (2010–2018)",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1007,
+      "url": "https://wikigender.oecdcode.org/index.html%3Fp=716.html",
+      "domain": "wikigender.oecdcode.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text is relevant as it discusses Doris Leuthard's career and biography. Step 2: The text mentions Doris Leuthard as the 'Head of the Federal Department of Economic Affairs (FDEA)', which does not match the claimed title 'Head of the Department of Environment, Transport, Energy and Communications'. Step 3: The text does not provide a temporal alignment for the claimed title in 2018. Step 4: The source names a different primary role, 'Head of the Federal Department of Economic Affairs', which is contradictory to the claimed title.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"She is the Head of the Federal Department of Economic Affairs (FDEA).\",\n  \"alternative_title\": \"Head of the Federal Department of Economic Affairs\",\n  \"alternative_organization\": \"Swiss Federal Council\"\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text is relevant as it discusses Doris Leuthard's career and biography. Step 2: The text mentions Doris Leuthard as the 'Head of the Federal Department of Economic Affairs (FDEA)', which does not match the claimed title 'Head of the Department of Environment, Transport, Energy and Communications'. Step 3: The text does not provide a temporal alignment for the claimed title in 2018. Step 4: The source names a different primary role, 'Head of the Federal Department of Economic Affairs', which is contradictory to the claimed title.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": "She is the Head of the Federal Department of Economic Affairs (FDEA).",
+        "alternative_title": "Head of the Federal Department of Economic Affairs",
+        "alternative_organization": "Swiss Federal Council"
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": "She is the Head of the Federal Department of Economic Affairs (FDEA).",
+      "alternative_title": "Head of the Federal Department of Economic Affairs",
+      "alternative_organization": "Swiss Federal Council",
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Head of the Department of Environment, Transport, Energy and Communications, In office, 1 November 2010 – 31 December 2018",
+    "confirmation_count": 2,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "job_title_at_nomination": "Head of the Department of Environment, Transport, Energy and Communications",
+    "organization_at_nomination": "Swiss Federal Council",
+    "year_reference": "2010–2018"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

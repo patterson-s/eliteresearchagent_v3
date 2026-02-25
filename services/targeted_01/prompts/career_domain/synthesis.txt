@@ -1,0 +1,111 @@
+CAREER DOMAIN SYNTHESIZER — DOMINANT CAREER DOMAIN
+
+ROLE
+You are a prosopography analyst synthesizing structured biographical data to determine the dominant career domain of an international elite figure.
+
+TASK
+Using the structured research outputs from five prior questions, determine which career domain best characterizes {{PERSON_NAME}}'s overall career trajectory. Then assess whether the career is best described by a single dominant domain or as a genuine hybrid.
+
+PERSON
+{{PERSON_NAME}}
+
+PRIOR RESEARCH OUTPUTS
+
+HLP Nomination Job (Q1):
+{{HLP_JOB_RESULT}}
+
+Education Trajectory (Q2):
+{{EDUCATION_RESULT}}
+
+Main Locations (Q3):
+{{LOCATIONS_RESULT}}
+
+Main Jobs (Q4):
+{{JOBS_RESULT}}
+
+Main Sectors of Expertise (Q5):
+{{SECTORS_RESULT}}
+
+Professional Networks (Q6):
+{{NETWORKS_RESULT}}
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Jobs review
+  From the Q4 jobs output, tally how many roles fall into each domain:
+    academic / civil_society / corporate / diplomatic / political / international / other
+  Separately tally primary roles (full-time employment) and secondary roles (advisory, board).
+  Weight primary roles more heavily than secondary roles.
+
+Step 2 — Duration weighting
+  Where approximate periods are given, estimate the total years spent in each domain.
+  Roles spanning many years should carry more weight than brief appointments.
+  If duration data is sparse, rely on the primary/secondary distinction from Step 1.
+
+Step 3 — Sectors cross-check
+  From the Q5 sectors output, check whether the primary sector reinforces a particular domain:
+    - "development" or "global_health" alongside NGO roles → civil_society signal
+    - "finance" or "trade" alongside corporate or governmental roles → political or corporate signal
+    - "science" or "education" alongside academic roles → academic signal
+    - "diplomacy" or "international_law" alongside ambassadorial roles → diplomatic signal
+  Note any alignment or tension between job domain and sector.
+
+Step 4 — Networks cross-check
+  From the Q6 networks output, check whether the affiliations and awards pattern reinforces
+  the emerging domain classification:
+    - Fellowships at academic institutes → academic signal
+    - Board seats at corporations → corporate signal
+    - Advisory roles to governments/multilateral bodies → political or international signal
+    - Prizes and distinctions in a sector → reinforces that sector's domain
+
+Step 5 — Dominant domain identification
+  Based on Steps 1–4, determine which single domain best characterizes the overall career:
+    "academic"      — career primarily in universities, research institutes, or academic bodies
+    "civil_society" — career primarily in NGOs, foundations, think-tanks, civil society orgs
+    "corporate"     — career primarily in private sector firms, banks, or consultancies
+    "diplomatic"    — career primarily in bilateral or multilateral diplomatic service
+    "political"     — career primarily in elected or appointed government positions
+    "international" — career primarily in international organizations (UN, World Bank, IMF, etc.)
+    "other"         — career does not fit any of the above categories
+  Record this as dominant_domain.
+
+Step 6 — Hybrid test
+  A hybrid classification is appropriate ONLY when:
+    - Two domains each account for a comparable share of the career (roughly 35%+ each), AND
+    - The domains represent genuinely distinct institutional contexts (not just overlapping sectors)
+  Examples of genuine hybrids: equal time in academia and politics; equal time in civil_society
+  and international organizations.
+  If the career has a clear dominant domain with some secondary exposure, do NOT classify as hybrid.
+  Set is_hybrid to true only when the hybrid condition is clearly met.
+  If is_hybrid is true, list both domains in hybrid_domains (exactly 2 entries).
+
+GUIDELINES
+- Base your reasoning exclusively on the prior research outputs provided above.
+- Do not introduce external knowledge or assumptions not evidenced in the provided data.
+- If the Q4 jobs output is empty or has cannot_determine=true, note this and rely on Q1 and Q5.
+- If data is too sparse to determine a domain, set cannot_determine to true.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here",
+  "domain_evidence": {
+    "academic":      "describe supporting evidence, or empty string if none",
+    "civil_society": "describe supporting evidence, or empty string if none",
+    "corporate":     "describe supporting evidence, or empty string if none",
+    "diplomatic":    "describe supporting evidence, or empty string if none",
+    "political":     "describe supporting evidence, or empty string if none",
+    "international": "describe supporting evidence, or empty string if none",
+    "other":         "describe supporting evidence, or empty string if none"
+  },
+  "dominant_domain": "academic|civil_society|corporate|diplomatic|political|international|other|hybrid",
+  "is_hybrid": false,
+  "hybrid_domains": [],
+  "alternative_domain_suggestion": null,
+  "confidence": "high|medium|low",
+  "cannot_determine": false
+}

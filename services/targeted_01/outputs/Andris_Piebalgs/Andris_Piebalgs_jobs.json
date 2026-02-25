@@ -1,0 +1,842 @@
+{
+  "person_dir_name": "Andris_Piebalgs",
+  "person_db_name": "Andris Piebalgs",
+  "question_id": "jobs",
+  "question_display": "Main Jobs (Organizational Mobility)",
+  "run_timestamp": "2026-02-25T18:30:05.515989+00:00",
+  "input": {
+    "hlp_name": "United Nations High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 55,
+    "birth_year": "1957",
+    "nationality": [
+      "Latvian"
+    ]
+  },
+  "retrieval": {
+    "query": "Andris Piebalgs job title director minister professor CEO secretary general career appointment position employer organization",
+    "chunks_in_db": 21,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3175,
+        "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6491,
+        "rerank_score": 0.6539
+      },
+      {
+        "chunk_id": 3184,
+        "url": "https://www.un.org/sg/en/management/bios/Piebalgs.shtml",
+        "domain": "un.org",
+        "similarity": 0.5712,
+        "rerank_score": 0.6117
+      },
+      {
+        "chunk_id": 3195,
+        "url": "https://www.gainhealth.org/andris-piebalgs",
+        "domain": "gainhealth.org",
+        "similarity": 0.4582,
+        "rerank_score": 0.5043
+      },
+      {
+        "chunk_id": 3182,
+        "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+        "domain": "cov.com",
+        "similarity": 0.5036,
+        "rerank_score": 0.4749
+      },
+      {
+        "chunk_id": 3186,
+        "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+        "domain": "live.worldbank.org",
+        "similarity": 0.5734,
+        "rerank_score": 0.4552
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3175,
+      "chunk_index": 0,
+      "source_id": 1169,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.6490972857030112,
+      "rerank_score": 0.6538572,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include European Commissioner for Development, European Commissioner for Energy, Leader of Unity, teacher and headmaster, and director of a department in the Ministry of Education. Step 2: Organizations are European Commission, Unity party, 1st Secondary School of Valmiera, and Ministry of Education. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as international, political, and academic/other. Step 5: Assessed prominence as primary for all roles except the teaching role, which is primary but less prominent in his later career.\",\n  \"jobs\": [\n    {\n      \"title\": \"European Commissioner for Development\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2010-2014\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"European Commissioner for Energy\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2004-2010\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Leader of Unity\",\n      \"organization\": \"Unity party\",\n      \"approximate_period\": \"2016-2017\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Headmaster\",\n      \"organization\": \"1st Secondary School of Valmiera\",\n      \"approximate_period\": \"1980-1990\",\n      \"domain\": \"other\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Director of Department\",\n      \"organization\": \"Ministry of Education, Latvia\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"supporting_quote\": \"Andris Piebalgs served as European Commissioner for Development from 2010 until 2014 and as Commissioner for Energy between 2004 and 2009.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include European Commissioner for Development, European Commissioner for Energy, Leader of Unity, teacher and headmaster, and director of a department in the Ministry of Education. Step 2: Organizations are European Commission, Unity party, 1st Secondary School of Valmiera, and Ministry of Education. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as international, political, and academic/other. Step 5: Assessed prominence as primary for all roles except the teaching role, which is primary but less prominent in his later career.",
+        "jobs": [
+          {
+            "title": "European Commissioner for Development",
+            "organization": "European Commission",
+            "approximate_period": "2010-2014",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "European Commissioner for Energy",
+            "organization": "European Commission",
+            "approximate_period": "2004-2010",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Leader of Unity",
+            "organization": "Unity party",
+            "approximate_period": "2016-2017",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Headmaster",
+            "organization": "1st Secondary School of Valmiera",
+            "approximate_period": "1980-1990",
+            "domain": "other",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Director of Department",
+            "organization": "Ministry of Education, Latvia",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "medium"
+          }
+        ],
+        "supporting_quote": "Andris Piebalgs served as European Commissioner for Development from 2010 until 2014 and as Commissioner for Energy between 2004 and 2009.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3184,
+      "chunk_index": 0,
+      "source_id": 1172,
+      "url": "https://www.un.org/sg/en/management/bios/Piebalgs.shtml",
+      "domain": "un.org",
+      "similarity": 0.5712076093335472,
+      "rerank_score": 0.61168414,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles as Commissioner for Development, European Commissioner for Energy, Deputy Secretary of State, Minister of Finance, and Minister of Education. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods from the text. Step 4: Classified domains based on role nature. Step 5: Assessed prominence as primary for all roles due to their full-time nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Commissioner for Development\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2009-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"European Commissioner for Energy\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2004-2009\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Deputy Secretary of State\",\n      \"organization\": \"Ministry of Foreign Affairs of Latvia\",\n      \"approximate_period\": \"2003-2004\",\n      \"domain\": \"diplomatic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister of Finance\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1994-1995\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister of Education\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1990-1993\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Mr. Piebalgs is currently the Commissioner for Development for the European Commission. He was previously European Commissioner for Energy (2004-2009), Deputy Secretary of State, Ministry of Foreign Affairs of Latvia (2003-2004), Minister of Finance of Latvia (1994-1995) and Minister of Education of Latvia (1990-1993).\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles as Commissioner for Development, European Commissioner for Energy, Deputy Secretary of State, Minister of Finance, and Minister of Education. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods from the text. Step 4: Classified domains based on role nature. Step 5: Assessed prominence as primary for all roles due to their full-time nature.",
+        "jobs": [
+          {
+            "title": "Commissioner for Development",
+            "organization": "European Commission",
+            "approximate_period": "2009-present",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "European Commissioner for Energy",
+            "organization": "European Commission",
+            "approximate_period": "2004-2009",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Deputy Secretary of State",
+            "organization": "Ministry of Foreign Affairs of Latvia",
+            "approximate_period": "2003-2004",
+            "domain": "diplomatic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister of Finance",
+            "organization": "Government of Latvia",
+            "approximate_period": "1994-1995",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister of Education",
+            "organization": "Government of Latvia",
+            "approximate_period": "1990-1993",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Mr. Piebalgs is currently the Commissioner for Development for the European Commission. He was previously European Commissioner for Energy (2004-2009), Deputy Secretary of State, Ministry of Foreign Affairs of Latvia (2003-2004), Minister of Finance of Latvia (1994-1995) and Minister of Education of Latvia (1990-1993).",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3195,
+      "chunk_index": 1,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.4582207917630391,
+      "rerank_score": 0.50432175,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include EU Development Commissioner, EU Commissioner for Energy, Professor at the European University Institute, Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators, Member of the Board of Trustees of Friends of Europe, and Board Member of the Friends of Global Fund Europe. Step 2: Organizations are the European Commission, European University Institute, Agency of the Cooperation of Energy Regulators, Friends of Europe, and Friends of Global Fund Europe. Step 3: Dates are extracted as provided. Step 4: Domains are classified based on the nature of each role. Step 5: Prominence is assessed as primary for full-time roles and secondary for part-time or advisory roles.\",\n  \"jobs\": [\n    {\n      \"title\": \"EU Development Commissioner\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2010-2014\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"EU Commissioner for Energy\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2004-2009\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"European University Institute\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chairman of the Board of Appeal\",\n      \"organization\": \"Agency of the Cooperation of Energy Regulators\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of the Board of Trustees\",\n      \"organization\": \"Friends of Europe\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Board Member\",\n      \"organization\": \"Friends of Global Fund Europe\",\n      \"approximate_period\": null,\n      \"domain\": \"civil_society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Andris Piebalgs has served as EU Development Commissioner (2010-2014). He has been EU Commissioner for Energy (2004-2009). He is a Professor at the European University Institute.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include EU Development Commissioner, EU Commissioner for Energy, Professor at the European University Institute, Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators, Member of the Board of Trustees of Friends of Europe, and Board Member of the Friends of Global Fund Europe. Step 2: Organizations are the European Commission, European University Institute, Agency of the Cooperation of Energy Regulators, Friends of Europe, and Friends of Global Fund Europe. Step 3: Dates are extracted as provided. Step 4: Domains are classified based on the nature of each role. Step 5: Prominence is assessed as primary for full-time roles and secondary for part-time or advisory roles.",
+        "jobs": [
+          {
+            "title": "EU Development Commissioner",
+            "organization": "European Commission",
+            "approximate_period": "2010-2014",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "EU Commissioner for Energy",
+            "organization": "European Commission",
+            "approximate_period": "2004-2009",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Professor",
+            "organization": "European University Institute",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chairman of the Board of Appeal",
+            "organization": "Agency of the Cooperation of Energy Regulators",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of the Board of Trustees",
+            "organization": "Friends of Europe",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Board Member",
+            "organization": "Friends of Global Fund Europe",
+            "approximate_period": null,
+            "domain": "civil_society",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Andris Piebalgs has served as EU Development Commissioner (2010-2014). He has been EU Commissioner for Energy (2004-2009). He is a Professor at the European University Institute.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3182,
+      "chunk_index": 0,
+      "source_id": 1171,
+      "url": "https://www.cov.com/en/professionals/p/andris-piebalgs",
+      "domain": "cov.com",
+      "similarity": 0.5036224965447473,
+      "rerank_score": 0.47489962,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Minister of Finance, Deputy Secretary of State for EU affairs, Minister of Education, European Commissioner for Energy, European Commissioner for Development, Ambassador to the EU, Chairman of the Implementation Committee of the International Methane Emissions Observatory, Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators, Professor at the Florence School of Regulation, Adviser to the President of Latvia, and Senior Advisor at Covington & Burling LLP. Step 2: Organizations were identified for each role based on explicit mentions in the text. Step 3: Approximate periods were extracted where available. Step 4: Domains were classified based on the nature of each role. Step 5: Prominence was assessed as primary or secondary based on the role's nature and context.\",\n  \"jobs\": [\n    {\n      \"title\": \"Minister of Finance\",\n      \"organization\": \"Latvian Government\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Deputy Secretary of State for EU affairs\",\n      \"organization\": \"Latvian Government\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister of Education\",\n      \"organization\": \"Latvian Government\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"European Commissioner for Energy\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2004-2009\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"European Commissioner for Development\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2010-2014\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Ambassador to the EU\",\n      \"organization\": \"Latvian Foreign Service\",\n      \"approximate_period\": null,\n      \"domain\": \"diplomatic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chairman of the Implementation Committee of the International Methane Emissions Observatory\",\n      \"organization\": \"International Methane Emissions Observatory\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators\",\n      \"organization\": \"Agency of the Cooperation of Energy Regulators\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"Florence School of Regulation, European University Institute\",\n      \"approximate_period\": \"2016-present\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Adviser to the President of Latvia\",\n      \"organization\": \"Office of the President of Latvia\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Senior Advisor\",\n      \"organization\": \"Covington & Burling LLP\",\n      \"approximate_period\": null,\n      \"domain\": \"corporate\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Andris served as European Commissioner for Energy between 2004 and 2009 where he was instrumental in designing and implementing the “Third Energy Package,\\\"\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Minister of Finance, Deputy Secretary of State for EU affairs, Minister of Education, European Commissioner for Energy, European Commissioner for Development, Ambassador to the EU, Chairman of the Implementation Committee of the International Methane Emissions Observatory, Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators, Professor at the Florence School of Regulation, Adviser to the President of Latvia, and Senior Advisor at Covington & Burling LLP. Step 2: Organizations were identified for each role based on explicit mentions in the text. Step 3: Approximate periods were extracted where available. Step 4: Domains were classified based on the nature of each role. Step 5: Prominence was assessed as primary or secondary based on the role's nature and context.",
+        "jobs": [
+          {
+            "title": "Minister of Finance",
+            "organization": "Latvian Government",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Deputy Secretary of State for EU affairs",
+            "organization": "Latvian Government",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister of Education",
+            "organization": "Latvian Government",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "European Commissioner for Energy",
+            "organization": "European Commission",
+            "approximate_period": "2004-2009",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "European Commissioner for Development",
+            "organization": "European Commission",
+            "approximate_period": "2010-2014",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Ambassador to the EU",
+            "organization": "Latvian Foreign Service",
+            "approximate_period": null,
+            "domain": "diplomatic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chairman of the Implementation Committee of the International Methane Emissions Observatory",
+            "organization": "International Methane Emissions Observatory",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators",
+            "organization": "Agency of the Cooperation of Energy Regulators",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Professor",
+            "organization": "Florence School of Regulation, European University Institute",
+            "approximate_period": "2016-present",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Adviser to the President of Latvia",
+            "organization": "Office of the President of Latvia",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Senior Advisor",
+            "organization": "Covington & Burling LLP",
+            "approximate_period": null,
+            "domain": "corporate",
+            "prominence": "secondary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Andris served as European Commissioner for Energy between 2004 and 2009 where he was instrumental in designing and implementing the “Third Energy Package,\"",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3186,
+      "chunk_index": 0,
+      "source_id": 1174,
+      "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5734001931724326,
+      "rerank_score": 0.45522344,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include European Commissioner for Energy, European Commissioner for Development, Minister of Education, Finance Minister, Deputy Prime Minister, Chairman of the Budget and Finance Committee, Headmaster, and Director of the Department in the Ministry of Education. Step 2: Organizations include European Commission, Government of Latvia, 1st Secondary School of Valmiera, and Ministry of Education. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as international, political, or academic. Step 5: Assessed prominence as primary for all roles.\",\n  \"jobs\": [\n    {\n      \"title\": \"European Commissioner for Energy\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2004-2009\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy.\"\n    },\n    {\n      \"title\": \"European Commissioner for Development\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Andris Piebalgs | World Bank Live Featured Speaker Andris Piebalgs European Commissioner for Development, European Commission\"\n    },\n    {\n      \"title\": \"Minister of Education\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1990-1993\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government.\"\n    },\n    {\n      \"title\": \"Finance Minister and Deputy Prime Minister\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1994-1995\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"At this time, he became Latvia's Finance Minister and Deputy Prime Minister.\"\n    },\n    {\n      \"title\": \"Chairman of the Budget and Finance Committee\",\n      \"organization\": \"Latvian Parliament\",\n      \"approximate_period\": \"1993-1994\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"He served as the Chairman of the Budget and Finance Committee until 1994.\"\n    },\n    {\n      \"title\": \"Headmaster\",\n      \"organization\": \"1st Secondary School of Valmiera\",\n      \"approximate_period\": \"1980-1990\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Earlier in his career... Andris Piebalgs worked as a teacher and was the Headmaster of the 1st Secondary School of Valmiera (1980-1990).\"\n    },\n    {\n      \"title\": \"Director of the Department\",\n      \"organization\": \"Ministry of Education, Latvia\",\n      \"approximate_period\": null,\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"He also served as Director of the Department in the Ministry of Education in Latvia.\"\n    }\n  ],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include European Commissioner for Energy, European Commissioner for Development, Minister of Education, Finance Minister, Deputy Prime Minister, Chairman of the Budget and Finance Committee, Headmaster, and Director of the Department in the Ministry of Education. Step 2: Organizations include European Commission, Government of Latvia, 1st Secondary School of Valmiera, and Ministry of Education. Step 3: Extracted approximate periods for each role. Step 4: Classified domains as international, political, or academic. Step 5: Assessed prominence as primary for all roles.",
+        "jobs": [
+          {
+            "title": "European Commissioner for Energy",
+            "organization": "European Commission",
+            "approximate_period": "2004-2009",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "During the first Barroso Commission, starting in November 2004, he was the European Commissioner for Energy."
+          },
+          {
+            "title": "European Commissioner for Development",
+            "organization": "European Commission",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Andris Piebalgs | World Bank Live Featured Speaker Andris Piebalgs European Commissioner for Development, European Commission"
+          },
+          {
+            "title": "Minister of Education",
+            "organization": "Government of Latvia",
+            "approximate_period": "1990-1993",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government."
+          },
+          {
+            "title": "Finance Minister and Deputy Prime Minister",
+            "organization": "Government of Latvia",
+            "approximate_period": "1994-1995",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "medium",
+            "supporting_quote": "At this time, he became Latvia's Finance Minister and Deputy Prime Minister."
+          },
+          {
+            "title": "Chairman of the Budget and Finance Committee",
+            "organization": "Latvian Parliament",
+            "approximate_period": "1993-1994",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "He served as the Chairman of the Budget and Finance Committee until 1994."
+          },
+          {
+            "title": "Headmaster",
+            "organization": "1st Secondary School of Valmiera",
+            "approximate_period": "1980-1990",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high",
+            "supporting_quote": "Earlier in his career... Andris Piebalgs worked as a teacher and was the Headmaster of the 1st Secondary School of Valmiera (1980-1990)."
+          },
+          {
+            "title": "Director of the Department",
+            "organization": "Ministry of Education, Latvia",
+            "approximate_period": null,
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "medium",
+            "supporting_quote": "He also served as Director of the Department in the Ministry of Education in Latvia."
+          }
+        ],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3190,
+      "chunk_index": 0,
+      "source_id": 1176,
+      "url": "https://fsr.eui.eu/people/andris-piebalgs/",
+      "domain": "fsr.eui.eu",
+      "similarity": 0.4793190868018824,
+      "rerank_score": 0.40938663,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles include Part-time Professor at Florence School of Regulation, Professor at European University Institute, Chairman of the Implementation Committee of the International Methane Emissions Observatory, European Union Commissioner for Energy, European Union Commissioner for Development, and Latvia’s Ambassador to the EU. Step 2: Organizations are Florence School of Regulation, European University Institute, International Methane Emissions Observatory, European Union, and Latvian Government. Step 3: Approximate periods are not explicitly stated for most roles, except for the Ambassador role, which was before EU accession (Latvia joined the EU in 2004). Step 4: Domains are classified as academic, international, and diplomatic. Step 5: Prominence is assessed as primary for most roles, except for the part-time professorship, which is secondary.\",\n  \"jobs\": [\n    {\n      \"title\": \"Part-time Professor\",\n      \"organization\": \"Florence School of Regulation\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Professor\",\n      \"organization\": \"European University Institute\",\n      \"approximate_period\": null,\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Chairman of the Implementation Committee\",\n      \"organization\": \"International Methane Emissions Observatory\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"European Union Commissioner for Energy\",\n      \"organization\": \"European Union\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"European Union Commissioner for Development\",\n      \"organization\": \"European Union\",\n      \"approximate_period\": null,\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Ambassador to the EU\",\n      \"organization\": \"Latvian Government\",\n      \"approximate_period\": \"before 2004\",\n      \"domain\": \"diplomatic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"Andris Piebalgs is a Professor at the European University Institute and serves as the Chairman of the Implementation Committee of the International Methane Emissions Observatory.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles include Part-time Professor at Florence School of Regulation, Professor at European University Institute, Chairman of the Implementation Committee of the International Methane Emissions Observatory, European Union Commissioner for Energy, European Union Commissioner for Development, and Latvia’s Ambassador to the EU. Step 2: Organizations are Florence School of Regulation, European University Institute, International Methane Emissions Observatory, European Union, and Latvian Government. Step 3: Approximate periods are not explicitly stated for most roles, except for the Ambassador role, which was before EU accession (Latvia joined the EU in 2004). Step 4: Domains are classified as academic, international, and diplomatic. Step 5: Prominence is assessed as primary for most roles, except for the part-time professorship, which is secondary.",
+        "jobs": [
+          {
+            "title": "Part-time Professor",
+            "organization": "Florence School of Regulation",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "secondary",
+            "confidence": "high"
+          },
+          {
+            "title": "Professor",
+            "organization": "European University Institute",
+            "approximate_period": null,
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Chairman of the Implementation Committee",
+            "organization": "International Methane Emissions Observatory",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "European Union Commissioner for Energy",
+            "organization": "European Union",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "European Union Commissioner for Development",
+            "organization": "European Union",
+            "approximate_period": null,
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Ambassador to the EU",
+            "organization": "Latvian Government",
+            "approximate_period": "before 2004",
+            "domain": "diplomatic",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "Andris Piebalgs is a Professor at the European University Institute and serves as the Chairman of the Implementation Committee of the International Methane Emissions Observatory.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3185,
+      "chunk_index": 0,
+      "source_id": 1173,
+      "url": "https://www.europarl.europa.eu/press/audicom2004/cv/cv_piebalgs.pdf",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.5641471268479955,
+      "rerank_score": 0.37449384,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified roles from the text including Head of Cabinet, Deputy Secretary of State, Ambassador, Minister of Finance, Member of Parliament, Minister of Education, Desk Officer/Head of Department, and Teacher/Headmaster. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods for each role. Step 4: Classified each role into a domain. Step 5: Assessed prominence as primary for all roles due to their full-time nature.\",\n  \"jobs\": [\n    {\n      \"title\": \"Head of Cabinet of Commissioner Kalniete\",\n      \"organization\": \"European Commission\",\n      \"approximate_period\": \"2004-present\",\n      \"domain\": \"international\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Deputy Secretary of State\",\n      \"organization\": \"Ministry of Foreign Affairs of Latvia\",\n      \"approximate_period\": \"2003-2004\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Ambassador Extraordinary and Plenipotentiary of Latvia to the European Union\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1998-2003\",\n      \"domain\": \"diplomatic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Ambassador Extraordinary and Plenipotentiary of Latvia to the Republic of Estonia\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1995-1997\",\n      \"domain\": \"diplomatic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister of Finance\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1994-1995\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Member of Parliament, Chairman of the Budget and Finance Committee\",\n      \"organization\": \"Parliament of Latvia\",\n      \"approximate_period\": \"1993-1994\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Minister of Education\",\n      \"organization\": \"Government of Latvia\",\n      \"approximate_period\": \"1990-1993\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Desk Officer, Head of Department\",\n      \"organization\": \"Ministry of Education of Latvia\",\n      \"approximate_period\": \"1988-1990\",\n      \"domain\": \"political\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"title\": \"Teacher, Headmaster\",\n      \"organization\": \"Secondary School No1, Valmiera\",\n      \"approximate_period\": \"1980-1988\",\n      \"domain\": \"academic\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"supporting_quote\": \"2004 – up to now Head of Cabinet of Commissioner Kalniete\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified roles from the text including Head of Cabinet, Deputy Secretary of State, Ambassador, Minister of Finance, Member of Parliament, Minister of Education, Desk Officer/Head of Department, and Teacher/Headmaster. Step 2: Matched each role to its respective organization. Step 3: Extracted approximate periods for each role. Step 4: Classified each role into a domain. Step 5: Assessed prominence as primary for all roles due to their full-time nature.",
+        "jobs": [
+          {
+            "title": "Head of Cabinet of Commissioner Kalniete",
+            "organization": "European Commission",
+            "approximate_period": "2004-present",
+            "domain": "international",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Deputy Secretary of State",
+            "organization": "Ministry of Foreign Affairs of Latvia",
+            "approximate_period": "2003-2004",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Ambassador Extraordinary and Plenipotentiary of Latvia to the European Union",
+            "organization": "Government of Latvia",
+            "approximate_period": "1998-2003",
+            "domain": "diplomatic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Ambassador Extraordinary and Plenipotentiary of Latvia to the Republic of Estonia",
+            "organization": "Government of Latvia",
+            "approximate_period": "1995-1997",
+            "domain": "diplomatic",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister of Finance",
+            "organization": "Government of Latvia",
+            "approximate_period": "1994-1995",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Member of Parliament, Chairman of the Budget and Finance Committee",
+            "organization": "Parliament of Latvia",
+            "approximate_period": "1993-1994",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Minister of Education",
+            "organization": "Government of Latvia",
+            "approximate_period": "1990-1993",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Desk Officer, Head of Department",
+            "organization": "Ministry of Education of Latvia",
+            "approximate_period": "1988-1990",
+            "domain": "political",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "title": "Teacher, Headmaster",
+            "organization": "Secondary School No1, Valmiera",
+            "approximate_period": "1980-1988",
+            "domain": "academic",
+            "prominence": "primary",
+            "confidence": "high"
+          }
+        ],
+        "supporting_quote": "2004 – up to now Head of Cabinet of Commissioner Kalniete",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3194,
+      "chunk_index": 0,
+      "source_id": 1178,
+      "url": "https://www.gainhealth.org/andris-piebalgs",
+      "domain": "gainhealth.org",
+      "similarity": 0.3687700423821276,
+      "rerank_score": 0.36033198,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text does not explicitly mention any roles held by Andris Piebalgs. It primarily focuses on the Global Alliance for Improved Nutrition (GAIN) and its activities. Since no specific roles for Andris Piebalgs are identified, the output reflects this lack of information.\",\n  \"jobs\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text does not explicitly mention any roles held by Andris Piebalgs. It primarily focuses on the Global Alliance for Improved Nutrition (GAIN) and its activities. Since no specific roles for Andris Piebalgs are identified, the output reflects this lack of information.",
+        "jobs": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3187,
+      "url": "https://live.worldbank.org/en/experts/a/andris-piebalgs",
+      "domain": "live.worldbank.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — The source text discusses Andris Piebalgs's career, focusing on his diplomatic and governmental roles. Step 2 — The text confirms the role of 'Deputy Secretary of State for EU affairs' but does not mention 'Minister of Finance' or 'Minister of Education'. Step 3 — New roles found include 'Ambassador of Latvia in Estonia' and 'Ambassador to the EU'. Step 4 — Confidence is medium as it confirms one role and provides additional roles not listed in the candidate findings.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\"Deputy Secretary of State for EU affairs, Latvian Government\"],\n  \"new_jobs_found\": [\n    {\n      \"title\": \"Ambassador of Latvia in Estonia\",\n      \"organization\": \"Latvian Diplomatic Service\",\n      \"domain\": \"Diplomacy\"\n    },\n    {\n      \"title\": \"Ambassador to the EU\",\n      \"organization\": \"Latvian Diplomatic Service\",\n      \"domain\": \"Diplomacy\"\n    }\n  ],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — The source text discusses Andris Piebalgs's career, focusing on his diplomatic and governmental roles. Step 2 — The text confirms the role of 'Deputy Secretary of State for EU affairs' but does not mention 'Minister of Finance' or 'Minister of Education'. Step 3 — New roles found include 'Ambassador of Latvia in Estonia' and 'Ambassador to the EU'. Step 4 — Confidence is medium as it confirms one role and provides additional roles not listed in the candidate findings.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Deputy Secretary of State for EU affairs, Latvian Government"
+        ],
+        "new_jobs_found": [
+          {
+            "title": "Ambassador of Latvia in Estonia",
+            "organization": "Latvian Diplomatic Service",
+            "domain": "Diplomacy"
+          },
+          {
+            "title": "Ambassador to the EU",
+            "organization": "Latvian Diplomatic Service",
+            "domain": "Diplomacy"
+          }
+        ],
+        "confidence": "medium",
+        "supporting_quote": "From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia."
+      },
+      "confirms": true,
+      "confidence": "medium",
+      "supporting_quote": "From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3176,
+      "url": "https://en.wikipedia.org/wiki/Andris_Piebalgs",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text extensively discusses Andris Piebalgs's career, detailing his roles in the Latvian government, diplomatic service, and European Commission. Step 2 — Job confirmation: The text confirms his roles as Minister of Education, Minister of Finance, and Deputy Secretary of State for EU affairs. Step 3 — New jobs found: The source mentions additional roles not listed in the candidate findings, such as ambassadorial positions and European Commissioner for Energy. Step 4 — Confidence: The source provides clear and detailed information about Piebalgs's career, confirming the roles with high confidence.\",\n  \"confirms\": true,\n  \"confirmed_jobs\": [\n    \"Minister of Education, Latvian Government\",\n    \"Minister of Finance, Latvian Government\",\n    \"Deputy Secretary of State for EU affairs, Latvian Government\"\n  ],\n  \"new_jobs_found\": [\n    {\n      \"title\": \"Ambassador of Latvia in Estonia\",\n      \"organization\": \"Latvian Diplomatic Service\",\n      \"domain\": \"Diplomacy\"\n    },\n    {\n      \"title\": \"Latvian Ambassador to the EU\",\n      \"organization\": \"Latvian Diplomatic Service\",\n      \"domain\": \"Diplomacy\"\n    },\n    {\n      \"title\": \"European Commissioner for Energy\",\n      \"organization\": \"European Commission\",\n      \"domain\": \"Energy Policy\"\n    },\n    {\n      \"title\": \"Deputy Prime Minister\",\n      \"organization\": \"Latvian Government\",\n      \"domain\": \"Government\"\n    },\n    {\n      \"title\": \"Chairman of the Budget and Finance Committee\",\n      \"organization\": \"Latvian Parliament\",\n      \"domain\": \"Legislature\"\n    }\n  ],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government... In September 1994, he became Latvia's Minister of Finance and deputy prime minister... From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text extensively discusses Andris Piebalgs's career, detailing his roles in the Latvian government, diplomatic service, and European Commission. Step 2 — Job confirmation: The text confirms his roles as Minister of Education, Minister of Finance, and Deputy Secretary of State for EU affairs. Step 3 — New jobs found: The source mentions additional roles not listed in the candidate findings, such as ambassadorial positions and European Commissioner for Energy. Step 4 — Confidence: The source provides clear and detailed information about Piebalgs's career, confirming the roles with high confidence.",
+        "confirms": true,
+        "confirmed_jobs": [
+          "Minister of Education, Latvian Government",
+          "Minister of Finance, Latvian Government",
+          "Deputy Secretary of State for EU affairs, Latvian Government"
+        ],
+        "new_jobs_found": [
+          {
+            "title": "Ambassador of Latvia in Estonia",
+            "organization": "Latvian Diplomatic Service",
+            "domain": "Diplomacy"
+          },
+          {
+            "title": "Latvian Ambassador to the EU",
+            "organization": "Latvian Diplomatic Service",
+            "domain": "Diplomacy"
+          },
+          {
+            "title": "European Commissioner for Energy",
+            "organization": "European Commission",
+            "domain": "Energy Policy"
+          },
+          {
+            "title": "Deputy Prime Minister",
+            "organization": "Latvian Government",
+            "domain": "Government"
+          },
+          {
+            "title": "Chairman of the Budget and Finance Committee",
+            "organization": "Latvian Parliament",
+            "domain": "Legislature"
+          }
+        ],
+        "confidence": "high",
+        "supporting_quote": "On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government... In September 1994, he became Latvia's Minister of Finance and deputy prime minister... From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "On 7 May 1990, Andris Piebalgs was appointed as Minister of Education in the new Government... In September 1994, he became Latvia's Minister of Finance and deputy prime minister... From 2003 to 2004, he was appointed Deputy Secretary of State for EU affairs at the Ministry of Foreign Affairs of Latvia.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Andris served as European Commissioner for Energy between 2004 and 2009 where he was instrumental in designing and implementing the “Third Energy Package,\"",
+    "confirmation_count": 2,
+    "primary_source_domain": "cov.com",
+    "notes": null,
+    "jobs": [
+      {
+        "title": "Minister of Finance",
+        "organization": "Latvian Government",
+        "approximate_period": null,
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Deputy Secretary of State for EU affairs",
+        "organization": "Latvian Government",
+        "approximate_period": null,
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Minister of Education",
+        "organization": "Latvian Government",
+        "approximate_period": null,
+        "domain": "political",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "European Commissioner for Energy",
+        "organization": "European Commission",
+        "approximate_period": "2004-2009",
+        "domain": "international",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "European Commissioner for Development",
+        "organization": "European Commission",
+        "approximate_period": "2010-2014",
+        "domain": "international",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Ambassador to the EU",
+        "organization": "Latvian Foreign Service",
+        "approximate_period": null,
+        "domain": "diplomatic",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Chairman of the Implementation Committee of the International Methane Emissions Observatory",
+        "organization": "International Methane Emissions Observatory",
+        "approximate_period": null,
+        "domain": "international",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Chairman of the Board of Appeal of the Agency of the Cooperation of Energy Regulators",
+        "organization": "Agency of the Cooperation of Energy Regulators",
+        "approximate_period": null,
+        "domain": "international",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Professor",
+        "organization": "Florence School of Regulation, European University Institute",
+        "approximate_period": "2016-present",
+        "domain": "academic",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "title": "Adviser to the President of Latvia",
+        "organization": "Office of the President of Latvia",
+        "approximate_period": null,
+        "domain": "political",
+        "prominence": "secondary",
+        "confidence": "high"
+      },
+      {
+        "title": "Senior Advisor",
+        "organization": "Covington & Burling LLP",
+        "approximate_period": null,
+        "domain": "corporate",
+        "prominence": "secondary",
+        "confidence": "high"
+      }
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

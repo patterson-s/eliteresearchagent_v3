@@ -1,0 +1,732 @@
+{
+  "person_dir_name": "Gunilla_Carlsson",
+  "person_db_name": "Gunilla Carlsson",
+  "question_id": "networks",
+  "question_display": "Main Professional Networks (Revolving Doors)",
+  "run_timestamp": "2026-02-25T18:02:57.298736+00:00",
+  "input": {
+    "hlp_name": "UN High-level Panel on Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 49,
+    "birth_year": "1963",
+    "nationality": [
+      "Swedish"
+    ]
+  },
+  "retrieval": {
+    "query": "Gunilla Carlsson board member fellow award association club membership prize distinction honorary advisory",
+    "chunks_in_db": 22,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3377,
+        "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+        "domain": "gcsp.ch",
+        "similarity": 0.511,
+        "rerank_score": 0.5646
+      },
+      {
+        "chunk_id": 3387,
+        "url": "https://www.bitprop.com/team/gunilla-carlsson",
+        "domain": "bitprop.com",
+        "similarity": 0.4565,
+        "rerank_score": 0.5212
+      },
+      {
+        "chunk_id": 3369,
+        "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5394,
+        "rerank_score": 0.5099
+      },
+      {
+        "chunk_id": 3381,
+        "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+        "domain": "se.linkedin.com",
+        "similarity": 0.5308,
+        "rerank_score": 0.4562
+      },
+      {
+        "chunk_id": 3375,
+        "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+        "domain": "unaids.org",
+        "similarity": 0.4396,
+        "rerank_score": 0.3989
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3377,
+      "chunk_index": 0,
+      "source_id": 1242,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "similarity": 0.5109594922715885,
+      "rerank_score": 0.56460327,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations. Step 4: Recorded periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"GCSP Global Fellowship Initiative\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Ms Gunilla Carlsson is an Associate Fellow within the Global Fellowship Initiative of the GCSP.\"\n    },\n    {\n      \"organization\": \"UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Former Minister of International Development Cooperation of Sweden and member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda.\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified affiliations. Step 4: Recorded periods where available.",
+        "affiliations": [
+          {
+            "organization": "GCSP Global Fellowship Initiative",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Ms Gunilla Carlsson is an Associate Fellow within the Global Fellowship Initiative of the GCSP."
+          },
+          {
+            "organization": "UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Former Minister of International Development Cooperation of Sweden and member of the UN Secretary-General’s High-Level Panel of Eminent Persons on the Post-2015 Development Agenda."
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3387,
+      "chunk_index": 0,
+      "source_id": 1244,
+      "url": "https://www.bitprop.com/team/gunilla-carlsson",
+      "domain": "bitprop.com",
+      "similarity": 0.4564887866753687,
+      "rerank_score": 0.52115494,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified each affiliation. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"GAVI board\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Gunilla Carlsson is an unaffiliated member of the GAVI board (Geneva)\"\n    },\n    {\n      \"organization\": \"Bill & Melinda Gates Foundation Europe\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"part of the advisory board of Bill & Melinda Gates Foundation Europe (London)\"\n    },\n    {\n      \"organization\": \"European Center for Foreign Relations (ECFR)\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She is also a member of the European Center for Foreign Relations (ECFR)\"\n    },\n    {\n      \"organization\": \"Geneva Center for Security Policy (GCSP)\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"and a fellow at Geneva Center for Security Policy (GCSP)\"\n    },\n    {\n      \"organization\": \"World Bank Gender Advisory Council\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of World Bank Gender Advisory Council\"\n    },\n    {\n      \"organization\": \"UN High-Level Panel for Global Sustainability\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"UN Secretary General Ban Ki-Moon appointed her to the high level panel for global sustainability ahead of the conference in Rio de Janeiro 2012\"\n    },\n    {\n      \"organization\": \"UN High-Level Panel for Global Development Goals Post-2015\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2015\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"and also to the high-level panel for global development goals post 2015\"\n    },\n    {\n      \"organization\": \"Swedish Commission on Climate Change and Development\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2009\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Chair of Swedish initiated Commission on Climate Change and Development ahead of Copenhagen 2009\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified each affiliation. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "GAVI board",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Gunilla Carlsson is an unaffiliated member of the GAVI board (Geneva)"
+          },
+          {
+            "organization": "Bill & Melinda Gates Foundation Europe",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "part of the advisory board of Bill & Melinda Gates Foundation Europe (London)"
+          },
+          {
+            "organization": "European Center for Foreign Relations (ECFR)",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "She is also a member of the European Center for Foreign Relations (ECFR)"
+          },
+          {
+            "organization": "Geneva Center for Security Policy (GCSP)",
+            "affiliation_type": "fellowship",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "and a fellow at Geneva Center for Security Policy (GCSP)"
+          },
+          {
+            "organization": "World Bank Gender Advisory Council",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Member of World Bank Gender Advisory Council"
+          },
+          {
+            "organization": "UN High-Level Panel for Global Sustainability",
+            "affiliation_type": "advisory",
+            "approximate_period": "2012",
+            "confidence": "high",
+            "supporting_quote": "UN Secretary General Ban Ki-Moon appointed her to the high level panel for global sustainability ahead of the conference in Rio de Janeiro 2012"
+          },
+          {
+            "organization": "UN High-Level Panel for Global Development Goals Post-2015",
+            "affiliation_type": "advisory",
+            "approximate_period": "2015",
+            "confidence": "high",
+            "supporting_quote": "and also to the high-level panel for global development goals post 2015"
+          },
+          {
+            "organization": "Swedish Commission on Climate Change and Development",
+            "affiliation_type": "advisory",
+            "approximate_period": "2009",
+            "confidence": "high",
+            "supporting_quote": "Chair of Swedish initiated Commission on Climate Change and Development ahead of Copenhagen 2009"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3369,
+      "chunk_index": 0,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.539355093799638,
+      "rerank_score": 0.509887,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Scanned the text for organizational affiliations outside primary employment. Identified roles in corporate boards and non-profit organizations. Step 2: No significant awards or distinctions were mentioned in the text. Step 3: Classified affiliations as 'board' and 'membership' based on context. Step 4: Recorded periods where available, otherwise set to null.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Moderate Youth League\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was at one time chairperson of the Moderate Youth League district in that county.\"\n    },\n    {\n      \"organization\": \"European Parliament\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"1995-2002\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In 1995, she was elected to the European Parliament and served until 2002.\"\n    },\n    {\n      \"organization\": \"Committee on Economic and Monetary Affairs and Industrial Policy\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"1995-1999\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In parliament, she served on the Committee on Economic and Monetary Affairs and Industrial Policy (1995-1999).\"\n    },\n    {\n      \"organization\": \"Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"1999-2002\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"In parliament, she served on the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy (1999-2002).\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Scanned the text for organizational affiliations outside primary employment. Identified roles in corporate boards and non-profit organizations. Step 2: No significant awards or distinctions were mentioned in the text. Step 3: Classified affiliations as 'board' and 'membership' based on context. Step 4: Recorded periods where available, otherwise set to null.",
+        "affiliations": [
+          {
+            "organization": "Moderate Youth League",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "She was at one time chairperson of the Moderate Youth League district in that county."
+          },
+          {
+            "organization": "European Parliament",
+            "affiliation_type": "membership",
+            "approximate_period": "1995-2002",
+            "confidence": "high",
+            "supporting_quote": "In 1995, she was elected to the European Parliament and served until 2002."
+          },
+          {
+            "organization": "Committee on Economic and Monetary Affairs and Industrial Policy",
+            "affiliation_type": "membership",
+            "approximate_period": "1995-1999",
+            "confidence": "high",
+            "supporting_quote": "In parliament, she served on the Committee on Economic and Monetary Affairs and Industrial Policy (1995-1999)."
+          },
+          {
+            "organization": "Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy",
+            "affiliation_type": "membership",
+            "approximate_period": "1999-2002",
+            "confidence": "high",
+            "supporting_quote": "In parliament, she served on the Committee on Foreign Affairs, Human Rights, Common Security and Defence Policy (1999-2002)."
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3381,
+      "chunk_index": 2,
+      "source_id": 1243,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "similarity": 0.5307978287609876,
+      "rerank_score": 0.4562407,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified multiple organizational affiliations for Gunilla Carlsson, including board memberships, fellowships, and advisory roles. Step 2: No significant awards or distinctions were explicitly mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Recorded the approximate periods for each affiliation based on the text.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Africa Europe Foundation\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"Dec 2020 - present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Co-Chair of the Africa Europe Foundation Strategy Group on Health\"\n    },\n    {\n      \"organization\": \"Friends of Europe\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"2019 - present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member, The High-Level Group of Personalities on Africa-Europe\"\n    },\n    {\n      \"organization\": \"European Council on Foreign Relations\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"Jan 2008 - present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Board Member, European Council on Foreign Relations\"\n    },\n    {\n      \"organization\": \"Geneva Centre for Security Policy\",\n      \"affiliation_type\": \"fellowship\",\n      \"approximate_period\": \"Apr 2016 - present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Fellow, Geneva Centre for Security Policy\"\n    },\n    {\n      \"organization\": \"Vaccine Forward\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"Jan 2021 - present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"International Organizations Co-ordinator, Vaccine Forward\"\n    },\n    {\n      \"organization\": \"Bill & Melinda Gates Foundation\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2010 - 2013\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the Advisory Group, Bill & Melinda Gates Foundation\"\n    },\n    {\n      \"organization\": \"European People's Party\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"2004 - 2006\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Deputy Leader of the EPP Board, European People's Party\"\n    },\n    {\n      \"organization\": \"Birgittastiftelsen, Vadstena\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"medium\",\n      \"supporting_quote\": \"Styrelseledamot, Birgittastiftelsen, Vadstena\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified multiple organizational affiliations for Gunilla Carlsson, including board memberships, fellowships, and advisory roles. Step 2: No significant awards or distinctions were explicitly mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Recorded the approximate periods for each affiliation based on the text.",
+        "affiliations": [
+          {
+            "organization": "Africa Europe Foundation",
+            "affiliation_type": "advisory",
+            "approximate_period": "Dec 2020 - present",
+            "confidence": "high",
+            "supporting_quote": "Co-Chair of the Africa Europe Foundation Strategy Group on Health"
+          },
+          {
+            "organization": "Friends of Europe",
+            "affiliation_type": "membership",
+            "approximate_period": "2019 - present",
+            "confidence": "high",
+            "supporting_quote": "Member, The High-Level Group of Personalities on Africa-Europe"
+          },
+          {
+            "organization": "European Council on Foreign Relations",
+            "affiliation_type": "board",
+            "approximate_period": "Jan 2008 - present",
+            "confidence": "high",
+            "supporting_quote": "Board Member, European Council on Foreign Relations"
+          },
+          {
+            "organization": "Geneva Centre for Security Policy",
+            "affiliation_type": "fellowship",
+            "approximate_period": "Apr 2016 - present",
+            "confidence": "high",
+            "supporting_quote": "Fellow, Geneva Centre for Security Policy"
+          },
+          {
+            "organization": "Vaccine Forward",
+            "affiliation_type": "advisory",
+            "approximate_period": "Jan 2021 - present",
+            "confidence": "high",
+            "supporting_quote": "International Organizations Co-ordinator, Vaccine Forward"
+          },
+          {
+            "organization": "Bill & Melinda Gates Foundation",
+            "affiliation_type": "advisory",
+            "approximate_period": "2010 - 2013",
+            "confidence": "high",
+            "supporting_quote": "Member of the Advisory Group, Bill & Melinda Gates Foundation"
+          },
+          {
+            "organization": "European People's Party",
+            "affiliation_type": "board",
+            "approximate_period": "2004 - 2006",
+            "confidence": "high",
+            "supporting_quote": "Deputy Leader of the EPP Board, European People's Party"
+          },
+          {
+            "organization": "Birgittastiftelsen, Vadstena",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "medium",
+            "supporting_quote": "Styrelseledamot, Birgittastiftelsen, Vadstena"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3375,
+      "chunk_index": 0,
+      "source_id": 1240,
+      "url": "https://www.unaids.org/en/aboutunaids/unaidsleadership/bios/gunilla_carlsson",
+      "domain": "unaids.org",
+      "similarity": 0.4396413121375549,
+      "rerank_score": 0.39887524,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified each affiliation. Step 4: Assigned periods where available.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was a member of the UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health\"\n    },\n    {\n      \"organization\": \"World Bank High-Level Advisory Council on Women’s Economic Empowerment\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"a member of the World Bank High-Level Advisory Council on Women’s Economic Empowerment\"\n    },\n    {\n      \"organization\": \"African Development Bank’s High-Level Panel on Fragile States\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2013-2014\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She served on the African Development Bank’s three-member High-Level Panel on Fragile States in 2013 and 2014\"\n    },\n    {\n      \"organization\": \"Gavi, the Vaccine Alliance\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"June 2017 - present\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She is an affiliated member of the board of Gavi, the Vaccine Alliance, and has served as its Vice-Chair since June 2017\"\n    },\n    {\n      \"organization\": \"Swedish-initiated Commission on Climate Change and Development\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2007\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"She was the Chair of the Swedish-initiated Commission on Climate Change and Development in 2007\"\n    },\n    {\n      \"organization\": \"United Nations High-Level Panel for Global Sustainability\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"appointed by United Nations Secretary-General Ban Ki-moon to a high-level panel for global sustainability ahead of the United Nations Conference on Sustainable Development held in 2012\"\n    },\n    {\n      \"organization\": \"United Nations High-Level Panel on the Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"null\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"served on the United Nations High-Level Panel on the Post-2015 Development Agenda\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified affiliations outside primary employment. Step 2: No awards mentioned. Step 3: Classified each affiliation. Step 4: Assigned periods where available.",
+        "affiliations": [
+          {
+            "organization": "UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health",
+            "affiliation_type": "membership",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "She was a member of the UNAIDS and Lancet Commission: Defeating AIDS—Advancing Global Health"
+          },
+          {
+            "organization": "World Bank High-Level Advisory Council on Women’s Economic Empowerment",
+            "affiliation_type": "advisory",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "a member of the World Bank High-Level Advisory Council on Women’s Economic Empowerment"
+          },
+          {
+            "organization": "African Development Bank’s High-Level Panel on Fragile States",
+            "affiliation_type": "advisory",
+            "approximate_period": "2013-2014",
+            "confidence": "high",
+            "supporting_quote": "She served on the African Development Bank’s three-member High-Level Panel on Fragile States in 2013 and 2014"
+          },
+          {
+            "organization": "Gavi, the Vaccine Alliance",
+            "affiliation_type": "board",
+            "approximate_period": "June 2017 - present",
+            "confidence": "high",
+            "supporting_quote": "She is an affiliated member of the board of Gavi, the Vaccine Alliance, and has served as its Vice-Chair since June 2017"
+          },
+          {
+            "organization": "Swedish-initiated Commission on Climate Change and Development",
+            "affiliation_type": "advisory",
+            "approximate_period": "2007",
+            "confidence": "high",
+            "supporting_quote": "She was the Chair of the Swedish-initiated Commission on Climate Change and Development in 2007"
+          },
+          {
+            "organization": "United Nations High-Level Panel for Global Sustainability",
+            "affiliation_type": "advisory",
+            "approximate_period": "2012",
+            "confidence": "high",
+            "supporting_quote": "appointed by United Nations Secretary-General Ban Ki-moon to a high-level panel for global sustainability ahead of the United Nations Conference on Sustainable Development held in 2012"
+          },
+          {
+            "organization": "United Nations High-Level Panel on the Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": "null",
+            "confidence": "high",
+            "supporting_quote": "served on the United Nations High-Level Panel on the Post-2015 Development Agenda"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3372,
+      "chunk_index": 3,
+      "source_id": 1239,
+      "url": "https://en.wikipedia.org/wiki/Gunilla_Carlsson",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.4883511198257793,
+      "rerank_score": 0.3634441,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified multiple organizational affiliations for Gunilla Carlsson, including board memberships, advisory roles, and memberships in elite bodies. Step 2: No significant awards or distinctions were explicitly mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned approximate periods based on available information.\",\n  \"affiliations\": [\n    {\n      \"organization\": \"Global Fund to Fight AIDS, Tuberculosis and Malaria\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Member of the Board and of the Governance Committee [20] Global Fund to Fight AIDS, Tuberculosis and Malaria\"\n    },\n    {\n      \"organization\": \"Center for Global Development\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Non-voting Member of the Board [21] Center for Global Development, Member of the European Advisory Group [22]\"\n    },\n    {\n      \"organization\": \"The World Bank Group Advisory Council on Women’s Economic Empowerment\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2008\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"The World Bank Group Advisory Council on Women’s Economic Empowerment, Gender Equality as Smart Economics newsletter, March 2008\"\n    },\n    {\n      \"organization\": \"United Nations High-level Panel on Post-2015 Development Agenda\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2012\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Secretary-General Assembles High-level Panel on Post-2015 Development Agenda, Appointing 26 Members of Government, Civil Society, Private Sector\"\n    },\n    {\n      \"organization\": \"African Development Bank High-Level Advisors on Fragility\",\n      \"affiliation_type\": \"advisory\",\n      \"approximate_period\": \"2015\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"African Development Bank appoints three High-Level Advisors on Fragility\"\n    },\n    {\n      \"organization\": \"UNAIDS–Lancet Commission on Defeating AIDS\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"List of Commissioners, UNAIDS–Lancet Commission on Defeating AIDS\"\n    },\n    {\n      \"organization\": \"UNAIDS\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"2017-2019\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"UNAIDS welcomes Gunilla Carlsson as new Deputy Executive Director, Management and Governance\"\n    },\n    {\n      \"organization\": \"Tundra Fonder\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": \"2017\",\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Press release: Gunilla Carlsson and Cecilia Seddigh elected to Tundra’s Board Tundra Fonder\"\n    },\n    {\n      \"organization\": \"Annexin Pharmaceuticals\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Board of Directors, Annexin Pharmaceuticals\"\n    },\n    {\n      \"organization\": \"High-Level Group of Personalities on Africa-Europe Relations\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"High-Level Group of Personalities on Africa-Europe Relations, Africa Europe Foundation (AEF)\"\n    },\n    {\n      \"organization\": \"United Nations System Staff College (UNSSC)\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Board of Governors, United Nations System Staff College (UNSSC)\"\n    },\n    {\n      \"organization\": \"European Council on Foreign Relations\",\n      \"affiliation_type\": \"membership\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Members, European Council on Foreign Relations\"\n    },\n    {\n      \"organization\": \"GAVI Alliance\",\n      \"affiliation_type\": \"board\",\n      \"approximate_period\": null,\n      \"confidence\": \"high\",\n      \"supporting_quote\": \"Governance Committee, GAVI Alliance\"\n    }\n  ],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified multiple organizational affiliations for Gunilla Carlsson, including board memberships, advisory roles, and memberships in elite bodies. Step 2: No significant awards or distinctions were explicitly mentioned in the text. Step 3: Classified each affiliation into appropriate types. Step 4: Assigned approximate periods based on available information.",
+        "affiliations": [
+          {
+            "organization": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Member of the Board and of the Governance Committee [20] Global Fund to Fight AIDS, Tuberculosis and Malaria"
+          },
+          {
+            "organization": "Center for Global Development",
+            "affiliation_type": "advisory",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Non-voting Member of the Board [21] Center for Global Development, Member of the European Advisory Group [22]"
+          },
+          {
+            "organization": "The World Bank Group Advisory Council on Women’s Economic Empowerment",
+            "affiliation_type": "advisory",
+            "approximate_period": "2008",
+            "confidence": "high",
+            "supporting_quote": "The World Bank Group Advisory Council on Women’s Economic Empowerment, Gender Equality as Smart Economics newsletter, March 2008"
+          },
+          {
+            "organization": "United Nations High-level Panel on Post-2015 Development Agenda",
+            "affiliation_type": "advisory",
+            "approximate_period": "2012",
+            "confidence": "high",
+            "supporting_quote": "Secretary-General Assembles High-level Panel on Post-2015 Development Agenda, Appointing 26 Members of Government, Civil Society, Private Sector"
+          },
+          {
+            "organization": "African Development Bank High-Level Advisors on Fragility",
+            "affiliation_type": "advisory",
+            "approximate_period": "2015",
+            "confidence": "high",
+            "supporting_quote": "African Development Bank appoints three High-Level Advisors on Fragility"
+          },
+          {
+            "organization": "UNAIDS–Lancet Commission on Defeating AIDS",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "List of Commissioners, UNAIDS–Lancet Commission on Defeating AIDS"
+          },
+          {
+            "organization": "UNAIDS",
+            "affiliation_type": "board",
+            "approximate_period": "2017-2019",
+            "confidence": "high",
+            "supporting_quote": "UNAIDS welcomes Gunilla Carlsson as new Deputy Executive Director, Management and Governance"
+          },
+          {
+            "organization": "Tundra Fonder",
+            "affiliation_type": "board",
+            "approximate_period": "2017",
+            "confidence": "high",
+            "supporting_quote": "Press release: Gunilla Carlsson and Cecilia Seddigh elected to Tundra’s Board Tundra Fonder"
+          },
+          {
+            "organization": "Annexin Pharmaceuticals",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Board of Directors, Annexin Pharmaceuticals"
+          },
+          {
+            "organization": "High-Level Group of Personalities on Africa-Europe Relations",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "High-Level Group of Personalities on Africa-Europe Relations, Africa Europe Foundation (AEF)"
+          },
+          {
+            "organization": "United Nations System Staff College (UNSSC)",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Board of Governors, United Nations System Staff College (UNSSC)"
+          },
+          {
+            "organization": "European Council on Foreign Relations",
+            "affiliation_type": "membership",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Members, European Council on Foreign Relations"
+          },
+          {
+            "organization": "GAVI Alliance",
+            "affiliation_type": "board",
+            "approximate_period": null,
+            "confidence": "high",
+            "supporting_quote": "Governance Committee, GAVI Alliance"
+          }
+        ],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3380,
+      "chunk_index": 1,
+      "source_id": 1243,
+      "url": "https://se.linkedin.com/in/gunilla-carlsson-59478b82",
+      "domain": "se.linkedin.com",
+      "similarity": 0.5473721462792694,
+      "rerank_score": 0.3404638,
+      "raw_llm_output": "{\n  \"reasoning\": \"The source text provided does not contain any specific information about Gunilla Carlsson's board memberships, fellowships, honorary positions, advisory roles, memberships in elite bodies, or significant awards. The text is primarily in Swedish and appears to be a mix of LinkedIn login prompts, general statements, and fragmented content unrelated to Carlsson's professional affiliations or awards. Therefore, it is not possible to extract the requested information from this text.\",\n  \"affiliations\": [],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"low\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "The source text provided does not contain any specific information about Gunilla Carlsson's board memberships, fellowships, honorary positions, advisory roles, memberships in elite bodies, or significant awards. The text is primarily in Swedish and appears to be a mix of LinkedIn login prompts, general statements, and fragmented content unrelated to Carlsson's professional affiliations or awards. Therefore, it is not possible to extract the requested information from this text.",
+        "affiliations": [],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "low",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3389,
+      "chunk_index": 0,
+      "source_id": 1248,
+      "url": "https://www.europarl.europa.eu/meps/en/2261/GUNILLA_CARLSSON/history/5",
+      "domain": "europarl.europa.eu",
+      "similarity": 0.475359426103148,
+      "rerank_score": 0.331672,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: The source text primarily focuses on Gunilla Carlsson's roles within the European Parliament, including committee memberships and political group affiliations, which appear to be part of her primary employment as an MEP. No external board memberships, fellowships, honorary positions, or advisory roles are mentioned. Step 2: No significant awards or distinctions are explicitly stated in the text. Step 3 & 4: Since no affiliations or awards are identified, these steps are not applicable.\",\n  \"affiliations\": [],\n  \"awards\": [],\n  \"supporting_quote\": null,\n  \"confidence\": \"high\",\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1: The source text primarily focuses on Gunilla Carlsson's roles within the European Parliament, including committee memberships and political group affiliations, which appear to be part of her primary employment as an MEP. No external board memberships, fellowships, honorary positions, or advisory roles are mentioned. Step 2: No significant awards or distinctions are explicitly stated in the text. Step 3 & 4: Since no affiliations or awards are identified, these steps are not applicable.",
+        "affiliations": [],
+        "awards": [],
+        "supporting_quote": null,
+        "confidence": "high",
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3388,
+      "url": "https://www.concordia.net/community/gunilla-carlsson/",
+      "domain": "concordia.net",
+      "raw_llm_output": "{\n  \"reasoning\": [\n    \"Step 1 — Source relevance: The text discusses Gunilla Carlsson's professional roles and affiliations, including her positions at UNAIDS, the Swedish Parliament, and the European Parliament, as well as her involvement in UN panels.\",\n    \"Step 2 — Affiliation confirmation: The source does not confirm the affiliations mentioned in the candidate findings (Global Fund to Fight AIDS, Tuberculosis and Malaria; Center for Global Development; The World Bank Group Advisory Council on Women’s Economic Empowerment).\",\n    \"Step 3 — New affiliations or awards found: The source mentions new affiliations such as UNAIDS, Swedish Parliament, European Parliament, and UN panels, which were not in the candidate findings.\",\n    \"Step 4 — Confidence: The source clearly outlines Carlsson's roles but does not confirm the specific affiliations in the candidate findings.\"\n  ],\n  \"confirms\": false,\n  \"confirmed_affiliations\": [],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [\"UNAIDS\", \"Swedish Parliament\", \"European Parliament\", \"United Nations High-Level Panel on Global Sustainability\", \"United Nations High-Level Panel on the Post-2015 Development Agenda\"],\n  \"new_awards_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance and Assistant Secretary-General of the United Nations and was appointed Executive Director a.i. in May 2019.\"\n}",
+      "parsed": {
+        "reasoning": [
+          "Step 1 — Source relevance: The text discusses Gunilla Carlsson's professional roles and affiliations, including her positions at UNAIDS, the Swedish Parliament, and the European Parliament, as well as her involvement in UN panels.",
+          "Step 2 — Affiliation confirmation: The source does not confirm the affiliations mentioned in the candidate findings (Global Fund to Fight AIDS, Tuberculosis and Malaria; Center for Global Development; The World Bank Group Advisory Council on Women’s Economic Empowerment).",
+          "Step 3 — New affiliations or awards found: The source mentions new affiliations such as UNAIDS, Swedish Parliament, European Parliament, and UN panels, which were not in the candidate findings.",
+          "Step 4 — Confidence: The source clearly outlines Carlsson's roles but does not confirm the specific affiliations in the candidate findings."
+        ],
+        "confirms": false,
+        "confirmed_affiliations": [],
+        "confirmed_awards": [],
+        "new_affiliations_found": [
+          "UNAIDS",
+          "Swedish Parliament",
+          "European Parliament",
+          "United Nations High-Level Panel on Global Sustainability",
+          "United Nations High-Level Panel on the Post-2015 Development Agenda"
+        ],
+        "new_awards_found": [],
+        "confidence": "medium",
+        "supporting_quote": "Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance and Assistant Secretary-General of the United Nations and was appointed Executive Director a.i. in May 2019."
+      },
+      "confirms": false,
+      "confidence": "medium",
+      "supporting_quote": "Gunilla Carlsson joined UNAIDS in February 2018 as the Deputy Executive Director for Management and Governance and Assistant Secretary-General of the United Nations and was appointed Executive Director a.i. in May 2019.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3378,
+      "url": "https://www.gcsp.ch/experts/ms-gunilla-carlsson",
+      "domain": "gcsp.ch",
+      "raw_llm_output": "{\n  \"reasoning\": [\n    \"Step 1 — Source relevance: The text discusses Gunilla Carlsson's professional network, affiliations, and roles, including her involvement in various councils, commissions, and boards.\",\n    \"Step 2 — Affiliation confirmation: The source confirms her membership in the World Bank Gender Advisory Council but does not mention the Global Fund to Fight AIDS, Tuberculosis and Malaria or the Center for Global Development.\",\n    \"Step 3 — New affiliations or awards found: The source mentions new affiliations, including GAVI and the Swedish-initiated Commission on Climate Change and Development, as well as appointments by the UN Secretary General.\",\n    \"Step 4 — Confidence: The source clearly confirms some affiliations but not all, and introduces new ones.\"\n  ],\n  \"confirms\": true,\n  \"confirmed_affiliations\": [\"The World Bank Group Advisory Council on Women’s Economic Empowerment (2008)\"],\n  \"confirmed_awards\": [],\n  \"new_affiliations_found\": [\"GAVI\", \"Swedish-initiated Commission on Climate Change and Development\", \"UN High-Level Panel for Global Sustainability\", \"UN High-Level Panel for Global Development Goals\"],\n  \"new_awards_found\": [],\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Member of World Bank Gender Advisory Council, Chair of Swedish initiated Commission on Climate Change and Development in Copenhagen 2007.\"\n}",
+      "parsed": {
+        "reasoning": [
+          "Step 1 — Source relevance: The text discusses Gunilla Carlsson's professional network, affiliations, and roles, including her involvement in various councils, commissions, and boards.",
+          "Step 2 — Affiliation confirmation: The source confirms her membership in the World Bank Gender Advisory Council but does not mention the Global Fund to Fight AIDS, Tuberculosis and Malaria or the Center for Global Development.",
+          "Step 3 — New affiliations or awards found: The source mentions new affiliations, including GAVI and the Swedish-initiated Commission on Climate Change and Development, as well as appointments by the UN Secretary General.",
+          "Step 4 — Confidence: The source clearly confirms some affiliations but not all, and introduces new ones."
+        ],
+        "confirms": true,
+        "confirmed_affiliations": [
+          "The World Bank Group Advisory Council on Women’s Economic Empowerment (2008)"
+        ],
+        "confirmed_awards": [],
+        "new_affiliations_found": [
+          "GAVI",
+          "Swedish-initiated Commission on Climate Change and Development",
+          "UN High-Level Panel for Global Sustainability",
+          "UN High-Level Panel for Global Development Goals"
+        ],
+        "new_awards_found": [],
+        "confidence": "medium",
+        "supporting_quote": "Member of World Bank Gender Advisory Council, Chair of Swedish initiated Commission on Climate Change and Development in Copenhagen 2007."
+      },
+      "confirms": true,
+      "confidence": "medium",
+      "supporting_quote": "Member of World Bank Gender Advisory Council, Chair of Swedish initiated Commission on Climate Change and Development in Copenhagen 2007.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": null,
+    "confirmation_count": 1,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "affiliations": [
+      {
+        "organization": "Global Fund to Fight AIDS, Tuberculosis and Malaria",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Member of the Board and of the Governance Committee [20] Global Fund to Fight AIDS, Tuberculosis and Malaria"
+      },
+      {
+        "organization": "Center for Global Development",
+        "affiliation_type": "advisory",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Non-voting Member of the Board [21] Center for Global Development, Member of the European Advisory Group [22]"
+      },
+      {
+        "organization": "The World Bank Group Advisory Council on Women’s Economic Empowerment",
+        "affiliation_type": "advisory",
+        "approximate_period": "2008",
+        "confidence": "high",
+        "supporting_quote": "The World Bank Group Advisory Council on Women’s Economic Empowerment, Gender Equality as Smart Economics newsletter, March 2008"
+      },
+      {
+        "organization": "United Nations High-level Panel on Post-2015 Development Agenda",
+        "affiliation_type": "advisory",
+        "approximate_period": "2012",
+        "confidence": "high",
+        "supporting_quote": "Secretary-General Assembles High-level Panel on Post-2015 Development Agenda, Appointing 26 Members of Government, Civil Society, Private Sector"
+      },
+      {
+        "organization": "African Development Bank High-Level Advisors on Fragility",
+        "affiliation_type": "advisory",
+        "approximate_period": "2015",
+        "confidence": "high",
+        "supporting_quote": "African Development Bank appoints three High-Level Advisors on Fragility"
+      },
+      {
+        "organization": "UNAIDS–Lancet Commission on Defeating AIDS",
+        "affiliation_type": "membership",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "List of Commissioners, UNAIDS–Lancet Commission on Defeating AIDS"
+      },
+      {
+        "organization": "UNAIDS",
+        "affiliation_type": "board",
+        "approximate_period": "2017-2019",
+        "confidence": "high",
+        "supporting_quote": "UNAIDS welcomes Gunilla Carlsson as new Deputy Executive Director, Management and Governance"
+      },
+      {
+        "organization": "Tundra Fonder",
+        "affiliation_type": "board",
+        "approximate_period": "2017",
+        "confidence": "high",
+        "supporting_quote": "Press release: Gunilla Carlsson and Cecilia Seddigh elected to Tundra’s Board Tundra Fonder"
+      },
+      {
+        "organization": "Annexin Pharmaceuticals",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Board of Directors, Annexin Pharmaceuticals"
+      },
+      {
+        "organization": "High-Level Group of Personalities on Africa-Europe Relations",
+        "affiliation_type": "membership",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "High-Level Group of Personalities on Africa-Europe Relations, Africa Europe Foundation (AEF)"
+      },
+      {
+        "organization": "United Nations System Staff College (UNSSC)",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Board of Governors, United Nations System Staff College (UNSSC)"
+      },
+      {
+        "organization": "European Council on Foreign Relations",
+        "affiliation_type": "membership",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Members, European Council on Foreign Relations"
+      },
+      {
+        "organization": "GAVI Alliance",
+        "affiliation_type": "board",
+        "approximate_period": null,
+        "confidence": "high",
+        "supporting_quote": "Governance Committee, GAVI Alliance"
+      }
+    ],
+    "awards": []
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

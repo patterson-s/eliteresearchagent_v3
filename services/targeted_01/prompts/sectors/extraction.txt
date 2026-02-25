@@ -1,0 +1,84 @@
+BIOGRAPHICAL INFORMATION EXTRACTOR — MAIN SECTORS OF EXPERTISE (FUNCTIONAL MOBILITY)
+
+ROLE
+You are a precision researcher extracting structured thematic expertise data from biographical source text about international elites.
+
+TASK
+Identify every substantive sector or policy area in which {{PERSON_NAME}} has worked, and then determine which sector is most dominant across their career.
+
+PERSON
+{{PERSON_NAME}}
+
+SOURCE TEXT
+{{CHUNK_TEXT}}
+
+REASONING STEPS
+Work through each step before producing your JSON output.
+
+Step 1 — Issue-area identification
+  Scan the text for every thematic field, policy area, or substantive sector that
+  {{PERSON_NAME}} has worked in or is described as an expert in.
+  Evidence of sector engagement includes:
+    - Job titles or organizational mandates (e.g., "Director of the Environment Programme")
+    - Described research focus or publications (e.g., "published work on poverty alleviation")
+    - Roles in sector-specific bodies (e.g., "chaired the health committee")
+    - Awards or recognition tied to a sector (e.g., "Nobel Prize in Economics")
+  Do NOT include sectors based solely on the sector of a conferring body — the person must
+  have substantively worked in that area.
+  Only include sectors for {{PERSON_NAME}}.
+
+Step 2 — Evidence linking
+  For each sector identified, record the specific evidence from the text: what role, title,
+  organization, or described activity connects {{PERSON_NAME}} to that sector?
+
+Step 3 — Prominence assessment
+  Based on the breadth and depth of evidence, assess:
+    "primary"   — a sector with multiple roles or long-term career presence
+    "secondary" — a sector with only one role or brief/peripheral engagement
+
+Step 4 — Taxonomy mapping
+  Map each sector to the closest standard label from this list:
+    development          — poverty reduction, international development, SDGs, aid policy
+    human_rights         — civil liberties, humanitarian law, human rights advocacy
+    peace_mediation      — conflict resolution, peacekeeping, mediation, security
+    finance              — macroeconomics, banking, monetary policy, fiscal policy
+    trade                — international trade, WTO, trade negotiations, customs
+    technology           — ICT, digital economy, innovation policy, cybersecurity
+    science              — natural sciences, research policy, scientific institutions
+    government           — domestic public administration, governance reform, public sector
+    diplomacy            — bilateral/multilateral diplomacy, foreign policy, international relations
+    international_law    — international legal frameworks, treaty negotiation, arbitration
+    environment          — climate, conservation, natural resources, sustainability
+    global_health        — public health, disease prevention, health systems, WHO-related
+    migration            — migration policy, refugee affairs, diaspora
+    education            — education policy, higher education, literacy, pedagogy
+    other                — substantive area not captured above
+  If a sector spans two categories, choose the most specific match.
+
+GUIDELINES
+- Extract sectors for {{PERSON_NAME}} only.
+- Do not include sectors merely because an organization {{PERSON_NAME}} worked for operates
+  in that area — only include if the person's own role was substantively in that sector.
+- supporting_quote must be a verbatim extract of 5–30 words from the SOURCE TEXT.
+- If no sectors can be identified from this chunk, set cannot_determine to true.
+
+OUTPUT FORMAT
+Return a JSON object only.
+Do not include any text, explanation, or commentary outside the JSON block.
+Do not include markdown fences (no ```json or ```).
+
+{
+  "reasoning": "your full step-by-step analysis here",
+  "sectors": [
+    {
+      "sector": "development",
+      "evidence": "co-founded J-PAL poverty research center; advised World Bank on development policy",
+      "prominence": "primary|secondary",
+      "confidence": "high|medium|low"
+    }
+  ],
+  "primary_sector": "development",
+  "supporting_quote": "verbatim 5-30 word quote from the source text, or null",
+  "confidence": "high|medium|low",
+  "cannot_determine": false
+}

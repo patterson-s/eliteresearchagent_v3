@@ -1,0 +1,562 @@
+{
+  "person_dir_name": "Gro_Harlem_Brundtland",
+  "person_db_name": "Gro Harlem Brundtland",
+  "question_id": "education",
+  "question_display": "Education Trajectory",
+  "run_timestamp": "2026-02-25T17:59:02.507322+00:00",
+  "input": {
+    "hlp_name": "World Commission on Environment and Development (Brundtland Commission)",
+    "hlp_year": "1983-1987",
+    "nomination_year": 1983,
+    "hlp_nomination_age": 44,
+    "birth_year": "1939",
+    "nationality": [
+      "Norwegian"
+    ]
+  },
+  "retrieval": {
+    "query": "Gro Harlem Brundtland university degree education BA MA PhD diploma studies graduated",
+    "chunks_in_db": 34,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 105,
+        "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5824,
+        "rerank_score": 0.7918
+      },
+      {
+        "chunk_id": 134,
+        "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+        "domain": "nordics.info",
+        "similarity": 0.5875,
+        "rerank_score": 0.7763
+      },
+      {
+        "chunk_id": 106,
+        "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.4801,
+        "rerank_score": 0.7389
+      },
+      {
+        "chunk_id": 128,
+        "url": "https://clubmadrid.org/who/members/brundtland-gro-harlem/",
+        "domain": "clubmadrid.org",
+        "similarity": 0.5102,
+        "rerank_score": 0.6552
+      },
+      {
+        "chunk_id": 121,
+        "url": "https://www.britannica.com/biography/Gro-Harlem-Brundtland",
+        "domain": "britannica.com",
+        "similarity": 0.5836,
+        "rerank_score": 0.6424
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 105,
+      "chunk_index": 0,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5824239850544434,
+      "rerank_score": 0.7917732,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees from the text: Cand.Med. from University of Oslo and MPH from Harvard University. Step 2: Determined countries for both institutions (Norway and USA). Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and University of Oslo as peripheral. Step 5: Identified disciplines as medicine and public health.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"medicine\",\n      \"institution\": \"University of Oslo\",\n      \"institution_country\": \"Norway\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine\", \"public health\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Oslo\"],\n  \"supporting_quote\": \"Alma mater\\nUniversity of Oslo\\n(Cand.Med.)\\nHarvard University\\n(MPH)\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees from the text: Cand.Med. from University of Oslo and MPH from Harvard University. Step 2: Determined countries for both institutions (Norway and USA). Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and University of Oslo as peripheral. Step 5: Identified disciplines as medicine and public health.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "medicine",
+            "institution": "University of Oslo",
+            "institution_country": "Norway",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "other",
+            "field": "public health",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine",
+          "public health"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Oslo"
+        ],
+        "supporting_quote": "Alma mater\nUniversity of Oslo\n(Cand.Med.)\nHarvard University\n(MPH)",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 134,
+      "chunk_index": 0,
+      "source_id": 372,
+      "url": "https://nordics.info/show/artikel/gro-harlem-brundtland",
+      "domain": "nordics.info",
+      "similarity": 0.5874917906324758,
+      "rerank_score": 0.7763013,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees - medical degree from University of Oslo (1963) and Master of Public Health from Harvard University. Step 2: Confirmed University of Oslo is in Norway and Harvard University is in the USA. Step 3: Both Norway and USA are in the Global North. Step 4: Harvard is elite, University of Oslo is peripheral. Step 5: Disciplines are medicine and public health.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"MD\",\n      \"field\": \"medicine\",\n      \"institution\": \"University of Oslo\",\n      \"institution_country\": \"Norway\",\n      \"year_completed\": \"1963\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPH\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine\", \"public health\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Oslo\"],\n  \"supporting_quote\": \"Brundtland received her medical degree from the University of Oslo in 1963, and her Master of Public Health degree on scholarship from Harvard University in\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees - medical degree from University of Oslo (1963) and Master of Public Health from Harvard University. Step 2: Confirmed University of Oslo is in Norway and Harvard University is in the USA. Step 3: Both Norway and USA are in the Global North. Step 4: Harvard is elite, University of Oslo is peripheral. Step 5: Disciplines are medicine and public health.",
+        "degrees_found": [
+          {
+            "degree_type": "MD",
+            "field": "medicine",
+            "institution": "University of Oslo",
+            "institution_country": "Norway",
+            "year_completed": "1963",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPH",
+            "field": "public health",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine",
+          "public health"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Oslo"
+        ],
+        "supporting_quote": "Brundtland received her medical degree from the University of Oslo in 1963, and her Master of Public Health degree on scholarship from Harvard University in",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 106,
+      "chunk_index": 1,
+      "source_id": 364,
+      "url": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.48005040595841103,
+      "rerank_score": 0.73891455,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees - cand.med. from University of Oslo and Master of Public Health from Harvard University. Step 2: Determined countries for both institutions (Norway and USA). Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and University of Oslo as peripheral. Step 5: Identified disciplines as medicine and public health.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"medicine\",\n      \"institution\": \"University of Oslo\",\n      \"institution_country\": \"Norway\",\n      \"year_completed\": \"1963\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MA\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1965\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine\", \"public health\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Oslo\"],\n  \"supporting_quote\": \"In 1963, Brundtland graduated with a medical degree, a cand.med. from the University of Oslo. She took her master's degree at Harvard University in 1965, as a Master of Public Health.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees - cand.med. from University of Oslo and Master of Public Health from Harvard University. Step 2: Determined countries for both institutions (Norway and USA). Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and University of Oslo as peripheral. Step 5: Identified disciplines as medicine and public health.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "medicine",
+            "institution": "University of Oslo",
+            "institution_country": "Norway",
+            "year_completed": "1963",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MA",
+            "field": "public health",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1965",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine",
+          "public health"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Oslo"
+        ],
+        "supporting_quote": "In 1963, Brundtland graduated with a medical degree, a cand.med. from the University of Oslo. She took her master's degree at Harvard University in 1965, as a Master of Public Health.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 128,
+      "chunk_index": 0,
+      "source_id": 369,
+      "url": "https://clubmadrid.org/who/members/brundtland-gro-harlem/",
+      "domain": "clubmadrid.org",
+      "similarity": 0.5101540235072117,
+      "rerank_score": 0.6551821,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees - Medical Doctor (MD) and Master of Public Health (MPH) from Harvard University. Step 2: Harvard University is located in the USA. Step 3: USA is classified as Global North. Step 4: Harvard University is an elite institution. Step 5: Disciplines are medicine and public health.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"MD\",\n      \"field\": \"medicine\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPH\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine\", \"public health\"],\n  \"institution_prestige\": \"elite\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"Medical doctor and Master of Public Health (MPH) from Harvard University.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees - Medical Doctor (MD) and Master of Public Health (MPH) from Harvard University. Step 2: Harvard University is located in the USA. Step 3: USA is classified as Global North. Step 4: Harvard University is an elite institution. Step 5: Disciplines are medicine and public health.",
+        "degrees_found": [
+          {
+            "degree_type": "MD",
+            "field": "medicine",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPH",
+            "field": "public health",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine",
+          "public health"
+        ],
+        "institution_prestige": "elite",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "Medical doctor and Master of Public Health (MPH) from Harvard University.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 121,
+      "chunk_index": 0,
+      "source_id": 367,
+      "url": "https://www.britannica.com/biography/Gro-Harlem-Brundtland",
+      "domain": "britannica.com",
+      "similarity": 0.5835699113680283,
+      "rerank_score": 0.64236575,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees - MD from University of Oslo (1963) and master's in public health from Harvard University (1965). Step 2: Confirmed countries for both institutions (Norway, USA). Step 3: Both institutions are in the Global North. Step 4: Harvard is elite, University of Oslo is peripheral. Step 5: Disciplines are medicine and public health.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"MD\",\n      \"field\": \"medicine\",\n      \"institution\": \"University of Oslo\",\n      \"institution_country\": \"Norway\",\n      \"year_completed\": \"1963\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MA\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": \"1965\",\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine\", \"public health\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [\"University of Oslo\"],\n  \"supporting_quote\": \"she received an M.D. degree from the University of Oslo in 1963 and a master’s degree in public health from Harvard University in 1965.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees - MD from University of Oslo (1963) and master's in public health from Harvard University (1965). Step 2: Confirmed countries for both institutions (Norway, USA). Step 3: Both institutions are in the Global North. Step 4: Harvard is elite, University of Oslo is peripheral. Step 5: Disciplines are medicine and public health.",
+        "degrees_found": [
+          {
+            "degree_type": "MD",
+            "field": "medicine",
+            "institution": "University of Oslo",
+            "institution_country": "Norway",
+            "year_completed": "1963",
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MA",
+            "field": "public health",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": "1965",
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine",
+          "public health"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [
+          "University of Oslo"
+        ],
+        "supporting_quote": "she received an M.D. degree from the University of Oslo in 1963 and a master’s degree in public health from Harvard University in 1965.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 132,
+      "chunk_index": 0,
+      "source_id": 371,
+      "url": "https://live.worldbank.org/en/experts/g/gro-h-brundtland",
+      "domain": "live.worldbank.org",
+      "similarity": 0.45032789829776737,
+      "rerank_score": 0.60386235,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees from the text: one from Oslo University and one from Harvard School of Public Health. No specific degree types (e.g., BA, MSc) were mentioned, so recorded as 'other'. Step 2: Assigned countries to institutions: Oslo University (Norway) and Harvard School of Public Health (USA). Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and Oslo University as peripheral. Step 5: Synthesized disciplines as medicine/public health. Confidence is high due to explicit mentions.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"medicine/public health\",\n      \"institution\": \"University of Oslo\",\n      \"institution_country\": \"Norway\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"other\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard School of Public Health\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine/public health\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard School of Public Health\"],\n  \"peripheral_institutions_found\": [\"University of Oslo\"],\n  \"supporting_quote\": \"Dr. Brundtland is a graduate of Oslo University and the Harvard School of Public Health.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees from the text: one from Oslo University and one from Harvard School of Public Health. No specific degree types (e.g., BA, MSc) were mentioned, so recorded as 'other'. Step 2: Assigned countries to institutions: Oslo University (Norway) and Harvard School of Public Health (USA). Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and Oslo University as peripheral. Step 5: Synthesized disciplines as medicine/public health. Confidence is high due to explicit mentions.",
+        "degrees_found": [
+          {
+            "degree_type": "other",
+            "field": "medicine/public health",
+            "institution": "University of Oslo",
+            "institution_country": "Norway",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "other",
+            "field": "public health",
+            "institution": "Harvard School of Public Health",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine/public health"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard School of Public Health"
+        ],
+        "peripheral_institutions_found": [
+          "University of Oslo"
+        ],
+        "supporting_quote": "Dr. Brundtland is a graduate of Oslo University and the Harvard School of Public Health.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 131,
+      "chunk_index": 0,
+      "source_id": 370,
+      "url": "https://www.hiltonfoundation.org/people/gro-brundtland-md-mph/",
+      "domain": "hiltonfoundation.org",
+      "similarity": 0.5033572900021867,
+      "rerank_score": 0.58862966,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified degrees from the text. Gro Harlem Brundtland holds an MD and an MPH. The MD is from Oslo University, and the MPH is from the Harvard School of Public Health. Step 2: Determined the countries of the institutions. Oslo University is in Norway, and Harvard School of Public Health is in the USA. Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and Oslo University as peripheral based on global recognition. Step 5: Synthesized disciplines as medicine and public health.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"MD\",\n      \"field\": \"medicine\",\n      \"institution\": \"Oslo University\",\n      \"institution_country\": \"Norway\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPH\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard School of Public Health\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine\", \"public health\"],\n  \"institution_prestige\": \"both\",\n  \"elite_institutions_found\": [\"Harvard School of Public Health\"],\n  \"peripheral_institutions_found\": [\"Oslo University\"],\n  \"supporting_quote\": \"Dr. Brundtland is a graduate of Oslo University and the Harvard School of Public Health.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified degrees from the text. Gro Harlem Brundtland holds an MD and an MPH. The MD is from Oslo University, and the MPH is from the Harvard School of Public Health. Step 2: Determined the countries of the institutions. Oslo University is in Norway, and Harvard School of Public Health is in the USA. Step 3: Classified both institutions as Global North. Step 4: Classified Harvard as elite and Oslo University as peripheral based on global recognition. Step 5: Synthesized disciplines as medicine and public health.",
+        "degrees_found": [
+          {
+            "degree_type": "MD",
+            "field": "medicine",
+            "institution": "Oslo University",
+            "institution_country": "Norway",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPH",
+            "field": "public health",
+            "institution": "Harvard School of Public Health",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine",
+          "public health"
+        ],
+        "institution_prestige": "both",
+        "elite_institutions_found": [
+          "Harvard School of Public Health"
+        ],
+        "peripheral_institutions_found": [
+          "Oslo University"
+        ],
+        "supporting_quote": "Dr. Brundtland is a graduate of Oslo University and the Harvard School of Public Health.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 118,
+      "chunk_index": 2,
+      "source_id": 365,
+      "url": "https://theelders.org/profile/gro-harlem-brundtland",
+      "domain": "theelders.org",
+      "similarity": 0.4968762552817319,
+      "rerank_score": 0.55449516,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified two degrees - Medical Doctor (MD) and Master’s Degree of Public Health (MPH), both from Harvard University. No year of completion or start year mentioned. Step 2: Harvard University is located in the USA. Step 3: USA is classified as Global North. Step 4: Harvard University is an elite institution. Step 5: Disciplines are medicine and public health.\",\n  \"degrees_found\": [\n    {\n      \"degree_type\": \"MD\",\n      \"field\": \"medicine\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    },\n    {\n      \"degree_type\": \"MPH\",\n      \"field\": \"public health\",\n      \"institution\": \"Harvard University\",\n      \"institution_country\": \"USA\",\n      \"year_completed\": null,\n      \"year_started\": null,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"geographic_category\": \"global_north\",\n  \"disciplines\": [\"medicine\", \"public health\"],\n  \"institution_prestige\": \"elite\",\n  \"elite_institutions_found\": [\"Harvard University\"],\n  \"peripheral_institutions_found\": [],\n  \"supporting_quote\": \"A Medical Doctor and holder of a Master’s Degree of Public Health, both from Harvard University\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified two degrees - Medical Doctor (MD) and Master’s Degree of Public Health (MPH), both from Harvard University. No year of completion or start year mentioned. Step 2: Harvard University is located in the USA. Step 3: USA is classified as Global North. Step 4: Harvard University is an elite institution. Step 5: Disciplines are medicine and public health.",
+        "degrees_found": [
+          {
+            "degree_type": "MD",
+            "field": "medicine",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          },
+          {
+            "degree_type": "MPH",
+            "field": "public health",
+            "institution": "Harvard University",
+            "institution_country": "USA",
+            "year_completed": null,
+            "year_started": null,
+            "confidence": "high"
+          }
+        ],
+        "geographic_category": "global_north",
+        "disciplines": [
+          "medicine",
+          "public health"
+        ],
+        "institution_prestige": "elite",
+        "elite_institutions_found": [
+          "Harvard University"
+        ],
+        "peripheral_institutions_found": [],
+        "supporting_quote": "A Medical Doctor and holder of a Master’s Degree of Public Health, both from Harvard University",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 124,
+      "url": "https://www.ebsco.com/research-starters/biography/gro-harlem-brundtland",
+      "domain": "ebsco.com",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text is about Gro Harlem Brundtland's biography and explicitly mentions her education. Step 2 — Degree confirmation: The text confirms the degrees and institutions in the candidate findings, specifically mentioning her medical degree from the University of Oslo and her masters of public health degree from Harvard University. Step 3 — New degrees found: No new degrees are mentioned. Step 4 — Confidence: The source clearly and explicitly confirms the educational credentials.\",\n  \"confirms\": true,\n  \"confirmed_degrees\": [\"medical degree, University of Oslo\", \"masters of public health, Harvard University\"],\n  \"new_degrees_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"she received her medical degree from the University of Oslo in 1963 and her masters of public health degree from Harvard University in 1965.\",\n  \"alternative_findings\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text is about Gro Harlem Brundtland's biography and explicitly mentions her education. Step 2 — Degree confirmation: The text confirms the degrees and institutions in the candidate findings, specifically mentioning her medical degree from the University of Oslo and her masters of public health degree from Harvard University. Step 3 — New degrees found: No new degrees are mentioned. Step 4 — Confidence: The source clearly and explicitly confirms the educational credentials.",
+        "confirms": true,
+        "confirmed_degrees": [
+          "medical degree, University of Oslo",
+          "masters of public health, Harvard University"
+        ],
+        "new_degrees_found": [],
+        "confidence": "high",
+        "supporting_quote": "she received her medical degree from the University of Oslo in 1963 and her masters of public health degree from Harvard University in 1965.",
+        "alternative_findings": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "she received her medical degree from the University of Oslo in 1963 and her masters of public health degree from Harvard University in 1965.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Alma mater\nUniversity of Oslo\n(Cand.Med.)\nHarvard University\n(MPH)",
+    "confirmation_count": 1,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "degrees_found": [
+      {
+        "degree_type": "other",
+        "field": "medicine",
+        "institution": "University of Oslo",
+        "institution_country": "Norway",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      },
+      {
+        "degree_type": "other",
+        "field": "public health",
+        "institution": "Harvard University",
+        "institution_country": "USA",
+        "year_completed": null,
+        "year_started": null,
+        "confidence": "high"
+      }
+    ],
+    "geographic_category": "global_north",
+    "disciplines": [
+      "medicine",
+      "public health"
+    ],
+    "institution_prestige": "both",
+    "elite_institutions_found": [
+      "Harvard University"
+    ],
+    "peripheral_institutions_found": [
+      "University of Oslo"
+    ]
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 1,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

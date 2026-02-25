@@ -1,0 +1,537 @@
+{
+  "person_dir_name": "Dhananjayan_Sriskandarajah",
+  "person_db_name": "Dhananjayan Sriskandarajah",
+  "question_id": "sectors",
+  "question_display": "Main Sectors of Expertise (Functional Mobility)",
+  "run_timestamp": "2026-02-25T17:57:08.505052+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Humanitarian Finance",
+    "hlp_year": "2015-2016",
+    "nomination_year": 2015,
+    "hlp_nomination_age": 40,
+    "birth_year": "1975",
+    "nationality": [
+      "Australian",
+      "Sri Lankan"
+    ]
+  },
+  "retrieval": {
+    "query": "Dhananjayan Sriskandarajah expertise sector field development finance human rights environment health diplomacy technology science trade",
+    "chunks_in_db": 15,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1192,
+        "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+        "domain": "lse.ac.uk",
+        "similarity": 0.5862,
+        "rerank_score": 0.7082
+      },
+      {
+        "chunk_id": 1182,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5558,
+        "rerank_score": 0.6313
+      },
+      {
+        "chunk_id": 1183,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.521,
+        "rerank_score": 0.5471
+      },
+      {
+        "chunk_id": 1189,
+        "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+        "domain": "opengovpartnership.org",
+        "similarity": 0.5145,
+        "rerank_score": 0.532
+      },
+      {
+        "chunk_id": 1186,
+        "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+        "domain": "live.worldbank.org",
+        "similarity": 0.5307,
+        "rerank_score": 0.4963
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1192,
+      "chunk_index": 0,
+      "source_id": 661,
+      "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+      "domain": "lse.ac.uk",
+      "similarity": 0.5862460305002178,
+      "rerank_score": 0.70823324,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors from roles and expertise areas mentioned. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on multiple roles and long-term engagement. Step 4: Mapped sectors to taxonomy.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Chief Executive of Oxfam GB, Chief Executive Officer of New Economics Foundation, Secretary General of CIVICUS, roles at Institute for Public Policy Research\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Secretary General of CIVICUS, Trustee of the Disasters Emergency Committee\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"migration\",\n      \"evidence\": \"Expertise in Migration, roles at Oxfam GB and New Economics Foundation\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"inequality\",\n      \"evidence\": \"Visiting Senior Fellow at International Inequalities Institute, Expertise in Inequality\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"conflict\",\n      \"evidence\": \"Expertise in Conflict\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Dr Dhananjayan Sriskandarajah is Chief Executive Officer of New Economics Foundation. Prior to that he spent five years as Chief Executive of Oxfam GB.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors from roles and expertise areas mentioned. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on multiple roles and long-term engagement. Step 4: Mapped sectors to taxonomy.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Chief Executive of Oxfam GB, Chief Executive Officer of New Economics Foundation, Secretary General of CIVICUS, roles at Institute for Public Policy Research",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Secretary General of CIVICUS, Trustee of the Disasters Emergency Committee",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "migration",
+            "evidence": "Expertise in Migration, roles at Oxfam GB and New Economics Foundation",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "inequality",
+            "evidence": "Visiting Senior Fellow at International Inequalities Institute, Expertise in Inequality",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "conflict",
+            "evidence": "Expertise in Conflict",
+            "prominence": "secondary",
+            "confidence": "low"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Dr Dhananjayan Sriskandarajah is Chief Executive Officer of New Economics Foundation. Prior to that he spent five years as Chief Executive of Oxfam GB.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1182,
+      "chunk_index": 0,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.555785251399692,
+      "rerank_score": 0.63125396,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles and organizational mandates. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on multiple roles and long-term engagement. Step 4: Mapped sectors to standard labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Chief Executive of Oxfam GB, Secretary General of CIVICUS, Chief Executive of New Economics Foundation\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Secretary General of CIVICUS, a global alliance of civil society organisations\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Head of the Royal Commonwealth Society, devoted to Commonwealth affairs\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Until December 2023, he was Chief Executive of Oxfam GB.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles and organizational mandates. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on multiple roles and long-term engagement. Step 4: Mapped sectors to standard labels.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Chief Executive of Oxfam GB, Secretary General of CIVICUS, Chief Executive of New Economics Foundation",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Secretary General of CIVICUS, a global alliance of civil society organisations",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Head of the Royal Commonwealth Society, devoted to Commonwealth affairs",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Until December 2023, he was Chief Executive of Oxfam GB.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1183,
+      "chunk_index": 1,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5210332063303481,
+      "rerank_score": 0.54710174,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, research, and organizational mandates. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on career breadth and depth. Step 4: Mapped sectors to standard taxonomy labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"M.Phil. and D.Phil. in international development; research on inequalities and ethnic conflict in Sri Lanka; roles at Oxfam GB and New Economics Foundation\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"civil_society\",\n      \"evidence\": \"Secretary General of CIVICUS, a global alliance of civil society organisations; supporter of the Campaign for the Establishment of a United Nations Parliamentary Assembly\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"humanitarian\",\n      \"evidence\": \"Member of the High Level Panel on Humanitarian Finance; Chief Executive of Oxfam GB\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"technology\",\n      \"evidence\": \"Member of the UN Secretary General's High Level Panel on Digital Cooperation\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"diplomacy\",\n      \"evidence\": \"Director General of the Royal Commonwealth Society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"an M.Phil. and then a D.Phil. in international development. His research focused on inequalities and ethnic conflict in Sri Lanka.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, research, and organizational mandates. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on career breadth and depth. Step 4: Mapped sectors to standard taxonomy labels.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "M.Phil. and D.Phil. in international development; research on inequalities and ethnic conflict in Sri Lanka; roles at Oxfam GB and New Economics Foundation",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "civil_society",
+            "evidence": "Secretary General of CIVICUS, a global alliance of civil society organisations; supporter of the Campaign for the Establishment of a United Nations Parliamentary Assembly",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "humanitarian",
+            "evidence": "Member of the High Level Panel on Humanitarian Finance; Chief Executive of Oxfam GB",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "technology",
+            "evidence": "Member of the UN Secretary General's High Level Panel on Digital Cooperation",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "diplomacy",
+            "evidence": "Director General of the Royal Commonwealth Society",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "an M.Phil. and then a D.Phil. in international development. His research focused on inequalities and ethnic conflict in Sri Lanka.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1189,
+      "chunk_index": 0,
+      "source_id": 658,
+      "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+      "domain": "opengovpartnership.org",
+      "similarity": 0.5145068753704449,
+      "rerank_score": 0.53196377,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Dhananjayan Sriskandarajah's sectors include civil society, international migration, economic development, humanitarian finance, and public policy research. Step 2 — Evidence linking: His roles as Secretary General of CIVICUS, Director of the Royal Commonwealth Society, and Deputy Director of the Institute for Public Policy Research, along with his publications and board memberships, connect him to these sectors. Step 3 — Prominence assessment: 'Development' and 'migration' are primary due to multiple roles and long-term engagement. Step 4 — Taxonomy mapping: 'Development' is the most dominant sector, encompassing economic development and public policy research.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Deputy Director of the Institute for Public Policy Research, author of reports on economic development\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"migration\",\n      \"evidence\": \"author of numerous reports and academic articles on international migration, co-founder of the Migration Museum Project\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Secretary General of CIVICUS, the World Alliance for Citizen Participation\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"finance\",\n      \"evidence\": \"member of the United Nations Secretary General’s High Level Panel on Humanitarian Finance\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"He writes and appears often in the media on a range of topics, including contributing regularly to Al Jazeera, Guardian, HuffPo, and Weekend on the BBC World Service.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Dhananjayan Sriskandarajah's sectors include civil society, international migration, economic development, humanitarian finance, and public policy research. Step 2 — Evidence linking: His roles as Secretary General of CIVICUS, Director of the Royal Commonwealth Society, and Deputy Director of the Institute for Public Policy Research, along with his publications and board memberships, connect him to these sectors. Step 3 — Prominence assessment: 'Development' and 'migration' are primary due to multiple roles and long-term engagement. Step 4 — Taxonomy mapping: 'Development' is the most dominant sector, encompassing economic development and public policy research.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Deputy Director of the Institute for Public Policy Research, author of reports on economic development",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "migration",
+            "evidence": "author of numerous reports and academic articles on international migration, co-founder of the Migration Museum Project",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Secretary General of CIVICUS, the World Alliance for Citizen Participation",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "finance",
+            "evidence": "member of the United Nations Secretary General’s High Level Panel on Humanitarian Finance",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "He writes and appears often in the media on a range of topics, including contributing regularly to Al Jazeera, Guardian, HuffPo, and Weekend on the BBC World Service.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1186,
+      "chunk_index": 0,
+      "source_id": 655,
+      "url": "https://live.worldbank.org/en/experts/d/dhananjayan-sriskandarajah",
+      "domain": "live.worldbank.org",
+      "similarity": 0.5306836536467706,
+      "rerank_score": 0.49626526,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles, expertise, and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.\",\n  \"sectors\": [\n    {\n      \"sector\": \"civil_society\",\n      \"evidence\": \"Secretary General of CIVICUS: World Alliance for Citizen Participation; Director General of the Royal Commonwealth Society; Deputy Director of the Institute for Public Policy Research\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"migration\",\n      \"evidence\": \"Recognized expert in international migration; published numerous reports and policy papers\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Recognized expert in economic development; involved in the WEF Global Agenda Council on Civil Society\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Interim Director of the Commonwealth Foundation, an inter-governmental organization\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"low\"\n    }\n  ],\n  \"primary_sector\": \"civil_society\",\n  \"supporting_quote\": \"Dr. Dhananjayan (Danny) Sriskandarajah is the Secretary General of CIVICUS: World Alliance for Citizen Participation, a global network dedicated to strengthening citizen action and civil society throughout the world.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles, expertise, and activities mentioned in the text. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on the number of roles and depth of engagement. Step 4: Mapped sectors to standard taxonomy labels.",
+        "sectors": [
+          {
+            "sector": "civil_society",
+            "evidence": "Secretary General of CIVICUS: World Alliance for Citizen Participation; Director General of the Royal Commonwealth Society; Deputy Director of the Institute for Public Policy Research",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "migration",
+            "evidence": "Recognized expert in international migration; published numerous reports and policy papers",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "development",
+            "evidence": "Recognized expert in economic development; involved in the WEF Global Agenda Council on Civil Society",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Interim Director of the Commonwealth Foundation, an inter-governmental organization",
+            "prominence": "secondary",
+            "confidence": "low"
+          }
+        ],
+        "primary_sector": "civil_society",
+        "supporting_quote": "Dr. Dhananjayan (Danny) Sriskandarajah is the Secretary General of CIVICUS: World Alliance for Citizen Participation, a global network dedicated to strengthening citizen action and civil society throughout the world.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1190,
+      "chunk_index": 0,
+      "source_id": 659,
+      "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+      "domain": "qc.foundation",
+      "similarity": 0.5216014950926879,
+      "rerank_score": 0.4787,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1: Identified sectors based on roles and organizations mentioned. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on multiple roles. Step 4: Mapped sectors to taxonomy.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, posts at the Institute for Public Policy Research\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Trustee of the Guy’s & St Thomas’ Foundation, Trustee of the Baring Foundation, Trustee of Comic Relief, Trustee of Disasters Emergency Committee, Trustee of Praxis Community Projects\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"environment\",\n      \"evidence\": \"Chief Executive of the New Economics Foundation\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1: Identified sectors based on roles and organizations mentioned. Step 2: Linked evidence to each sector. Step 3: Assessed prominence based on multiple roles. Step 4: Mapped sectors to taxonomy.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, posts at the Institute for Public Policy Research",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "government",
+            "evidence": "Trustee of the Guy’s & St Thomas’ Foundation, Trustee of the Baring Foundation, Trustee of Comic Relief, Trustee of Disasters Emergency Committee, Trustee of Praxis Community Projects",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "environment",
+            "evidence": "Chief Executive of the New Economics Foundation",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation and various posts at the Institute for Public Policy Research.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1195,
+      "chunk_index": 0,
+      "source_id": 663,
+      "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+      "domain": "resolvepoverty.org",
+      "similarity": 0.4290799117270593,
+      "rerank_score": 0.45072258,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: Dhananjayan Sriskandarajah's roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and various posts at the Institute for Public Policy Research. These roles suggest engagement in development, human rights, and civil society sectors. Step 2 — Evidence linking: His roles at Oxfam GB and CIVICUS directly link him to development and human rights. His authorship of 'Power to the People' and roles at the New Economics Foundation further emphasize his focus on civil society and development. Step 3 — Prominence assessment: Development appears as the primary sector due to multiple roles (Oxfam GB, CIVICUS, Commonwealth Foundation) and long-term engagement. Human rights and civil society are secondary. Step 4 — Taxonomy mapping: Development is the closest standard label for his primary sector.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"CEO of Oxfam GB, Secretary General of CIVICUS, Interim Director of the Commonwealth Foundation, author of 'Power to the People'\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"human_rights\",\n      \"evidence\": \"Secretary General of CIVICUS, Trustee of the Baring Foundation, Comic Relief, Disasters Emergency Committee\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    },\n    {\n      \"sector\": \"government\",\n      \"evidence\": \"Various posts at the Institute for Public Policy Research, member of United Nations High Level Panels\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"Danny’s previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: Dhananjayan Sriskandarajah's roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and various posts at the Institute for Public Policy Research. These roles suggest engagement in development, human rights, and civil society sectors. Step 2 — Evidence linking: His roles at Oxfam GB and CIVICUS directly link him to development and human rights. His authorship of 'Power to the People' and roles at the New Economics Foundation further emphasize his focus on civil society and development. Step 3 — Prominence assessment: Development appears as the primary sector due to multiple roles (Oxfam GB, CIVICUS, Commonwealth Foundation) and long-term engagement. Human rights and civil society are secondary. Step 4 — Taxonomy mapping: Development is the closest standard label for his primary sector.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "CEO of Oxfam GB, Secretary General of CIVICUS, Interim Director of the Commonwealth Foundation, author of 'Power to the People'",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "human_rights",
+            "evidence": "Secretary General of CIVICUS, Trustee of the Baring Foundation, Comic Relief, Disasters Emergency Committee",
+            "prominence": "secondary",
+            "confidence": "medium"
+          },
+          {
+            "sector": "government",
+            "evidence": "Various posts at the Institute for Public Policy Research, member of United Nations High Level Panels",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "Danny’s previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1188,
+      "chunk_index": 0,
+      "source_id": 656,
+      "url": "http://sdgs.un.org/panelists/mr-danny-sriskandarajah-29228",
+      "domain": "sdgs.un.org",
+      "similarity": 0.478045644867455,
+      "rerank_score": 0.44521654,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Issue-area identification: The text mentions Dhananjayan Sriskandarajah's roles in organizations like CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research, with a focus on international migration and economic development. Step 2 — Evidence linking: His roles and publications are linked to development and migration sectors. Step 3 — Prominence assessment: Development and migration are primary sectors due to multiple roles and long-term engagement. Step 4 — Taxonomy mapping: Development and migration are mapped to 'development' and 'migration' respectively.\",\n  \"sectors\": [\n    {\n      \"sector\": \"development\",\n      \"evidence\": \"Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, Deputy Director of the Institute for Public Policy Research, author of reports on economic development\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"migration\",\n      \"evidence\": \"author of numerous reports and academic articles on international migration, regular media appearances on migration-related topics\",\n      \"prominence\": \"primary\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"sector\": \"civil_society\",\n      \"evidence\": \"Secretary General and CEO of CIVICUS: World Alliance for Citizen Participation, board member of NGOs like Baring Foundation, International Alert, and Ockenden International\",\n      \"prominence\": \"secondary\",\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"primary_sector\": \"development\",\n  \"supporting_quote\": \"His previous posts include Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research.\",\n  \"confidence\": \"high\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Issue-area identification: The text mentions Dhananjayan Sriskandarajah's roles in organizations like CIVICUS, Royal Commonwealth Society, Commonwealth Foundation, and Institute for Public Policy Research, with a focus on international migration and economic development. Step 2 — Evidence linking: His roles and publications are linked to development and migration sectors. Step 3 — Prominence assessment: Development and migration are primary sectors due to multiple roles and long-term engagement. Step 4 — Taxonomy mapping: Development and migration are mapped to 'development' and 'migration' respectively.",
+        "sectors": [
+          {
+            "sector": "development",
+            "evidence": "Secretary General and CEO of CIVICUS, Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, Deputy Director of the Institute for Public Policy Research, author of reports on economic development",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "migration",
+            "evidence": "author of numerous reports and academic articles on international migration, regular media appearances on migration-related topics",
+            "prominence": "primary",
+            "confidence": "high"
+          },
+          {
+            "sector": "civil_society",
+            "evidence": "Secretary General and CEO of CIVICUS: World Alliance for Citizen Participation, board member of NGOs like Baring Foundation, International Alert, and Ockenden International",
+            "prominence": "secondary",
+            "confidence": "medium"
+          }
+        ],
+        "primary_sector": "development",
+        "supporting_quote": "His previous posts include Director of the Royal Commonwealth Society, Interim Director of the Commonwealth Foundation, and Deputy Director of the Institute for Public Policy Research.",
+        "confidence": "high",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1193,
+      "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+      "domain": "cpsummit.ngo",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text provides a detailed overview of Dhananjayan Sriskandarajah's professional background, roles, and expertise, making it highly relevant. Step 2 — Sector confirmation: The source confirms his work in the development sector through his roles at CIVICUS, Institute for Public Policy Research, and authorship of reports on economic development. Step 3 — New sectors found: No new sectors are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly supports his expertise in development.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"development\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Danny is the author of numerous reports and academic articles on international migration and economic development.\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text provides a detailed overview of Dhananjayan Sriskandarajah's professional background, roles, and expertise, making it highly relevant. Step 2 — Sector confirmation: The source confirms his work in the development sector through his roles at CIVICUS, Institute for Public Policy Research, and authorship of reports on economic development. Step 3 — New sectors found: No new sectors are mentioned beyond those in the candidate findings. Step 4 — Confidence: The source clearly and explicitly supports his expertise in development.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "development"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "Danny is the author of numerous reports and academic articles on international migration and economic development."
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Danny is the author of numerous reports and academic articles on international migration and economic development.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1184,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The text describes Dhananjayan Sriskandarajah's roles and activities, including his positions at Oxfam GB, New Economics Foundation, and CIVICUS, as well as his publications and interviews. It is relevant to his professional expertise. Step 2 — Sector confirmation: The source confirms his work in the development sector through his roles as Chief Executive of Oxfam GB and New Economics Foundation, and Secretary General of CIVICUS. Step 3 — New sectors found: No new sectors are explicitly mentioned beyond those already listed in the candidate findings. Step 4 — Confidence: The source provides clear and direct evidence of his expertise in the development sector.\",\n  \"confirms\": true,\n  \"confirmed_sectors\": [\"development\"],\n  \"new_sectors_found\": [],\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"GB Chief Executive at end of year | Oxfam GB\"\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The text describes Dhananjayan Sriskandarajah's roles and activities, including his positions at Oxfam GB, New Economics Foundation, and CIVICUS, as well as his publications and interviews. It is relevant to his professional expertise. Step 2 — Sector confirmation: The source confirms his work in the development sector through his roles as Chief Executive of Oxfam GB and New Economics Foundation, and Secretary General of CIVICUS. Step 3 — New sectors found: No new sectors are explicitly mentioned beyond those already listed in the candidate findings. Step 4 — Confidence: The source provides clear and direct evidence of his expertise in the development sector.",
+        "confirms": true,
+        "confirmed_sectors": [
+          "development"
+        ],
+        "new_sectors_found": [],
+        "confidence": "high",
+        "supporting_quote": "GB Chief Executive at end of year | Oxfam GB"
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "GB Chief Executive at end of year | Oxfam GB",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "high",
+    "supporting_quote": "Dr Dhananjayan Sriskandarajah is Chief Executive Officer of New Economics Foundation. Prior to that he spent five years as Chief Executive of Oxfam GB.",
+    "confirmation_count": 2,
+    "primary_source_domain": "lse.ac.uk",
+    "notes": null,
+    "sectors": [
+      {
+        "sector": "development",
+        "evidence": "Chief Executive of Oxfam GB, Chief Executive Officer of New Economics Foundation, Secretary General of CIVICUS, roles at Institute for Public Policy Research",
+        "prominence": "primary",
+        "confidence": "high"
+      },
+      {
+        "sector": "human_rights",
+        "evidence": "Secretary General of CIVICUS, Trustee of the Disasters Emergency Committee",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "migration",
+        "evidence": "Expertise in Migration, roles at Oxfam GB and New Economics Foundation",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "inequality",
+        "evidence": "Visiting Senior Fellow at International Inequalities Institute, Expertise in Inequality",
+        "prominence": "secondary",
+        "confidence": "medium"
+      },
+      {
+        "sector": "conflict",
+        "evidence": "Expertise in Conflict",
+        "prominence": "secondary",
+        "confidence": "low"
+      }
+    ],
+    "primary_sector": "development"
+  },
+  "meta": {
+    "chunks_scanned_extraction": 8,
+    "chunks_scanned_verification": 2,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

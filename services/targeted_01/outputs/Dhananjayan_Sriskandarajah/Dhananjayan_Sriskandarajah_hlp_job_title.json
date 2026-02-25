@@ -1,0 +1,268 @@
+{
+  "person_dir_name": "Dhananjayan_Sriskandarajah",
+  "person_db_name": "Dhananjayan Sriskandarajah",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T17:57:08.503084+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on Humanitarian Finance",
+    "hlp_year": "2015-2016",
+    "nomination_year": 2015,
+    "hlp_nomination_age": 40,
+    "birth_year": "1975",
+    "nationality": [
+      "Australian",
+      "Sri Lankan"
+    ]
+  },
+  "retrieval": {
+    "query": "Dhananjayan Sriskandarajah job title position role career 2015 appointed nominated serving",
+    "chunks_in_db": 15,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 1182,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5649,
+        "rerank_score": 0.7427
+      },
+      {
+        "chunk_id": 1195,
+        "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+        "domain": "resolvepoverty.org",
+        "similarity": 0.3748,
+        "rerank_score": 0.6673
+      },
+      {
+        "chunk_id": 1189,
+        "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+        "domain": "opengovpartnership.org",
+        "similarity": 0.4902,
+        "rerank_score": 0.666
+      },
+      {
+        "chunk_id": 1192,
+        "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+        "domain": "lse.ac.uk",
+        "similarity": 0.5239,
+        "rerank_score": 0.6628
+      },
+      {
+        "chunk_id": 1183,
+        "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5146,
+        "rerank_score": 0.661
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 1182,
+      "chunk_index": 0,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5648702119536556,
+      "rerank_score": 0.74273956,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not explicitly mention 2015 but provides a sequence of roles. Step 2 — Role identification: The text lists several roles, including Secretary General of CIVICUS and Chief Executive of Oxfam GB. Step 3 — Organization identification: Both CIVICUS and Oxfam GB are mentioned as organizations. Step 4 — Temporal match assessment: The text states 'Until December 2023, he was Chief Executive of Oxfam GB,' implying he held this role after 2015. Prior to that, he was Secretary General of CIVICUS, which is the most recent role before Oxfam GB and thus likely overlaps with 2015. Step 5 — Confidence assessment: The temporal link is implicit but plausible, given the sequence of roles.\",\n  \"job_title_at_nomination\": \"Secretary General\",\n  \"organization_at_nomination\": \"CIVICUS\",\n  \"year_reference\": null,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Prior to that, Sriskandarajah was the Secretary General of CIVICUS, a global alliance of civil society organisations.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not explicitly mention 2015 but provides a sequence of roles. Step 2 — Role identification: The text lists several roles, including Secretary General of CIVICUS and Chief Executive of Oxfam GB. Step 3 — Organization identification: Both CIVICUS and Oxfam GB are mentioned as organizations. Step 4 — Temporal match assessment: The text states 'Until December 2023, he was Chief Executive of Oxfam GB,' implying he held this role after 2015. Prior to that, he was Secretary General of CIVICUS, which is the most recent role before Oxfam GB and thus likely overlaps with 2015. Step 5 — Confidence assessment: The temporal link is implicit but plausible, given the sequence of roles.",
+        "job_title_at_nomination": "Secretary General",
+        "organization_at_nomination": "CIVICUS",
+        "year_reference": null,
+        "confidence": "medium",
+        "supporting_quote": "Prior to that, Sriskandarajah was the Secretary General of CIVICUS, a global alliance of civil society organisations.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Secretary General",
+      "organization_at_nomination": "CIVICUS",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1195,
+      "chunk_index": 0,
+      "source_id": 663,
+      "url": "https://www.resolvepoverty.org/the7_team/danny-sriskandarajah/",
+      "domain": "resolvepoverty.org",
+      "similarity": 0.37475828278049,
+      "rerank_score": 0.6672566,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not provide explicit years or temporal markers directly linking Dhananjayan Sriskandarajah's roles to 2015. However, it lists his current role as Chief Executive of the New Economics Foundation and mentions previous roles without specific dates. Step 2 — Role identification: The text explicitly states that Dhananjayan Sriskandarajah is Chief Executive of the New Economics Foundation. Step 3 — Organization identification: The organization linked to this role is the New Economics Foundation. Step 4 — Temporal match assessment: While there is no explicit date range, the role is listed as current and there is no indication it began after 2015. Step 5 — Confidence assessment: The confidence is medium because the role is mentioned without explicit temporal linkage to 2015, but it is consistent with the nomination period.\",\n  \"job_title_at_nomination\": \"Chief Executive\",\n  \"organization_at_nomination\": \"New Economics Foundation\",\n  \"year_reference\": null,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Dr Dhananjayan Sriskandarajah is Chief Executive of the New Economics Foundation\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not provide explicit years or temporal markers directly linking Dhananjayan Sriskandarajah's roles to 2015. However, it lists his current role as Chief Executive of the New Economics Foundation and mentions previous roles without specific dates. Step 2 — Role identification: The text explicitly states that Dhananjayan Sriskandarajah is Chief Executive of the New Economics Foundation. Step 3 — Organization identification: The organization linked to this role is the New Economics Foundation. Step 4 — Temporal match assessment: While there is no explicit date range, the role is listed as current and there is no indication it began after 2015. Step 5 — Confidence assessment: The confidence is medium because the role is mentioned without explicit temporal linkage to 2015, but it is consistent with the nomination period.",
+        "job_title_at_nomination": "Chief Executive",
+        "organization_at_nomination": "New Economics Foundation",
+        "year_reference": null,
+        "confidence": "medium",
+        "supporting_quote": "Dr Dhananjayan Sriskandarajah is Chief Executive of the New Economics Foundation",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Chief Executive",
+      "organization_at_nomination": "New Economics Foundation",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1189,
+      "chunk_index": 0,
+      "source_id": 658,
+      "url": "https://www.opengovpartnership.org/people/dhananjayan-sriskandarajah/",
+      "domain": "opengovpartnership.org",
+      "similarity": 0.49024435751734835,
+      "rerank_score": 0.6659544,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text states that Dhananjayan Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013, which overlaps with the nomination year 2015. Step 2 — Role identification: The text explicitly mentions 'Secretary General and CEO'. Step 3 — Organization identification: The organization is clearly identified as CIVICUS. Step 4 — Temporal match assessment: The role began in 2013 and continues through 2015, making it the nomination-time role. Step 5 — Confidence assessment: High confidence due to explicit date range and clear role identification.\",\n  \"job_title_at_nomination\": \"Secretary General and CEO\",\n  \"organization_at_nomination\": \"CIVICUS, the World Alliance for Citizen Participation\",\n  \"year_reference\": \"2013\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text states that Dhananjayan Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013, which overlaps with the nomination year 2015. Step 2 — Role identification: The text explicitly mentions 'Secretary General and CEO'. Step 3 — Organization identification: The organization is clearly identified as CIVICUS. Step 4 — Temporal match assessment: The role began in 2013 and continues through 2015, making it the nomination-time role. Step 5 — Confidence assessment: High confidence due to explicit date range and clear role identification.",
+        "job_title_at_nomination": "Secretary General and CEO",
+        "organization_at_nomination": "CIVICUS, the World Alliance for Citizen Participation",
+        "year_reference": "2013",
+        "confidence": "high",
+        "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Secretary General and CEO",
+      "organization_at_nomination": "CIVICUS, the World Alliance for Citizen Participation",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1192,
+      "chunk_index": 0,
+      "source_id": 661,
+      "url": "https://www.lse.ac.uk/people/dhananjayan-sriskandarajah",
+      "domain": "lse.ac.uk",
+      "similarity": 0.5239305672413637,
+      "rerank_score": 0.6628188,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not provide explicit years for the roles mentioned, but it lists them in a sequence that implies a chronological order. Step 2 — Role identification: The text mentions multiple roles, including 'Chief Executive Officer of New Economics Foundation' and 'Chief Executive of Oxfam GB'. Step 3 — Organization identification: Both roles are linked to specific organizations. Step 4 — Temporal match assessment: The role of 'Chief Executive of Oxfam GB' is listed before 'Chief Executive Officer of New Economics Foundation', suggesting it was held earlier. However, without explicit dates, the exact timing is unclear. Step 5 — Confidence assessment: The confidence is medium because the temporal link is implicit, but the sequence suggests 'Chief Executive of Oxfam GB' was likely held before or around 2015.\",\n  \"job_title_at_nomination\": \"Chief Executive\",\n  \"organization_at_nomination\": \"Oxfam GB\",\n  \"year_reference\": null,\n  \"confidence\": \"medium\",\n  \"supporting_quote\": \"Prior to that he spent five years as Chief Executive of Oxfam GB.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not provide explicit years for the roles mentioned, but it lists them in a sequence that implies a chronological order. Step 2 — Role identification: The text mentions multiple roles, including 'Chief Executive Officer of New Economics Foundation' and 'Chief Executive of Oxfam GB'. Step 3 — Organization identification: Both roles are linked to specific organizations. Step 4 — Temporal match assessment: The role of 'Chief Executive of Oxfam GB' is listed before 'Chief Executive Officer of New Economics Foundation', suggesting it was held earlier. However, without explicit dates, the exact timing is unclear. Step 5 — Confidence assessment: The confidence is medium because the temporal link is implicit, but the sequence suggests 'Chief Executive of Oxfam GB' was likely held before or around 2015.",
+        "job_title_at_nomination": "Chief Executive",
+        "organization_at_nomination": "Oxfam GB",
+        "year_reference": null,
+        "confidence": "medium",
+        "supporting_quote": "Prior to that he spent five years as Chief Executive of Oxfam GB.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Chief Executive",
+      "organization_at_nomination": "Oxfam GB",
+      "confidence": "medium",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 1183,
+      "chunk_index": 1,
+      "source_id": 654,
+      "url": "https://en.wikipedia.org/wiki/Dhananjayan_Sriskandarajah",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5146469903445499,
+      "rerank_score": 0.6609831,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that Sriskandarajah was a member of the High Level Panel on Humanitarian Finance from 2015 to 2016, and also states he was Secretary General of CIVICUS from January 2013 to December 2018. Step 2 — Role identification: The role of Secretary General is explicitly mentioned. Step 3 — Organization identification: The organization CIVICUS is explicitly mentioned. Step 4 — Temporal match assessment: The role of Secretary General at CIVICUS overlaps with the nomination year 2015. Step 5 — Confidence assessment: High confidence due to explicit date range matching 2015.\",\n  \"job_title_at_nomination\": \"Secretary General\",\n  \"organization_at_nomination\": \"CIVICUS\",\n  \"year_reference\": \"2013 to 2018\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"He was the Secretary General of CIVICUS, a global alliance of civil society organisations from January 2013 to December 2018.\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that Sriskandarajah was a member of the High Level Panel on Humanitarian Finance from 2015 to 2016, and also states he was Secretary General of CIVICUS from January 2013 to December 2018. Step 2 — Role identification: The role of Secretary General is explicitly mentioned. Step 3 — Organization identification: The organization CIVICUS is explicitly mentioned. Step 4 — Temporal match assessment: The role of Secretary General at CIVICUS overlaps with the nomination year 2015. Step 5 — Confidence assessment: High confidence due to explicit date range matching 2015.",
+        "job_title_at_nomination": "Secretary General",
+        "organization_at_nomination": "CIVICUS",
+        "year_reference": "2013 to 2018",
+        "confidence": "high",
+        "supporting_quote": "He was the Secretary General of CIVICUS, a global alliance of civil society organisations from January 2013 to December 2018.",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Secretary General",
+      "organization_at_nomination": "CIVICUS",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": false,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 1190,
+      "url": "https://www.qc.foundation/about-us/governance/dr-dhananjayan-danny-sriskandarajah/",
+      "domain": "qc.foundation",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Dhananjayan Sriskandarajah and discusses their career and biography, including past roles. Step 2 — Title match assessment: The text explicitly mentions 'Secretary General of CIVICUS' as one of Dhananjayan Sriskandarajah's previous roles, which is an exact match to the claim. Step 3 — Temporal alignment: While no explicit dates are provided for the CIVICUS role, the text lists it among 'previous roles' before mentioning his current position as Chief Executive of the New Economics Foundation, which suggests it aligns with the 2015 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Dhananjayan Sriskandarajah and discusses their career and biography, including past roles. Step 2 — Title match assessment: The text explicitly mentions 'Secretary General of CIVICUS' as one of Dhananjayan Sriskandarajah's previous roles, which is an exact match to the claim. Step 3 — Temporal alignment: While no explicit dates are provided for the CIVICUS role, the text lists it among 'previous roles' before mentioning his current position as Chief Executive of the New Economics Foundation, which suggests it aligns with the 2015 timeframe. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Danny's previous roles include CEO of Oxfam GB, Secretary General of CIVICUS, Director of the Royal Commonwealth Society",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1193,
+      "url": "http://cpsummit.ngo/dhananjayan-sriskandarajah",
+      "domain": "cpsummit.ngo",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Dhananjayan Sriskandarajah and discusses his career, including his role at CIVICUS. Step 2 — Title match assessment: The text explicitly states that Dhananjayan Sriskandarajah has been 'Secretary General and CEO of CIVICUS' since January 2013, which is an exact match to the claim. Step 3 — Temporal alignment: The role of Secretary General at CIVICUS is stated to have started in 2013, which clearly includes the year 2015. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Dhananjayan Sriskandarajah and discusses his career, including his role at CIVICUS. Step 2 — Title match assessment: The text explicitly states that Dhananjayan Sriskandarajah has been 'Secretary General and CEO of CIVICUS' since January 2013, which is an exact match to the claim. Step 3 — Temporal alignment: The role of Secretary General at CIVICUS is stated to have started in 2013, which clearly includes the year 2015. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS since January 2013.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 1188,
+      "url": "http://sdgs.un.org/panelists/mr-danny-sriskandarajah-29228",
+      "domain": "sdgs.un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Dhananjayan Sriskandarajah and discusses his career, including his role at CIVICUS. Step 2 — Title match assessment: The text explicitly states that Dhananjayan Sriskandarajah is the 'Secretary General and CEO of CIVICUS', which is an exact match to the claim. Step 3 — Temporal alignment: The text mentions he has held this role since January 2013, which includes the year 2015, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS: World Alliance for Citizen Participation since January 2013.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Dhananjayan Sriskandarajah and discusses his career, including his role at CIVICUS. Step 2 — Title match assessment: The text explicitly states that Dhananjayan Sriskandarajah is the 'Secretary General and CEO of CIVICUS', which is an exact match to the claim. Step 3 — Temporal alignment: The text mentions he has held this role since January 2013, which includes the year 2015, confirming temporal alignment. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS: World Alliance for Citizen Participation since January 2013.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Dr Dhananjayan (Danny) Sriskandarajah has been Secretary General and CEO of CIVICUS: World Alliance for Citizen Participation since January 2013.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "confidence": "medium",
+    "supporting_quote": "Prior to that, Sriskandarajah was the Secretary General of CIVICUS, a global alliance of civil society organisations.",
+    "confirmation_count": 3,
+    "primary_source_domain": "en.wikipedia.org",
+    "notes": null,
+    "job_title_at_nomination": "Secretary General",
+    "organization_at_nomination": "CIVICUS",
+    "year_reference": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 5,
+    "chunks_scanned_verification": 3,
+    "early_stop": false,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

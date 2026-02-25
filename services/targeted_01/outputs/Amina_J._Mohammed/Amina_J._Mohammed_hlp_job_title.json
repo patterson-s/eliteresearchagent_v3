@@ -1,0 +1,192 @@
+{
+  "person_dir_name": "Amina_J._Mohammed",
+  "person_db_name": "Amina J. Mohammed",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:14:05.289638+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel of Eminent Persons on the Post-2015 Development Agenda",
+    "hlp_year": "2012-2013",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 51,
+    "birth_year": "1961",
+    "nationality": [
+      "Nigerian",
+      "British"
+    ]
+  },
+  "retrieval": {
+    "query": "Amina J. Mohammed job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 33,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3532,
+        "url": "https://en.wikipedia.org/wiki/Amina_J._Mohammed",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.545,
+        "rerank_score": 0.8016
+      },
+      {
+        "chunk_id": 3541,
+        "url": "https://www.un.org/sg/en/dsg/amina-mohammed-biography",
+        "domain": "un.org",
+        "similarity": 0.5305,
+        "rerank_score": 0.7425
+      },
+      {
+        "chunk_id": 3560,
+        "url": "https://www.un.org/sg/en/dsg/about-the-deputy-secretary-general",
+        "domain": "un.org",
+        "similarity": 0.4231,
+        "rerank_score": 0.7307
+      },
+      {
+        "chunk_id": 3564,
+        "url": "https://www.brooklyn.edu/president/presidential-lecture-series/presidential-lecture-series-with-amina-j-mohammed/",
+        "domain": "brooklyn.edu",
+        "similarity": 0.4261,
+        "rerank_score": 0.7073
+      },
+      {
+        "chunk_id": 3543,
+        "url": "https://conferenciamujer.cepal.org/16/en/amina-j-mohammed",
+        "domain": "conferenciamujer.cepal.org",
+        "similarity": 0.4912,
+        "rerank_score": 0.6945
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3532,
+      "chunk_index": 0,
+      "source_id": 1289,
+      "url": "https://en.wikipedia.org/wiki/Amina_J._Mohammed",
+      "domain": "en.wikipedia.org",
+      "similarity": 0.5449642942323702,
+      "rerank_score": 0.8016413,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text does not explicitly mention Amina J. Mohammed's career around 2012. It mentions her roles as Minister of the Environment (2015–2017) and Deputy Secretary-General of the United Nations (2017–present), both of which are after 2012. Step 2 — Role identification: The text names specific job titles held by Amina J. Mohammed, but none are explicitly linked to 2012. Step 3 — Organization identification: Organizations are mentioned but not in the context of 2012. Step 4 — Temporal match assessment: The roles mentioned are after 2012, so they cannot be the nomination-time role. Step 5 — Confidence assessment: There is no temporal information linking any role to 2012, making the confidence 'low'.\",\n  \"job_title_at_nomination\": null,\n  \"organization_at_nomination\": null,\n  \"year_reference\": null,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"cannot_determine\": true\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text does not explicitly mention Amina J. Mohammed's career around 2012. It mentions her roles as Minister of the Environment (2015–2017) and Deputy Secretary-General of the United Nations (2017–present), both of which are after 2012. Step 2 — Role identification: The text names specific job titles held by Amina J. Mohammed, but none are explicitly linked to 2012. Step 3 — Organization identification: Organizations are mentioned but not in the context of 2012. Step 4 — Temporal match assessment: The roles mentioned are after 2012, so they cannot be the nomination-time role. Step 5 — Confidence assessment: There is no temporal information linking any role to 2012, making the confidence 'low'.",
+        "job_title_at_nomination": null,
+        "organization_at_nomination": null,
+        "year_reference": null,
+        "confidence": "low",
+        "supporting_quote": null,
+        "cannot_determine": true
+      },
+      "job_title_at_nomination": null,
+      "organization_at_nomination": null,
+      "confidence": "low",
+      "cannot_determine": true,
+      "early_stop_triggered": false,
+      "error": null
+    },
+    {
+      "chunk_id": 3541,
+      "chunk_index": 0,
+      "source_id": 1290,
+      "url": "https://www.un.org/sg/en/dsg/amina-mohammed-biography",
+      "domain": "un.org",
+      "similarity": 0.5304881550219547,
+      "rerank_score": 0.74251556,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text mentions that Amina J. Mohammed 'first joined the United Nations in 2012 as Special Adviser to former Secretary-General Ban Ki-moon'. This provides a clear temporal marker for 2012. Step 2 — Role identification: The text explicitly states her role as 'Special Adviser to former Secretary-General Ban Ki-moon'. Step 3 — Organization identification: The organization is clearly identified as the 'United Nations'. Step 4 — Temporal match assessment: The role as Special Adviser began in 2012, which matches the nomination year. Step 5 — Confidence assessment: The confidence is 'high' because the text explicitly states the role and the year it began.\",\n  \"job_title_at_nomination\": \"Special Adviser to the Secretary-General\",\n  \"organization_at_nomination\": \"United Nations\",\n  \"year_reference\": \"2012\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Ms. Mohammed first joined the United Nations in 2012 as Special Adviser to former Secretary-General Ban Ki-moon\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text mentions that Amina J. Mohammed 'first joined the United Nations in 2012 as Special Adviser to former Secretary-General Ban Ki-moon'. This provides a clear temporal marker for 2012. Step 2 — Role identification: The text explicitly states her role as 'Special Adviser to former Secretary-General Ban Ki-moon'. Step 3 — Organization identification: The organization is clearly identified as the 'United Nations'. Step 4 — Temporal match assessment: The role as Special Adviser began in 2012, which matches the nomination year. Step 5 — Confidence assessment: The confidence is 'high' because the text explicitly states the role and the year it began.",
+        "job_title_at_nomination": "Special Adviser to the Secretary-General",
+        "organization_at_nomination": "United Nations",
+        "year_reference": "2012",
+        "confidence": "high",
+        "supporting_quote": "Ms. Mohammed first joined the United Nations in 2012 as Special Adviser to former Secretary-General Ban Ki-moon",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Special Adviser to the Secretary-General",
+      "organization_at_nomination": "United Nations",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3564,
+      "url": "https://www.brooklyn.edu/president/presidential-lecture-series/presidential-lecture-series-with-amina-j-mohammed/",
+      "domain": "brooklyn.edu",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Amina J. Mohammed and discusses her career and biography, including her roles at the United Nations. Step 2 — Title match assessment: The text explicitly mentions that Mohammed joined the United Nations in 2012 as 'special adviser to former Secretary-General Ban Ki-moon,' which is an exact match to the claim. Step 3 — Temporal alignment: The role is explicitly stated to have begun in 2012, aligning perfectly with the claim. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Mohammed first joined the United Nations in 2012, as special adviser to former Secretary-General Ban Ki-moon\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Amina J. Mohammed and discusses her career and biography, including her roles at the United Nations. Step 2 — Title match assessment: The text explicitly mentions that Mohammed joined the United Nations in 2012 as 'special adviser to former Secretary-General Ban Ki-moon,' which is an exact match to the claim. Step 3 — Temporal alignment: The role is explicitly stated to have begun in 2012, aligning perfectly with the claim. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Mohammed first joined the United Nations in 2012, as special adviser to former Secretary-General Ban Ki-moon",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Mohammed first joined the United Nations in 2012, as special adviser to former Secretary-General Ban Ki-moon",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3543,
+      "url": "https://conferenciamujer.cepal.org/16/en/amina-j-mohammed",
+      "domain": "conferenciamujer.cepal.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Amina J. Mohammed and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text explicitly states that she 'joined the United Nations in 2012 as Special Adviser to the Secretary-General,' which is an exact match to the claim. Step 3 — Temporal alignment: The role is explicitly dated to 2012, aligning perfectly with the claim. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"She joined the United Nations in 2012 as Special Adviser to the Secretary-General\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Amina J. Mohammed and discusses her career and biography, including her roles and achievements. Step 2 — Title match assessment: The text explicitly states that she 'joined the United Nations in 2012 as Special Adviser to the Secretary-General,' which is an exact match to the claim. Step 3 — Temporal alignment: The role is explicitly dated to 2012, aligning perfectly with the claim. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "She joined the United Nations in 2012 as Special Adviser to the Secretary-General",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "She joined the United Nations in 2012 as Special Adviser to the Secretary-General",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3533,
+      "url": "https://en.wikipedia.org/wiki/Amina_J._Mohammed",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Amina J. Mohammed and discusses her career and biography. Step 2 — Title match assessment: The text mentions the role 'Special Adviser to UN Secretary-General Ban Ki-moon on Post-2015 development planning,' which is a compatible match with the claimed title. Step 3 — Temporal alignment: The role is explicitly stated to begin 'From 2012,' aligning with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for the same period.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"From 2012, Mohammed was a key player in the Post-2015 Development Agenda process, serving as the Special Adviser to UN Secretary-General Ban Ki-moon on Post-2015 development planning.\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Amina J. Mohammed and discusses her career and biography. Step 2 — Title match assessment: The text mentions the role 'Special Adviser to UN Secretary-General Ban Ki-moon on Post-2015 development planning,' which is a compatible match with the claimed title. Step 3 — Temporal alignment: The role is explicitly stated to begin 'From 2012,' aligning with the nomination year. Step 4 — Alternative title: No alternative title is mentioned for the same period.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "From 2012, Mohammed was a key player in the Post-2015 Development Agenda process, serving as the Special Adviser to UN Secretary-General Ban Ki-moon on Post-2015 development planning.",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "From 2012, Mohammed was a key player in the Post-2015 Development Agenda process, serving as the Special Adviser to UN Secretary-General Ban Ki-moon on Post-2015 development planning.",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Special Adviser to the Secretary-General",
+    "organization_at_nomination": "United Nations",
+    "confidence": "high",
+    "supporting_quote": "Ms. Mohammed first joined the United Nations in 2012 as Special Adviser to former Secretary-General Ban Ki-moon",
+    "confirmation_count": 3,
+    "primary_source_domain": "un.org",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 2,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}

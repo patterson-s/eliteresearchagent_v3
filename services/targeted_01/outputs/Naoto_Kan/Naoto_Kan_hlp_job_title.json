@@ -1,0 +1,166 @@
+{
+  "person_dir_name": "Naoto_Kan",
+  "person_db_name": "Naoto Kan",
+  "question_id": "hlp_job_title",
+  "question_display": "Job Title at HLP Nomination",
+  "run_timestamp": "2026-02-25T16:24:23.638364+00:00",
+  "input": {
+    "hlp_name": "UN High Level Panel on the Post-2015 Development Agenda",
+    "hlp_year": "2012-2015",
+    "nomination_year": 2012,
+    "hlp_nomination_age": 66,
+    "birth_year": "1946",
+    "nationality": [
+      "Japanese"
+    ]
+  },
+  "retrieval": {
+    "query": "Naoto Kan job title position role career 2012 appointed nominated serving",
+    "chunks_in_db": 35,
+    "chunks_retrieved": 10,
+    "top_chunks": [
+      {
+        "chunk_id": 3069,
+        "url": "https://kids.kiddle.co/Naoto_Kan",
+        "domain": "kids.kiddle.co",
+        "similarity": 0.5457,
+        "rerank_score": 0.6837
+      },
+      {
+        "chunk_id": 3070,
+        "url": "https://kids.kiddle.co/Naoto_Kan",
+        "domain": "kids.kiddle.co",
+        "similarity": 0.5865,
+        "rerank_score": 0.6509
+      },
+      {
+        "chunk_id": 3061,
+        "url": "https://www.un.org/sg/en/management/bios/Kan.shtml",
+        "domain": "un.org",
+        "similarity": 0.5512,
+        "rerank_score": 0.6332
+      },
+      {
+        "chunk_id": 3041,
+        "url": "https://en.wikipedia.org/wiki/Naoto_Kan",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.5632,
+        "rerank_score": 0.6266
+      },
+      {
+        "chunk_id": 3040,
+        "url": "https://en.wikipedia.org/wiki/Naoto_Kan",
+        "domain": "en.wikipedia.org",
+        "similarity": 0.6157,
+        "rerank_score": 0.5378
+      }
+    ]
+  },
+  "extraction_trace": [
+    {
+      "chunk_id": 3069,
+      "chunk_index": 0,
+      "source_id": 1148,
+      "url": "https://kids.kiddle.co/Naoto_Kan",
+      "domain": "kids.kiddle.co",
+      "similarity": 0.5457098140100597,
+      "rerank_score": 0.6836946,
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Temporal anchoring: The text provides explicit years for Naoto Kan's roles, including his term as Prime Minister of Japan from June 2010 to September 2011. It also mentions his membership in the House of Representatives with specific periods, including 16 December 2012 – 22 October 2017. Step 2 — Role identification: The text lists several roles, including Prime Minister, Minister of Finance, and Member of the House of Representatives. Step 3 — Organization identification: Organizations linked to these roles include the Japanese government and the House of Representatives. Step 4 — Temporal match assessment: The role of Member of the House of Representatives overlaps with the nomination year 2012, as he was in office from 16 December 2012. Step 5 — Confidence assessment: The confidence is high because the text explicitly states the role and the year range that includes 2012.\",\n  \"job_title_at_nomination\": \"Member of the House of Representatives\",\n  \"organization_at_nomination\": \"House of Representatives\",\n  \"year_reference\": \"2012–2017\",\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Member of the House of Representatives from Tokyo in office 16 December 2012 – 22 October 2017\",\n  \"cannot_determine\": false\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Temporal anchoring: The text provides explicit years for Naoto Kan's roles, including his term as Prime Minister of Japan from June 2010 to September 2011. It also mentions his membership in the House of Representatives with specific periods, including 16 December 2012 – 22 October 2017. Step 2 — Role identification: The text lists several roles, including Prime Minister, Minister of Finance, and Member of the House of Representatives. Step 3 — Organization identification: Organizations linked to these roles include the Japanese government and the House of Representatives. Step 4 — Temporal match assessment: The role of Member of the House of Representatives overlaps with the nomination year 2012, as he was in office from 16 December 2012. Step 5 — Confidence assessment: The confidence is high because the text explicitly states the role and the year range that includes 2012.",
+        "job_title_at_nomination": "Member of the House of Representatives",
+        "organization_at_nomination": "House of Representatives",
+        "year_reference": "2012–2017",
+        "confidence": "high",
+        "supporting_quote": "Member of the House of Representatives from Tokyo in office 16 December 2012 – 22 October 2017",
+        "cannot_determine": false
+      },
+      "job_title_at_nomination": "Member of the House of Representatives",
+      "organization_at_nomination": "House of Representatives",
+      "confidence": "high",
+      "cannot_determine": false,
+      "early_stop_triggered": true,
+      "error": null
+    }
+  ],
+  "verification_trace": [
+    {
+      "chunk_id": 3061,
+      "url": "https://www.un.org/sg/en/management/bios/Kan.shtml",
+      "domain": "un.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Naoto Kan and discusses his career and biography, including his roles as former Prime Minister of Japan, Minister of Health and Welfare, and Chairman of Japan's Foreign Affairs Committee. Step 2 — Title match assessment: The text does not mention the title 'Member of the House of Representatives' or any compatible role. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source names 'former Prime Minister of Japan' and other roles, but does not specify a role for 2012. The text is silent on the specific claim.\",\n  \"confirms\": false,\n  \"confidence\": \"high\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Naoto Kan and discusses his career and biography, including his roles as former Prime Minister of Japan, Minister of Health and Welfare, and Chairman of Japan's Foreign Affairs Committee. Step 2 — Title match assessment: The text does not mention the title 'Member of the House of Representatives' or any compatible role. Step 3 — Temporal alignment: Not applicable, as no matching title is found. Step 4 — Alternative title: The source names 'former Prime Minister of Japan' and other roles, but does not specify a role for 2012. The text is silent on the specific claim.",
+        "confirms": false,
+        "confidence": "high",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "high",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3041,
+      "url": "https://en.wikipedia.org/wiki/Naoto_Kan",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Naoto Kan and discusses his career and biography, including his roles and tenure in various positions. Step 2 — Title match assessment: The text explicitly mentions Naoto Kan as 'Member of the House of Representatives' under the section detailing his political offices. This is an exact match to the claim. Step 3 — Temporal alignment: The text indicates that Kan held the position of 'Member of the House of Representatives' in the 'PR Block' constituency from 20 October 1996 to 16 December 2012, which includes the year 2012. This confirms the temporal alignment with the claim.\",\n  \"confirms\": true,\n  \"confidence\": \"high\",\n  \"supporting_quote\": \"Member of the House of Representatives from PR Block in office 20 October 1996 – 16 December 2012\",\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Naoto Kan and discusses his career and biography, including his roles and tenure in various positions. Step 2 — Title match assessment: The text explicitly mentions Naoto Kan as 'Member of the House of Representatives' under the section detailing his political offices. This is an exact match to the claim. Step 3 — Temporal alignment: The text indicates that Kan held the position of 'Member of the House of Representatives' in the 'PR Block' constituency from 20 October 1996 to 16 December 2012, which includes the year 2012. This confirms the temporal alignment with the claim.",
+        "confirms": true,
+        "confidence": "high",
+        "supporting_quote": "Member of the House of Representatives from PR Block in office 20 October 1996 – 16 December 2012",
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": true,
+      "confidence": "high",
+      "supporting_quote": "Member of the House of Representatives from PR Block in office 20 October 1996 – 16 December 2012",
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    },
+    {
+      "chunk_id": 3040,
+      "url": "https://en.wikipedia.org/wiki/Naoto_Kan",
+      "domain": "en.wikipedia.org",
+      "raw_llm_output": "{\n  \"reasoning\": \"Step 1 — Source relevance: The source text is about Naoto Kan and discusses his career and biography, including his roles as Prime Minister, Deputy Prime Minister, and Minister of Finance. Step 2 — Title match assessment: The text does not explicitly mention Naoto Kan as a 'Member of the House of Representatives' at 'House of Representatives'. It focuses on his higher-level positions. Step 3 — Temporal alignment: Since the text does not mention the specific role in question, there is no temporal alignment to assess. Step 4 — Alternative title: The source names Naoto Kan as Prime Minister (2010–2011) and does not provide information about his role in 2012, so no alternative title for 2012 is recorded.\",\n  \"confirms\": false,\n  \"confidence\": \"low\",\n  \"supporting_quote\": null,\n  \"alternative_title\": null,\n  \"alternative_organization\": null\n}",
+      "parsed": {
+        "reasoning": "Step 1 — Source relevance: The source text is about Naoto Kan and discusses his career and biography, including his roles as Prime Minister, Deputy Prime Minister, and Minister of Finance. Step 2 — Title match assessment: The text does not explicitly mention Naoto Kan as a 'Member of the House of Representatives' at 'House of Representatives'. It focuses on his higher-level positions. Step 3 — Temporal alignment: Since the text does not mention the specific role in question, there is no temporal alignment to assess. Step 4 — Alternative title: The source names Naoto Kan as Prime Minister (2010–2011) and does not provide information about his role in 2012, so no alternative title for 2012 is recorded.",
+        "confirms": false,
+        "confidence": "low",
+        "supporting_quote": null,
+        "alternative_title": null,
+        "alternative_organization": null
+      },
+      "confirms": false,
+      "confidence": "low",
+      "supporting_quote": null,
+      "alternative_title": null,
+      "alternative_organization": null,
+      "error": null
+    }
+  ],
+  "result": {
+    "status": "found_and_verified",
+    "job_title_at_nomination": "Member of the House of Representatives",
+    "organization_at_nomination": "House of Representatives",
+    "confidence": "high",
+    "supporting_quote": "Member of the House of Representatives from Tokyo in office 16 December 2012 – 22 October 2017",
+    "confirmation_count": 1,
+    "primary_source_domain": "kids.kiddle.co",
+    "notes": null
+  },
+  "meta": {
+    "chunks_scanned_extraction": 1,
+    "chunks_scanned_verification": 3,
+    "early_stop": true,
+    "skipped": false,
+    "skip_reason": null,
+    "error": null
+  }
+}
