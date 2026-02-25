@@ -1,0 +1,137 @@
+
+================================================================================
+enrich_bio.py — Applying biographical data to targeted_01 base.json files
+================================================================================
+
+Processing: Mary Chinery-Hesse
+  source:  result_jsons
+  birth:   1938  |  death_status: alive  |  death_year: None
+  nat:     ['Ghanaian']
+  hlp_age: 66
+
+Processing: Yuichiro Anzai
+  source:  Yuichiro_Anzai_bio.json
+  birth:   None  |  death_status: alive  |  death_year: None
+  nat:     ['Japanese']
+  hlp_age: None
+
+Processing: Sophie Soowon Eom
+  source:  Sophie_Soowon_Eom_bio.json
+  birth:   1987  |  death_status: alive  |  death_year: None
+  nat:     null
+  hlp_age: 33
+
+Processing: V Isabel Guerrero Pulgar
+  source:  V_Isabel_Guerrero_Pulgar_bio.json
+  birth:   None  |  death_status: alive  |  death_year: None
+  nat:     null
+  hlp_age: None
+
+Processing: Marina Kolesnik
+  source:  Marina_Kolesnik_bio.json
+  birth:   None  |  death_status: alive  |  death_year: None
+  nat:     null
+  hlp_age: None
+
+Processing: Akaliza Keza Ntwari
+  source:  Akaliza_Keza_Ntwari_bio.json
+  birth:   1987  |  death_status: alive  |  death_year: None
+  nat:     ['Rwandan']
+  hlp_age: 33
+
+Processing: Edson Prestes
+  source:  Edson_Prestes_bio.json
+  birth:   None  |  death_status: alive  |  death_year: None
+  nat:     ['Brazilian']
+  hlp_age: None
+
+Processing: Jovan Kurbalija
+  source:  Jovan_Kurbalija_bio.json
+  birth:   None  |  death_status: alive  |  death_year: None
+  nat:     null
+  hlp_age: None
+
+Processing: Gisela Alonso
+  source:  Gisela_Alonso_bio.json
+  birth:   1938  |  death_status: alive  |  death_year: 2024
+  nat:     ['Cuban']
+  hlp_age: 74
+
+Processing: Jean-Michel Severino
+  source:  result_jsons
+  birth:   1957  |  death_status: alive  |  death_year: None
+  nat:     ['French']
+  hlp_age: 50
+
+Processing: Ngozi Okonjo-Iweala
+  source:  result_jsons
+  birth:   1954  |  death_status: alive  |  death_year: None
+  nat:     ['Nigerian', 'American']
+  hlp_age: 58
+
+Processing: Graça Machel
+  source:  result_jsons
+  birth:   1945  |  death_status: alive  |  death_year: None
+  nat:     ['Mozambican']
+  hlp_age: 67
+
+Processing: Sung-Hwan Kim
+  source:  result_jsons
+  birth:   1965  |  death_status: alive  |  death_year: None
+  nat:     ['South Korean']
+  hlp_age: 47
+
+Processing: Mohamed T. El-Ashry
+  source:  result_jsons
+  birth:   None  |  death_status: deceased  |  death_year: 2023
+  nat:     ['Egyptian']
+  hlp_age: None
+
+Processing: Ruth Jacoby
+  source:  Ruth_Jacoby_bio.json
+  birth:   1949  |  death_status: alive  |  death_year: None
+  nat:     ['Swedish', 'American']
+  hlp_age: 58
+
+Processing: Lennart Båge
+  source:  result_jsons
+  birth:   None  |  death_status: alive  |  death_year: None
+  nat:     ['Swedish']
+  hlp_age: None
+
+Processing: Kemal Derviş
+  source:  result_jsons
+  birth:   1949  |  death_status: deceased  |  death_year: 2023
+  nat:     ['Turkish']
+  hlp_age: 58
+
+
+================================================================================
+SUMMARY
+================================================================================
+Name                                Status   Birth     Death  Nat?   Age
+----------------------------------------------------------------------
+Mary Chinery-Hesse                  OK        1938     alive   YES    66
+Yuichiro Anzai                      OK        null     alive   YES  null
+Sophie Soowon Eom                   OK        1987     alive  null    33
+V Isabel Guerrero Pulgar            OK        null     alive  null  null
+Marina Kolesnik                     OK        null     alive  null  null
+Akaliza Keza Ntwari                 OK        1987     alive   YES    33
+Edson Prestes                       OK        null     alive   YES  null
+Jovan Kurbalija                     OK        null     alive  null  null
+Gisela Alonso                       OK        1938     alive   YES    74
+Jean-Michel Severino                OK        1957     alive   YES    50
+Ngozi Okonjo-Iweala                 OK        1954     alive   YES    58
+Graça Machel                        OK        1945     alive   YES    67
+Sung-Hwan Kim                       OK        1965     alive   YES    47
+Mohamed T. El-Ashry                 OK        null  deceased   YES  null
+Ruth Jacoby                         OK        1949     alive   YES    58
+Lennart Båge                        OK        null     alive   YES  null
+Kemal Derviş                        OK        1949  deceased   YES    58
+
+Done: 17/17 base.json files updated.
+
+[WARN] Still all-null bio fields (no evidence found in biographical service):
+  V Isabel Guerrero Pulgar
+  Marina Kolesnik
+  Jovan Kurbalija
